@@ -1,0 +1,17 @@
+.feature .feature-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  align-items: center;
+  max-width: var(--maxw);
+  margin: 0 auto;
+}
+
+@media (width >= 900px) {
+  .feature .feature-row { grid-template-columns: 1fr 1fr; gap: 48px; }
+  .feature.reverse .feature-media { order: 2; }
+}
+
+.feature .feature-media img { width: 100%; border-radius: var(--radius); }
+.feature .feature-copy h2 { font-size: clamp(1.5rem, 3vw, 2.2rem); margin: 0 0 12px; }
+.feature .feature-copy p { color: var(--muted); font-size: 1.05rem; max-width: 48ch; margin: 0; }

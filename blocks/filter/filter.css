@@ -1,0 +1,16 @@
+.filter .filter-chips { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.filter .chip {
+  border: 1px solid var(--border-color);
+  background: #fff;
+  border-radius: var(--pill);
+  padding: 9px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-color);
+  cursor: pointer;
+  transition: border-color .2s, color .2s;
+}
+
+.filter .chip:hover { border-color: var(--primary); color: var(--primary); }
+.filter .chip[aria-pressed="true"] { border-color: var(--primary); color: var(--primary); background: rgba(20, 40, 160, .04); }

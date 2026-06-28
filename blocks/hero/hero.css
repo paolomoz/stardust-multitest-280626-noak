@@ -1,37 +1,44 @@
-.hero-container .hero-wrapper {
-  max-width: unset;
-  padding: 0;
-}
-
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  min-height: clamp(440px, 68vh, 720px);
+  display: flex;
+  align-items: flex-end;
+  color: #fff;
+  overflow: hidden;
 }
 
-.hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
-}
+.hero .hero-bg { position: absolute; inset: 0; z-index: 0; }
+.hero .hero-bg picture,
+.hero .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
 
-.hero picture {
+.hero::before {
+  content: "";
   position: absolute;
-  z-index: -1;
   inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
+  z-index: 1;
+  background: linear-gradient(90deg, rgba(0, 0, 0, .72) 0%, rgba(0, 0, 0, .38) 38%, rgba(0, 0, 0, 0) 70%);
 }
 
-.hero img {
-  object-fit: cover;
+.hero .hero-inner {
+  position: relative;
+  z-index: 2;
   width: 100%;
-  height: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 24px 56px;
 }
 
-@media (width >= 900px) {
-  .hero {
-    padding: 40px 32px;
-  }
-}
+.hero .hero-eyebrow { font-weight: 600; opacity: .92; font-size: 15px; margin: 0 0 14px; color: #fff; }
+.hero .hero-eyebrow em { font-style: normal; }
+.hero h1 { font-size: clamp(2.4rem, 6vw, 4.4rem); font-weight: 800; max-width: 16ch; margin: 0 0 18px; color: #fff; }
+.hero .hero-sub { font-size: clamp(1.05rem, 2.2vw, 1.5rem); font-weight: 400; max-width: 34ch; margin: 0 0 28px; opacity: .96; }
+.hero .hero-cta { margin: 0; display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+
+/* hero primary CTA = Samsung blue (reserve blue for the lead action) */
+.hero .hero-cta a.button.primary { background: var(--primary); border-color: var(--primary); }
+.hero .hero-cta a.button.primary:hover { box-shadow: 0 8px 30px rgba(20, 40, 160, .35); }
+
+/* article variant — editorial hero */
+.hero.hero-article { min-height: clamp(320px, 46vw, 520px); }
+.hero.hero-article::before { background: linear-gradient(0deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, 0) 60%); }
+.hero.hero-article h1 { font-size: clamp(2rem, 5vw, 3.4rem); max-width: 18ch; }

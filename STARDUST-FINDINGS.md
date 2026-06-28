@@ -30,6 +30,21 @@ crawl.mjs to (a) capture computed-style aggregates per page, and (b) emit a draf
 `_brand-extraction.json` + skeleton DESIGN.json, or ship a second `brand-surface.mjs` the
 skill invokes after the crawl. As shipped, "run crawl.mjs" covers maybe 40% of extract.
 
+### F4 — [deploy vs migration-prompt] Runtime guidance contradicts: prompt says AuthorKit, skill says vanilla
+The migration prompt's Phase 0 ("AuthorKit chrome gotchas") mandates porting the AuthorKit
+runtime (ak.js/postlcp.js, `.btn`/`.btn-group` buttons, NO `.block` class, static
+innerHTML-injected header/footer fragments, `body.session`). But the current stardust:deploy
+SKILL.md (0.13.x) explicitly TARGETS vanilla aem-boilerplate and says: "That [AuthorKit]
+runtime has drifted upstream ... is no longer the supported target; do NOT port it onto a
+fresh boilerplate. New conversions use the vanilla path." Vanilla uses real header/footer
+BLOCKS, `.button`/`.button.primary` (strong/em), and blocks DO carry `.block`. These are
+direct contradictions. An operator following the prompt would build the wrong runtime contract
+(scope CSS as `.<name>` expecting no `.block`, target `.btn` not `.button`) on a repo the skill
+treats as vanilla. Fix: reconcile the multitest migration prompt with the shipped deploy skill —
+the prompt's Phase 0 AuthorKit block should be replaced with the skill's vanilla guidance (or
+gated on actually detecting ak.js). I followed the SKILL (matches the repo: scripts/aem.js +
+blocks/header + blocks/footer present). Recorded `runtime: aem-boilerplate` in the conversion log.
+
 ### F3 — [extract] body innerText capture includes full mega-menu / header nav text
 Every page's `body[0]` begins with the global nav dump ("Shop Explore Shop Shop ... Galaxy
 S26 Ultra ..."). The crawler captures `main`/full innerText without stripping the persistent
