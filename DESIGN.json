@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "navy": "#012169",
+    "navyDeep": "#001C64",
+    "blue": "#0070E0",
+    "blueBright": "#009CDE",
+    "sky": "#60CDFF",
+    "gold": "#FFC439",
+    "ink": "#2C2E2F",
+    "muted": "#686A6D",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#F5F7FA"
+  },
+  "typography": {
+    "display": "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+    "body": "\"Plain\", \"Helvetica Neue\", Arial, sans-serif",
+    "displayWeight": 800,
+    "scaleRatio": 1.333
+  },
+  "rounded": { "pill": "999px", "card": "16px", "media": "24px" },
+  "spacing": { "base": "4px", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A-brand-faithful",
+    "brandSignal": "signal-strong",
+    "componentStyle": { "buttons": "pill", "cards": "layered-soft-shadow", "inputs": "rounded-12", "dualCTAPattern": "one-primary-one-text-link" },
+    "colorMeta": { "action": "#0070E0", "actionOnNavy": "#FFFFFF", "skyUsage": "large-text-and-decoration-only" },
+    "shadows": ["0 2px 8px rgba(1,33,105,0.08)", "0 8px 24px rgba(1,33,105,0.10)"],
+    "motion": { "register": "kinetic-grid", "registerRationale": "PRODUCT.md Brand Personality: product + modular-catalogue", "durations": { "enter": 420, "stagger": 80 } },
+    "breakpoints": { "tablet": "600px", "desktop": "900px", "wide": "1200px" },
+    "divergence": {
+      "seed": { "ground_family": { "value": "stark-white", "override": "brand-faithful" } },
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "brand_faithful_inversions": [
+        { "from": "all-caps eyebrows", "to": "mixed-case headlines", "basis": "modernization, voice survives mixed-case" },
+        { "from": "multiple competing CTAs per surface", "to": "one primary pill + one text link", "basis": "funnel clarity" }
+      ]
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "global nav: Personal/Business + product nav + Log In/Sign Up", "position": "sticky-top" },
+      "footer": { "purpose": "multi-column product/company/legal nav + locale", "position": "page-end" },
+      "cta-band": { "purpose": "app/sign-up conversion band", "position": "pre-footer" }
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "home + product pages lead with Sign Up / Get the app CTA", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "audience-routing", "evidence": "Personal vs Business toggle in header", "preserveAs": "header", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "trust-affordance", "evidence": "security/protection messaging + legal disclosures", "preserveAs": "present", "scope": "site-wide", "mutability": "movable" }
+    ],
+    "voice": {
+      "register": "brand",
+      "do": ["benefit-led headlines", "short action CTAs (\"Send Money\", \"Get the app\")", "trust-forward copy"],
+      "dont": ["fabricated stats", "all-caps shouting", "vague feature lists"]
+    },
+    "metadata": {
+      "siteName": "PayPal",
+      "themeColor": "#012169",
+      "defaultOgImage": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/brand-moment-hero-tablet-up-v1.jpg?quality=75&width=1500&format=webp",
+      "locale": "en_US",
+      "organization": { "name": "PayPal", "url": "https://www.paypal.com", "logo": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp196.png" }
+    }
+  },
+  "narrative": {
+    "northStar": "Confident, trustworthy payments brand — bold navy, bright-blue action, real photography.",
+    "overview": "Faithful-modernized PayPal: pinned palette+type, modernized hierarchy, pill CTAs, balanced density.",
+    "rules": ["one primary CTA per surface", "sky only for large text/decoration", "mixed-case headlines", "real imagery only"],
+    "dos": ["AA contrast", "alt text on every image", "honor reduced-motion"],
+    "donts": ["logo-as-editorial", "abstract scenery instead of product imagery", "double-slash paths"]
+  }
+}
