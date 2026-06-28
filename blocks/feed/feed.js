@@ -1,11 +1,12 @@
 /**
  * feed — chronological list of items (news / press).
  * Static: each row = item, cells date | title(link) | category.
- * Dynamic (class "dynamic"): first cell holds an index base path; the block
- *   fetches `${path}.json` (EDS query-index, LIVE tree) and renders rows from
- *   it (fields: path, title, category, date), newest first when a date exists.
+ * Dynamic (class "dynamic"): FIRST row's first cell holds an index base path; the
+ *   block fetches `${path}.json` (EDS query-index, LIVE tree) and renders it,
+ *   newest first when a date exists. Remaining rows are a STATIC FALLBACK rendered
+ *   when the index is empty/unavailable (so the listing is never blank).
  */
-function staticItem(row) {
+function parseItem(row) {
   const cells = [...row.children];
   const linkCell = cells.find((c) => c.querySelector('a'));
   const a = linkCell ? linkCell.querySelector('a') : null;
@@ -32,8 +33,10 @@ function render(items) {
 }
 
 export default async function decorate(block) {
+  const rows = [...block.children];
   if (block.classList.contains('dynamic')) {
-    const base = (block.textContent || '').trim().replace(/\/$/, '');
+    const base = (rows[0]?.textContent || '').trim().replace(/\/$/, '');
+    const fallback = rows.slice(1).map(parseItem).filter(Boolean);
     block.textContent = '';
     try {
       const res = await fetch(`${base}.json`);
@@ -46,14 +49,15 @@ export default async function decorate(block) {
         }));
         if (items.length) { block.append(render(items)); return; }
       }
-    } catch (e) { /* fall through to empty-state */ }
+    } catch (e) { /* fall through to static fallback */ }
+    if (fallback.length) { block.append(render(fallback)); return; }
     const empty = document.createElement('p');
     empty.className = 'feed-empty';
     empty.textContent = 'No items are available right now.';
     block.append(empty);
     return;
   }
-  const items = [...block.children].map(staticItem).filter(Boolean);
+  const items = rows.map(parseItem).filter(Boolean);
   block.textContent = '';
   block.append(render(items));
 }
