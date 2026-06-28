@@ -19,7 +19,7 @@ export default async function decorate(block) {
   legal.className = 'footer-legal';
 
   if (fragment) {
-    const kids = [...fragment.querySelectorAll(':scope > div > *, :scope > *')];
+    const kids = [...fragment.querySelectorAll('h1, h2, h3, h4, h5, h6, ul')];
     let current = null;
     kids.forEach((el) => {
       if (/^H[1-6]$/.test(el.tagName)) {

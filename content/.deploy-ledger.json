@@ -1,0 +1,227 @@
+{
+  "/starbucks/about-us": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:01:54.662Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/contact": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:01:54.663Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:01:54.663Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/gift": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:01:54.663Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:00.586Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/at-home-coffee/whole-bean": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:00.589Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/bottled-beverages": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:00.623Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/cold-coffee": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:00.626Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/cold-tea": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:04.928Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/frappuccino-blended-beverage": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:06.208Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/hot-chocolate-lemonade-more": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:06.991Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/hot-coffee": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:07.278Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/hot-tea": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:11.091Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/protein-beverages": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:11.525Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/drinks/refreshers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:11.742Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/featured": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:12.772Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/food/bakery": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:15.613Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/food/breakfast": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:16.503Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/food/lunch": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:16.547Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/food/snacks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:17.745Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu/food/treats": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:21.333Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/menu": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:21.626Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:21.673Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/rewards": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:23.094Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/starbucks/stores-and-ordering": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:02:26.315Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}
