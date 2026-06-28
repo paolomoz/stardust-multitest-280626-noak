@@ -1,0 +1,6 @@
+# original_source_path	normalized_local_path	note
+/	/sycamorepartners/	source splash redirect → home; tree video reproduced as inline hero
+/home	/sycamorepartners/	source real home → EDS home (index)
+/investment-info/hot-topic	https://sycamorepartners.com/investment-info/hot-topic	over-cap (>20/template) → bounce to source
+/investment-info/torrid	https://sycamorepartners.com/investment-info/torrid	over-cap → bounce to source
+/investment-info/mgf-sourcing	https://sycamorepartners.com/investment-info/mgf-sourcing	over-cap → bounce to source
