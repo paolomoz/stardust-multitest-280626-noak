@@ -10,11 +10,11 @@
     {
       "slug": "about-us",
       "url": "https://www.starbucks.com/about-us",
-      "status": "approved",
+      "status": "deployed",
       "type": "static",
       "currentStatePath": "stardust/current/pages/about-us.json",
       "prototypePath": "stardust/prototypes/about-us-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/about-us",
       "headings": 18,
       "imgs": 4,
       "bodyLen": 3386,
@@ -23,11 +23,11 @@
     {
       "slug": "contact",
       "url": "https://www.starbucks.com/contact",
-      "status": "approved",
+      "status": "deployed",
       "type": "static",
       "currentStatePath": "stardust/current/pages/contact.json",
       "prototypePath": "stardust/prototypes/contact-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/contact",
       "headings": 11,
       "imgs": 0,
       "bodyLen": 1690,
@@ -36,11 +36,11 @@
     {
       "slug": "gift",
       "url": "https://www.starbucks.com/gift",
-      "status": "approved",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/gift.json",
       "prototypePath": "stardust/prototypes/gift-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/gift",
       "headings": 35,
       "imgs": 76,
       "bodyLen": 8247,
@@ -49,11 +49,11 @@
     {
       "slug": "index",
       "url": "https://www.starbucks.com/",
-      "status": "approved",
+      "status": "deployed",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/index.json",
       "prototypePath": "stardust/prototypes/home-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/index",
       "headings": 11,
       "imgs": 5,
       "bodyLen": 1719
@@ -61,11 +61,11 @@
     {
       "slug": "menu-at-home-coffee-whole-bean",
       "url": "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-at-home-coffee-whole-bean.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/at-home-coffee/whole-bean",
       "headings": 9,
       "imgs": 32,
       "bodyLen": 974
@@ -73,11 +73,11 @@
     {
       "slug": "menu-drinks-bottled-beverages",
       "url": "https://www.starbucks.com/menu/drinks/bottled-beverages",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-bottled-beverages.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/bottled-beverages",
       "headings": 11,
       "imgs": 38,
       "bodyLen": 1566
@@ -85,11 +85,11 @@
     {
       "slug": "menu-drinks-cold-coffee",
       "url": "https://www.starbucks.com/menu/drinks/cold-coffee",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-coffee.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/cold-coffee",
       "headings": 16,
       "imgs": 76,
       "bodyLen": 2559
@@ -97,11 +97,11 @@
     {
       "slug": "menu-drinks-cold-tea",
       "url": "https://www.starbucks.com/menu/drinks/cold-tea",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-tea.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/cold-tea",
       "headings": 9,
       "imgs": 50,
       "bodyLen": 1609
@@ -109,11 +109,11 @@
     {
       "slug": "menu-drinks-frappuccino-blended-beverage",
       "url": "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-frappuccino-blended-beverage.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/frappuccino-blended-beverage",
       "headings": 8,
       "imgs": 26,
       "bodyLen": 1525
@@ -121,11 +121,11 @@
     {
       "slug": "menu-drinks-hot-chocolate-lemonade-more",
       "url": "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-chocolate-lemonade-more.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/hot-chocolate-lemonade-more",
       "headings": 9,
       "imgs": 14,
       "bodyLen": 610
@@ -133,11 +133,11 @@
     {
       "slug": "menu-drinks-hot-coffee",
       "url": "https://www.starbucks.com/menu/drinks/hot-coffee",
-      "status": "approved",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-coffee.json",
       "prototypePath": "stardust/prototypes/menu-drinks-hot-coffee-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/hot-coffee",
       "headings": 16,
       "imgs": 60,
       "bodyLen": 1760,
@@ -146,11 +146,11 @@
     {
       "slug": "menu-drinks-hot-tea",
       "url": "https://www.starbucks.com/menu/drinks/hot-tea",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-tea.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/hot-tea",
       "headings": 9,
       "imgs": 26,
       "bodyLen": 903
@@ -158,11 +158,11 @@
     {
       "slug": "menu-drinks-protein-beverages",
       "url": "https://www.starbucks.com/menu/drinks/protein-beverages",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-protein-beverages.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/protein-beverages",
       "headings": 9,
       "imgs": 38,
       "bodyLen": 1541
@@ -170,11 +170,11 @@
     {
       "slug": "menu-drinks-refreshers",
       "url": "https://www.starbucks.com/menu/drinks/refreshers",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-refreshers.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/drinks/refreshers",
       "headings": 10,
       "imgs": 68,
       "bodyLen": 2256
@@ -182,11 +182,11 @@
     {
       "slug": "menu-featured",
       "url": "https://www.starbucks.com/menu/featured/",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-featured.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/featured",
       "headings": 18,
       "imgs": 24,
       "bodyLen": 6009
@@ -194,11 +194,11 @@
     {
       "slug": "menu-food-bakery",
       "url": "https://www.starbucks.com/menu/food/bakery",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-food-bakery.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/food/bakery",
       "headings": 9,
       "imgs": 36,
       "bodyLen": 1085
@@ -206,11 +206,11 @@
     {
       "slug": "menu-food-breakfast",
       "url": "https://www.starbucks.com/menu/food/breakfast",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-food-breakfast.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/food/breakfast",
       "headings": 10,
       "imgs": 40,
       "bodyLen": 1629
@@ -218,11 +218,11 @@
     {
       "slug": "menu-food-lunch",
       "url": "https://www.starbucks.com/menu/food/lunch",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-food-lunch.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/food/lunch",
       "headings": 9,
       "imgs": 20,
       "bodyLen": 834
@@ -230,11 +230,11 @@
     {
       "slug": "menu-food-snacks",
       "url": "https://www.starbucks.com/menu/food/snacks",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-food-snacks.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/food/snacks",
       "headings": 6,
       "imgs": 0,
       "bodyLen": 356
@@ -242,11 +242,11 @@
     {
       "slug": "menu-food-treats",
       "url": "https://www.starbucks.com/menu/food/treats",
-      "status": "directed",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-food-treats.json",
       "prototypePath": null,
-      "migratedPath": null,
+      "migratedPath": "content/menu/food/treats",
       "headings": 8,
       "imgs": 16,
       "bodyLen": 650
@@ -254,11 +254,11 @@
     {
       "slug": "menu",
       "url": "https://www.starbucks.com/menu",
-      "status": "approved",
+      "status": "deployed",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu.json",
       "prototypePath": "stardust/prototypes/menu-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/menu",
       "headings": 10,
       "imgs": 20,
       "bodyLen": 851,
@@ -267,11 +267,11 @@
     {
       "slug": "rewards",
       "url": "https://www.starbucks.com/rewards",
-      "status": "approved",
+      "status": "deployed",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/rewards.json",
       "prototypePath": "stardust/prototypes/rewards-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/rewards",
       "headings": 32,
       "imgs": 20,
       "bodyLen": 5539,
@@ -280,11 +280,11 @@
     {
       "slug": "stores-and-ordering",
       "url": "https://www.starbucks.com/stores-and-ordering",
-      "status": "approved",
+      "status": "deployed",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/stores-and-ordering.json",
       "prototypePath": "stardust/prototypes/stores-and-ordering-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/stores-and-ordering",
       "headings": 19,
       "imgs": 9,
       "bodyLen": 2523,
@@ -297,5 +297,11 @@
     "directionFile": "stardust/direction.md",
     "mode": "A",
     "variants": 1
+  },
+  "deploy": {
+    "deployedAt": "2026-06-28T17:12:19.143Z",
+    "host": "https://site-starbucks--stardust-multitest-280626-noak--paolomoz.aem.page/starbucks/",
+    "count": 25,
+    "verified": true
   }
 }

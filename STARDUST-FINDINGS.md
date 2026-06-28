@@ -69,6 +69,33 @@ wrong button classes and the wrong CSS selectors. SUGGESTED FIX: update the migr
 to detect runtime and defer to the deploy skill's runtime gate rather than hard-coding
 AuthorKit gotchas, OR have the deploy skill emit the runtime decision the prompt can read.
 
+### F7 — [deploy] fragment chrome content is section-wrapped; `:scope` selectors miss it
+The deploy skill's self-contained-vs-fragment guidance shows reading default content
+via `:scope > .default-content-wrapper`, but a loaded *fragment* (`loadFragment`) is a
+`<main>` whose content sits under `main > div.section > div.default-content-wrapper >
+(h4, ul, ...)`. My footer block's `:scope > div > *` selector therefore matched the
+section wrapper, not the headings/lists, and silently rendered an empty footer (the
+headless check passed because it only asserted the container existed). SUGGESTED FIX:
+the skill's header/footer fragment examples should show querying content elements
+**deeply** (`fragment.querySelectorAll('h4, ul')`) rather than `:scope`-relative, and
+the QA checklist should assert chrome content COUNT (cols/links > 0), not mere presence.
+
+### F8 — [deploy] deploy-batch.mjs is excellent; one friction: no built-in sanitise step
+`deploy-batch.mjs` (resumable ledger, PUT→preview→live, delivered `.plain.html` verify)
+worked flawlessly — 25 pages live first try, idempotent re-deploy of one page via
+`--paths`. Friction: it does NOT run `sanitise.js` itself, so a forgotten manual
+sanitise pass would corrupt non-ASCII (® · é Açaí). SUGGESTED FIX: fold sanitise into
+deploy-batch (sanitise-on-read, or a `--sanitise` flag) so the two-step contract can't
+be half-done.
+
+### F9 — [verify] no bundled verify.mjs; hand-rolled path→.plain.html mapping is error-prone
+Phase 9 references `verify.mjs` but none is bundled with deploy. I hand-rolled the
+verify loop twice and both times tripped on the home index → delivered-path mapping
+(`/starbucks/index` delivers at `/starbucks/`, plain at `/starbucks/index.plain.html`),
+producing false `h1=0`/`000` failures on the home alone. SUGGESTED FIX: ship a
+`verify.mjs` that owns the index/trailing-slash path normalization and the headless
+render assertions, so every run verifies identically instead of re-deriving it.
+
 ### F3 — [extract] networkidle wait never settles on analytics-heavy sites
 A `waitUntil:'networkidle'` goto on starbucks.com times out at 60s (continuous
 beacon/telemetry traffic). crawl.mjs correctly uses `domcontentloaded`; any

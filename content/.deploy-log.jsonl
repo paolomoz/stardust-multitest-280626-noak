@@ -23,3 +23,4 @@
 {"t":"2026-06-28T17:02:26.609Z","path":"/starbucks/menu/food/treats","step":"verify","ok":true}
 {"t":"2026-06-28T17:02:27.546Z","path":"/starbucks/rewards","step":"verify","ok":true}
 {"t":"2026-06-28T17:02:30.923Z","path":"/starbucks/stores-and-ordering","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:46.525Z","path":"/starbucks/footer","step":"verify","ok":true}
