@@ -40,6 +40,13 @@
       "note": "SamsungOne/SharpSans are proprietary and cannot be redistributed; fallbacks chosen for closest character + performance"
     },
     "shadows": ["0 4px 16px rgba(0,0,0,.08)", "0 8px 30px rgba(0,0,0,.12)"],
+    "overlays": {
+      "note": "Functional legibility scrims over photographic heroes/feature tiles (required by PRODUCT.md a11y). Not palette colors — black alpha gradients.",
+      "hero-scrim": "linear-gradient(90deg, rgba(0,0,0,.72), rgba(0,0,0,.38) 38%, rgba(0,0,0,0) 70%)",
+      "tile-scrim": "rgba(0,0,0,.78)",
+      "offer-scrim": "rgba(0,0,0,.6)",
+      "blue-cta-shadow": "0 8px 30px rgba(20,40,160,.35)"
+    },
     "motion": {
       "register": "kinetic-grid",
       "registerRationale": "PRODUCT.md Brand Personality = product/modular-catalogue commerce → kinetic-grid per selection heuristic",
