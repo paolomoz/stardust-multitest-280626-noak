@@ -1,27 +1,9 @@
-.cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
-}
-
-.cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
-}
-
-.cards .cards-card-body {
-  margin: 16px;
-}
-
-.cards .cards-card-image {
-  line-height: 0;
-}
-
-.cards > ul > li img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-}
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+.cards.brands .cards-grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 18px; }
+.card { display: flex; flex-direction: column; gap: 10px; background: var(--ground-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; position: relative; overflow: hidden; transition: transform .25s var(--ease-out), border-color .25s, background .25s; }
+.card::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: var(--spark); transform: scaleX(0); transform-origin: left; transition: transform .25s var(--ease-out); }
+.card:hover { transform: translateY(-4px); border-color: var(--spark); background: #0d1a5e; }
+.card:hover::before { transform: scaleX(1); }
+.card-name { font-family: var(--font-display); text-transform: uppercase; font-size: 20px; letter-spacing: -.01em; }
+.card p { margin: 0; color: rgb(255 255 255 / 74%); font-size: 15px; flex: 1; }
+.card-more { font-weight: 700; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--spark); margin-top: auto; }

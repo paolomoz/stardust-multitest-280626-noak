@@ -1,0 +1,5 @@
+.cta { background: linear-gradient(120deg, var(--signal), var(--signal-3)); }
+.cta .cta-inner { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap; }
+.cta h2 { font-size: clamp(28px, 4.2vw, 46px); }
+.cta p { margin: 8px 0 0; color: rgb(255 255 255 / 90%); max-width: 48ch; }
+.cta-actions a.button.secondary { border-color: #fff; }

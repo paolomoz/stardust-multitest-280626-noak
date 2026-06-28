@@ -1,0 +1,7 @@
+.feed-list { display: grid; gap: 2px; border-top: 1px solid var(--line); }
+.feed-item { display: grid; grid-template-columns: 150px 1fr auto; gap: 20px; align-items: baseline; padding: 22px 4px; border-bottom: 1px solid var(--line); transition: background .2s; }
+.feed-item:hover { background: rgb(255 255 255 / 4%); }
+.feed-item time { color: var(--spark-cyan); font-size: 13px; letter-spacing: .04em; text-transform: uppercase; font-weight: 600; }
+.feed-item .feed-title { font-size: 19px; font-weight: 600; }
+.feed-item .feed-cat { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+@media (width <= 680px) { .feed-item { grid-template-columns: 1fr; gap: 6px; } }

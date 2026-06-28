@@ -61,6 +61,17 @@ approved home canon, so the operator hand-drives canon reuse. Fix: expose the
 canon write-back / "fork from approved archetype" path in non-prep prototype, or
 have the master orchestrator default to --prep for multi-template migrations.
 
+### F9 · deploy / prompt-vs-skill drift on AuthorKit runtime
+The migration PROMPT's Phase 0 mandates an AuthorKit runtime bootstrap for vanilla
+aem-boilerplate repos (port `ak.js`/`postlcp.js`/`lazy.js`, `.btn`/`.block-content`
+chrome gotchas). The current `stardust:deploy` skill says the OPPOSITE: AuthorKit
+"has drifted upstream and is no longer the supported target; do NOT port it onto a
+fresh boilerplate. New conversions use the vanilla path" (standard `.button`,
+`.default-content-wrapper`, real header/footer blocks, `body.appear` gate). A reader
+following the prompt would build `.btn`-based blocks the runtime never decorates.
+Fix: reconcile the prompt with the skill — drop the AuthorKit bootstrap mandate, or
+have the prompt defer to the deploy skill's runtime-detect gate. (Followed the skill.)
+
 ### F8 · prototype / detector design-system-color noise on Mode A tonal ramps
 Brand-faithful (Mode A) renders need tonal shades of the pinned palette (a darker
 navy footer #00072b, a card-hover #0d1a5e, a gradient end #0042c8) that aren't

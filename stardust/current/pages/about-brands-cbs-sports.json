@@ -1,0 +1,469 @@
+{
+  "slug": "about-brands-cbs-sports",
+  "url": "https://www.paramount.com/about/brands/cbs-sports",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:55:40.329Z",
+  "finalUrl": "https://www.paramount.com/about/brands/cbs-sports",
+  "title": "CBS Sports | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "CBS Sports | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "CBS Sports"
+    },
+    {
+      "tag": "h4",
+      "text": "EXPECT IT HERE"
+    },
+    {
+      "tag": "h4",
+      "text": "related content"
+    },
+    {
+      "tag": "h6",
+      "text": "Big Ten College Football"
+    },
+    {
+      "tag": "h6",
+      "text": "Golf"
+    },
+    {
+      "tag": "h6",
+      "text": "NCAA Basketball"
+    },
+    {
+      "tag": "h6",
+      "text": "Inside College Football"
+    },
+    {
+      "tag": "h6",
+      "text": "The NFL Today"
+    },
+    {
+      "tag": "h6",
+      "text": "NFL"
+    },
+    {
+      "tag": "h6",
+      "text": "UEFA Champions League Today"
+    },
+    {
+      "tag": "h6",
+      "text": "We Need to Talk"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Brands"
+    }
+  ],
+  "body": [
+    "About",
+    "Brands",
+    "CBS Sports",
+    "CBS Sports, a year-round leader in cross-platform sports coverage, broadcasts a portfolio of events on the CBS Television Network, including THE NFL ON CBS; college football, including BIG TEN ON CBS; college basketball, including the NCAA Division I Men's Basketball Championship; golf, including The Masters®, PGA Championship and PGA TOUR; soccer, including the UEFA Champions League and NWSL; and CBS SPORTS SPECTACULAR. In addition, the division includes CBS Sports Network, the 24-hour cable home of CBS Sports which televises live sports programming throughout the year, including college football and basketball games, soccer matches from UEFA Champions League, UEFA Europa League, Serie A, Concacaf and NWSL, as well as a full slate of original programming and studio coverage. CBS Sports also delivers an extensive lineup of global soccer coverage on Paramount+, including every UEFA club competition match, all Serie A matches as well as Concacaf national team competitions. CBS Sports’ multi-platform offerings include CBSSports.com and the CBS Sports apps for mobile and connected TV devices; the 24/7 streaming sports news network CBS SPORTS HQ; the free 24-hour soccer streaming network CBS SPORTS GOLAZO NETWORK; 247Sports; MaxPreps; CBS Sports fantasy games; and SportsLine.",
+    "cbssports.com",
+    "cbs sports press"
+  ],
+  "ctas": [
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Reject All",
+      "href": null
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "cbssports.com",
+      "href": "https://www.cbssports.com/"
+    },
+    {
+      "label": "cbs sports press",
+      "href": "https://www.paramountpressexpress.com/cbs-sports/"
+    },
+    {
+      "label": "Big Ten College Football",
+      "href": "https://www.paramountplus.com/shows/big-ten-football-on-cbs/"
+    },
+    {
+      "label": "Golf",
+      "href": "https://www.cbssports.com/golf/"
+    },
+    {
+      "label": "NCAA Basketball",
+      "href": "https://www.cbssports.com/college-basketball/"
+    },
+    {
+      "label": "Inside College Football",
+      "href": "https://www.paramountpressexpress.com/cbs-sports/shows/inside-college-football/releases"
+    },
+    {
+      "label": "The NFL Today",
+      "href": "https://www.cbssports.com/nfl/"
+    },
+    {
+      "label": "NFL",
+      "href": "https://www.cbssports.com/nfl/"
+    },
+    {
+      "label": "UEFA Champions League Today",
+      "href": "https://www.cbssports.com/soccer/champions-league/"
+    },
+    {
+      "label": "We Need to Talk",
+      "href": "https://www.instagram.com/weneedtotalk/?hl=en"
+    },
+    {
+      "label": "View All",
+      "href": "/about/brands"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/about/brands/cbs-sports#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.cbssports.com/",
+    "https://www.paramountpressexpress.com/cbs-sports/",
+    "https://www.paramountplus.com/shows/big-ten-football-on-cbs/",
+    "https://www.cbssports.com/golf/",
+    "https://www.cbssports.com/college-basketball/",
+    "https://www.paramountpressexpress.com/cbs-sports/shows/inside-college-football/releases",
+    "https://www.cbssports.com/nfl/",
+    "https://www.cbssports.com/soccer/champions-league/",
+    "https://www.instagram.com/weneedtotalk/?hl=en",
+    "https://www.paramount.com/about/brands/paramount-plus",
+    "https://www.paramount.com/about/brands/nickelodeon",
+    "https://www.paramount.com/about/brands/pluto-tv",
+    "https://www.paramount.com/about/brands/cbs-news",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/about/brands/cbs-sports",
+    "https://www.paramount.com/terms-of-use",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/BigTen.jpg?itok=UBjCsuA1",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/GOLF%20Updated.jpg?itok=asrIj3IC",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/Grant_Tracey.jpg?itok=EmaBgbHX",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/ICF.jpg?itok=VdRkA5rk",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/NFL_Today.jpg?itok=jnDp8ntK",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/NFL.jpg?itok=kuLZeHFk",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/UEFA.jpg?itok=2O2RQk-3",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/CBS%20Sports/WNTT.jpg?itok=U9_GWzUk",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/Paramount%20Plus/StarTrek_Discovery_767x767.jpg?h=a6efa031&itok=N4_xKlnA",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/Nick/spongebob_brandfeature_304x456.jpg?h=668259fe&itok=y-nOGjqW",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/Plutotv/pluto_BrandImage_767x767.jpg?h=ab622562&itok=Q-MytOQI",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/CBS%20News/CBSMornings_GayleKing_767x767.jpg?h=ab622562&itok=QrkaY6CS",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 24,
+    "cssBackgrounds": [],
+    "modals": [
+      "We use cookies and similar technologies to understand how you use our services, improve your experience and serve you personalized content and advertising as described in our Privacy Policy.Accept AllReject AllManage Cookies"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 1596,
+    "realImageCount": 24,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
