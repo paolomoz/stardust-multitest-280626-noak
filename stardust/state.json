@@ -57,790 +57,869 @@
       "slug": "index",
       "template": "home",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/index.json",
       "prototypePath": "stardust/prototypes/index-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/index.html",
+      "deliveredAt": "2026-06-28T17:11:59.200Z"
     },
     {
       "path": "/about",
       "slug": "about",
       "template": "section-overview",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about.json",
       "prototypePath": "stardust/prototypes/about-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/about.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands",
       "slug": "about-brands",
       "template": "section-overview",
       "archetype": false,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-brands.json",
       "prototypePath": "stardust/prototypes/about-brands-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses",
       "slug": "about-businesses",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-businesses.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers",
       "slug": "careers",
       "template": "section-overview",
       "archetype": false,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/careers.json",
       "prototypePath": "stardust/prototypes/careers-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership",
       "slug": "about-leadership",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-leadership.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news",
       "slug": "news",
       "template": "section-overview",
       "archetype": false,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/news.json",
       "prototypePath": "stardust/prototypes/news-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/news.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press",
       "slug": "press",
       "template": "section-overview",
       "archetype": false,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/press.json",
       "prototypePath": "stardust/prototypes/press-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/press.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/paramount-plus",
       "slug": "about-brands-paramount-plus",
       "template": "brand-detail",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-brands-paramount-plus.json",
       "prototypePath": "stardust/prototypes/about-brands-paramount-plus-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/paramount-plus.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/paramount-pictures",
       "slug": "about-brands-paramount-pictures",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/paramount-pictures.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/cbs-entertainment",
       "slug": "about-brands-cbs-entertainment",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/cbs-entertainment.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/pluto-tv",
       "slug": "about-brands-pluto-tv",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/pluto-tv.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/mtv",
       "slug": "about-brands-mtv",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/mtv.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/nickelodeon",
       "slug": "about-brands-nickelodeon",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/nickelodeon.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/cbs-sports",
       "slug": "about-brands-cbs-sports",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/cbs-sports.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/paramount-sports-entertainment",
       "slug": "about-brands-paramount-sports-entertainment",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/paramount-sports-entertainment.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/bet",
       "slug": "about-brands-bet",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/bet.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/skydance-animation",
       "slug": "about-brands-skydance-animation",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/skydance-animation.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/cbs-news",
       "slug": "about-brands-cbs-news",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/cbs-news.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/comedy-central",
       "slug": "about-brands-comedy-central",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/comedy-central.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/cmt",
       "slug": "about-brands-cmt",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/cmt.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/network-10",
       "slug": "about-brands-network-10",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/network-10.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/paramount-network",
       "slug": "about-brands-paramount-network",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/paramount-network.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/pop-tv",
       "slug": "about-brands-pop-tv",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/pop-tv.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/showtime",
       "slug": "about-brands-showtime",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/showtime.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/skydance-games",
       "slug": "about-brands-skydance-games",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/skydance-games.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/smithsonian-channel",
       "slug": "about-brands-smithsonian-channel",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/smithsonian-channel.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/brands/tv-land",
       "slug": "about-brands-tv-land",
       "template": "brand-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/brands/tv-land.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/studios",
       "slug": "about-businesses-studios",
       "template": "business-detail",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-businesses-studios.json",
       "prototypePath": "stardust/prototypes/about-businesses-studios-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/studios.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/streaming",
       "slug": "about-businesses-streaming",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/streaming.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/advertising",
       "slug": "about-businesses-advertising",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/advertising.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/us-distribution",
       "slug": "about-businesses-us-distribution",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/us-distribution.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/theatrical-distribution",
       "slug": "about-businesses-theatrical-distribution",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/theatrical-distribution.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/content-licensing",
       "slug": "about-businesses-content-licensing",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/content-licensing.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/businesses/consumer-products",
       "slug": "about-businesses-consumer-products",
       "template": "business-detail",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/businesses/consumer-products.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/david-ellison",
       "slug": "about-leadership-david-ellison",
       "template": "leadership-bio",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-leadership-david-ellison.json",
       "prototypePath": "stardust/prototypes/about-leadership-david-ellison-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/david-ellison.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/jay-askinasi",
       "slug": "about-leadership-jay-askinasi",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/jay-askinasi.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/george-cheeks",
       "slug": "about-leadership-george-cheeks",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/george-cheeks.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/dennis-k-cinelli-0",
       "slug": "about-leadership-dennis-k-cinelli-0",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/dennis-k-cinelli-0.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/makan-delrahim",
       "slug": "about-leadership-makan-delrahim",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/makan-delrahim.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/dane-glasgow",
       "slug": "about-leadership-dane-glasgow",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/dane-glasgow.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/dana-goldberg",
       "slug": "about-leadership-dana-goldberg",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/dana-goldberg.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/andy-gordon",
       "slug": "about-leadership-andy-gordon",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/andy-gordon.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/josh-greenstein",
       "slug": "about-leadership-josh-greenstein",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/josh-greenstein.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/cindy-holland",
       "slug": "about-leadership-cindy-holland",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/cindy-holland.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/stephanie-kyoko-mckinnon",
       "slug": "about-leadership-stephanie-kyoko-mckinnon",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/stephanie-kyoko-mckinnon.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/jim-sterner",
       "slug": "about-leadership-jim-sterner",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/jim-sterner.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/leadership/melissa-zukerman",
       "slug": "about-leadership-melissa-zukerman",
       "template": "leadership-bio",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/leadership/melissa-zukerman.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/after-25-years-jackass-is-ready-for-one-final-hurrah",
       "slug": "news-after-25-years-jackass-is-ready-for-one-final-hurrah",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/after-25-years-jackass-is-ready-for-one-final-hurrah.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/cowabunga-the-worlds-first-official-tmnt-pizzeria-opens-in-santa-monica",
       "slug": "news-cowabunga-the-worlds-first-official-tmnt-pizzeria-opens-in-santa-monica",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/cowabunga-the-worlds-first-official-tmnt-pizzeria-opens-in-santa-monica.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/scary-movie-makes-a-killer-return-opening-to-franchise-record-1055-million-worldwide",
       "slug": "news-scary-movie-makes-a-killer-return-opening-to-franchise-record-1055-million-worldwide",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/scary-movie-makes-a-killer-return-opening-to-franchise-record-1055-million-worldwide.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/scary-movie-stars-are-ready-to-make-audiences-laugh-again",
       "slug": "news-scary-movie-stars-are-ready-to-make-audiences-laugh-again",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/scary-movie-stars-are-ready-to-make-audiences-laugh-again.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/paramount-forms-unified-games-studio-names-tony-driscoll-as-president",
       "slug": "news-paramount-forms-unified-games-studio-names-tony-driscoll-as-president",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/paramount-forms-unified-games-studio-names-tony-driscoll-as-president.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/paramount-and-ufc-expand-partnership-to-canada-in-2027",
       "slug": "news-paramount-and-ufc-expand-partnership-to-canada-in-2027",
       "template": "news-article",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/news-paramount-and-ufc-expand-partnership-to-canada-in-2027.json",
       "prototypePath": "stardust/prototypes/news-paramount-and-ufc-expand-partnership-to-canada-in-2027-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/paramount-and-ufc-expand-partnership-to-canada-in-2027.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/uefa-champions-league-final-becomes-most-watched-club-soccer-match-in-us-english-language-tv-history",
       "slug": "news-uefa-champions-league-final-becomes-most-watched-club-soccer-match-in-us-english-language-tv-history",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/uefa-champions-league-final-becomes-most-watched-club-soccer-match-in-us-english-language-tv-history.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/news/paramount-products-experiences-makes-its-mark-at-licensing-expo-2026",
       "slug": "news-paramount-products-experiences-makes-its-mark-at-licensing-expo-2026",
       "template": "news-article",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/news/paramount-products-experiences-makes-its-mark-at-licensing-expo-2026.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers-0",
       "slug": "press-paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers-0",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers-0.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-forms-industrial-relations-division-under-co-leadership-of-nicole-lang-sheldon-kasdan",
       "slug": "press-paramount-forms-industrial-relations-division-under-co-leadership-of-nicole-lang-sheldon-kasdan",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-forms-industrial-relations-division-under-co-leadership-of-nicole-lang-sheldon-kasdan.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers",
       "slug": "press-paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-skydance-corporation-announces-extension-of-expiration-dates-of-previously-announced-exchange-offers-and-tender-offers.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-skydance-corporation-announces-results-of-warner-bros-consent-solicitations",
       "slug": "press-paramount-skydance-corporation-announces-results-of-warner-bros-consent-solicitations",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-skydance-corporation-announces-results-of-warner-bros-consent-solicitations.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-chief-financial-officer-dennis-cinelli-to-participate-in-moffettnathansons-media-internet-communications-conference",
       "slug": "press-paramount-chief-financial-officer-dennis-cinelli-to-participate-in-moffettnathansons-media-internet-communications-conference",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-chief-financial-officer-dennis-cinelli-to-participate-in-moffettnathansons-media-internet-communications-conference.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-reports-first-quarter-2026-financial-results",
       "slug": "press-paramount-reports-first-quarter-2026-financial-results",
       "template": "press-release",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/press-paramount-reports-first-quarter-2026-financial-results.json",
       "prototypePath": "stardust/prototypes/press-paramount-reports-first-quarter-2026-financial-results-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-reports-first-quarter-2026-financial-results.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-declares-quarterly-cash-dividend-1",
       "slug": "press-paramount-declares-quarterly-cash-dividend-1",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-declares-quarterly-cash-dividend-1.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/press/paramount-to-report-first-quarter-2026-financial-results-on-may-4-2026",
       "slug": "press-paramount-to-report-first-quarter-2026-financial-results-on-may-4-2026",
       "template": "press-release",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/press/paramount-to-report-first-quarter-2026-financial-results-on-may-4-2026.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/benefits",
       "slug": "careers-benefits",
       "template": "careers-content",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/careers-benefits.json",
       "prototypePath": "stardust/prototypes/careers-benefits-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/benefits.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/life-at-paramount",
       "slug": "careers-life-at-paramount",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/life-at-paramount.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/international-careers",
       "slug": "careers-international-careers",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/international-careers.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/internships",
       "slug": "careers-internships",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/internships.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/talent-pipeline-programs",
       "slug": "careers-talent-pipeline-programs",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/talent-pipeline-programs.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/streaming-jobs",
       "slug": "careers-streaming-jobs",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/streaming-jobs.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/careers/technology-jobs",
       "slug": "careers-technology-jobs",
       "template": "careers-content",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/careers/technology-jobs.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/board-of-directors",
       "slug": "about-board-of-directors",
       "template": "editorial-static",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/board-of-directors.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/history",
       "slug": "about-history",
       "template": "editorial-static",
       "archetype": true,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/history.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/compliance-resources",
       "slug": "about-compliance-resources",
       "template": "editorial-static",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/compliance-resources.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/sustainability",
       "slug": "about-sustainability",
       "template": "editorial-static",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/sustainability.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/about/sustainability/reporting-archive",
       "slug": "about-sustainability-reporting-archive",
       "template": "editorial-static",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/about/sustainability/reporting-archive.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/terms-of-use",
       "slug": "terms-of-use",
       "template": "legal",
       "archetype": true,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/terms-of-use.json",
       "prototypePath": "stardust/prototypes/terms-of-use-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/terms-of-use.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/contact-us",
       "slug": "contact-us",
       "template": "legal",
       "archetype": false,
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/contact-us.json",
       "prototypePath": "stardust/prototypes/contact-us-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/paramount/contact-us.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     },
     {
       "path": "/automated-employment-decision-tools",
       "slug": "automated-employment-decision-tools",
       "template": "legal",
       "archetype": false,
-      "status": "rostered",
+      "status": "deployed",
       "currentStatePath": null,
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/paramount/automated-employment-decision-tools.html",
+      "deliveredAt": "2026-06-28T17:11:59.201Z"
     }
   ],
   "direction": {
@@ -849,5 +928,11 @@
     "directionFile": "stardust/direction.md",
     "mode": "A-brand-faithful",
     "variantMode": "single"
+  },
+  "deploy": {
+    "deliveredAt": "2026-06-28T17:11:59.201Z",
+    "host": "https://site-paramount--stardust-multitest-280626-noak--paolomoz.aem.page/paramount/",
+    "pagesLive": 81,
+    "verified": "79/79 pages, 76/76 internal links 200"
   }
 }

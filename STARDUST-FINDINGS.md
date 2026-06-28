@@ -72,6 +72,28 @@ following the prompt would build `.btn`-based blocks the runtime never decorates
 Fix: reconcile the prompt with the skill — drop the AuthorKit bootstrap mandate, or
 have the prompt defer to the deploy skill's runtime-detect gate. (Followed the skill.)
 
+### F10 · deploy / query-index config not honored on a feature branch
+helix-query.yaml was committed + synced (github raw 200, blocks/styles served 200),
+but the admin indexer only ever ran the default `#simple` index — the named `news`/
+`press` indices were never recognized, so `/paramount/news.json` 404'd and the
+dynamic feed had no index to read. Re-publishing and explicit `POST /index/...`
+(returns 200) did not change it. Either the per-branch query config has a long
+propagation lag or feature-branch indexing ignores helix-query.yaml. The
+`stardust:deploy` guardrail "query-index builds against the LIVE tree — publish or
+indexes are empty" is necessary but NOT sufficient: it doesn't cover the config
+simply not being picked up. Fix: deploy should verify a named index actually built
+(`POST /index` results contains the named index, not just `#simple`) and surface a
+clear failure + fallback guidance when only `#simple` runs. (Worked around with an
+index-first / static-fallback feed so listings are never blank.)
+
+### F11 · deploy / zsh-in-loop PATH gotcha is real and bites mid-verify
+Confirmed the documented #12 gotcha live: `curl` (and `node`) silently drop out of
+PATH inside a zsh `for`/`while` loop run via the agent shell — `command not found:
+curl` mid-verification. The deploy skill documents it for the deploy loop; it bites
+equally in the verify/index-trigger loops. Fix: the skill's bundled scripts already
+avoid this, but any doc example using a shell loop should use absolute binaries
+(`/usr/bin/curl`) or a node driver. Worth a one-liner in the verify guidance too.
+
 ### F8 · prototype / detector design-system-color noise on Mode A tonal ramps
 Brand-faithful (Mode A) renders need tonal shades of the pinned palette (a darker
 navy footer #00072b, a card-hover #0d1a5e, a gradient end #0042c8) that aren't
