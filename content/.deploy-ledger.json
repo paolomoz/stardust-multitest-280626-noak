@@ -225,13 +225,13 @@
     "verify": "ok"
   },
   "/sycamorepartners/nav": {
-    "status": "verify-fail",
-    "attempts": 1,
-    "ts": "2026-06-28T16:58:19.873Z",
-    "put": 201,
+    "status": "live",
+    "attempts": 2,
+    "ts": "2026-06-28T16:59:36.655Z",
+    "put": 200,
     "preview": 200,
     "live": 200,
-    "verify": "about:error in delivered html",
+    "verify": "ok",
     "lastError": "about:error in delivered html"
   },
   "/sycamorepartners/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor": {

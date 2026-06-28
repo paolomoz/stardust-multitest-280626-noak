@@ -21,14 +21,14 @@ export default async function decorate(block) {
   let videoUrl = '';
   const heading = nodes.find((n) => /^H[1-6]$/.test(n.tagName))
     || block.querySelector('h1, h2, h3');
-  const paras = nodes.filter((n) => n.tagName === 'P');
-  const lede = paras.find((p) => !p.querySelector('a'));
-  const actionsP = paras.find((p) => p.querySelector('a'));
-
-  // find a video link
+  // find a video link first so we can exclude it from copy/actions
   block.querySelectorAll('a').forEach((a) => {
     if (/\.mp4(\?|$)/i.test(a.href)) { videoUrl = a.href; }
   });
+  const isVideoNode = (n) => n.querySelector && n.querySelector('a[href$=".mp4"], a[href*=".mp4?"]');
+  const paras = nodes.filter((n) => n.tagName === 'P' && !isVideoNode(n));
+  const lede = paras.find((p) => !p.querySelector('a'));
+  const actionsP = paras.find((p) => p.querySelector('a'));
 
   block.textContent = '';
 
