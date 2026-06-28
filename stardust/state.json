@@ -17,7 +17,7 @@
       "url": "https://www.sony.com/en/",
       "type": "landing",
       "template": "home",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en.json",
       "prototypePath": null,
       "migratedPath": null
@@ -27,7 +27,7 @@
       "url": "https://www.sony.com/en/SonyInfo/products/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-products.json",
       "prototypePath": null,
       "migratedPath": null
@@ -37,7 +37,7 @@
       "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-corporateinfo.json",
       "prototypePath": null,
       "migratedPath": null
@@ -47,7 +47,7 @@
       "url": "https://www.sony.com/en/SonyInfo/technology/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-technology.json",
       "prototypePath": null,
       "migratedPath": null
@@ -57,7 +57,7 @@
       "url": "https://www.sony.com/en/SonyInfo/csr/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-csr.json",
       "prototypePath": null,
       "migratedPath": null
@@ -67,7 +67,7 @@
       "url": "https://www.sony.com/en/SonyInfo/design/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-design.json",
       "prototypePath": null,
       "migratedPath": null
@@ -77,7 +77,7 @@
       "url": "https://www.sony.com/en/SonyInfo/Careers/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-careers.json",
       "prototypePath": null,
       "migratedPath": null
@@ -87,7 +87,7 @@
       "url": "https://www.sony.com/en/SonyInfo/IR/",
       "type": "landing",
       "template": "section-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-ir.json",
       "prototypePath": null,
       "migratedPath": null
@@ -97,7 +97,7 @@
       "url": "https://www.sony.com/en/SonyInfo/News/Press/",
       "type": "listing",
       "template": "listing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-news-press.json",
       "prototypePath": null,
       "migratedPath": null
@@ -107,7 +107,7 @@
       "url": "https://www.sony.com/en/SonyInfo/blog/",
       "type": "listing",
       "template": "listing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-blog.json",
       "prototypePath": null,
       "migratedPath": null
@@ -117,7 +117,7 @@
       "url": "https://www.sony.com/en/SonyInfo/News/Press/202606/26-015E/index.html",
       "type": "article",
       "template": "article",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-news-press-202606-26-015e-index-html.json",
       "prototypePath": null,
       "migratedPath": null
@@ -127,7 +127,7 @@
       "url": "https://www.sony.com/en/SonyInfo/message/",
       "type": "article",
       "template": "article",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-message.json",
       "prototypePath": null,
       "migratedPath": null
@@ -137,7 +137,7 @@
       "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
       "type": "article",
       "template": "article",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-corporateinfo-purpose-and-values.json",
       "prototypePath": null,
       "migratedPath": null
@@ -147,7 +147,7 @@
       "url": "https://www.sony.com/en/SonyInfo/design/stories/",
       "type": "listing",
       "template": "editorial",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-sonyinfo-design-stories.json",
       "prototypePath": null,
       "migratedPath": null
@@ -157,10 +157,17 @@
       "url": "https://www.sony.com/en/brand/",
       "type": "landing",
       "template": "editorial",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/en-brand.json",
       "prototypePath": null,
       "migratedPath": null
     }
-  ]
+  ],
+  "direction": {
+    "resolvedAt": "2026-06-28T16:43:22.176Z",
+    "phrase": "faithful redesign, modernized",
+    "directionFile": "stardust/direction.md",
+    "mode": "A-brand-faithful",
+    "variantMode": "single"
+  }
 }
