@@ -48,52 +48,59 @@
   "pages": [
     {
       "slug": "index",
-      "status": "directed",
+      "status": "approved",
       "type": "landing",
       "template": "home",
-      "currentStatePath": "stardust/current/pages/index.json"
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html"
     },
     {
       "slug": "credit-cards",
-      "status": "directed",
+      "status": "approved",
       "type": "listing",
       "template": "category-overview",
-      "currentStatePath": "stardust/current/pages/credit-cards.json"
+      "currentStatePath": "stardust/current/pages/credit-cards.json",
+      "prototypePath": "stardust/prototypes/credit-cards-proposed.html"
     },
     {
       "slug": "credit-cards-cash-back-credit-cards",
-      "status": "directed",
+      "status": "approved",
       "type": "listing",
       "template": "product-listing",
-      "currentStatePath": "stardust/current/pages/credit-cards-cash-back-credit-cards.json"
+      "currentStatePath": "stardust/current/pages/credit-cards-cash-back-credit-cards.json",
+      "prototypePath": "stardust/prototypes/credit-cards-cash-back-credit-cards-proposed.html"
     },
     {
       "slug": "auto-loans-auto-loan-faq",
-      "status": "directed",
+      "status": "approved",
       "type": "article",
       "template": "faq-article",
-      "currentStatePath": "stardust/current/pages/auto-loans-auto-loan-faq.json"
+      "currentStatePath": "stardust/current/pages/auto-loans-auto-loan-faq.json",
+      "prototypePath": "stardust/prototypes/auto-loans-auto-loan-faq-proposed.html"
     },
     {
       "slug": "preferred-rewards",
-      "status": "directed",
+      "status": "approved",
       "type": "program",
       "template": "program",
-      "currentStatePath": "stardust/current/pages/preferred-rewards.json"
+      "currentStatePath": "stardust/current/pages/preferred-rewards.json",
+      "prototypePath": "stardust/prototypes/preferred-rewards-proposed.html"
     },
     {
       "slug": "customer-service-contact-us-about-bank-of-america",
-      "status": "directed",
+      "status": "approved",
       "type": "static",
       "template": "informational",
-      "currentStatePath": "stardust/current/pages/customer-service-contact-us-about-bank-of-america.json"
+      "currentStatePath": "stardust/current/pages/customer-service-contact-us-about-bank-of-america.json",
+      "prototypePath": "stardust/prototypes/customer-service-contact-us-about-bank-of-america-proposed.html"
     },
     {
       "slug": "customer-service-contact-us",
-      "status": "directed",
+      "status": "approved",
       "type": "static",
       "template": "contact-hub",
-      "currentStatePath": "stardust/current/pages/customer-service-contact-us.json"
+      "currentStatePath": "stardust/current/pages/customer-service-contact-us.json",
+      "prototypePath": "stardust/prototypes/customer-service-contact-us-proposed.html"
     },
     {
       "slug": "auto-loans",

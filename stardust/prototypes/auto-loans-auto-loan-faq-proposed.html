@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+  _provenance:
+    writtenBy: impeccable:impeccable (craft loop) via stardust:prototype, hands-off run
+    writtenAt: 2026-06-28
+    page: auto-loans-auto-loan-faq  role: Variant A — faithful (faq-article)
+    shape: stardust/prototypes/auto-loans-auto-loan-faq-shape.md
+    contentClassification: captured-verbatim
+      source: stardust/current/pages/auto-loans-auto-loan-faq.json (Playwright capture of https://www.bankofamerica.com/auto-loans/auto-loan-faq/)
+      rule: no invented Q&A, facts, rates, or names — every value sourced from capture
+      note: the live page's collapsed answer panels were not present in the capture body;
+            only the 7 FAQ question labels (toggle controls) plus 5 disclosure/footnote
+            prose paragraphs were captured. Per the shape rule ("if a Q has no captured
+            answer, omit it — do not invent"), only the 3 questions with a genuinely
+            corresponding captured answer paragraph are rendered as accordion items.
+    chrome: header + footer + :root token block + shared CSS copied from stardust/prototypes/index-proposed.html
+    blocks (one prototype <section> = one EDS block):
+      header · hero · accordion[faq] · columns[connect] · footer
+-->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Auto Loan FAQs from Bank of America</title>
+<meta name="description" content="Find our frequently asked questions about new, used and refinance auto loans, and servicing your existing auto loan." />
+<link rel="icon" href="https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png" />
+<link rel="apple-touch-icon" href="https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    /* ---- DESIGN tokens (Bank of America — modernized faithful) ---- */
+    --navy:#012169;
+    --action-blue:#0053C2;
+    --red:#E31837;
+    --ink:#1A1A1A;
+    --slate:#5A5A5A;
+    --bg:#FFFFFF;
+    --surface:#F5F6F8;
+    --surface-cool:#EEF3FC;
+
+    --font-heading:"Inter",Arial,sans-serif;          /* humanist substitute for Connections */
+    --font-body:"Roboto",Arial,Helvetica,sans-serif;  /* BoA actual body face */
+    --fs-base:16px;
+    /* modular scale, ratio 1.25 from 16 */
+    --fs-xs:0.8rem;     /* ~13 — legal/footnote */
+    --fs-sm:0.875rem;   /* 14  — meta/secondary */
+    --fs-md:1rem;       /* 16  — body */
+    --fs-lg:1.25rem;    /* 20 */
+    --fs-xl:1.5625rem;  /* 25 */
+    --fs-2xl:1.9375rem; /* 31 */
+    --fs-3xl:clamp(2.1rem,1.4rem + 3vw,3.0625rem); /* up to 49 */
+
+    --radius-card:14px;
+    --radius-btn:24px;
+    --radius-chip:4px;
+
+    --space-1:8px; --space-2:16px; --space-3:24px; --space-4:32px;
+    --space-5:48px; --space-6:64px;
+
+    --pad-section:64px;       /* desktop */
+    --max:1200px;
+
+    --shadow-card:0 2px 20px rgba(0,0,0,.12);
+    --shadow-card-hover:0 8px 32px rgba(1,33,105,.18);
+    --shadow-header:0 1px 0 rgba(0,0,0,.08);
+
+    --ease-out:cubic-bezier(.22,1,.36,1);
+
+    /* z-scale */
+    --z-sticky:100; --z-nav-drawer:200; --z-skip:300;
+  }
+
+  *,*::before,*::after{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    font-family:var(--font-body);
+    font-size:var(--fs-base);
+    line-height:1.6;
+    color:var(--ink);
+    background:var(--bg);
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  h1,h2,h3,h4{font-family:var(--font-heading);color:var(--navy);margin:0;line-height:1.15;letter-spacing:-0.01em;text-wrap:balance;}
+  p{margin:0;text-wrap:pretty;}
+  a{color:var(--action-blue);text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  img{max-width:100%;display:block;}
+  :focus-visible{outline:3px solid var(--action-blue);outline-offset:2px;border-radius:2px;}
+
+  .wrap{max-width:var(--max);margin-inline:auto;padding-inline:clamp(20px,5vw,40px);}
+  .section{padding-block:var(--pad-section);}
+  .section--surface{background:var(--surface);}
+  .section--cool{background:var(--surface-cool);}
+
+  .section-head{max-width:60ch;margin-bottom:var(--space-5);}
+  .section-head h2{font-size:var(--fs-2xl);font-weight:700;}
+  .section-head p{margin-top:var(--space-2);color:var(--ink);font-size:var(--fs-lg);}
+
+  /* ---------- buttons ---------- */
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:.5em;
+    font-family:var(--font-heading);font-weight:600;font-size:var(--fs-md);
+    padding:.75em 1.75em;border-radius:var(--radius-btn);
+    border:1.5px solid transparent;cursor:pointer;
+    transition:background .25s var(--ease-out),color .25s var(--ease-out),border-color .25s var(--ease-out),transform .25s var(--ease-out);
+    text-decoration:none;
+  }
+  .btn:hover{text-decoration:none;}
+  .btn--primary{background:var(--action-blue);color:#fff;}
+  .btn--primary:hover{background:var(--navy);}
+  .btn--secondary{background:transparent;color:var(--navy);border-color:var(--navy);}
+  .btn--secondary:hover{background:var(--navy);color:#fff;}
+  .btn--on-photo{background:#fff;color:var(--navy);}
+  .btn--on-photo:hover{background:var(--surface-cool);transform:translateY(-1px);}
+
+  .link-arrow{font-family:var(--font-heading);font-weight:600;color:var(--action-blue);display:inline-flex;align-items:center;gap:.4em;}
+  .link-arrow svg{transition:transform .25s var(--ease-out);}
+  .link-arrow:hover svg{transform:translateX(3px);}
+
+  /* ============ HEADER ============ */
+  .site-header{position:sticky;top:0;z-index:var(--z-sticky);background:#fff;box-shadow:var(--shadow-header);}
+  .skip{position:absolute;left:-9999px;top:0;z-index:var(--z-skip);background:var(--navy);color:#fff;padding:.6em 1em;border-radius:0 0 6px 0;}
+  .skip:focus{left:0;}
+
+  .util-bar{background:var(--navy);color:#fff;font-size:var(--fs-sm);}
+  .util-bar .wrap{display:flex;justify-content:flex-end;align-items:center;gap:var(--space-3);min-height:38px;flex-wrap:wrap;padding-block:6px;}
+  .util-bar a{color:#fff;opacity:.92;font-family:var(--font-heading);}
+  .util-bar a:hover{opacity:1;text-decoration:underline;}
+
+  .header-main .wrap{display:flex;align-items:center;justify-content:space-between;gap:var(--space-3);min-height:76px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand .flag{flex:none;width:38px;height:38px;}
+  .brand .word{font-family:var(--font-heading);font-weight:700;font-size:var(--fs-lg);color:var(--navy);line-height:1.05;letter-spacing:-0.02em;}
+  .brand .word span{display:block;font-weight:500;font-size:var(--fs-sm);color:var(--slate);letter-spacing:0;}
+
+  .primary-nav{display:flex;align-items:center;gap:var(--space-1);}
+  .primary-nav a{font-family:var(--font-heading);font-weight:600;color:var(--ink);padding:.55em .9em;border-radius:8px;font-size:var(--fs-md);}
+  .primary-nav a:hover{background:var(--surface-cool);color:var(--navy);text-decoration:none;}
+  .header-cta{display:flex;align-items:center;gap:var(--space-2);}
+
+  .nav-toggle{display:none;background:none;border:1.5px solid var(--navy);border-radius:8px;padding:.5em .65em;cursor:pointer;color:var(--navy);}
+  .nav-toggle svg{display:block;}
+
+  /* ============ HERO ============ */
+  .hero{position:relative;background:var(--navy);color:#fff;overflow:hidden;isolation:isolate;}
+  .hero__bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2;}
+  /* legibility scrim */
+  .hero__scrim{position:absolute;inset:0;z-index:-1;
+    background:linear-gradient(100deg,rgba(1,33,105,.92) 0%,rgba(1,33,105,.74) 42%,rgba(1,33,105,.28) 72%,rgba(1,33,105,.12) 100%);}
+  .hero .wrap{position:relative;padding-block:clamp(48px,8vw,96px);}
+  .hero__inner{max-width:40rem;}
+  .hero__eyebrow{display:inline-flex;align-items:center;gap:.5em;font-family:var(--font-heading);font-weight:600;font-size:var(--fs-sm);
+    color:#fff;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);padding:.35em .85em;border-radius:var(--radius-chip);margin-bottom:var(--space-3);}
+  .hero h1{color:#fff;font-size:var(--fs-3xl);font-weight:700;letter-spacing:-0.025em;line-height:1.08;}
+  .hero p{margin-top:var(--space-3);font-size:var(--fs-lg);line-height:1.5;color:rgba(255,255,255,.94);max-width:44ch;}
+  .hero__actions{margin-top:var(--space-5);display:flex;gap:var(--space-2);flex-wrap:wrap;}
+
+  /* breadcrumb (IA marker, in hero) */
+  .crumbs{margin-bottom:var(--space-3);font-family:var(--font-heading);font-size:var(--fs-sm);}
+  .crumbs ol{list-style:none;display:flex;flex-wrap:wrap;align-items:center;gap:.5em;margin:0;padding:0;}
+  .crumbs a{color:rgba(255,255,255,.86);font-weight:600;}
+  .crumbs a:hover{color:#fff;}
+  .crumbs li[aria-current]{color:#fff;font-weight:600;}
+  .crumbs svg{opacity:.6;}
+
+  /* ============ ACCORDION — faq ============ */
+  .faq .wrap{max-width:920px;}
+  .faq__intro{margin-bottom:var(--space-4);}
+  .faq__intro p{color:var(--slate);font-size:var(--fs-md);max-width:68ch;}
+  .faq__controls{display:flex;gap:var(--space-1);margin-top:var(--space-3);}
+  .faq__control{font-family:var(--font-heading);font-weight:600;font-size:var(--fs-sm);color:var(--action-blue);
+    background:transparent;border:1.5px solid rgba(1,33,105,.2);border-radius:var(--radius-btn);padding:.45em 1.1em;cursor:pointer;
+    transition:background .2s var(--ease-out),border-color .2s var(--ease-out);}
+  .faq__control:hover{background:var(--surface-cool);border-color:var(--action-blue);}
+
+  .faq__group{margin-top:var(--space-5);}
+  .faq__group:first-of-type{margin-top:0;}
+  .faq__group-title{font-size:var(--fs-xl);font-weight:700;color:var(--navy);
+    padding-bottom:var(--space-1);border-bottom:2px solid var(--surface-cool);margin-bottom:var(--space-2);}
+  .faq__list{display:flex;flex-direction:column;gap:var(--space-1);}
+
+  .faq__item{background:#fff;border:1px solid rgba(1,33,105,.14);border-radius:var(--radius-card);overflow:hidden;
+    transition:box-shadow .25s var(--ease-out),border-color .25s var(--ease-out);}
+  .faq__item[open]{box-shadow:var(--shadow-card);border-color:rgba(1,33,105,.2);}
+  .faq__q{list-style:none;cursor:pointer;display:flex;align-items:flex-start;justify-content:space-between;gap:var(--space-2);
+    padding:var(--space-3);font-family:var(--font-heading);font-weight:600;font-size:var(--fs-lg);color:var(--navy);line-height:1.3;}
+  .faq__q::-webkit-details-marker{display:none;}
+  .faq__q:hover{background:var(--surface-cool);}
+  .faq__chev{flex:none;width:24px;height:24px;color:var(--action-blue);margin-top:2px;transition:transform .3s var(--ease-out);}
+  .faq__item[open] .faq__chev{transform:rotate(180deg);}
+  .faq__a{padding:0 var(--space-3) var(--space-3);}
+  .faq__a p{color:var(--ink);font-size:var(--fs-md);line-height:1.65;max-width:70ch;}
+  @media (prefers-reduced-motion:no-preference){
+    .faq__item[open] .faq__a{animation:faq-in .3s var(--ease-out);}
+    @keyframes faq-in{from{opacity:0;transform:translateY(-4px);}to{opacity:1;transform:none;}}
+  }
+
+  /* ============ COLUMNS — connect ============ */
+  .connect .section-head{margin-bottom:var(--space-4);}
+  .connect-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:var(--space-4) var(--space-3);}
+  .connect-col h3{font-size:var(--fs-md);font-weight:700;color:var(--navy);
+    padding-bottom:var(--space-1);border-bottom:1px solid rgba(1,33,105,.14);margin-bottom:var(--space-2);}
+  .connect-col ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;}
+  .connect-col a{color:var(--action-blue);font-size:var(--fs-sm);font-weight:500;display:inline-flex;align-items:baseline;gap:.35em;}
+  .connect-foot{margin-top:var(--space-5);}
+
+  /* ============ FOOTER ============ */
+  .trust{background:var(--surface);border-top:1px solid rgba(1,33,105,.08);border-bottom:1px solid rgba(1,33,105,.08);}
+  .trust .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:var(--space-2) var(--space-4);padding-block:var(--space-3);justify-content:center;text-align:center;}
+  .trust__item{display:flex;align-items:center;gap:10px;color:var(--ink);font-size:var(--fs-sm);}
+  .trust__item svg{flex:none;color:var(--navy);}
+  .trust__ehl{display:flex;align-items:center;gap:8px;font-weight:500;}
+
+  .site-footer{background:var(--navy);color:#fff;}
+  .site-footer .wrap{padding-block:var(--space-6);}
+  .footer-connect h2{color:#fff;font-size:var(--fs-xl);margin-bottom:var(--space-3);}
+  .footer-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:var(--space-4);margin-top:var(--space-4);}
+  .footer-cols h4{color:#fff;font-size:var(--fs-sm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:var(--space-2);opacity:.85;}
+  .footer-cols ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;}
+  .footer-cols a{color:rgba(255,255,255,.9);font-size:var(--fs-sm);}
+  .footer-cols a:hover{color:#fff;}
+  .footer-social{display:flex;gap:var(--space-2);margin-top:var(--space-4);}
+  .footer-social a{width:40px;height:40px;border-radius:50%;border:1px solid rgba(255,255,255,.3);display:grid;place-items:center;color:#fff;}
+  .footer-social a:hover{background:rgba(255,255,255,.14);text-decoration:none;}
+  .footer-legal{border-top:1px solid rgba(255,255,255,.16);margin-top:var(--space-5);padding-top:var(--space-3);display:flex;flex-wrap:wrap;justify-content:space-between;gap:var(--space-2);align-items:center;}
+  .footer-legal p{color:rgba(255,255,255,.78);font-size:var(--fs-xs);}
+
+  /* ============ reveal motion ============ */
+  .reveal{opacity:1;transform:none;}
+  @media (prefers-reduced-motion:no-preference){
+    .reveal{opacity:0;transform:translateY(16px);transition:opacity .5s var(--ease-out),transform .5s var(--ease-out);}
+    .reveal.is-in{opacity:1;transform:none;}
+  }
+
+  /* ============ responsive ============ */
+  @media (max-width:900px){
+    :root{--pad-section:48px;}
+    .header-cta .btn--secondary{display:none;} /* sign-in lives in util bar on small */
+  }
+  @media (max-width:768px){
+    .nav-toggle{display:inline-flex;}
+    .primary-nav{
+      position:fixed;inset:0 0 0 auto;z-index:var(--z-nav-drawer);
+      width:min(82vw,320px);background:#fff;flex-direction:column;align-items:stretch;
+      padding:84px var(--space-3) var(--space-3);gap:4px;
+      box-shadow:-12px 0 40px rgba(0,0,0,.18);
+      transform:translateX(100%);transition:transform .35s var(--ease-out);
+    }
+    .primary-nav a{font-size:var(--fs-lg);padding:.7em .8em;border-bottom:1px solid var(--surface);border-radius:0;}
+    body.nav-open .primary-nav{transform:translateX(0);}
+    body.nav-open .nav-scrim{opacity:1;pointer-events:auto;}
+    .nav-scrim{position:fixed;inset:0;background:rgba(1,33,105,.45);z-index:var(--z-sticky);opacity:0;pointer-events:none;transition:opacity .35s var(--ease-out);}
+  }
+  @media (max-width:640px){
+    :root{--pad-section:32px;}
+    .util-bar .wrap{justify-content:center;gap:var(--space-2);}
+    .hero p{font-size:var(--fs-md);}
+    .hero__actions{flex-direction:column;align-items:stretch;}
+    .hero__actions .btn{width:100%;}
+    .section-head p{font-size:var(--fs-md);}
+    .faq__q{font-size:var(--fs-md);padding:var(--space-2);}
+    .faq__a{padding:0 var(--space-2) var(--space-2);}
+    .faq__controls{flex-direction:column;align-items:stretch;}
+    .footer-legal{flex-direction:column;align-items:flex-start;}
+    .brand .word span{display:none;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation-duration:.001ms !important;transition-duration:.001ms !important;scroll-behavior:auto !important;}
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+
+<!-- ===================== HEADER (system component) ===================== -->
+<header class="site-header" data-block="header">
+  <div class="util-bar">
+    <div class="wrap">
+      <a href="https://www.bankofamerica.com/security-center/overview/">Security</a>
+      <a href="https://about.bankofamerica.com/">About Us</a>
+      <a href="https://www.bankofamerica.com/es/" lang="es">En espa&ntilde;ol</a>
+      <a href="https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US">Contact Us</a>
+      <a href="https://www.bankofamerica.com/help/overview/?request_locale=en_US">Help</a>
+    </div>
+  </div>
+  <div class="header-main">
+    <div class="wrap">
+      <a class="brand" href="https://www.bankofamerica.com/" aria-label="Bank of America home">
+        <!-- inline flagscape-style mark: works on any background -->
+        <svg class="flag" viewBox="0 0 40 40" role="img" aria-hidden="true" focusable="false">
+          <rect width="40" height="40" rx="8" fill="#012169"/>
+          <path d="M9 26 L20 9 L23.5 14 L14.5 28 Z" fill="#E31837"/>
+          <path d="M16.5 28 L25.5 14 L29 19.4 L21 31 Z" fill="#fff"/>
+          <path d="M23.5 31 L31 19.6 L33 23 L29 31 Z" fill="#E31837"/>
+        </svg>
+        <span class="word">Bank of America<span>What would you like the power to do?</span></span>
+      </a>
+
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary">
+        <a href="#main">Personal</a>
+        <a href="https://www.ml.com/wealthmanagement.html">Wealth Management</a>
+        <a href="https://www.bankofamerica.com/business">Business</a>
+        <a href="https://business.bofa.com/content/boaml/en_us/home.html">Corporations &amp; Institutions</a>
+      </nav>
+
+      <div class="header-cta">
+        <a class="btn btn--primary" href="https://promo.bankofamerica.com/hp-oaa2/">Open an account</a>
+        <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="nav-scrim" id="nav-scrim" hidden></div>
+
+<main id="main">
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" data-block="hero" aria-labelledby="hero-h">
+    <img class="hero__bg" src="https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/man-driving-car.jpg" alt="" width="1440" height="600" fetchpriority="high" />
+    <div class="hero__scrim" aria-hidden="true"></div>
+    <div class="wrap">
+      <div class="hero__inner">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            <li><a href="/bankofamerica/auto-loans">Auto Loans</a></li>
+            <li aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></li>
+            <li aria-current="page">Auto Loan FAQs</li>
+          </ol>
+        </nav>
+        <h1 id="hero-h">Auto Loan FAQs</h1>
+        <p>Get the answers you need to common questions about new and used auto loans.</p>
+        <div class="hero__actions">
+          <a class="btn btn--on-photo" href="https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&amp;product=auto&amp;source=1&amp;channel=11">Apply for an auto loan</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== ACCORDION — faq ===================== -->
+  <section class="section faq" data-block="accordion" data-variant="faq" aria-labelledby="faq-h">
+    <div class="wrap">
+      <div class="faq__intro reveal">
+        <h2 id="faq-h" class="faq__group-title" style="border:0;padding:0;margin:0;font-size:var(--fs-2xl);">Frequently asked questions</h2>
+        <p>Browse answers by topic. Select a question to expand its answer.</p>
+        <div class="faq__controls" id="faq-controls" hidden>
+          <button type="button" class="faq__control" data-faq-action="expand">Expand all</button>
+          <button type="button" class="faq__control" data-faq-action="collapse">Collapse all</button>
+        </div>
+      </div>
+
+      <div class="faq__accordion" id="faq-accordion">
+
+        <div class="faq__group reveal">
+          <h2 class="faq__group-title">Auto Loans &amp; Rates</h2>
+          <div class="faq__list">
+
+            <details class="faq__item">
+              <summary class="faq__q">
+                Auto loan eligibility requirements and conditions
+                <svg class="faq__chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+              </summary>
+              <div class="faq__a">
+                <p>Vehicle financing provided by Bank of America. Credit and collateral are subject to approval. Terms and conditions apply. Automobile shopping content provided by automobile dealerships through a website provided by a third party not affiliated with Bank of America. Bank of America is not responsible for any automobile content, products or services.</p>
+              </div>
+            </details>
+
+            <details class="faq__item">
+              <summary class="faq__q">
+                Prequalifying for an auto loan
+                <svg class="faq__chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+              </summary>
+              <div class="faq__a">
+                <p>Prequalification is a preliminary review with no impact to your credit score. Prequalification is not an application, and it is not a commitment to lend or a loan approval. Prequalification requires your written instructions for a consumer reporting agency to release your credit information to Bank of America. To obtain financing, you will need to submit a complete application including additional information that is subject to Bank of America standard underwriting guidelines and credit policies. Additional information that will be requested and reviewed in an application includes, but is not limited to, employment, housing expense, ability to repay, collateral, coapplicant information if applicable, and any other information required. Prequalification is only available for dealer purchase of new or used vehicles. Prequalification will only present amounts between $10,000 and $85,000. Certain vehicle types may not be eligible for financing, for example Commercial vehicles like heavy-duty trucks (450/4500 series trucks and vans). Additional terms and conditions may apply, such as vehicle make, age and mileage. Please visit our Frequently Asked Questions for additional information.</p>
+              </div>
+            </details>
+
+          </div>
+        </div>
+
+        <div class="faq__group reveal">
+          <h2 class="faq__group-title">Auto Loan Basics</h2>
+          <div class="faq__list">
+
+            <details class="faq__item">
+              <summary class="faq__q">
+                Purchasing a vehicle
+                <svg class="faq__chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+              </summary>
+              <div class="faq__a">
+                <p>Bank of America works with thousands of automobile dealerships across the country to assist our customers with the financing of their new and used vehicles. Bank of America is not affiliated with these dealerships and does not require any particular dealership for your vehicle buying experience. Consequently, Bank of America makes no warranties and representations and is not otherwise responsible for any aspect related to the purchase of your vehicle and associated products and services from these authorized dealerships.</p>
+              </div>
+            </details>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COLUMNS — connect ===================== -->
+  <section class="section section--surface connect" data-block="columns" data-variant="connect" aria-labelledby="connect-h">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 id="connect-h">Connect with us</h2>
+        <p>Explore auto loan resources, rates, and servicing across Bank of America.</p>
+      </div>
+
+      <div class="connect-grid">
+
+        <div class="connect-col reveal">
+          <h3>Auto Loans &amp; Rates</h3>
+          <ul>
+            <li><a href="/bankofamerica/auto-loans">New &amp; Used Car Loans</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/auto-loan-rates/">Auto Loan Rates</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/disability-access-loans/">Accessible Vehicle Loans</a></li>
+            <li><a href="/bankofamerica/auto-loans/auto-loan-faq">Auto Loan FAQs</a></li>
+            <li><a href="https://promotions.bankofamerica.com/autoloans/electricvehicleresources">Electric Vehicles</a></li>
+            <li><a href="https://dealer-network.bankofamerica.com/rv-dealers/">Recreational Vehicles (RV)</a></li>
+          </ul>
+        </div>
+
+        <div class="connect-col reveal">
+          <h3>Calculator</h3>
+          <ul>
+            <li><a href="https://www.bankofamerica.com/auto-loans/auto-loan-calculator/">Auto Loan Calculator</a></li>
+          </ul>
+        </div>
+
+        <div class="connect-col reveal">
+          <h3>Auto Loan Basics</h3>
+          <ul>
+            <li><a href="https://www.bankofamerica.com/auto-loans/how-car-loans-work/">How Car Loans Work</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/financing-car/">How Financing a Car Works</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/buying-new-or-used-cars/">Buying a New or Used Car</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/what-to-know-when-buying-car/">Things to Know When Buying a Car</a></li>
+            <li><a href="https://www.bankofamerica.com/auto-loans/car-buying-process/">7 Car Buying Process Tips</a></li>
+          </ul>
+        </div>
+
+        <div class="connect-col reveal">
+          <h3>Manage Your Loan</h3>
+          <ul>
+            <li><a href="https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=VLSTATUS">Check Your Submitted Application Status</a></li>
+            <li><a href="https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=SNR&amp;flow=AUTO">Continue a Saved Application</a></li>
+            <li><a href="https://www.bankofamerica.com/customer-service/contact-us/auto-loans/?topicId=vehicle_oth_loans">Contact Us About Your Loan</a></li>
+            <li><a href="https://dealer-network.bankofamerica.com/">Find an Authorized Dealer</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="connect-foot reveal">
+        <a class="btn btn--secondary" href="/bankofamerica/auto-loans">Explore auto loans</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===================== FOOTER (system component) ===================== -->
+<footer class="site-footer" data-block="footer">
+
+  <!-- deliberate, quiet trust band -->
+  <div class="trust">
+    <div class="wrap">
+      <div class="trust__item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/></svg>
+        <span>FDIC-Insured &mdash; Backed by the full faith and credit of the U.S. Government</span>
+      </div>
+      <div class="trust__item trust__ehl">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v9h14v-9"/><rect x="10" y="13" width="4" height="6"/></svg>
+        <a href="https://www.bankofamerica.com/help/equalhousing-popup/">Equal Housing Lender</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap footer-connect">
+    <h2>Connect with us</h2>
+    <div class="footer-social" aria-label="Social media">
+      <a href="https://www.facebook.com/BankofAmerica" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M14 9h3V6h-3c-2 0-3.5 1.5-3.5 3.5V11H8v3h2.5v7h3v-7H16l.5-3h-3V9.5c0-.3.2-.5.5-.5z"/></svg></a>
+      <a href="https://instagram.com/bankofamerica/" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a>
+      <a href="https://www.linkedin.com/company/bank-of-america" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 9v9H3V9zm-1.5-4a1.7 1.7 0 110 3.4 1.7 1.7 0 010-3.4zM10 9h3v1.3c.5-.8 1.6-1.6 3.2-1.6 3 0 3.8 1.9 3.8 4.6V18h-3v-4.2c0-1.2-.4-2.1-1.6-2.1s-1.9.8-1.9 2v4.3h-3z"/></svg></a>
+      <a href="https://x.com/BankofAmerica" aria-label="X"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 3h3l-6.6 7.5L21.5 21h-5.7l-4.2-5.5L6.5 21h-3l7-8L2.5 3h5.8l3.8 5z"/></svg></a>
+      <a href="https://www.youtube.com/user/bankofamerica" aria-label="YouTube"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12s0-3-.4-4.3a2.6 2.6 0 00-1.8-1.8C18.5 5.5 12 5.5 12 5.5s-6.5 0-7.8.4a2.6 2.6 0 00-1.8 1.8C2 9 2 12 2 12s0 3 .4 4.3a2.6 2.6 0 001.8 1.8c1.3.4 7.8.4 7.8.4s6.5 0 7.8-.4a2.6 2.6 0 001.8-1.8C22 15 22 12 22 12zm-12 2.8V9.2l4.8 2.8z"/></svg></a>
+    </div>
+
+    <div class="footer-cols">
+      <div>
+        <h4>Products</h4>
+        <ul>
+          <li><a href="https://www.bankofamerica.com/deposits/checking/advantage-banking/">Checking</a></li>
+          <li><a href="https://www.bankofamerica.com/deposits/savings/savings-accounts/">Savings &amp; CDs</a></li>
+          <li><a href="https://www.bankofamerica.com/credit-cards/">Credit Cards</a></li>
+          <li><a href="https://www.bankofamerica.com/mortgage/home-mortgage/">Home Loans</a></li>
+          <li><a href="/bankofamerica/auto-loans">Auto Loans</a></li>
+          <li><a href="https://www.merrilledge.com/">Merrill Investing</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://about.bankofamerica.com/">About Us</a></li>
+          <li><a href="https://careers.bankofamerica.com/">Careers</a></li>
+          <li><a href="https://www.ml.com/wealthmanagement.html">Wealth Management</a></li>
+          <li><a href="https://www.bankofamerica.com/business">Business</a></li>
+          <li><a href="https://business.bofa.com/content/boaml/en_us/home.html">Corporations &amp; Institutions</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Support</h4>
+        <ul>
+          <li><a href="https://locators.bankofamerica.com/">Locations</a></li>
+          <li><a href="https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US">Contact Us</a></li>
+          <li><a href="https://www.bankofamerica.com/help/overview/?request_locale=en_US">Help &amp; Support</a></li>
+          <li><a href="https://www.bankofamerica.com/accessible-banking/overview">Accessible Banking</a></li>
+          <li><a href="https://www.bankofamerica.com/es/" lang="es">En espa&ntilde;ol</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal &amp; Security</h4>
+        <ul>
+          <li><a href="https://www.bankofamerica.com/security-center/overview/">Security</a></li>
+          <li><a href="https://web.bankofamerica.com/en/privacy">Privacy</a></li>
+          <li><a href="https://www.bankofamerica.com/childrens-privacy">Children&rsquo;s Privacy</a></li>
+          <li><a href="https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en_US">Online Banking Service Agreement</a></li>
+          <li><a href="https://www.bankofamerica.com/sitemap/personal.go?request_locale=en_US">Site Map</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-legal">
+      <p>&copy; 2026 Bank of America Corporation.</p>
+      <p>Banking products are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  (function(){
+    // Hamburger nav
+    var toggle=document.getElementById('nav-toggle');
+    var scrim=document.getElementById('nav-scrim');
+    var nav=document.getElementById('primary-nav');
+    function setOpen(open){
+      document.body.classList.toggle('nav-open',open);
+      toggle.setAttribute('aria-expanded',String(open));
+      toggle.setAttribute('aria-label',open?'Close menu':'Open menu');
+      scrim.hidden=!open;
+    }
+    toggle.addEventListener('click',function(){setOpen(!document.body.classList.contains('nav-open'));});
+    scrim.addEventListener('click',function(){setOpen(false);});
+    nav.addEventListener('click',function(e){if(e.target.tagName==='A')setOpen(false);});
+    document.addEventListener('keydown',function(e){if(e.key==='Escape')setOpen(false);});
+
+    // FAQ — expand/collapse all (progressive enhancement; details/summary work without JS)
+    var controls=document.getElementById('faq-controls');
+    var accordion=document.getElementById('faq-accordion');
+    if(controls&&accordion){
+      var items=accordion.querySelectorAll('details.faq__item');
+      if(items.length){
+        controls.hidden=false;
+        controls.addEventListener('click',function(e){
+          var btn=e.target.closest('[data-faq-action]');
+          if(!btn)return;
+          var open=btn.getAttribute('data-faq-action')==='expand';
+          items.forEach(function(d){d.open=open;});
+        });
+      }
+    }
+
+    // Scroll reveal — enhances already-visible content (default is visible)
+    if(window.matchMedia('(prefers-reduced-motion: no-preference)').matches && 'IntersectionObserver' in window){
+      var io=new IntersectionObserver(function(entries){
+        entries.forEach(function(en){
+          if(en.isIntersecting){en.target.classList.add('is-in');io.unobserve(en.target);}
+        });
+      },{rootMargin:'0px 0px -8% 0px',threshold:0.08});
+      document.querySelectorAll('.reveal').forEach(function(el){io.observe(el);});
+    } else {
+      document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('is-in');});
+    }
+  })();
+</script>
+</body>
+</html>

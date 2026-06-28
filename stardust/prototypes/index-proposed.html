@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+  _provenance:
+    writtenBy: stardust:prototype  (impeccable craft loop, hands-off run)
+    writtenAt: 2026-06-28
+    page: index (home)  role: Variant A — faithful + improvements
+    contentClassification: captured-verbatim
+      source: stardust/current/pages/index.json (Playwright capture of https://www.bankofamerica.com/)
+      rule: no invented facts, stats, names, or rates — every value sourced from capture
+    realAssets:
+      favicon:  https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png
+      heroMasthead: https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-background-images-mh_6pcent_1440_8478822_e.webp
+      cardImgCustomized: https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_cust_newcrd2_8478822_e.webp
+      cardImgTravel: https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-5779014_Travel_3.webp
+    blocks (one prototype <section> = one EDS block):
+      header · hero · cards[products] · cards[card-offers] · columns[news] · columns[security-app] · footer
+    improvements applied: #1 kill carousel→single hero · #2 one CTA per band · #3 16px ink body
+                          #4 single card system (14px radius, one shadow, 24px pills) · #5 calm header + deliberate FDIC trust band
+-->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bank of America - Banking, Credit Cards, Loans and Merrill Investing</title>
+<meta name="description" content="What would you like the power to do? At Bank of America, our purpose is to help make financial lives better through the power of every connection." />
+<link rel="icon" href="https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png" />
+<link rel="apple-touch-icon" href="https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    /* ---- DESIGN tokens (Bank of America — modernized faithful) ---- */
+    --navy:#012169;
+    --action-blue:#0053C2;
+    --red:#E31837;
+    --ink:#1A1A1A;
+    --slate:#5A5A5A;
+    --bg:#FFFFFF;
+    --surface:#F5F6F8;
+    --surface-cool:#EEF3FC;
+
+    --font-heading:"Inter",Arial,sans-serif;          /* humanist substitute for Connections */
+    --font-body:"Roboto",Arial,Helvetica,sans-serif;  /* BoA actual body face */
+    --fs-base:16px;
+    /* modular scale, ratio 1.25 from 16 */
+    --fs-xs:0.8rem;     /* ~13 — legal/footnote */
+    --fs-sm:0.875rem;   /* 14  — meta/secondary */
+    --fs-md:1rem;       /* 16  — body */
+    --fs-lg:1.25rem;    /* 20 */
+    --fs-xl:1.5625rem;  /* 25 */
+    --fs-2xl:1.9375rem; /* 31 */
+    --fs-3xl:clamp(2.1rem,1.4rem + 3vw,3.0625rem); /* up to 49 */
+
+    --radius-card:14px;
+    --radius-btn:24px;
+    --radius-chip:4px;
+
+    --space-1:8px; --space-2:16px; --space-3:24px; --space-4:32px;
+    --space-5:48px; --space-6:64px;
+
+    --pad-section:64px;       /* desktop */
+    --max:1200px;
+
+    --shadow-card:0 2px 20px rgba(0,0,0,.12);
+    --shadow-card-hover:0 8px 32px rgba(1,33,105,.18);
+    --shadow-header:0 1px 0 rgba(0,0,0,.08);
+
+    --ease-out:cubic-bezier(.22,1,.36,1);
+
+    /* z-scale */
+    --z-sticky:100; --z-nav-drawer:200; --z-skip:300;
+  }
+
+  *,*::before,*::after{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    font-family:var(--font-body);
+    font-size:var(--fs-base);
+    line-height:1.6;
+    color:var(--ink);
+    background:var(--bg);
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  h1,h2,h3,h4{font-family:var(--font-heading);color:var(--navy);margin:0;line-height:1.15;letter-spacing:-0.01em;text-wrap:balance;}
+  p{margin:0;text-wrap:pretty;}
+  a{color:var(--action-blue);text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  img{max-width:100%;display:block;}
+  :focus-visible{outline:3px solid var(--action-blue);outline-offset:2px;border-radius:2px;}
+
+  .wrap{max-width:var(--max);margin-inline:auto;padding-inline:clamp(20px,5vw,40px);}
+  .section{padding-block:var(--pad-section);}
+  .section--surface{background:var(--surface);}
+  .section--cool{background:var(--surface-cool);}
+
+  .section-head{max-width:60ch;margin-bottom:var(--space-5);}
+  .section-head h2{font-size:var(--fs-2xl);font-weight:700;}
+  .section-head p{margin-top:var(--space-2);color:var(--ink);font-size:var(--fs-lg);}
+
+  /* ---------- buttons ---------- */
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:.5em;
+    font-family:var(--font-heading);font-weight:600;font-size:var(--fs-md);
+    padding:.75em 1.75em;border-radius:var(--radius-btn);
+    border:1.5px solid transparent;cursor:pointer;
+    transition:background .25s var(--ease-out),color .25s var(--ease-out),border-color .25s var(--ease-out),transform .25s var(--ease-out);
+    text-decoration:none;
+  }
+  .btn:hover{text-decoration:none;}
+  .btn--primary{background:var(--action-blue);color:#fff;}
+  .btn--primary:hover{background:var(--navy);}
+  .btn--secondary{background:transparent;color:var(--navy);border-color:var(--navy);}
+  .btn--secondary:hover{background:var(--navy);color:#fff;}
+  .btn--on-photo{background:#fff;color:var(--navy);}
+  .btn--on-photo:hover{background:var(--surface-cool);transform:translateY(-1px);}
+
+  .link-arrow{font-family:var(--font-heading);font-weight:600;color:var(--action-blue);display:inline-flex;align-items:center;gap:.4em;}
+  .link-arrow svg{transition:transform .25s var(--ease-out);}
+  .link-arrow:hover svg{transform:translateX(3px);}
+
+  /* ============ HEADER ============ */
+  .site-header{position:sticky;top:0;z-index:var(--z-sticky);background:#fff;box-shadow:var(--shadow-header);}
+  .skip{position:absolute;left:-9999px;top:0;z-index:var(--z-skip);background:var(--navy);color:#fff;padding:.6em 1em;border-radius:0 0 6px 0;}
+  .skip:focus{left:0;}
+
+  .util-bar{background:var(--navy);color:#fff;font-size:var(--fs-sm);}
+  .util-bar .wrap{display:flex;justify-content:flex-end;align-items:center;gap:var(--space-3);min-height:38px;flex-wrap:wrap;padding-block:6px;}
+  .util-bar a{color:#fff;opacity:.92;font-family:var(--font-heading);}
+  .util-bar a:hover{opacity:1;text-decoration:underline;}
+
+  .header-main .wrap{display:flex;align-items:center;justify-content:space-between;gap:var(--space-3);min-height:76px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand .flag{flex:none;width:38px;height:38px;}
+  .brand .word{font-family:var(--font-heading);font-weight:700;font-size:var(--fs-lg);color:var(--navy);line-height:1.05;letter-spacing:-0.02em;}
+  .brand .word span{display:block;font-weight:500;font-size:var(--fs-sm);color:var(--slate);letter-spacing:0;}
+
+  .primary-nav{display:flex;align-items:center;gap:var(--space-1);}
+  .primary-nav a{font-family:var(--font-heading);font-weight:600;color:var(--ink);padding:.55em .9em;border-radius:8px;font-size:var(--fs-md);}
+  .primary-nav a:hover{background:var(--surface-cool);color:var(--navy);text-decoration:none;}
+  .header-cta{display:flex;align-items:center;gap:var(--space-2);}
+
+  .nav-toggle{display:none;background:none;border:1.5px solid var(--navy);border-radius:8px;padding:.5em .65em;cursor:pointer;color:var(--navy);}
+  .nav-toggle svg{display:block;}
+
+  /* ============ HERO ============ */
+  .hero{position:relative;background:var(--navy);color:#fff;overflow:hidden;isolation:isolate;}
+  .hero__bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2;}
+  /* legibility scrim */
+  .hero__scrim{position:absolute;inset:0;z-index:-1;
+    background:linear-gradient(100deg,rgba(1,33,105,.92) 0%,rgba(1,33,105,.74) 42%,rgba(1,33,105,.28) 72%,rgba(1,33,105,.12) 100%);}
+  .hero .wrap{position:relative;padding-block:clamp(56px,9vw,112px);}
+  .hero__inner{max-width:36rem;}
+  .hero__eyebrow{display:inline-flex;align-items:center;gap:.5em;font-family:var(--font-heading);font-weight:600;font-size:var(--fs-sm);
+    color:#fff;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);padding:.35em .85em;border-radius:var(--radius-chip);margin-bottom:var(--space-3);}
+  .hero h1{color:#fff;font-size:var(--fs-3xl);font-weight:700;letter-spacing:-0.025em;line-height:1.08;}
+  .hero p{margin-top:var(--space-3);font-size:var(--fs-lg);line-height:1.5;color:rgba(255,255,255,.94);max-width:34ch;}
+  .hero__actions{margin-top:var(--space-5);display:flex;gap:var(--space-2);flex-wrap:wrap;}
+
+  /* ============ CARDS — shared system ============ */
+  .card-grid{display:grid;gap:var(--space-3);}
+  .card-grid--products{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));}
+  .card-grid--offers{grid-template-columns:repeat(auto-fit,minmax(250px,1fr));}
+
+  .card{
+    background:#fff;border-radius:var(--radius-card);box-shadow:var(--shadow-card);
+    padding:var(--space-3);display:flex;flex-direction:column;gap:var(--space-1);
+    transition:transform .3s var(--ease-out),box-shadow .3s var(--ease-out);
+    border:1px solid rgba(1,33,105,.06);
+  }
+  .card:hover{transform:translateY(-4px);box-shadow:var(--shadow-card-hover);}
+  .card h3{font-size:var(--fs-lg);font-weight:700;}
+  .card p{color:var(--ink);font-size:var(--fs-md);flex-grow:1;}
+  .card .link-arrow{margin-top:var(--space-1);}
+  .card__mark{width:44px;height:44px;border-radius:10px;display:grid;place-items:center;background:var(--surface-cool);color:var(--navy);margin-bottom:var(--space-1);}
+  .card__mark svg{width:24px;height:24px;}
+
+  /* offer cards */
+  .offer{position:relative;overflow:hidden;}
+  .offer__badge{align-self:flex-start;display:inline-flex;align-items:baseline;gap:.3em;
+    background:var(--navy);color:#fff;border-radius:var(--radius-chip);padding:.4em .7em;margin-bottom:var(--space-1);}
+  .offer__badge b{font-family:var(--font-heading);font-weight:700;font-size:var(--fs-xl);line-height:1;}
+  .offer__badge span{font-size:var(--fs-sm);font-weight:500;}
+  .offer h3{font-size:var(--fs-lg);}
+  .offer__fee{color:var(--slate);font-size:var(--fs-sm);margin:0;}
+  .offer__cta{margin-top:var(--space-2);}
+
+  /* ============ COLUMNS — news ============ */
+  .news-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:var(--space-3);}
+  .news-card{background:#fff;border-radius:var(--radius-card);box-shadow:var(--shadow-card);padding:var(--space-3);display:flex;flex-direction:column;
+    border:1px solid rgba(1,33,105,.06);transition:transform .3s var(--ease-out),box-shadow .3s var(--ease-out);}
+  .news-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-card-hover);}
+  .news-card .tag{font-family:var(--font-heading);font-weight:600;font-size:var(--fs-xs);letter-spacing:.04em;text-transform:uppercase;color:var(--red);margin-bottom:var(--space-1);}
+  .news-card h3{font-size:var(--fs-md);font-weight:600;line-height:1.3;}
+  .news-card a.stretch{color:var(--navy);}
+  .news-card a.stretch::after{content:"";position:absolute;inset:0;}
+  .news-card{position:relative;}
+  .news-foot{margin-top:var(--space-4);}
+
+  /* ============ COLUMNS — security/app ============ */
+  .twoup{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:var(--space-3);}
+  .feature{border-radius:var(--radius-card);box-shadow:var(--shadow-card);overflow:hidden;display:flex;flex-direction:column;background:#fff;border:1px solid rgba(1,33,105,.06);}
+  .feature__body{padding:var(--space-4);display:flex;flex-direction:column;gap:var(--space-2);align-items:flex-start;}
+  .feature__icon{width:52px;height:52px;border-radius:12px;display:grid;place-items:center;background:var(--surface-cool);color:var(--navy);}
+  .feature__icon svg{width:28px;height:28px;}
+  .feature h3{font-size:var(--fs-xl);font-weight:700;}
+  .feature p{color:var(--ink);font-size:var(--fs-md);}
+  .feature--navy{background:var(--navy);border-color:var(--navy);}
+  .feature--navy h3{color:#fff;}
+  .feature--navy p{color:rgba(255,255,255,.92);}
+  .feature--navy .feature__icon{background:rgba(255,255,255,.14);color:#fff;}
+
+  /* ============ FOOTER ============ */
+  .trust{background:var(--surface);border-top:1px solid rgba(1,33,105,.08);border-bottom:1px solid rgba(1,33,105,.08);}
+  .trust .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:var(--space-2) var(--space-4);padding-block:var(--space-3);justify-content:center;text-align:center;}
+  .trust__item{display:flex;align-items:center;gap:10px;color:var(--ink);font-size:var(--fs-sm);}
+  .trust__item svg{flex:none;color:var(--navy);}
+  .trust__ehl{display:flex;align-items:center;gap:8px;font-weight:500;}
+
+  .site-footer{background:var(--navy);color:#fff;}
+  .site-footer .wrap{padding-block:var(--space-6);}
+  .footer-connect h2{color:#fff;font-size:var(--fs-xl);margin-bottom:var(--space-3);}
+  .footer-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:var(--space-4);margin-top:var(--space-4);}
+  .footer-cols h4{color:#fff;font-size:var(--fs-sm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:var(--space-2);opacity:.85;}
+  .footer-cols ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;}
+  .footer-cols a{color:rgba(255,255,255,.9);font-size:var(--fs-sm);}
+  .footer-cols a:hover{color:#fff;}
+  .footer-social{display:flex;gap:var(--space-2);margin-top:var(--space-4);}
+  .footer-social a{width:40px;height:40px;border-radius:50%;border:1px solid rgba(255,255,255,.3);display:grid;place-items:center;color:#fff;}
+  .footer-social a:hover{background:rgba(255,255,255,.14);text-decoration:none;}
+  .footer-legal{border-top:1px solid rgba(255,255,255,.16);margin-top:var(--space-5);padding-top:var(--space-3);display:flex;flex-wrap:wrap;justify-content:space-between;gap:var(--space-2);align-items:center;}
+  .footer-legal p{color:rgba(255,255,255,.78);font-size:var(--fs-xs);}
+
+  /* ============ reveal motion ============ */
+  .reveal{opacity:1;transform:none;}
+  @media (prefers-reduced-motion:no-preference){
+    .reveal{opacity:0;transform:translateY(16px);transition:opacity .5s var(--ease-out),transform .5s var(--ease-out);}
+    .reveal.is-in{opacity:1;transform:none;}
+  }
+
+  /* ============ responsive ============ */
+  @media (max-width:900px){
+    :root{--pad-section:48px;}
+    .header-cta .btn--secondary{display:none;} /* sign-in lives in util bar on small */
+  }
+  @media (max-width:768px){
+    .nav-toggle{display:inline-flex;}
+    .primary-nav{
+      position:fixed;inset:0 0 0 auto;z-index:var(--z-nav-drawer);
+      width:min(82vw,320px);background:#fff;flex-direction:column;align-items:stretch;
+      padding:84px var(--space-3) var(--space-3);gap:4px;
+      box-shadow:-12px 0 40px rgba(0,0,0,.18);
+      transform:translateX(100%);transition:transform .35s var(--ease-out);
+    }
+    .primary-nav a{font-size:var(--fs-lg);padding:.7em .8em;border-bottom:1px solid var(--surface);border-radius:0;}
+    body.nav-open .primary-nav{transform:translateX(0);}
+    body.nav-open .nav-scrim{opacity:1;pointer-events:auto;}
+    .nav-scrim{position:fixed;inset:0;background:rgba(1,33,105,.45);z-index:var(--z-sticky);opacity:0;pointer-events:none;transition:opacity .35s var(--ease-out);}
+  }
+  @media (max-width:640px){
+    :root{--pad-section:32px;}
+    .util-bar .wrap{justify-content:center;gap:var(--space-2);}
+    .hero p{font-size:var(--fs-md);}
+    .hero__actions{flex-direction:column;align-items:stretch;}
+    .hero__actions .btn{width:100%;}
+    .section-head p{font-size:var(--fs-md);}
+    .footer-legal{flex-direction:column;align-items:flex-start;}
+    .brand .word span{display:none;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation-duration:.001ms !important;transition-duration:.001ms !important;scroll-behavior:auto !important;}
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+
+<!-- ===================== HEADER (system component) ===================== -->
+<header class="site-header" data-block="header">
+  <div class="util-bar">
+    <div class="wrap">
+      <a href="https://www.bankofamerica.com/security-center/overview/">Security</a>
+      <a href="https://about.bankofamerica.com/">About Us</a>
+      <a href="https://www.bankofamerica.com/es/" lang="es">En espa&ntilde;ol</a>
+      <a href="https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US">Contact Us</a>
+      <a href="https://www.bankofamerica.com/help/overview/?request_locale=en_US">Help</a>
+    </div>
+  </div>
+  <div class="header-main">
+    <div class="wrap">
+      <a class="brand" href="https://www.bankofamerica.com/" aria-label="Bank of America home">
+        <!-- inline flagscape-style mark: works on any background -->
+        <svg class="flag" viewBox="0 0 40 40" role="img" aria-hidden="true" focusable="false">
+          <rect width="40" height="40" rx="8" fill="#012169"/>
+          <path d="M9 26 L20 9 L23.5 14 L14.5 28 Z" fill="#E31837"/>
+          <path d="M16.5 28 L25.5 14 L29 19.4 L21 31 Z" fill="#fff"/>
+          <path d="M23.5 31 L31 19.6 L33 23 L29 31 Z" fill="#E31837"/>
+        </svg>
+        <span class="word">Bank of America<span>What would you like the power to do?</span></span>
+      </a>
+
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary">
+        <a href="#main">Personal</a>
+        <a href="https://www.ml.com/wealthmanagement.html">Wealth Management</a>
+        <a href="https://www.bankofamerica.com/business">Business</a>
+        <a href="https://business.bofa.com/content/boaml/en_us/home.html">Corporations &amp; Institutions</a>
+      </nav>
+
+      <div class="header-cta">
+        <a class="btn btn--primary" href="https://promo.bankofamerica.com/hp-oaa2/">Open an account</a>
+        <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="nav-scrim" id="nav-scrim" hidden></div>
+
+<main id="main">
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" data-block="hero" aria-labelledby="hero-h">
+    <img class="hero__bg" src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-background-images-mh_6pcent_1440_8478822_e.webp" alt="" width="1440" height="703" fetchpriority="high" />
+    <div class="hero__scrim" aria-hidden="true"></div>
+    <div class="wrap">
+      <div class="hero__inner">
+        <span class="hero__eyebrow">Bank of America</span>
+        <h1 id="hero-h">What would you like the power to do?</h1>
+        <p>At Bank of America, our purpose is to help make financial lives better through the power of every connection.</p>
+        <div class="hero__actions">
+          <a class="btn btn--on-photo" href="https://promo.bankofamerica.com/hp-oaa2/">Open an account</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CARDS — products ===================== -->
+  <section class="section" data-block="cards" data-variant="products" aria-labelledby="products-h">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 id="products-h">Your financial goals matter</h2>
+        <p>Explore the products that meet you where you are — banking, borrowing, and investing.</p>
+      </div>
+      <div class="card-grid card-grid--products">
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><line x1="2.5" y1="9.5" x2="21.5" y2="9.5"/></svg></span>
+          <h3>Checking</h3>
+          <p>Stay flexible with Bank of America Advantage Banking</p>
+          <a class="link-arrow" href="https://www.bankofamerica.com/deposits/checking/advantage-banking/">Explore checking solutions <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l8 4v5c0 4.5-3.2 7.5-8 9-4.8-1.5-8-4.5-8-9V7z"/><path d="M9 12l2 2 4-4"/></svg></span>
+          <h3>Savings &amp; CDs</h3>
+          <p>Savings made simple and rewarding</p>
+          <a class="link-arrow" href="https://www.bankofamerica.com/deposits/savings/savings-accounts/">Explore savings <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><line x1="2.5" y1="9.5" x2="21.5" y2="9.5"/><line x1="6" y1="14.5" x2="11" y2="14.5"/></svg></span>
+          <h3>Credit Cards</h3>
+          <p>Find the perfect credit card from among our most popular options</p>
+          <a class="link-arrow" href="https://www.bankofamerica.com/credit-cards/">Explore credit cards <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 11l9-7 9 7"/><path d="M5 10v9h14v-9"/><path d="M10 19v-5h4v5"/></svg></span>
+          <h3>Home Loans</h3>
+          <p>Get the right mortgage to finance your new home</p>
+          <a class="link-arrow" href="https://www.bankofamerica.com/mortgage/home-mortgage/">Explore home loans <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 16l1.5-5h11L19 16"/><rect x="3" y="16" width="18" height="4" rx="1.2"/><circle cx="7.5" cy="20.5" r="1.3"/><circle cx="16.5" cy="20.5" r="1.3"/></svg></span>
+          <h3>Auto Loans</h3>
+          <p>Competitive rates on dealer purchase loans</p>
+          <a class="link-arrow" href="https://www.bankofamerica.com/auto-loans/">Explore auto loans <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+        <article class="card reveal">
+          <span class="card__mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19V8M9 19v-7M14 19V5M19 19v-9"/><line x1="3" y1="19.5" x2="21" y2="19.5"/></svg></span>
+          <h3>Merrill Investing</h3>
+          <p>Reinventing what it means to be a confident investor</p>
+          <a class="link-arrow" href="https://www.merrilledge.com/">Explore investing <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CARDS — card-offers ===================== -->
+  <section class="section section--cool" data-block="cards" data-variant="card-offers" aria-labelledby="offers-h">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 id="offers-h">Choose the card that works for you</h2>
+        <p>Compare our most popular cards — each with no annual fee.</p>
+      </div>
+      <div class="card-grid card-grid--offers">
+
+        <article class="card offer reveal">
+          <span class="offer__badge"><b>6%</b><span>cash back offer</span></span>
+          <h3>Customized Cash Rewards</h3>
+          <p class="offer__fee">No annual fee.</p>
+          <a class="btn btn--primary offer__cta" href="https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&amp;productOfferCode=YH&amp;cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn">Apply now</a>
+        </article>
+
+        <article class="card offer reveal">
+          <span class="offer__badge"><b>2%</b><span>cash back offer</span></span>
+          <h3>Unlimited Cash Rewards</h3>
+          <p class="offer__fee">No annual fee.</p>
+          <a class="btn btn--primary offer__cta" href="https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&amp;productOfferCode=43&amp;cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn">Apply now</a>
+        </article>
+
+        <article class="card offer reveal">
+          <span class="offer__badge"><b>1.5</b><span>points for every $1</span></span>
+          <h3>Travel Rewards</h3>
+          <p class="offer__fee">No annual fee.</p>
+          <a class="btn btn--primary offer__cta" href="https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&amp;campaignId=4079353&amp;productOfferCode=S8&amp;locale=en_US&amp;cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn">Apply now</a>
+        </article>
+
+        <article class="card offer reveal">
+          <span class="offer__badge"><b>21</b><span>billing cycles intro APR</span></span>
+          <h3>BankAmericard&reg;</h3>
+          <p class="offer__fee">No annual fee.</p>
+          <a class="btn btn--primary offer__cta" href="https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&amp;campaignId=4079426&amp;productOfferCode=AP&amp;locale=en_US&amp;cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn">Learn more</a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COLUMNS — news ===================== -->
+  <section class="section" data-block="columns" data-variant="news" aria-labelledby="news-h">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 id="news-h">Your news and information</h2>
+        <p>We can help you achieve your goals through Better Money Habits&reg; financial education and programs that make communities stronger.</p>
+      </div>
+      <div class="news-grid">
+
+        <article class="news-card reveal">
+          <span class="tag">Better Money Habits&reg;</span>
+          <h3><a class="stretch" href="https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-confessions?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N6_BMH_Homepage-Tile-1-Q22026-_-BAC.com-Education-Tiles">Money Confessions &#8208; real people, real spending</a></h3>
+        </article>
+
+        <article class="news-card reveal">
+          <span class="tag">Better Money Habits&reg;</span>
+          <h3><a class="stretch" href="https://bettermoneyhabits.bankofamerica.com/en/home-ownership/benefits-of-using-home-equity?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N7_BMH_Homepage-Tile-2-Q22026-_-BAC.com-Education-Tiles">How does a home equity line of credit work?</a></h3>
+        </article>
+
+        <article class="news-card reveal">
+          <span class="tag">Better Money Habits&reg;</span>
+          <h3><a class="stretch" href="https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-market-vs-cd-vs-savings?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N8_BMH_Homepage-Tile-3-Q22026-_-BAC.com-Education-Tiles">Savings accounts and CDs</a></h3>
+        </article>
+
+        <article class="news-card reveal">
+          <span class="tag">Better Money Habits&reg;</span>
+          <h3><a class="stretch" href="https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-saving-challenges?cm_mmc=EBZ-FinancialEducation-_-Module-Ad-_-EF16LT00D2_BMH_Homepage-Tile-4-_-BAC.com-Education-Tiles">Retrain your brain for saving</a></h3>
+        </article>
+
+      </div>
+      <div class="news-foot reveal">
+        <a class="btn btn--secondary" href="https://bettermoneyhabits.bankofamerica.com/en">Visit Better Money Habits&reg;</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COLUMNS — security/app ===================== -->
+  <section class="section section--surface" data-block="columns" data-variant="security-app" aria-label="Account security and mobile app">
+    <div class="wrap">
+      <div class="twoup">
+
+        <article class="feature reveal">
+          <div class="feature__body">
+            <span class="feature__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg></span>
+            <h3>Level up your account security</h3>
+            <p>Watch your security meter rise as you take action to help protect against fraud. See it in the Security Center in Mobile and Online Banking.</p>
+            <a class="btn btn--primary" href="https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=securitycenter&amp;version=21.09&amp;screen=ProfileAndSettings:SecurityCenterHome&amp;channel=desktop&amp;cm_sp=MobileSecurity-_-NotAssigned-_-M1T0LT7101_YNISecurityMeter2023_YNICta">Check your account security level</a>
+          </div>
+        </article>
+
+        <article class="feature feature--navy reveal">
+          <div class="feature__body">
+            <span class="feature__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="6" y="2.5" width="12" height="19" rx="2.5"/><line x1="10" y1="18.5" x2="14" y2="18.5"/></svg></span>
+            <h3>Convenient banking with our Mobile app</h3>
+            <p>Bank on the go — check balances, deposit checks, pay bills, and manage your accounts wherever you are.</p>
+            <a class="btn btn--on-photo" href="https://promotions.bankofamerica.com/digitalbanking/mobilebanking/?cm_sp=MobileAlerts-_-Default-_-MAY4QU6W01_Highlights_NH_2024DefaultmobilealertHL3_mobileAcquisitionQ1RefreshHl">Get the app</a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===================== FOOTER (system component) ===================== -->
+<footer class="site-footer" data-block="footer">
+
+  <!-- deliberate, quiet trust band -->
+  <div class="trust">
+    <div class="wrap">
+      <div class="trust__item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/></svg>
+        <span>FDIC-Insured &mdash; Backed by the full faith and credit of the U.S. Government</span>
+      </div>
+      <div class="trust__item trust__ehl">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v9h14v-9"/><rect x="10" y="13" width="4" height="6"/></svg>
+        <a href="https://www.bankofamerica.com/help/equalhousing-popup/">Equal Housing Lender</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap footer-connect">
+    <h2>Connect with us</h2>
+    <div class="footer-social" aria-label="Social media">
+      <a href="https://www.facebook.com/BankofAmerica" aria-label="Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M14 9h3V6h-3c-2 0-3.5 1.5-3.5 3.5V11H8v3h2.5v7h3v-7H16l.5-3h-3V9.5c0-.3.2-.5.5-.5z"/></svg></a>
+      <a href="https://instagram.com/bankofamerica/" aria-label="Instagram"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a>
+      <a href="https://www.linkedin.com/company/bank-of-america" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 9v9H3V9zm-1.5-4a1.7 1.7 0 110 3.4 1.7 1.7 0 010-3.4zM10 9h3v1.3c.5-.8 1.6-1.6 3.2-1.6 3 0 3.8 1.9 3.8 4.6V18h-3v-4.2c0-1.2-.4-2.1-1.6-2.1s-1.9.8-1.9 2v4.3h-3z"/></svg></a>
+      <a href="https://x.com/BankofAmerica" aria-label="X"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 3h3l-6.6 7.5L21.5 21h-5.7l-4.2-5.5L6.5 21h-3l7-8L2.5 3h5.8l3.8 5z"/></svg></a>
+      <a href="https://www.youtube.com/user/bankofamerica" aria-label="YouTube"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12s0-3-.4-4.3a2.6 2.6 0 00-1.8-1.8C18.5 5.5 12 5.5 12 5.5s-6.5 0-7.8.4a2.6 2.6 0 00-1.8 1.8C2 9 2 12 2 12s0 3 .4 4.3a2.6 2.6 0 001.8 1.8c1.3.4 7.8.4 7.8.4s6.5 0 7.8-.4a2.6 2.6 0 001.8-1.8C22 15 22 12 22 12zm-12 2.8V9.2l4.8 2.8z"/></svg></a>
+    </div>
+
+    <div class="footer-cols">
+      <div>
+        <h4>Products</h4>
+        <ul>
+          <li><a href="https://www.bankofamerica.com/deposits/checking/advantage-banking/">Checking</a></li>
+          <li><a href="https://www.bankofamerica.com/deposits/savings/savings-accounts/">Savings &amp; CDs</a></li>
+          <li><a href="https://www.bankofamerica.com/credit-cards/">Credit Cards</a></li>
+          <li><a href="https://www.bankofamerica.com/mortgage/home-mortgage/">Home Loans</a></li>
+          <li><a href="https://www.bankofamerica.com/auto-loans/">Auto Loans</a></li>
+          <li><a href="https://www.merrilledge.com/">Merrill Investing</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://about.bankofamerica.com/">About Us</a></li>
+          <li><a href="https://careers.bankofamerica.com/">Careers</a></li>
+          <li><a href="https://www.ml.com/wealthmanagement.html">Wealth Management</a></li>
+          <li><a href="https://www.bankofamerica.com/business">Business</a></li>
+          <li><a href="https://business.bofa.com/content/boaml/en_us/home.html">Corporations &amp; Institutions</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Support</h4>
+        <ul>
+          <li><a href="https://locators.bankofamerica.com/">Locations</a></li>
+          <li><a href="https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US">Contact Us</a></li>
+          <li><a href="https://www.bankofamerica.com/help/overview/?request_locale=en_US">Help &amp; Support</a></li>
+          <li><a href="https://www.bankofamerica.com/accessible-banking/overview">Accessible Banking</a></li>
+          <li><a href="https://www.bankofamerica.com/es/" lang="es">En espa&ntilde;ol</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal &amp; Security</h4>
+        <ul>
+          <li><a href="https://www.bankofamerica.com/security-center/overview/">Security</a></li>
+          <li><a href="https://web.bankofamerica.com/en/privacy">Privacy</a></li>
+          <li><a href="https://www.bankofamerica.com/childrens-privacy">Children&rsquo;s Privacy</a></li>
+          <li><a href="https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en_US">Online Banking Service Agreement</a></li>
+          <li><a href="https://www.bankofamerica.com/sitemap/personal.go?request_locale=en_US">Site Map</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-legal">
+      <p>&copy; 2026 Bank of America Corporation.</p>
+      <p>Banking products are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  (function(){
+    // Hamburger nav
+    var toggle=document.getElementById('nav-toggle');
+    var scrim=document.getElementById('nav-scrim');
+    var nav=document.getElementById('primary-nav');
+    function setOpen(open){
+      document.body.classList.toggle('nav-open',open);
+      toggle.setAttribute('aria-expanded',String(open));
+      toggle.setAttribute('aria-label',open?'Close menu':'Open menu');
+      scrim.hidden=!open;
+    }
+    toggle.addEventListener('click',function(){setOpen(!document.body.classList.contains('nav-open'));});
+    scrim.addEventListener('click',function(){setOpen(false);});
+    nav.addEventListener('click',function(e){if(e.target.tagName==='A')setOpen(false);});
+    document.addEventListener('keydown',function(e){if(e.key==='Escape')setOpen(false);});
+
+    // Scroll reveal — enhances already-visible content (default is visible)
+    if(window.matchMedia('(prefers-reduced-motion: no-preference)').matches && 'IntersectionObserver' in window){
+      var io=new IntersectionObserver(function(entries){
+        entries.forEach(function(en){
+          if(en.isIntersecting){en.target.classList.add('is-in');io.unobserve(en.target);}
+        });
+      },{rootMargin:'0px 0px -8% 0px',threshold:0.08});
+      document.querySelectorAll('.reveal').forEach(function(el){io.observe(el);});
+    } else {
+      document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('is-in');});
+    }
+  })();
+</script>
+</body>
+</html>
