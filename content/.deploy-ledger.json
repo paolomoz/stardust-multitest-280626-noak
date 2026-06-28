@@ -1,17 +1,26 @@
 {
-  "/paramount/news": {
+  "/paramount/about/brands": {
     "status": "live",
     "attempts": 1,
-    "ts": "2026-06-28T17:09:14.392Z",
+    "ts": "2026-06-28T17:15:13.752Z",
     "put": 200,
     "preview": 200,
     "live": 200,
     "verify": "ok"
   },
-  "/paramount/press": {
+  "/paramount/about/businesses": {
     "status": "live",
     "attempts": 1,
-    "ts": "2026-06-28T17:09:14.393Z",
+    "ts": "2026-06-28T17:15:13.752Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/paramount/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:15:13.752Z",
     "put": 200,
     "preview": 200,
     "live": 200,
