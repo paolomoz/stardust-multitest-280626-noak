@@ -1,0 +1,11 @@
+{
+  "/bankofamerica/auto-loans/auto-loan-faq": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:34:58.338Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

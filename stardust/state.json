@@ -48,59 +48,66 @@
   "pages": [
     {
       "slug": "index",
-      "status": "approved",
+      "status": "deployed",
       "type": "landing",
       "template": "home",
       "currentStatePath": "stardust/current/pages/index.json",
-      "prototypePath": "stardust/prototypes/index-proposed.html"
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/"
     },
     {
       "slug": "credit-cards",
-      "status": "approved",
+      "status": "deployed",
       "type": "listing",
       "template": "category-overview",
       "currentStatePath": "stardust/current/pages/credit-cards.json",
-      "prototypePath": "stardust/prototypes/credit-cards-proposed.html"
+      "prototypePath": "stardust/prototypes/credit-cards-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/credit-cards"
     },
     {
       "slug": "credit-cards-cash-back-credit-cards",
-      "status": "approved",
+      "status": "deployed",
       "type": "listing",
       "template": "product-listing",
       "currentStatePath": "stardust/current/pages/credit-cards-cash-back-credit-cards.json",
-      "prototypePath": "stardust/prototypes/credit-cards-cash-back-credit-cards-proposed.html"
+      "prototypePath": "stardust/prototypes/credit-cards-cash-back-credit-cards-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/credit-cards/cash-back-credit-cards"
     },
     {
       "slug": "auto-loans-auto-loan-faq",
-      "status": "approved",
+      "status": "deployed",
       "type": "article",
       "template": "faq-article",
       "currentStatePath": "stardust/current/pages/auto-loans-auto-loan-faq.json",
-      "prototypePath": "stardust/prototypes/auto-loans-auto-loan-faq-proposed.html"
+      "prototypePath": "stardust/prototypes/auto-loans-auto-loan-faq-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/auto-loans/auto-loan-faq"
     },
     {
       "slug": "preferred-rewards",
-      "status": "approved",
+      "status": "deployed",
       "type": "program",
       "template": "program",
       "currentStatePath": "stardust/current/pages/preferred-rewards.json",
-      "prototypePath": "stardust/prototypes/preferred-rewards-proposed.html"
+      "prototypePath": "stardust/prototypes/preferred-rewards-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/preferred-rewards"
     },
     {
       "slug": "customer-service-contact-us-about-bank-of-america",
-      "status": "approved",
+      "status": "deployed",
       "type": "static",
       "template": "informational",
       "currentStatePath": "stardust/current/pages/customer-service-contact-us-about-bank-of-america.json",
-      "prototypePath": "stardust/prototypes/customer-service-contact-us-about-bank-of-america-proposed.html"
+      "prototypePath": "stardust/prototypes/customer-service-contact-us-about-bank-of-america-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/customer-service/contact-us/about-bank-of-america"
     },
     {
       "slug": "customer-service-contact-us",
-      "status": "approved",
+      "status": "deployed",
       "type": "static",
       "template": "contact-hub",
       "currentStatePath": "stardust/current/pages/customer-service-contact-us.json",
-      "prototypePath": "stardust/prototypes/customer-service-contact-us-proposed.html"
+      "prototypePath": "stardust/prototypes/customer-service-contact-us-proposed.html",
+      "deliveredUrl": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page/bankofamerica/customer-service/contact-us"
     },
     {
       "slug": "auto-loans",
@@ -125,5 +132,13 @@
     "directionFile": "stardust/direction.md",
     "mode": "A",
     "variantMode": "single"
+  },
+  "deploy": {
+    "deployedAt": "2026-06-28",
+    "count": 7,
+    "host": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page",
+    "verify": "7/7 200 .plain.html, 1 h1, 0 about:error",
+    "headlessRender": "7/7 PASS",
+    "internalLinks": "all 200"
   }
 }

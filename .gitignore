@@ -21,3 +21,5 @@ samples/
 
 .env
 .env.*
+render-check.mjs
+grid-debug.mjs
