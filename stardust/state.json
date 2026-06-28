@@ -46,10 +46,10 @@
     {
       "slug": "index",
       "url": "https://www.starbucks.com/",
-      "status": "directed",
+      "status": "approved",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/index.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null,
       "headings": 11,
       "imgs": 5,
