@@ -66,6 +66,12 @@ export default async function decorate(block) {
     grid.append(card);
   });
 
+  const section = block.closest('.section');
+  if (section) {
+    if (variant === 'features') section.classList.add('dark');
+    if (variant === 'values') section.classList.add('surface');
+  }
+
   block.textContent = '';
   if (head) {
     const h = document.createElement('div');

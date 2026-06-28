@@ -1,0 +1,128 @@
+{
+  "/samsung/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:11:59.374Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:11:59.374Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:11:59.374Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/aboutsamsung": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:11:59.374Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/explore/life-hacks/how-to-work-from-home-and-win-the-day": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:04.536Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/explore/life-hacks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:04.555Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/explore": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:07.228Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/home-appliances": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:07.801Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/monitors": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:11.205Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/offers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:11.213Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/smartphones/galaxy-s25-ultra": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:11.305Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/smartphones": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:11.734Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/support": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:15.632Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/samsung/us/tvs/all-tvs": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:12:17.793Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

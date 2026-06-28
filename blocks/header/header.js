@@ -36,6 +36,7 @@ export default async function decorate(block) {
   block.textContent = '';
   const nav = document.createElement('nav');
   nav.id = 'nav';
+  nav.className = 'nav';
   nav.setAttribute('aria-label', 'Main navigation');
 
   const logo = document.createElement('a');

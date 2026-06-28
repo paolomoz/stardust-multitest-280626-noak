@@ -23,4 +23,9 @@ export default async function decorate(block) {
   row.append(media, text);
   block.textContent = '';
   block.append(row);
+
+  if (block.classList.contains('reverse')) {
+    const section = block.closest('.section');
+    if (section) section.classList.add('surface');
+  }
 }
