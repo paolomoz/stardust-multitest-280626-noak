@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+_provenance:
+  renderedBy: stardust:prototype (impeccable craft Step 4, no-image-gen path)
+  renderedAt: 2026-06-28
+  mode: A (brand-faithful)
+  surprise: low
+  fidelity: refined
+  source: stardust/current/pages/home.json (all copy/stats captured-verbatim)
+  signatureElements:
+    - kind: background-video
+      capturedSource: Sycamore-Partners-Animation.mp4
+      mechanism: inline autoplay/muted/loop bg video in hero
+      fallback: poster + prefers-reduced-motion still + scrim
+  voiceClassification: captured-verbatim (headline, intro, stats, disclaimer, news titles, company names)
+  copyCadenceBypass: { rules: [em-dash-overuse, marketing-buzzword], basis: captured-verbatim }
+  unsourcedContent: []
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>if(!(window.matchMedia&&window.matchMedia('(prefers-reduced-motion:reduce)').matches)){document.documentElement.classList.add('js-reveal')}</script>
+<title>Private Equity | Sycamore Partners</title>
+<meta name="description" content="Sycamore Partners is a private equity firm based in New York specializing in consumer, distribution and retail-related investments.">
+<link rel="icon" href="https://sycamorepartners.com/images/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="https://sycamorepartners.com/images/favicon/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --forest:#4f752d;
+  --forest-deep:#3c5a22;
+  --sage:#78915c;
+  --canvas:#ffffff;
+  --parchment:#fafafa;
+  --ink:#23211f;
+  --text:#333333;
+  --text-warm:#4f5047;
+  --line:#e3e1dc;
+  --muted:#7a786f;
+  --navy:#041e42;
+  --serif:"Merriweather",Georgia,serif;
+  --sans:"Work Sans",system-ui,sans-serif;
+  --pad-block:64px;
+  --maxw:1200px;
+  --ease:cubic-bezier(0.16,1,0.3,1);
+  --z-header:100;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--sans);color:var(--text);background:var(--canvas);line-height:1.6;font-size:17px;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--serif);color:var(--ink);font-weight:700;line-height:1.18;letter-spacing:-0.01em;text-wrap:balance}
+p{text-wrap:pretty}
+a{color:var(--forest-deep);text-decoration:none}
+img{max-width:100%;display:block}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:24px}
+.eyebrow{font-family:var(--sans);font-size:.78rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--forest);margin-bottom:.6rem}
+.btn{display:inline-flex;align-items:center;gap:.5em;font-family:var(--sans);font-weight:600;font-size:.95rem}
+.btn-primary{background:var(--forest);color:#fff;padding:.85em 1.6em;border-radius:2px;transition:background .25s var(--ease)}
+.btn-primary:hover{background:var(--forest-deep)}
+.link-arrow{color:var(--forest-deep);font-weight:600;display:inline-flex;align-items:center;gap:.4em}
+.link-arrow::after{content:"\2192";transition:transform .25s var(--ease)}
+.link-arrow:hover::after{transform:translateX(.25em)}
+
+/* header */
+.site-header{position:sticky;top:0;z-index:var(--z-header);background:rgba(255,255,255,.94);backdrop-filter:saturate(150%) blur(8px);border-bottom:1px solid var(--line)}
+.site-header .wrap{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:74px}
+.brand img{height:46px;width:auto}
+.nav-toggle{display:none;background:none;border:0;cursor:pointer;width:44px;height:44px;align-items:center;justify-content:center}
+.nav-toggle span,.nav-toggle span::before,.nav-toggle span::after{content:"";display:block;width:24px;height:2px;background:var(--ink);position:relative;transition:transform .3s var(--ease),opacity .2s}
+.nav-toggle span::before{position:absolute;top:-7px}
+.nav-toggle span::after{position:absolute;top:7px}
+.main-nav ul{list-style:none;display:flex;gap:34px}
+.main-nav a{font-family:var(--sans);font-weight:500;font-size:1rem;color:var(--ink);position:relative;padding:6px 0}
+.main-nav a::after{content:"";position:absolute;left:0;bottom:0;width:100%;height:2px;background:var(--forest);transform:scaleX(0);transform-origin:left;transition:transform .28s var(--ease)}
+.main-nav a:hover::after,.main-nav a:focus-visible::after{transform:scaleX(1)}
+
+/* hero */
+.hero{position:relative;min-height:min(86vh,720px);display:flex;align-items:flex-end;overflow:hidden;background:var(--navy)}
+.hero video,.hero .hero-poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+/* impeccable-disable design-system-color -- intentional video-legibility scrim: alpha composites of --navy/--ink, not palette tokens */
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,30,66,.25) 0%,rgba(4,30,66,.20) 40%,rgba(20,28,18,.78) 100%);z-index:1}
+.hero .wrap{position:relative;z-index:2;width:100%;padding-block:clamp(48px,7vw,96px)}
+.hero h1{color:#fff;font-size:clamp(2rem,4.6vw,3.6rem);max-width:18ch;font-weight:700}
+.hero p{color:rgba(255,255,255,.92);max-width:60ch;margin-top:1.4rem;font-size:1.12rem}
+.hero .hero-cta{margin-top:2rem}
+
+/* stats */
+.stats{background:var(--parchment);padding-block:var(--pad-block);border-block:1px solid var(--line)}
+.stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:40px 24px}
+.stat{text-align:center}
+.stat .num{font-family:var(--serif);font-weight:700;color:var(--forest);font-size:clamp(2.2rem,4vw,3.1rem);line-height:1;font-variant-numeric:tabular-nums}
+.stat .label{font-family:var(--sans);font-weight:600;font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--text-warm);margin-top:.7rem}
+.stats .disclaimer{max-width:80ch;margin:40px auto 0;font-size:.8rem;color:var(--muted);line-height:1.55;text-align:center}
+
+/* overview */
+.overview{padding-block:var(--pad-block)}
+.overview .grid{display:grid;grid-template-columns:0.8fr 1.2fr;gap:48px;align-items:start}
+.overview h2{font-size:clamp(1.8rem,3vw,2.4rem)}
+.overview p{margin-bottom:1.1rem;color:var(--text-warm);max-width:68ch}
+.overview .more{margin-top:.6rem}
+
+/* news */
+.news{padding-block:var(--pad-block);background:var(--parchment);border-block:1px solid var(--line)}
+.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:36px}
+.section-head h2{font-size:clamp(1.8rem,3vw,2.4rem)}
+.news-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.news-card{background:var(--canvas);border:1px solid var(--line);border-radius:3px;padding:32px;display:flex;flex-direction:column;transition:transform .3s var(--ease),box-shadow .3s var(--ease)}
+.news-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(0,0,0,.08)}
+.news-card .tag{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--sage);margin-bottom:.9rem}
+.news-card h3{font-size:1.22rem;line-height:1.32;margin-bottom:1.2rem}
+.news-card .more{margin-top:auto}
+
+/* investments */
+.investments{padding-block:var(--pad-block)}
+.logo-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.logo-tile{background:var(--canvas);aspect-ratio:3/2;display:flex;align-items:center;justify-content:center;padding:26px;position:relative;transition:background .3s var(--ease)}
+.logo-tile img{max-height:62px;max-width:80%;width:auto;object-fit:contain;filter:grayscale(1);opacity:.72;transition:filter .35s var(--ease),opacity .35s var(--ease),transform .35s var(--ease)}
+.logo-tile:hover{background:var(--parchment)}
+.logo-tile:hover img{filter:grayscale(0);opacity:1;transform:scale(1.04)}
+.logo-tile .name{position:absolute;left:0;right:0;bottom:10px;text-align:center;font-family:var(--sans);font-size:.72rem;font-weight:500;color:var(--text-warm);opacity:0;transition:opacity .3s var(--ease)}
+.logo-tile:hover .name,.logo-tile:focus-within .name{opacity:1}
+
+/* footer */
+.site-footer{background:var(--ink);color:rgba(255,255,255,.82);padding-block:56px;font-size:.95rem}
+.site-footer .grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}
+.site-footer h4{color:#fff;font-family:var(--sans);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;margin-bottom:1rem}
+.site-footer a{color:rgba(255,255,255,.82)}
+.site-footer a:hover{color:#fff}
+.site-footer .foot-brand{font-family:var(--serif);font-size:1.3rem;color:#fff;margin-bottom:.6rem}
+.site-footer .legal{margin-top:40px;padding-top:24px;border-top:1px solid rgba(255,255,255,.15);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-size:.82rem;color:rgba(255,255,255,.6)}
+
+/* motion — content is visible by default; only the JS-gated reveal hides it */
+html.js-reveal [data-anim]{opacity:0;transform:translateY(18px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+html.js-reveal [data-anim].in{opacity:1;transform:none}
+
+@media (max-width:900px){
+  .overview .grid{grid-template-columns:1fr;gap:24px}
+  .news-grid{grid-template-columns:1fr}
+  .stats-grid{grid-template-columns:repeat(2,1fr)}
+  .site-footer .grid{grid-template-columns:1fr 1fr}
+}
+@media (max-width:640px){
+  :root{--pad-block:44px}
+  .nav-toggle{display:flex}
+  .main-nav{position:fixed;inset:74px 0 auto 0;background:#fff;border-bottom:1px solid var(--line);transform:translateY(-120%);transition:transform .32s var(--ease);box-shadow:0 16px 30px rgba(0,0,0,.08)}
+  .main-nav.open{transform:translateY(0)}
+  .main-nav ul{flex-direction:column;gap:0;padding:8px 24px}
+  .main-nav li{border-bottom:1px solid var(--line)}
+  .main-nav li:last-child{border-bottom:0}
+  .main-nav a{display:block;padding:15px 0;font-size:1.05rem}
+  .hero h1{font-size:clamp(1.7rem,7vw,2.4rem)}
+  .stats-grid{grid-template-columns:1fr 1fr;gap:30px 16px}
+  .site-footer .grid{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+  [data-anim]{opacity:1;transform:none}
+  .hero video{display:none}
+  .hero .hero-poster{display:block}
+}
+</style>
+</head>
+<body>
+<header class="site-header" data-section="header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Sycamore Partners home">
+      <img src="https://sycamorepartners.com/images/Sycamore-logo.png" alt="Sycamore Partners" width="290" height="92">
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" onclick="var n=document.getElementById('mainnav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">
+      <span></span>
+    </button>
+    <nav class="main-nav" id="mainnav" aria-label="Primary">
+      <ul>
+        <li><a href="/investments">Investments</a></li>
+        <li><a href="/team">Team</a></li>
+        <li><a href="/approach">Approach</a></li>
+        <li><a href="/news">News</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero" data-section="hero">
+  <video autoplay muted loop playsinline poster="https://sycamorepartners.com/images/favicon/apple-touch-icon.png" aria-hidden="true">
+    <source src="https://sycamorepartners.com/images/home/Video/Sycamore-Partners-Animation.mp4" type="video/mp4">
+  </video>
+  <img class="hero-poster" src="https://sycamorepartners.com/images/Sycamore-logo.png" alt="" aria-hidden="true" style="display:none;object-fit:contain;background:var(--navy);padding:14vh 20vw">
+  <div class="wrap">
+    <h1 data-anim>A private equity firm specializing in consumer, distribution and retail-related investments.</h1>
+    <p data-anim>Sycamore Partners is a private equity firm based in New York specializing in consumer, distribution and retail-related investments. The firm has approximately $11 billion in aggregate committed capital.</p>
+    <div class="hero-cta" data-anim><a class="btn btn-primary" href="/approach">Our Approach</a></div>
+  </div>
+</section>
+
+<section class="stats" data-section="stats" aria-label="Firm at a glance">
+  <div class="wrap">
+    <div class="stats-grid">
+      <div class="stat" data-anim><div class="num">~$11B</div><div class="label">Aggregate Committed Capital</div></div>
+      <div class="stat" data-anim><div class="num">30+</div><div class="label">Investments</div></div>
+      <div class="stat" data-anim><div class="num">40+</div><div class="label">Investment Professionals</div></div>
+      <div class="stat" data-anim><div class="num">~$200B</div><div class="label">Portfolio Revenues</div></div>
+      <div class="stat" data-anim><div class="num">~500K</div><div class="label">Portfolio Employees</div></div>
+      <div class="stat" data-anim><div class="num">~20K</div><div class="label">Portfolio Stores</div></div>
+    </div>
+    <p class="disclaimer">Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore&rsquo;s investments and is not intended to reflect investment performance or the outcomes of any individual investment.</p>
+  </div>
+</section>
+
+<section class="overview" data-section="overview" aria-label="Overview">
+  <div class="wrap">
+    <div class="grid">
+      <div data-anim><p class="eyebrow">Overview</p><h2>A partnership approach to building value.</h2></div>
+      <div data-anim>
+        <p>Sycamore Partners is a private equity firm based in New York specializing in consumer, distribution and retail-related investments. The firm has approximately $11 billion in aggregate committed capital. Our strategy is to partner with management teams to improve the operating profitability and strategic value of their businesses.</p>
+        <p class="more"><a class="link-arrow" href="/approach">Read our approach</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="news" data-section="news" aria-label="News">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>News</h2>
+      <a class="link-arrow" href="/news">All news</a>
+    </div>
+    <div class="news-grid">
+      <article class="news-card" data-anim>
+        <span class="tag">Announcement</span>
+        <h3>Archie Norman, Chairman of Marks &amp; Spencer, joins Sycamore Partners as a Senior Advisor</h3>
+        <a class="more link-arrow" href="/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor">Read more</a>
+      </article>
+      <article class="news-card" data-anim>
+        <span class="tag">Announcement</span>
+        <h3>Shields Health Solutions Advances Health System-Focused Specialty Pharmacy Strategy As A Private Standalone Company</h3>
+        <a class="more link-arrow" href="/news-article/shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners">Read more</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="investments" data-section="investments" aria-label="Investments">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Investments</h2>
+      <a class="link-arrow" href="/investments">All investments</a>
+    </div>
+    <div class="logo-grid">
+      <a class="logo-tile" href="/investment-info/walgreens"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Walgreens-logo_1.png" alt="Walgreens"><span class="name">Walgreens</span></a>
+      <a class="logo-tile" href="/investment-info/the-boots-group"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Boots-logo.png" alt="The Boots Group"><span class="name">The Boots Group</span></a>
+      <a class="logo-tile" href="/investment-info/shields-health-solutions"><img src="https://sycamorepartners.com/images/Investments/Logo/original/shs-logo.svg" alt="Shields Health Solutions"><span class="name">Shields Health Solutions</span></a>
+      <a class="logo-tile" href="/investment-info/carecentrix"><img src="https://sycamorepartners.com/images/Investments/Logo/original/CareCentrix-logo.png" alt="CareCentrix"><span class="name">CareCentrix</span></a>
+      <a class="logo-tile" href="/investment-info/villagemd"><img src="https://sycamorepartners.com/images/Investments/Logo/original/VillageMD-logo.png" alt="VillageMD"><span class="name">VillageMD</span></a>
+      <a class="logo-tile" href="/investment-info/playa-bowls"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Playa_11.png" alt="Playa Bowls"><span class="name">Playa Bowls</span></a>
+      <a class="logo-tile" href="/investment-info/knitwell-group"><img src="https://sycamorepartners.com/images/Investments/Logo/original/knitwell-new-logo.png?v=3" alt="KnitWell Group"><span class="name">KnitWell Group</span></a>
+      <a class="logo-tile" href="/investment-info/rona"><img src="https://sycamorepartners.com/images/Investments/Logo/original/rona-logo.png" alt="RONA"><span class="name">RONA</span></a>
+      <a class="logo-tile" href="/investment-info/goddard-systems"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Goddard_Systems.png" alt="Goddard Systems"><span class="name">Goddard Systems</span></a>
+      <a class="logo-tile" href="/investment-info/digital-room"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Digital_Room_Logo.png" alt="Digital Room"><span class="name">Digital Room</span></a>
+      <a class="logo-tile" href="/investment-info/atoz-wineworks"><img src="https://sycamorepartners.com/images/Investments/Logo/original/AtoZLLCandBrandsLogo.png" alt="A to Z Wineworks"><span class="name">A to Z Wineworks</span></a>
+      <a class="logo-tile" href="/investment-info/azamara"><img src="https://sycamorepartners.com/images/Investments/Logo/original/23_AZA-CRUISES_TM_LOGO_HORIZONTAL_CMYK.png" alt="Azamara"><span class="name">Azamara</span></a>
+      <a class="logo-tile" href="/investment-info/margaritaville-at-sea"><img src="https://sycamorepartners.com/images/Investments/Logo/original/MV_atSea_Logo_2Colors.png" alt="Margaritaville at Sea"><span class="name">Margaritaville at Sea</span></a>
+      <a class="logo-tile" href="/investment-info/lane-bryant"><img src="https://sycamorepartners.com/images/Investments/Logo/original/lane-bryant_37.png" alt="Lane Bryant"><span class="name">Lane Bryant</span></a>
+      <a class="logo-tile" href="/investment-info/pure-fishing"><img src="https://sycamorepartners.com/images/Investments/Logo/original/pf_logo.png" alt="Pure Fishing"><span class="name">Pure Fishing</span></a>
+      <a class="logo-tile" href="/investment-info/rithum"><img src="https://sycamorepartners.com/images/Investments/Logo/original/Rithum.png" alt="Rithum"><span class="name">Rithum</span></a>
+      <a class="logo-tile" href="/investment-info/staples-nad"><img src="https://sycamorepartners.com/images/Investments/Logo/original/staples.png" alt="Staples"><span class="name">Staples NAD</span></a>
+      <a class="logo-tile" href="/investment-info/staples-us-retail"><img src="https://sycamorepartners.com/images/Investments/Logo/original/staples_us_retail.png" alt="Staples U.S. Retail"><span class="name">Staples U.S. Retail</span></a>
+      <a class="logo-tile" href="/investment-info/staples-canada"><img src="https://sycamorepartners.com/images/Investments/Logo/original/staples_canada.png" alt="Staples Canada"><span class="name">Staples Canada</span></a>
+      <a class="logo-tile" href="/investment-info/the-limited"><img src="https://sycamorepartners.com/images/Investments/Logo/original/THE_LIMITED_LOGO_2015.png" alt="The Limited"><span class="name">The Limited</span></a>
+      <a class="logo-tile" href="/investment-info/hot-topic"><img src="https://sycamorepartners.com/images/Investments/Logo/original/hottopic.png" alt="Hot Topic"><span class="name">Hot Topic</span></a>
+      <a class="logo-tile" href="/investment-info/torrid"><img src="https://sycamorepartners.com/images/Investments/Logo/original/torrid.png" alt="Torrid"><span class="name">Torrid</span></a>
+      <a class="logo-tile" href="/investment-info/mgf-sourcing"><img src="https://sycamorepartners.com/images/Investments/Logo/original/mgf-sourcing.png" alt="MGF Sourcing"><span class="name">MGF Sourcing</span></a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer" data-section="footer">
+  <div class="wrap">
+    <div class="grid">
+      <div>
+        <div class="foot-brand">Sycamore Partners</div>
+        <p>A private equity firm specializing in consumer, distribution and retail-related investments.</p>
+      </div>
+      <div>
+        <h4>Office</h4>
+        <p>9 West 57th Street<br>31st Floor<br>New York, NY 10019</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <p><a href="/investments">Investments</a><br><a href="/team">Team</a><br><a href="/approach">Approach</a><br><a href="/news">News</a><br><a href="/contact">Contact</a></p>
+      </div>
+    </div>
+    <div class="legal">
+      <span>&copy; 2026 Sycamore Partners. All rights reserved.</span>
+      <a href="/terms-privacy-policy-notice">Terms / Privacy &amp; Policy Notice</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  if(!document.documentElement.classList.contains('js-reveal'))return;
+  var els=document.querySelectorAll('[data-anim]');
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+  els.forEach(function(el){io.observe(el)});
+  // safety net: never leave content hidden if the observer never fires
+  setTimeout(function(){els.forEach(function(el){el.classList.add('in')})},1400);
+})();
+</script>
+</body>
+</html>

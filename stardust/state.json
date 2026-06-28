@@ -34,7 +34,7 @@
       "url": "https://sycamorepartners.com/home#snapshot",
       "type": "landing",
       "template": "home",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/home.json",
       "prototypePath": null,
       "migratedPath": null
