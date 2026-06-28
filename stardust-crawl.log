@@ -1,0 +1,17 @@
+[crawl] technique=headless pages=12
+[crawl] OK   us  
+[crawl] OK   us-smartphones  
+[crawl] OK   us-smartphones-galaxy-s25-ultra  
+[crawl] FAIL us-televisions-home-theater-tvs-all-tvs  Error: page.goto: net::ERR_CONNECTION_CLOSED at https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs/
+Call log:
+[2m  - navigating to "https://www.samsung.com/us/televisions-home-theater/tvs/all-tvs/", waiting until "domcontentloaded"[22m
+
+[crawl] OK   us-home-appliances  
+[crawl] OK   us-monitors  
+[crawl] OK   us-explore  
+[crawl] OK   us-explore-life-hacks  
+[crawl] OK   us-explore-life-hacks-how-to-work-from-home-and-win-the-day  
+[crawl] OK   us-support  
+[crawl] OK   us-aboutsamsung  
+[crawl] OK   us-offers  
+[crawl] done. 11/12 captured, 1 failed. log: stardust/current/_crawl-log.json
