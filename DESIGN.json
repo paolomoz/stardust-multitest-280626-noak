@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "espresso": "#1E3932", "houseGreen": "#006241", "pike": "#00754A",
+    "acid": "#008248", "foam": "#F1F8F5", "cream": "#FBF8F2", "white": "#FFFFFF",
+    "ink": "#1A1A1A", "slate": "#4A4A4A", "hairline": "#E4E4E4"
+  },
+  "typography": {
+    "heading": "SoDoSans, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "body": "SoDoSans, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "weights": [400, 600, 700], "scaleRatio": 1.25
+  },
+  "rounded": "pill",
+  "spacing": { "base": 4, "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A (brand-faithful)",
+    "brandSignal": "signal-strong",
+    "fontDeck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+    "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+    "divergence": {
+      "seed": { "ground_family": { "value": "stark-white", "override": "brand-faithful" } },
+      "brand_faithful_inversions": [
+        "retain exact House Green hexes (#006241/#00754A/#008248)",
+        "retain SoDoSans family",
+        "retain Siren circular badge mark"
+      ]
+    },
+    "componentStyle": {
+      "buttons": { "primary": "House Green fill, white text, pill", "secondary": "House Green outline, pill" },
+      "cards": { "radius": "12px", "image": "circular for products", "shadow": "subtle" }
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "global nav + brand", "position": "sticky top" },
+      "footer": { "purpose": "5-column link directory", "position": "page bottom, espresso ground" }
+    },
+    "motion": { "register": "editorial", "registerRationale": "brand register, photography-led, slow-paced", "durations": { "enter": 500, "stagger": 80 } },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "home hero 'Start an order'; header 'Find a store'/'Join now'", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "locked" },
+      { "signal": "audience-routing", "evidence": "footer 5-column directory (About/Careers/Social Impact/Business/Order)", "preserveAs": "footer", "scope": "site-wide", "mutability": "locked" }
+    ],
+    "voice": { "do": ["warm, sensory, seasonal"], "dont": ["corporate jargon", "shouting", "fabricated claims"] },
+    "metadata": {
+      "siteName": "Starbucks Coffee Company",
+      "themeColor": "#006341",
+      "locale": "en-US",
+      "organization": { "name": "Starbucks Coffee Company", "url": "https://www.starbucks.com/", "logo": "/starbucks/icons/logo.svg" }
+    }
+  },
+  "narrative": {
+    "northStar": "Make it a great day for coffee — brand-faithful, modernized, one tap from the next order.",
+    "rules": ["Photography leads", "House Green DNA pinned", "Mixed-case headlines", "AA contrast on green"]
+  }
+}
