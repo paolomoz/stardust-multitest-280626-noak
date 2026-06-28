@@ -1,0 +1,12 @@
+{
+  "discovery": {
+    "fetchTechnique": "headed-chrome",
+    "count": 1
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "crawl": {
+    "failures": []
+  }
+}

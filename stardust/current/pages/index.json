@@ -1,0 +1,383 @@
+{
+  "slug": "index",
+  "url": "https://www.xfinity.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:03.458Z",
+  "finalUrl": "https://www.xfinity.com/overview",
+  "title": "Xfinity - Internet, WiFi, Mobile, TV and Streaming",
+  "description": "Save on high speed internet, mobile phone plans and cable TV services with Xfinity. Enjoy entertainment your way with great deals on Xfinity by Comcast.",
+  "og": {
+    "title": "Internet, TV, Phone, Smart Home and Security - Xfinity by Comcast",
+    "description": "Save on Xfinity Digital Cable TV, High Speed Internet and Home Phone Services. Enjoy entertainment your way with great deals on Xfinity by Comcast.",
+    "image": "https://assets.xfinity.com/assets/dotcom/icons/Sharelink-Thumbnail-Devices.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Get online in minutes with same-day WiFi"
+    },
+    {
+      "tag": "h2",
+      "text": "Or get 300 Mbps WiFi, $40/mo for 1 year"
+    },
+    {
+      "tag": "h2",
+      "text": "New home, same great service. Make your move with Xfinity."
+    },
+    {
+      "tag": "h2",
+      "text": "Streaming, simplified. Streaming apps plus Gig WiFi all in one."
+    },
+    {
+      "tag": "h2",
+      "text": "Cut your mobile bill in half. Plus, try free for a year. No commitment."
+    },
+    {
+      "tag": "h2",
+      "text": "Only Xfinity includes device protection for life"
+    },
+    {
+      "tag": "h2",
+      "text": "Get more with Xfinity"
+    },
+    {
+      "tag": "h2",
+      "text": "Save up to $830 on the latest iPhone"
+    },
+    {
+      "tag": "h2",
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required."
+    },
+    {
+      "tag": "h2",
+      "text": "Get iPhone 17 on us"
+    },
+    {
+      "tag": "h2",
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required."
+    },
+    {
+      "tag": "h2",
+      "text": "Get Samsung Galaxy S26 on us"
+    },
+    {
+      "tag": "h2",
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required."
+    },
+    {
+      "tag": "h2",
+      "text": "Get Google Pixel 10 on us"
+    },
+    {
+      "tag": "h2",
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required."
+    }
+  ],
+  "body": [
+    "Shopping from Change",
+    "Pick up in-store and self-install your WiFi in less than 15 minutes. Shop now",
+    "Speed built for work and play. WiFi equipment and unlimited data included. Still no contract.",
+    "Internet",
+    "Mobile",
+    "TV & Streaming",
+    "Home Security",
+    "Build your plan",
+    "Transfer your service, explore new plans, and get connected at your new address as soon as the same day.",
+    "Offer ends 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Peacock Premium: $10.99/mo value. Must activate within first 90 days."
+  ],
+  "ctas": [
+    {
+      "label": "Change",
+      "href": "#Change"
+    },
+    {
+      "label": "Shop now",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2261"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2262"
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-security"
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Start your move",
+      "href": "https://www.xfinity.com/learn/moving"
+    },
+    {
+      "label": "See how to watch",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo"
+    },
+    {
+      "label": "Shop plans",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Mobile",
+      "href": null
+    },
+    {
+      "label": "Internet",
+      "href": null
+    },
+    {
+      "label": "Entertainment",
+      "href": null
+    },
+    {
+      "label": "Prepaid",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & Other Info",
+      "href": null
+    },
+    {
+      "label": "Find My Plan",
+      "href": null
+    },
+    {
+      "label": "Sign in here.",
+      "href": "https://login.xfinity.com/login?"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/overview#Change",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2261",
+    "https://www.xfinity.com/overview#Pricing&otherinfo",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2262",
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.xfinity.com/learn/home-security",
+    "https://www.xfinity.com/learn/moving",
+    "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer",
+    "https://www.xfinity.com/learn/mobile?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:Homepage_Mobile_CYMBH+XMFreeLine_Learn:2250",
+    "https://www.xfinity.com/learn/protection-plans?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:Homepage_Mobile_DeviceProtectionforLife_XMCLearn:2251",
+    "https://www.xfinity.com/digital/mobile/cell-phones/brand/apple",
+    "https://www.xfinity.com/digital/mobile/cell-phones/iphone-17",
+    "https://www.xfinity.com/digital/mobile/cell-phones/galaxy-s26",
+    "https://www.xfinity.com/digital/mobile/cell-phones/pixel-10",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET&intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:DIG:DigitalBentoInternet:799",
+    "https://www.xfinity.com/learn/internet-service/xpro?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:DIG:DigitalBentoHSDXPro:722",
+    "https://www.xfinity.com/student",
+    "https://apply.internetessentials.com/?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:DIG:DigitalBentoHSDIE:728",
+    "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+    "https://www.xfinity.com/now/internet?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:NOWI:COM:DIG:DigitalBentoNOWHSD:746",
+    "https://www.xfinity.com/now/mobile?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:NOWM:COM:DIG:DigitalBentoNOWM:749",
+    "https://www.xfinity.com/now/tv-streaming?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:NOWTV:COM:DIG:DigitalBentoNOWTVS:752",
+    "https://www.xfinity.com/learn/internet-service/wifi?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:NOWWFP:COM:DIG:DigitalBentoNWP:755",
+    "https://login.xfinity.com/login?",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-102219_same-day-wifi-mobile-banner-fix/Time-Clock.svg",
+        "alt": "",
+        "w": 23,
+        "h": 26
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/internet-card-image-dt.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/new_hovertile-imagery/Mobile_HoverTile-Overall.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/new_hovertile-imagery/Entertainment_HoverTile-Overall.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/security-card-image-dt.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10716_build-your-plan-hover-tile-update/New_HoverTileCard_Trans.png",
+        "alt": "",
+        "w": 880,
+        "h": 1236
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_Box_Purple.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/may/cix-8745_expanded-lob-merchandising-on-homepage-and-hsd-learn/internet/Eyebrow_xPro.svg",
+        "alt": "",
+        "w": 160,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/may/cix-8745_expanded-lob-merchandising-on-homepage-and-hsd-learn/internet/Eyebrow_InternetEssentials.svg",
+        "alt": "",
+        "w": 141,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+        "alt": "",
+        "w": 357,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 343
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 211
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-9044_streamstore_launch---cross-merch/NOWTV-Desktop.png",
+        "alt": "",
+        "w": 420,
+        "h": 140
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/sept/cix-9232_now-tv-latino-refresh-expansion/card--desktop-min.png",
+        "alt": "",
+        "w": 840,
+        "h": 280
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/may/cix-8745_expanded-lob-merchandising-on-homepage-and-hsd-learn/prepaid/NOW-Logo.svg",
+        "alt": "",
+        "w": 160,
+        "h": 48
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 25,
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10376_ignite-minions-digital-merchandising/Minions-Ignite_HSD-Hero_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/Hover-Tile-BG-Image-Gray.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/may/cix-10262_soccer-page-updates-and-secondary-placements-for-world-cup/learn-placements/WorldCup_Homepage-Banner_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamsaver-banner/StreamSaver-Banner-BG-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_8.0-Metablock-Left_Desktop-new.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Device-Protection_2UP_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/mobile-menu-tab_xfinity-carousel/MobileTab-XfinityCarousel_830-off-iPhone_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/mobile-menu-tab_xfinity-carousel/MobileTab-XfinityCarousel_iPhone17-on-us_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/mobile-menu-tab_xfinity-carousel/MobileTab-XfinityCarousel_Galaxy-S26-in-us_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/mobile-menu-tab_xfinity-carousel/MobileTab-XfinityCarousel_Pixel-10-on-us_Desktop.jpg"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 19380,
+    "realImageCount": 17,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

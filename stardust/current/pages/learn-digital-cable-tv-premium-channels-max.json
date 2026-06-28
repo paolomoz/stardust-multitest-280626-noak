@@ -1,0 +1,116 @@
+{
+  "slug": "learn-digital-cable-tv-premium-channels-max",
+  "url": "https://www.xfinity.com/learn/digital-cable-tv/premium-channels/max",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:09.494Z",
+  "finalUrl": "https://www.xfinity.com/learn/digital-cable-tv/premium-channels/max",
+  "title": "Max on XFINITY | On Demand",
+  "description": "Get unlimited access to HBO’s huge library of the most addictive entertainment —such as Game of Thrones — all available through XFINITY On Demand!",
+  "og": {
+    "title": "max",
+    "description": null,
+    "image": "https://assets.xfinity.com/assets/dotcom/icons/Sharelink-Thumbnail-Devices.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "It’s all here"
+    },
+    {
+      "tag": "h2",
+      "text": "Something for everyone"
+    },
+    {
+      "tag": "h2",
+      "text": "How do I get HBO Max?"
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Add to plan for $18.49/mo",
+      "href": "https://www.xfinity.com/buy/plan/checkout?UID=H256B34K"
+    },
+    {
+      "label": "Add to plan for $18.49/mo",
+      "href": "https://www.xfinity.com/buy/plan/checkout?UID=H256B34K"
+    },
+    {
+      "label": "Add to plan for $18.49/mo",
+      "href": "https://www.xfinity.com/buy/plan/checkout?UID=H256B34K"
+    },
+    {
+      "label": "Discover Xfinity Stream",
+      "href": "https://www.xfinity.com/get-stream"
+    },
+    {
+      "label": "View X1 deals",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "Already a customer? Add to plan",
+      "href": "https://www.xfinity.com/buy/plan/checkout?UID=H256B34K"
+    },
+    {
+      "label": "max.com/terms-of-use",
+      "href": "https://www.max.com/terms-of-use"
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/buy/plan/checkout?UID=H256B34K",
+    "https://www.xfinity.com/get-stream",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.max.com/terms-of-use"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8998_hbo-max-rebrand/HBO%20Max_Logo_PremChannel_Mobile.png",
+        "alt": "",
+        "w": 154,
+        "h": 112
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9095_hbo-max-key-art-updates/premium-channels_hbo-max_learn/LS_PremiumChannels_HBO-Max_Key-Art-Banner-Desktop.jpg",
+        "alt": "",
+        "w": 1841,
+        "h": 534
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-5821_starz-q4-learn-page-updates/Icon_1_border_88_grey90.svg",
+        "alt": "",
+        "w": 89,
+        "h": 89
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-5821_starz-q4-learn-page-updates/Icon_2_border_88_grey90.svg",
+        "alt": "",
+        "w": 88,
+        "h": 89
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-5821_starz-q4-learn-page-updates/Icon_3_border_88_grey90.svg",
+        "alt": "",
+        "w": 89,
+        "h": 89
+      }
+    ],
+    "allImgCount": 10,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9095_hbo-max-key-art-updates/premium-channels_hbo-max_learn/LS_PremiumChannels_HBO-Max_Hero_Desktop2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6965_hbo-page-redesign/full-image-banner-dt.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9095_hbo-max-key-art-updates/premium-channels_hbo-max_learn/LS_PremiumChannels_HBO-Max_Half-Image_Stream_Desktop.jpg"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 3,
+    "mainTextLen": 5045,
+    "realImageCount": 5,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

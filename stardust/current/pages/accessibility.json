@@ -1,0 +1,297 @@
+{
+  "slug": "accessibility",
+  "url": "https://www.xfinity.com/accessibility",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:20.996Z",
+  "finalUrl": "https://www.xfinity.com/accessibility",
+  "title": "Xfinity Accessibility and Inclusive Design",
+  "description": "Xfinity products come with accessibility features for people with disabilities, like closed captioning, voice guidance, and other more, built right in.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Xfinity Accessibility and Inclusive Design"
+    },
+    {
+      "tag": "h2",
+      "text": "Possible. Powerful. Personal."
+    },
+    {
+      "tag": "h2",
+      "text": "The latest"
+    },
+    {
+      "tag": "h2",
+      "text": "A better experience for customers who are blind or have low vision"
+    },
+    {
+      "tag": "h2",
+      "text": "Personalized solutions for customers who are deaf or hard of hearing"
+    },
+    {
+      "tag": "h2",
+      "text": "American Sign Language Support Center"
+    },
+    {
+      "tag": "h2",
+      "text": "Innovation for customers with physical disabilities"
+    },
+    {
+      "tag": "h2",
+      "text": "Accessibility on the go"
+    },
+    {
+      "tag": "h2",
+      "text": "Groundbreaking voice control"
+    },
+    {
+      "tag": "h2",
+      "text": "Comcast’s commitment"
+    },
+    {
+      "tag": "h2",
+      "text": "Accessibility Support Center"
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity Assistant"
+    },
+    {
+      "tag": "h2",
+      "text": "Our services work even better together"
+    }
+  ],
+  "body": [
+    "Redefining easy: the Xfinity Large Button Voice Remote",
+    "With our apps, you can use text to speech and other assistive technologies to stay connected to your entertainment and in control of your home network, even when you’re not there.",
+    "Our voice remote, available with X1 and our Flex streaming TV box, puts revolutionary accessibility features one key press or voice command away. Say “accessibility” or press B to explore all options.",
+    "Internet",
+    "TV & Streaming",
+    "Mobile",
+    "Home",
+    "Phone"
+  ],
+  "ctas": [
+    {
+      "label": "Discover your Xfinity Large Button Voice Remote",
+      "href": "https://www.xfinity.com/support/articles/get-to-know-xra"
+    },
+    {
+      "label": "Ask Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=skill.accessibility.braille"
+    },
+    {
+      "label": "Learn more about the ASL support center",
+      "href": "https://xfinity.com/asl"
+    },
+    {
+      "label": "our apps",
+      "href": "https://www.xfinity.com/apps"
+    },
+    {
+      "label": "voice remote",
+      "href": "https://www.xfinity.com/support/articles/voice-command-tips"
+    },
+    {
+      "label": "Learn how",
+      "href": "https://corporate.comcast.com/impact/accessibility"
+    },
+    {
+      "label": "send an email",
+      "href": "mailto:accessibility@comcast.com"
+    },
+    {
+      "label": "accessible chat service",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=other-style_accessibility-chat"
+    },
+    {
+      "label": "online help center",
+      "href": "https://www.xfinity.com/support/accessibility#accessibility"
+    },
+    {
+      "label": "Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=other-style_accessibility-chat"
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Home",
+      "href": "https://www.xfinity.com/learn/home-security"
+    },
+    {
+      "label": "Phone",
+      "href": "https://www.xfinity.com/learn/home-phone-services"
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/support/articles/get-to-know-xra",
+    "https://www.xfinity.com/xfinityassistant/?intent=skill.accessibility.braille",
+    "https://xfinity.com/asl",
+    "https://www.xfinity.com/apps",
+    "https://www.xfinity.com/support/articles/voice-command-tips",
+    "https://corporate.comcast.com/impact/accessibility",
+    "mailto:accessibility@comcast.com",
+    "https://www.xfinity.com/xfinityassistant/?intent=other-style_accessibility-chat",
+    "https://www.xfinity.com/support/accessibility#accessibility",
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/home-security",
+    "https://www.xfinity.com/learn/home-phone-services"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_blue_01_Desktop.svg",
+        "alt": "",
+        "w": 70,
+        "h": 70
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_01_Desktop.png",
+        "alt": "A visually impaired man using a smart phone to communicate.",
+        "w": 1290,
+        "h": 902
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_01_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_02_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_03_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_02_Desktop.png",
+        "alt": "A Comcast employee using sign language to communicate on laptop.",
+        "w": 1284,
+        "h": 902
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_01_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_02B_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_03_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_purple_01_Desktop.svg",
+        "alt": "",
+        "w": 41,
+        "h": 41
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_Phone_Desktop.png",
+        "alt": "Two smart phones showing the Xfinity Stream app and the Xfinity app.",
+        "w": 1128,
+        "h": 846
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_Remote_Desktop.png",
+        "alt": "An Xfinity voice remote, say \"Accessibility\".",
+        "w": 1128,
+        "h": 846
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_purple_02_Desktop.svg",
+        "alt": "",
+        "w": 88,
+        "h": 89
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_blue_01_Desktop.svg",
+        "alt": "",
+        "w": 70,
+        "h": 70
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_04_Desktop.svg",
+        "alt": "",
+        "w": 88,
+        "h": 88
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3560_unbeatable-internet-xb8-launch/Image_HoverTiles_InternetDevice.png",
+        "alt": "Xfinity XB8 modem",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_VideoDevice_Desktop.png",
+        "alt": "Xfinity Flex box with a remote.",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_MobileDevice_Tablet_Mobile.png",
+        "alt": "Smart phone with Xfinity Mobile service.",
+        "w": 262,
+        "h": 376
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_CameraDevice_Desktop.png",
+        "alt": "Xfinity home security camera",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_PhoneDevice_Desktop.png",
+        "alt": "Landline phone",
+        "w": 440,
+        "h": 620
+      }
+    ],
+    "allImgCount": 25,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_Hero_FullImage_v01_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix%E2%80%924808_accessibility_content_update/Accessibility_Half-Image_Voice-Remote-Final_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_FullImage_Desktop.png"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 13,
+    "mainTextLen": 9382,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

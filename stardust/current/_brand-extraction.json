@@ -1,0 +1,116 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright (headed chrome, channel:chrome — Akamai bot-wall forced headed)",
+    "fetchedAt": "2026-06-28T00:00:00Z",
+    "origin": "https://www.xfinity.com/",
+    "pagesAggregated": ["index","compare","hub-internet","learn-internet-service","accessibility","local","learn-digital-cable-tv-premium-channels-max","apps","bill-pay","mobile"],
+    "notes": "Palette/type aggregated from computed styles across home + rich pages (brand-probe.mjs). Logo extracted from xc-header shadow DOM. Header/footer are <xc-header>/<xc-footer> Prism web components rendered in shadow DOM."
+  },
+  "logo": {
+    "kind": "inline-svg",
+    "path": "assets/logo.svg",
+    "description": "xfinity lowercase wordmark, viewBox 0 0 379.76 119.89, single path, monochrome (fill currentColor-capable)",
+    "source": "xc-header shadow DOM"
+  },
+  "favicon": {
+    "icon": "https://www.xfinity.com/national/xfinity-learn-ui/favicon.ico",
+    "iconResolves": 200,
+    "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png (403 — do not use)",
+    "themeColor": "#000000"
+  },
+  "palette": [
+    { "role": "text", "value": "#141417", "note": "primary near-black, rgb(20,20,23), dominant text color (301 hits)" },
+    { "role": "surface-light", "value": "#f6f6f9", "note": "light grey surface / on-dark text, rgb(246,246,249)" },
+    { "role": "background", "value": "#ffffff", "note": "white base" },
+    { "role": "primary", "value": "#5a23b9", "note": "Xfinity brand purple, rgb(90,35,185)" },
+    { "role": "secondary", "value": "#6138f5", "note": "brighter violet accent, rgb(97,56,245)" },
+    { "role": "accent", "value": "#bda7e3", "note": "lavender tint, rgb(189,167,227)" },
+    { "role": "ink-pure", "value": "#000000", "note": "pure black, header/theme" },
+    { "role": "muted", "value": "#555555", "note": "muted grey text" }
+  ],
+  "type": {
+    "heading": { "family": "XSans", "fallback": "system-ui, -apple-system, 'Segoe UI', sans-serif", "note": "Xfinity display/headline face (proprietary)" },
+    "body": { "family": "DMSans", "fallback": "system-ui, -apple-system, 'Segoe UI', sans-serif", "note": "DM Sans, primary body face (455 hits)" },
+    "brand": { "family": "XfinityBrown", "fallback": "Georgia, serif", "note": "legacy brand accent face, rare" },
+    "baseSize": "16px",
+    "scale": ["12px","14px","16px","20px","24px","32px","36px","48px","92px"],
+    "scaleAudit": { "kind": "modular-ish", "note": "16 base, large editorial display up to 92px on hero" }
+  },
+  "motifs": {
+    "radius": { "dominant": "16px", "secondary": "8px", "pill": "50%", "note": "rounded cards (16px), buttons pill/rounded" },
+    "shadows": [
+      "rgba(140,140,140,0.51) 0px 4px 8px -4px",
+      "rgba(0,0,0,0.2) 0px 0px 18px 0px"
+    ],
+    "gradients": [],
+    "patterns": ["rounded product/offer cards", "hover image tiles (440x618 portrait imagery)", "large price callouts", "pill CTAs", "icon-led benefit rows"]
+  },
+  "voice": {
+    "heroHeadline": "Get online in minutes with same-day WiFi",
+    "tagline": "Internet, WiFi, Mobile, TV and Streaming",
+    "firstParagraph": "Save on high speed internet, mobile phone plans and cable TV services with Xfinity. Enjoy entertainment your way with great deals on Xfinity by Comcast.",
+    "ctaLabels": ["Shop internet", "Build your plan", "Shop plans", "View and Pay Bill"],
+    "heroImage": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10716_build-your-plan-homepage/...(880x1236 portrait product tile)",
+    "heroMedium": null,
+    "register": "brand",
+    "tone": "friendly, value-forward, benefit-led, deal-driven consumer telecom"
+  },
+  "systemComponents": {
+    "header": {
+      "element": "<xc-header> (Prism web component, shadow DOM)",
+      "primaryNav": [
+        { "label": "Internet", "href": "/learn/internet-service" },
+        { "label": "Mobile", "href": "/learn/mobile" },
+        { "label": "TV & Streaming", "href": "/learn/digital-cable-tv" },
+        { "label": "Home Security", "href": "/learn/home-solutions/home-security" },
+        { "label": "Build your plan", "href": "/planbuilder" },
+        { "label": "Deals", "href": "/learn/deals" }
+      ],
+      "utility": [
+        { "label": "Sign In", "href": "https://login.xfinity.com/login" },
+        { "label": "Find a Store", "href": "/local/store-offers" },
+        { "label": "View and Pay Bill", "href": "/bill-pay" }
+      ]
+    },
+    "footer": {
+      "element": "<xc-footer> (Prism web component, shadow DOM)",
+      "columns": {
+        "Shop & Learn": [
+          { "label": "Internet", "href": "/learn/internet-service" },
+          { "label": "Mobile", "href": "/learn/mobile" },
+          { "label": "TV & Streaming", "href": "/learn/digital-cable-tv" },
+          { "label": "Home Phone", "href": "/learn/home-phone-services" },
+          { "label": "Home Security", "href": "/learn/home-solutions/home-security" },
+          { "label": "Featured Deals", "href": "/learn/deals" }
+        ],
+        "My Account": [
+          { "label": "Sign In", "href": "https://oauth.xfinity.com/oauth/authorize" },
+          { "label": "View and Pay Bill", "href": "/bill-pay" },
+          { "label": "Membership Benefits", "href": "/membership" },
+          { "label": "Move", "href": "/learn/moving" }
+        ],
+        "Company": [
+          { "label": "About Comcast", "href": "https://corporate.comcast.com/company" },
+          { "label": "Careers", "href": "https://jobs.comcast.com/" },
+          { "label": "Press Room", "href": "https://corporate.comcast.com/press" },
+          { "label": "Comcast Business", "href": "https://business.comcast.com/small-business" }
+        ],
+        "Resources": [
+          { "label": "Sitemap", "href": "/site-map" },
+          { "label": "Xfinity Stream", "href": "/stream/" },
+          { "label": "Find a Store", "href": "/local/store-offers" },
+          { "label": "Accessibility", "href": "/accessibility" }
+        ]
+      }
+    }
+  },
+  "templates": [
+    { "id": "home", "archetype": "index", "note": "marketing home, offer tiles + hover imagery + price callouts" },
+    { "id": "product-landing", "archetype": "learn-internet-service", "note": "/learn/* category overview: hero, feature rows, plan cards, FAQ" },
+    { "id": "product-detail", "archetype": "learn-digital-cable-tv-premium-channels-max", "note": "/learn/* leaf detail page, thinner" },
+    { "id": "hub-article", "archetype": "hub-internet", "note": "/hub/* editorial content hub, heavy headings" },
+    { "id": "comparison", "archetype": "compare", "note": "comparison table page, dense" },
+    { "id": "local-landing", "archetype": "local", "note": "/local/* store/locality landing" },
+    { "id": "static-legal", "archetype": "accessibility", "note": "static text page (accessibility, privacy, policies)" }
+  ]
+}

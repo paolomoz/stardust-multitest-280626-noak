@@ -1,0 +1,78 @@
+{
+  "slug": "bill-pay",
+  "url": "https://www.xfinity.com/bill-pay",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:31.654Z",
+  "finalUrl": "https://www.xfinity.com/bill-pay",
+  "title": "Pay My Xfinity Bill Online - Comcast Bill Pay",
+  "description": "Pay your Xfinity bill anytime, on any device. Pay online or with the Xfinity app, or discover even more ways to pay with Quick Collect.",
+  "og": {
+    "title": "Pay My Xfinity Bill Online - Comcast Bill Pay",
+    "description": "Pay your Xfinity bill anytime, on any device. Pay online or with the Xfinity app, or discover even more ways to pay with Quick Collect.",
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Easily pay your Xfinity bill online"
+    },
+    {
+      "tag": "h2",
+      "text": "Simplify billing with the Xfinity app"
+    },
+    {
+      "tag": "h2",
+      "text": "Explore more ways to pay"
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "explore our flexible payment options",
+      "href": "https://www.xfinity.com/bill-pay/flexible-payment"
+    },
+    {
+      "label": "Pay your bill",
+      "href": "https://payments.xfinity.com/new"
+    },
+    {
+      "label": "Pay your Comcast Business bill",
+      "href": "https://business.comcast.com/payment/onetime/pay"
+    },
+    {
+      "label": "Get the Xfinity app",
+      "href": "https://www.xfinity.com/apps"
+    },
+    {
+      "label": "Find a location",
+      "href": "https://www.westernunion.com/global-services/find-locations?WUCountry=us&WULanguage=en"
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/bill-pay/flexible-payment",
+    "https://payments.xfinity.com/new",
+    "https://business.comcast.com/payment/onetime/pay",
+    "https://www.xfinity.com/apps",
+    "https://www.westernunion.com/global-services/find-locations?WUCountry=us&WULanguage=en"
+  ],
+  "media": {
+    "imgs": [],
+    "allImgCount": 5,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_hero_desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_app_desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_western-union_desktop.jpg"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 3,
+    "mainTextLen": 1835,
+    "realImageCount": 0,
+    "trackingOnlyMedia": true,
+    "spaShellSuspect": false
+  }
+}

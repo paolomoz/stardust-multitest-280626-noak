@@ -1,0 +1,122 @@
+{
+  "slug": "apps",
+  "url": "https://www.xfinity.com/apps",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:26.064Z",
+  "finalUrl": "https://www.xfinity.com/apps",
+  "title": "Xfinity App",
+  "description": "Download the Xfinity App and easily access, control, and enhance your Xfinity services. Plus manage your account, stream, and more. From anywhere.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Manage your service with the Xfinity app"
+    },
+    {
+      "tag": "h3",
+      "text": "Access your account"
+    },
+    {
+      "tag": "h3",
+      "text": "Get always-on support"
+    },
+    {
+      "tag": "h3",
+      "text": "Stay in the know"
+    },
+    {
+      "tag": "h3",
+      "text": "More apps to make the most of your service"
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Download the App",
+      "href": "https://xfinity.app.link/appspagelink"
+    }
+  ],
+  "links": [
+    "https://xfinity.app.link/appspagelink",
+    "https://xfin.tv/xfnapps",
+    "https://apps.apple.com/us/app/xfinity-home/id418965252",
+    "https://play.google.com/store/apps/details?id=com.comcast&pli=1"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/account_icon.png",
+        "alt": "",
+        "w": 61,
+        "h": 61
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/support_icon.png",
+        "alt": "",
+        "w": 56,
+        "h": 61
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/know_icon.png",
+        "alt": "",
+        "w": 56,
+        "h": 61
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/stream_app_2up_left_dt.png",
+        "alt": "",
+        "w": 1288,
+        "h": 641
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/app-store.svg?rev=f0c06693-3823-448d-b0e0-4cb12772eadb",
+        "alt": "Download from the App Store",
+        "w": 135,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/google-play-store.png?rev=7211bb45-86a1-4dec-b742-5c6b4d5ed685",
+        "alt": "Download on Google Play",
+        "w": 135,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/home_app_2up_left_dt.png",
+        "alt": "",
+        "w": 1288,
+        "h": 641
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/app-store.svg?rev=f0c06693-3823-448d-b0e0-4cb12772eadb",
+        "alt": "Download from the App Store",
+        "w": 135,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/google-play-store.png?rev=7211bb45-86a1-4dec-b742-5c6b4d5ed685",
+        "alt": "Download on Google Play",
+        "w": 135,
+        "h": 40
+      }
+    ],
+    "allImgCount": 14,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10257_xfinity-apps-page---hero-image-update/Hero_Desktop.jpg"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 2883,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

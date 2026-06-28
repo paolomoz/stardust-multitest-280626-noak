@@ -1,0 +1,347 @@
+{
+  "slug": "local",
+  "url": "https://www.xfinity.com/local",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:45.025Z",
+  "finalUrl": "https://www.xfinity.com/local/",
+  "title": "Xfinity Stores by State",
+  "description": "See a list of Xfinity Stores across the United States to get your Xfinity Services",
+  "og": {
+    "title": " Xfinity Stores by State",
+    "description": "See a list of Xfinity Stores across the United States to get your Xfinity Services",
+    "image": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicon.1b44a3a1.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Your internet service provider nationwide"
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity Stores"
+    },
+    {
+      "tag": "h2",
+      "text": "Shop Xfinity Products"
+    }
+  ],
+  "body": [
+    "All",
+    "Moving? Check availability!",
+    "AlabamaArkansasArizonaCaliforniaColoradoConnecticutDistrict Of ColumbiaDelawareFlorida",
+    "GeorgiaIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMassachusetts",
+    "MarylandMaineMichiganMinnesotaMissouriMississippiNorth CarolinaNew HampshireNew Jersey",
+    "New MexicoNew YorkOhioOregonPennsylvaniaRhode IslandSouth CarolinaTennesseeTexas"
+  ],
+  "ctas": [
+    {
+      "label": "Check availability",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Shop deals",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Check availability",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Alabama",
+      "href": "al"
+    },
+    {
+      "label": "Arkansas",
+      "href": "ar"
+    },
+    {
+      "label": "Arizona",
+      "href": "az"
+    },
+    {
+      "label": "California",
+      "href": "ca"
+    },
+    {
+      "label": "Colorado",
+      "href": "co"
+    },
+    {
+      "label": "Connecticut",
+      "href": "ct"
+    },
+    {
+      "label": "District Of Columbia",
+      "href": "dc"
+    },
+    {
+      "label": "Delaware",
+      "href": "de"
+    },
+    {
+      "label": "Florida",
+      "href": "fl"
+    },
+    {
+      "label": "Georgia",
+      "href": "ga"
+    },
+    {
+      "label": "Idaho",
+      "href": "id"
+    },
+    {
+      "label": "Illinois",
+      "href": "il"
+    },
+    {
+      "label": "Indiana",
+      "href": "in"
+    },
+    {
+      "label": "Iowa",
+      "href": "ia"
+    },
+    {
+      "label": "Kansas",
+      "href": "ks"
+    },
+    {
+      "label": "Kentucky",
+      "href": "ky"
+    },
+    {
+      "label": "Louisiana",
+      "href": "la"
+    },
+    {
+      "label": "Massachusetts",
+      "href": "ma"
+    },
+    {
+      "label": "Maryland",
+      "href": "md"
+    },
+    {
+      "label": "Maine",
+      "href": "me"
+    },
+    {
+      "label": "Michigan",
+      "href": "mi"
+    },
+    {
+      "label": "Minnesota",
+      "href": "mn"
+    },
+    {
+      "label": "Missouri",
+      "href": "mo"
+    },
+    {
+      "label": "Mississippi",
+      "href": "ms"
+    },
+    {
+      "label": "North Carolina",
+      "href": "nc"
+    },
+    {
+      "label": "New Hampshire",
+      "href": "nh"
+    },
+    {
+      "label": "New Jersey",
+      "href": "nj"
+    },
+    {
+      "label": "New Mexico",
+      "href": "nm"
+    },
+    {
+      "label": "New York",
+      "href": "ny"
+    },
+    {
+      "label": "Ohio",
+      "href": "oh"
+    },
+    {
+      "label": "Oregon",
+      "href": "or"
+    },
+    {
+      "label": "Pennsylvania",
+      "href": "pa"
+    },
+    {
+      "label": "Rhode Island",
+      "href": "ri"
+    },
+    {
+      "label": "South Carolina",
+      "href": "sc"
+    },
+    {
+      "label": "Tennessee",
+      "href": "tn"
+    },
+    {
+      "label": "Texas",
+      "href": "tx"
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions"
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/planbuilder"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/learn/deals/internet",
+    "https://www.xfinity.com/local/al",
+    "https://www.xfinity.com/local/ar",
+    "https://www.xfinity.com/local/az",
+    "https://www.xfinity.com/local/ca",
+    "https://www.xfinity.com/local/co",
+    "https://www.xfinity.com/local/ct",
+    "https://www.xfinity.com/local/dc",
+    "https://www.xfinity.com/local/de",
+    "https://www.xfinity.com/local/fl",
+    "https://www.xfinity.com/local/ga",
+    "https://www.xfinity.com/local/id",
+    "https://www.xfinity.com/local/il",
+    "https://www.xfinity.com/local/in",
+    "https://www.xfinity.com/local/ia",
+    "https://www.xfinity.com/local/ks",
+    "https://www.xfinity.com/local/ky",
+    "https://www.xfinity.com/local/la",
+    "https://www.xfinity.com/local/ma",
+    "https://www.xfinity.com/local/md",
+    "https://www.xfinity.com/local/me",
+    "https://www.xfinity.com/local/mi",
+    "https://www.xfinity.com/local/mn",
+    "https://www.xfinity.com/local/mo",
+    "https://www.xfinity.com/local/ms",
+    "https://www.xfinity.com/local/nc",
+    "https://www.xfinity.com/local/nh",
+    "https://www.xfinity.com/local/nj",
+    "https://www.xfinity.com/local/nm",
+    "https://www.xfinity.com/local/ny",
+    "https://www.xfinity.com/local/oh",
+    "https://www.xfinity.com/local/or",
+    "https://www.xfinity.com/local/pa",
+    "https://www.xfinity.com/local/ri",
+    "https://www.xfinity.com/local/sc",
+    "https://www.xfinity.com/local/tn",
+    "https://www.xfinity.com/local/tx",
+    "https://www.xfinity.com/local/ut",
+    "https://www.xfinity.com/local/va",
+    "https://www.xfinity.com/local/vt",
+    "https://www.xfinity.com/local/wa",
+    "https://www.xfinity.com/local/wi",
+    "https://www.xfinity.com/local/wv",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.xfinity.com/learn/home-solutions",
+    "https://www.xfinity.com/planbuilder"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicon.1b44a3a1.png",
+        "alt": "xfinity logo",
+        "w": 228,
+        "h": 228
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/uaeUp_8b4d0uzs0s47iDZUvUN1Md4k0sw4ft79KQT8I/1900x475.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 474
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/1OO_Z3F8VSlYvqOIH0-Z_QGJvL2oSdBx5tOaJWKzgpA/750x1014.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 1014
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/carouselLeftArrow.3428c00a.svg",
+        "alt": "Carousel left arrow",
+        "w": 30,
+        "h": 30
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/carouselRightArrow.78cf569a.svg",
+        "alt": "Carousel right arrow",
+        "w": 30,
+        "h": 30
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/Xn82uWiifR30-p0dVw1CJX2UsEJ0aui_hgUvsXE4M38/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/f6he2DI_58kez4nrV6tGHQy85aZL7nvNLMdZcz5V3hg/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/Qy0vjHgdPTMDCA0frh99p82X6TIegpmlNw31C3pR-VY/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qbQsFXVYEE5i8xmMkZ3_LZfQkcCvZV-ZU5q3tEV2ye8/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/P2tgq3zaABCHSnP3rwOiYjGGR7LVbj5RmaetzeKLvcM/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229
+      }
+    ],
+    "allImgCount": 18,
+    "cssBackgrounds": [
+      "https://www.xfinity.com/local/permanent-b0b701/assets/images/product-hover-image.ac2e2521.png"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 3,
+    "mainTextLen": 576,
+    "realImageCount": 10,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

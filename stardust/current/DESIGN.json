@@ -1,0 +1,36 @@
+{
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f6f6f9",
+    "text": "#141417",
+    "primary": "#5a23b9",
+    "secondary": "#6138f5",
+    "accent": "#bda7e3",
+    "muted": "#555555"
+  },
+  "typography": {
+    "heading": "XSans, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "body": "DMSans, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "baseSize": "16px",
+    "scale": ["12px","14px","16px","20px","24px","32px","36px","48px","92px"]
+  },
+  "rounded": "16px",
+  "spacing": "8px grid",
+  "components": ["offer-card","hover-tile","price-callout","pill-cta","benefit-row","comparison-table","faq"],
+  "extensions": {
+    "componentStyle": {
+      "card": { "radius": "16px", "shadow": "rgba(140,140,140,0.51) 0 4px 8px -4px", "bg": "#ffffff" },
+      "button": { "radius": "999px", "primaryBg": "#5a23b9", "primaryText": "#ffffff" }
+    },
+    "motifs": {
+      "radius": "16px",
+      "shadows": ["rgba(140,140,140,0.51) 0 4px 8px -4px","rgba(0,0,0,0.2) 0 0 18px 0"],
+      "patterns": ["rounded offer cards","portrait hover tiles","large price callouts","pill CTAs","icon benefit rows"]
+    },
+    "voice": {
+      "register": "brand",
+      "heroHeadline": "Get online in minutes with same-day WiFi",
+      "ctaLabels": ["Shop internet","Build your plan","Shop plans","View and Pay Bill"]
+    }
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "slug": "compare",
+  "url": "https://www.xfinity.com/compare",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:38.121Z",
+  "finalUrl": "https://www.xfinity.com/compare/xfinity-vs-verizon",
+  "title": "Xfinity vs. Verizon: Compare Internet and Mobile",
+  "description": "See how Xfinity compares to Verizon. Lock in your internet price with our 5 Year Price Guarantee and save more when you add mobile vs. Verizon Fios. Shop Xfinity.",
+  "og": {
+    "title": "Xfinity vs. Verizon: Compare Internet and Mobile",
+    "description": "See how Xfinity compares to Verizon. Lock in your internet price with our 5 Year Price Guarantee and save more when you add mobile vs. Verizon Fios. Shop Xfinity.",
+    "image": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Competitive-Verizon_Hero_Desktop.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Xfinity vs. Verizon"
+    },
+    {
+      "tag": "h2",
+      "text": "Don’t pay more for less — get Xfinity WiFi and Mobile"
+    },
+    {
+      "tag": "h2",
+      "text": "The Xfinity WiFi and Mobile value Verizon can’t match"
+    },
+    {
+      "tag": "h2",
+      "text": "Cut your mobile bill in half. Plus, try free for a year. No commitment."
+    },
+    {
+      "tag": "h2",
+      "text": "Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members."
+    },
+    {
+      "tag": "h2",
+      "text": "Only Xfinity includes device protection for life"
+    },
+    {
+      "tag": "h2",
+      "text": "With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account."
+    },
+    {
+      "tag": "h2",
+      "text": "Get a free Mobile Select line for 1 year"
+    },
+    {
+      "tag": "h2",
+      "text": "Fiber-powered WiFi that includes it all"
+    },
+    {
+      "tag": "h2",
+      "text": "Here's their price lock reality check"
+    },
+    {
+      "tag": "h2",
+      "text": "Keep more in your pocket over 5 years"
+    },
+    {
+      "tag": "h2",
+      "text": "Save $2,400+ when you break up with Verizon"
+    },
+    {
+      "tag": "h2",
+      "text": "Cut your bill in half when you switch to Xfinity"
+    },
+    {
+      "tag": "h2",
+      "text": "See how Xfinity compares to Verizon internet and mobile"
+    },
+    {
+      "tag": "h2",
+      "text": "Your world. Your priorities. Perfectly connected."
+    },
+    {
+      "tag": "h3",
+      "text": "5 Year Price Guarantee"
+    },
+    {
+      "tag": "h2",
+      "text": "No annual contracts. No commitments. Cancel anytime."
+    },
+    {
+      "tag": "h3",
+      "text": "Entertainment"
+    },
+    {
+      "tag": "h2",
+      "text": "Get Peacock Premium for 3 years, plus Disney+, Hulu bundle"
+    },
+    {
+      "tag": "h3",
+      "text": "Xfinity Mobile"
+    },
+    {
+      "tag": "h2",
+      "text": "Get a free Mobile Select line for a year on the most reliable 5G network"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "body": [
+    "Don’t pay more for less — get Xfinity WiFi and Mobile",
+    "Compares 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra.",
+    "• New Xfinity Mobile members get a free Mobile Select line for a year, then $30/mo",
+    "• International talk, text, and data included for travel in 215+ destinations",
+    "• With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account.",
+    "• Get phone upgrades every year with Mobile Plus",
+    "• Connect to America’s most reliable 5G network with every plan",
+    "• Access to 20+ million WiFi hotspots with PowerBoost included for gig-speeds on the go",
+    "• Mobile pricing starts at $65/mo for one line",
+    "• No deals to get a free line",
+    "• Verizon doesn’t offer a network of public WiFi hotspots — meaning you could spend more in data",
+    "• For $70/mo: get gig-speed internet and a free Mobile Select line for one year",
+    "• Peacock Premium for 3 years, and Disney+, Hulu bundle included with gig internet plans",
+    "• Unlimited data and WiFi equipment included",
+    "• Xfinity membership starts from day one, including discounts and exclusives that refresh every week",
+    "• Gig-speed internet starts at $89.99/mo with no discount unless you add mobile",
+    "• No entertainment options included with internet plans",
+    "• Entertainment add-ons start at $10/mo",
+    "• Only an internet router is included — no additional perks for being a customer",
+    "• 5 Year Price Guarantee on speeds starting at 300 Mbps",
+    "• No contracts or commitments — cancel anytime",
+    "• Get online in minutes with same-day, self-install WiFi",
+    "• Start saving from day one with a free Mobile Select line for one year",
+    "• Unlimited data and equipment included",
+    "• 3-year price lock guarantee for 300 Mbps",
+    "• 4-year price lock guarantee for 500 Mbps",
+    "• 5-year price lock guarantee for 1 Gig",
+    "• 5 Year Price Guarantee on internet plans",
+    "• Save $2,400+ vs. Verizon over 5 years",
+    "• Access to 20+ million WiFi hotspots from day one",
+    "• Get a free Mobile Select line for a year",
+    "• Xfinity Stream included with 100+ live channels, movies, and sports",
+    "• Advanced Security included",
+    "• Price guarantees depend on internet speed",
+    "• Mobile service not included with home internet",
+    "• Entertainment options are not included with internet plans",
+    "• Advanced security plan is an extra $5.99/mo",
+    "WiFi equipment, unlimited data, and a free Mobile Select line included with all internet plans",
+    "• 5 Year Price Guarantee",
+    "• Reliable, fiber-powered home internet",
+    "• No contracts or commitments — cancel anytime",
+    "• Get online in minutes with same-day, self-install WiFi",
+    "• New Xfinity Mobile members can start saving from day one with a free Mobile Select line for a year",
+    "• WiFi equipment included",
+    "• Unlimited data without slowing down internet speeds",
+    "• Xfinity Gateway with Advanced Security and parental control features",
+    "• Xfinity membership that starts from day one, including discounts and exclusives that refresh every week",
+    "• Peacock Premium for 3 years",
+    "• Disney+, Hulu bundle included"
+  ],
+  "ctas": [
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/learn/deals/internet-and-mobile"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Shop mobile",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "See how much you can save",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/current"
+    },
+    {
+      "label": "Shop Internet",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Shop Internet",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo"
+    },
+    {
+      "label": "Shop mobile",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo"
+    },
+    {
+      "label": "Start by selecting your Xfinity Internet plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "you can connect up to 10 cellular tablets and watches for $35/mo. Included with our latest plans",
+      "href": "https://www.xfinity.com/digital/mobile/smart-watches"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    },
+    {
+      "label": "Live chat",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/learn/deals/internet-and-mobile",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/protection-plans",
+    "https://www.xfinity.com/learn/mobile/plan",
+    "https://www.xfinity.com/learn/deals/internet",
+    "https://www.xfinity.com/learn/mobile/plan/savings-calculator/current",
+    "https://www.xfinity.com/compare/xfinity-vs-verizon#Pricing&otherinfo",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+    "https://www.xfinity.com/digital/mobile/smart-watches",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Mobile-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Meter-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/PriceTag-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/MoneyBag-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Xfinity_Price_5_Year_Guarantee_logo_60px.svg",
+        "alt": "",
+        "w": 147,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/GigStreamingHero-Eyebrow-Black.svg",
+        "alt": "",
+        "w": 295,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/card3bento-foreground_v3.png",
+        "alt": "",
+        "w": 714,
+        "h": 700
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 30,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Competitive-Verizon_Hero_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_8.0-Metablock-Left_Desktop-new.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_8.0-Metablock-Right_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_Overlap_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card1bento--desktop_v2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card2bento--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card3bento--desktop_v2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_Bento-XM_Desktop-new.jpg"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 22,
+    "mainTextLen": 22426,
+    "realImageCount": 25,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
