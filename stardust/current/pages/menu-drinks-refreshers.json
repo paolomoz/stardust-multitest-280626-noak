@@ -1,0 +1,1056 @@
+{
+  "slug": "menu-drinks-refreshers",
+  "url": "https://www.starbucks.com/menu/drinks/refreshers",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:57.009Z",
+  "finalUrl": "https://www.starbucks.com/menu/drinks/refreshers",
+  "title": "Refreshers: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Refreshers"
+    },
+    {
+      "tag": "h2",
+      "text": "Energy Refreshers"
+    },
+    {
+      "tag": "h2",
+      "text": "Lemonade Refreshers"
+    },
+    {
+      "tag": "h2",
+      "text": "Coconutmilk Refreshers"
+    },
+    {
+      "tag": "h2",
+      "text": "Refreshers"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Menu",
+    "Featured",
+    "Previous",
+    "Favorites",
+    "The LatestTrendingEnergy Refreshers",
+    "Trending",
+    "Energy Refreshers",
+    "DrinksProtein BeveragesHot CoffeeCold CoffeeMatchaHot TeaCold TeaRefreshersFrappuccino® Blended BeverageHot Chocolate, Lemonade & MoreBottled Beverages",
+    "Protein Beverages",
+    "Hot Coffee",
+    "Cold Coffee",
+    "Matcha",
+    "Hot Tea",
+    "Cold Tea",
+    "Refreshers",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Bottled Beverages",
+    "FoodBreakfastBakeryTreatsLunchLite Bites",
+    "Breakfast",
+    "Bakery",
+    "Treats",
+    "Lunch",
+    "Lite Bites",
+    "At Home CoffeeWhole BeanStarbucks VIA® InstantShopping Bag",
+    "Whole Bean",
+    "Starbucks VIA® Instant",
+    "Shopping Bag",
+    "Menu /",
+    "Refreshers",
+    "Strawberry Açaí Lemonade Energy RefresherStrawberry Açaí Lemonade Energy Refresher",
+    "Blue Coconut Lemonade Energy RefresherBlue Coconut Lemonade Energy Refresher",
+    "Tropical Butterfly Lemonade Energy RefresherTropical Butterfly Lemonade Energy Refresher",
+    "Mango Strawberry Lemonade Energy RefresherMango Strawberry Lemonade Energy Refresher",
+    "Mango Dragonfruit Lemonade Energy RefresherMango Dragonfruit Lemonade Energy Refresher",
+    "Cannon Ball Energy DrinkCannon Ball Energy Drink",
+    "Pink Energy DrinkPink Energy Drink",
+    "Ocean Energy DrinkOcean Energy Drink",
+    "Butterfly Energy DrinkButterfly Energy Drink",
+    "Mango Dream Energy DrinkMango Dream Energy Drink",
+    "Dragon Energy DrinkDragon Energy Drink",
+    "Pink Cannon Ball Energy DrinkPink Cannon Ball Energy Drink",
+    "Strawberry Açaí Energy RefresherStrawberry Açaí Energy Refresher",
+    "Blue Coconut Energy RefresherBlue Coconut Energy Refresher",
+    "Tropical Butterfly Energy RefresherTropical Butterfly Energy Refresher",
+    "Mango Strawberry Energy RefresherMango Strawberry Energy Refresher",
+    "Mango Dragonfruit Energy RefresherMango Dragonfruit Energy Refresher",
+    "Strawberry Açaí Lemonade RefresherStrawberry Açaí Lemonade Refresher",
+    "Tropical Butterfly Lemonade RefresherTropical Butterfly Lemonade Refresher",
+    "Blue Coconut Lemonade RefresherBlue Coconut Lemonade Refresher",
+    "Mango Strawberry Lemonade RefresherMango Strawberry Lemonade Refresher",
+    "Mango Dragonfruit Lemonade RefresherMango Dragonfruit Lemonade Refresher",
+    "Cannon Ball DrinkCannon Ball Drink",
+    "Pink DrinkPink Drink",
+    "Butterfly DrinkButterfly Drink",
+    "Ocean DrinkOcean Drink",
+    "Mango DreamMango Dream",
+    "Dragon Drink®Dragon Drink®",
+    "Pink Cannon Ball DrinkPink Cannon Ball Drink",
+    "Strawberry Açaí RefresherStrawberry Açaí Refresher",
+    "Tropical Butterfly RefresherTropical Butterfly Refresher",
+    "Blue Coconut RefresherBlue Coconut Refresher",
+    "Mango Strawberry RefresherMango Strawberry Refresher",
+    "Mango Dragonfruit RefresherMango Dragonfruit Refresher"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Strawberry Açaí Lemonade Energy Refresher",
+      "href": "/menu/product/40495/iced"
+    },
+    {
+      "label": "Blue Coconut Lemonade Energy Refresher",
+      "href": "/menu/product/40608/iced"
+    },
+    {
+      "label": "Tropical Butterfly Lemonade Energy Refresher",
+      "href": "/menu/product/40655/iced"
+    },
+    {
+      "label": "Mango Strawberry Lemonade Energy Refresher",
+      "href": "/menu/product/40494/iced"
+    },
+    {
+      "label": "Mango Dragonfruit Lemonade Energy Refresher",
+      "href": "/menu/product/40497/iced"
+    },
+    {
+      "label": "Cannon Ball Energy Drink",
+      "href": "/menu/product/40772/iced"
+    },
+    {
+      "label": "Pink Energy Drink",
+      "href": "/menu/product/40498/iced"
+    },
+    {
+      "label": "Ocean Energy Drink",
+      "href": "/menu/product/40629/iced"
+    },
+    {
+      "label": "Butterfly Energy Drink",
+      "href": "/menu/product/40654/iced"
+    },
+    {
+      "label": "Mango Dream Energy Drink",
+      "href": "/menu/product/40496/iced"
+    },
+    {
+      "label": "Dragon Energy Drink",
+      "href": "/menu/product/40499/iced"
+    },
+    {
+      "label": "Pink Cannon Ball Energy Drink",
+      "href": "/menu/product/40771/iced"
+    },
+    {
+      "label": "Strawberry Açaí Energy Refresher",
+      "href": "/menu/product/40500/iced"
+    },
+    {
+      "label": "Blue Coconut Energy Refresher",
+      "href": "/menu/product/40632/iced"
+    },
+    {
+      "label": "Tropical Butterfly Energy Refresher",
+      "href": "/menu/product/40623/iced"
+    },
+    {
+      "label": "Mango Strawberry Energy Refresher",
+      "href": "/menu/product/40502/iced"
+    },
+    {
+      "label": "Mango Dragonfruit Energy Refresher",
+      "href": "/menu/product/40501/iced"
+    },
+    {
+      "label": "Strawberry Açaí Lemonade Refresher",
+      "href": "/menu/product/2122677/iced"
+    },
+    {
+      "label": "Tropical Butterfly Lemonade Refresher",
+      "href": "/menu/product/40579/iced"
+    },
+    {
+      "label": "Blue Coconut Lemonade Refresher",
+      "href": "/menu/product/40607/iced"
+    },
+    {
+      "label": "Mango Strawberry Lemonade Refresher",
+      "href": "/menu/product/40493/iced"
+    },
+    {
+      "label": "Mango Dragonfruit Lemonade Refresher",
+      "href": "/menu/product/2122726/iced"
+    },
+    {
+      "label": "Cannon Ball Drink",
+      "href": "/menu/product/34810/iced"
+    },
+    {
+      "label": "Pink Drink",
+      "href": "/menu/product/2122275/iced"
+    },
+    {
+      "label": "Butterfly Drink",
+      "href": "/menu/product/40578/iced"
+    },
+    {
+      "label": "Ocean Drink",
+      "href": "/menu/product/40628/iced"
+    },
+    {
+      "label": "Mango Dream",
+      "href": "/menu/product/40504/iced"
+    },
+    {
+      "label": "Dragon Drink®",
+      "href": "/menu/product/2122756/iced"
+    },
+    {
+      "label": "Pink Cannon Ball Drink",
+      "href": "/menu/product/40651/iced"
+    },
+    {
+      "label": "Strawberry Açaí Refresher",
+      "href": "/menu/product/2121342/iced"
+    },
+    {
+      "label": "Tropical Butterfly Refresher",
+      "href": "/menu/product/40577/iced"
+    },
+    {
+      "label": "Blue Coconut Refresher",
+      "href": "/menu/product/40631/iced"
+    },
+    {
+      "label": "Mango Strawberry Refresher",
+      "href": "/menu/product/40475/iced"
+    },
+    {
+      "label": "Mango Dragonfruit Refresher",
+      "href": "/menu/product/2122725/iced"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "For item availabilityChoose a store",
+      "href": "/store-locator?source=menu"
+    },
+    {
+      "label": "Open the cart. There are 0 items in cart.",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/drinks/refreshers#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/40495/iced",
+    "https://www.starbucks.com/menu/product/40608/iced",
+    "https://www.starbucks.com/menu/product/40655/iced",
+    "https://www.starbucks.com/menu/product/40494/iced",
+    "https://www.starbucks.com/menu/product/40497/iced",
+    "https://www.starbucks.com/menu/product/40772/iced",
+    "https://www.starbucks.com/menu/product/40498/iced",
+    "https://www.starbucks.com/menu/product/40629/iced",
+    "https://www.starbucks.com/menu/product/40654/iced",
+    "https://www.starbucks.com/menu/product/40496/iced",
+    "https://www.starbucks.com/menu/product/40499/iced",
+    "https://www.starbucks.com/menu/product/40771/iced",
+    "https://www.starbucks.com/menu/product/40500/iced",
+    "https://www.starbucks.com/menu/product/40632/iced",
+    "https://www.starbucks.com/menu/product/40623/iced",
+    "https://www.starbucks.com/menu/product/40502/iced",
+    "https://www.starbucks.com/menu/product/40501/iced",
+    "https://www.starbucks.com/menu/product/2122677/iced",
+    "https://www.starbucks.com/menu/product/40579/iced",
+    "https://www.starbucks.com/menu/product/40607/iced",
+    "https://www.starbucks.com/menu/product/40493/iced",
+    "https://www.starbucks.com/menu/product/2122726/iced",
+    "https://www.starbucks.com/menu/product/34810/iced",
+    "https://www.starbucks.com/menu/product/2122275/iced",
+    "https://www.starbucks.com/menu/product/40578/iced",
+    "https://www.starbucks.com/menu/product/40628/iced",
+    "https://www.starbucks.com/menu/product/40504/iced",
+    "https://www.starbucks.com/menu/product/2122756/iced",
+    "https://www.starbucks.com/menu/product/40651/iced",
+    "https://www.starbucks.com/menu/product/2121342/iced",
+    "https://www.starbucks.com/menu/product/40577/iced",
+    "https://www.starbucks.com/menu/product/40631/iced",
+    "https://www.starbucks.com/menu/product/40475/iced",
+    "https://www.starbucks.com/menu/product/2122725/iced",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/StrawberryAcaiLemonadeRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Strawberry Açaí Lemonade Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Blue Coconut Lemonade Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/TropicalButterflyLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Tropical Butterfly Lemonade Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoStrawberryLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Strawberry Lemonade Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDragonfruitLemonadeRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dragonfruit Lemonade Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MrBeastCannonBallRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cannon Ball Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PinkDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pink Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Ocean Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/ButterflyDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Butterfly Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDream?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dream Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/DragonDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Dragon Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PinkCannonBallDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pink Cannon Ball Energy Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/StrawberryAcai?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Strawberry Açaí Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Blue Coconut Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/TropicalButterflyRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Tropical Butterfly Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoStrawberryRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Strawberry Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDragonfruitRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dragonfruit Energy Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/StrawberryAcaiLemonadeRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Strawberry Açaí Lemonade Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/TropicalButterflyLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Tropical Butterfly Lemonade Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Blue Coconut Lemonade Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoStrawberryLemonadeRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Strawberry Lemonade Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDragonfruitLemonadeRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dragonfruit Lemonade Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MrBeastCannonBallRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cannon Ball Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PinkDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pink Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/ButterflyDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Butterfly Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Ocean Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDream?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dream",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/DragonDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Dragon Drink®",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PinkCannonBallDrink?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pink Cannon Ball Drink",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/StrawberryAcai?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Strawberry Açaí Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/TropicalButterflyRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Tropical Butterfly Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlueRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Blue Coconut Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoStrawberryRefresher?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Strawberry Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MangoDragonfruitRefreshers?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mango Dragonfruit Refresher",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      }
+    ],
+    "allImgCount": 69,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 2256,
+    "realImageCount": 68,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

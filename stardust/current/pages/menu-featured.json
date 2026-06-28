@@ -1,0 +1,524 @@
+{
+  "slug": "menu-featured",
+  "url": "https://www.starbucks.com/menu/featured/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:23.544Z",
+  "finalUrl": "https://www.starbucks.com/menu/featured/",
+  "title": "Featured Summer Menu: Starbucks Coffee Company",
+  "description": "Explore trending favorites like new Tropical Butterfly Refresher, Horchata Frappuccino and more. Order online and pick up at your local Starbucks store today.",
+  "og": {
+    "title": "Featured Summer Menu: Starbucks Coffee Company",
+    "description": "Explore trending favorites like new Tropical Butterfly Refresher, Horchata Frappuccino and more. Order online and pick up at your local Starbucks store today.",
+    "image": "/next_static/icons/summary_square.png",
+    "type": "company"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Summer starts here"
+    },
+    {
+      "tag": "h1",
+      "text": "New Blue Coconut Lemonade Energy Refresher"
+    },
+    {
+      "tag": "h1",
+      "text": "New Iced Blue Coconut Matcha"
+    },
+    {
+      "tag": "h2",
+      "text": "New Tropical Butterfly Lemonade Refresher"
+    },
+    {
+      "tag": "h2",
+      "text": "New Butterfly Drink"
+    },
+    {
+      "tag": "h2",
+      "text": "New Horchata Frappuccino® Blended Beverage"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Horchata Shaken Espresso"
+    },
+    {
+      "tag": "h2",
+      "text": "Mango Dragonfruit Energy Refresher"
+    },
+    {
+      "tag": "h2",
+      "text": "Strawberry Açaí Energy Refresher"
+    },
+    {
+      "tag": "h2",
+      "text": "Toasted Coconut Cream Cold Brew"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Brown Sugar Oatmilk Shaken Espresso"
+    },
+    {
+      "tag": "h2",
+      "text": "Jalapeño Chicken Pocket"
+    },
+    {
+      "tag": "h2",
+      "text": "Tomato & Mozzarella on Focaccia"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#primary-content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "/account/signin?ReturnUrl=%2Fmenu%2Ffeatured"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/40608/iced"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/37746/iced"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/40579/iced"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/40578/iced"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/40517/iced"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/27497/iced"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/40501/iced"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/40500/iced"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/34832/iced"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/2123431/iced"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/product/2124812/single"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu/product/573/single"
+    },
+    {
+      "label": "www.water.org",
+      "href": "https://water.org/"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/featured/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2Fmenu%2Ffeatured",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2Fmenu%2Ffeatured",
+    "https://www.starbucks.com/menu/product/40608/iced",
+    "https://www.starbucks.com/menu/product/37746/iced",
+    "https://www.starbucks.com/menu/product/40579/iced",
+    "https://www.starbucks.com/menu/product/40578/iced",
+    "https://www.starbucks.com/menu/product/40517/iced",
+    "https://www.starbucks.com/menu/product/27497/iced",
+    "https://www.starbucks.com/menu/product/40501/iced",
+    "https://www.starbucks.com/menu/product/40500/iced",
+    "https://www.starbucks.com/menu/product/34832/iced",
+    "https://www.starbucks.com/menu/product/2123431/iced",
+    "https://www.starbucks.com/menu/product/2124812/single",
+    "https://www.starbucks.com/menu/product/573/single",
+    "https://water.org/",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108645.jpg",
+        "alt": "An iced blue drink in glassware on a light-gray surface. Blue script that reads “Get Blue” sits above it.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108646.jpg",
+        "alt": "An iced matcha with light-blue cold foam in glassware on a light-gray surface. Blue script that reads “Get Blue” sits above it.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108645.jpg",
+        "alt": "An iced blue drink in glassware on a light-gray surface. Blue script that reads “Get Blue” sits above it.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108646.jpg",
+        "alt": "An iced matcha with light-blue cold foam in glassware on a light-gray surface. Blue script that reads “Get Blue” sits above it.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108590.jpg",
+        "alt": "A bright multicolored iced beverage with round edible spheres at the bottom in a glass with a straw.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108591.jpg",
+        "alt": "A creamy multicolored iced beverage with round edible spheres at the bottom in a glass with a straw.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108590.jpg",
+        "alt": "A bright multicolored iced beverage with round edible spheres at the bottom in a glass with a straw.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108591.jpg",
+        "alt": "A creamy multicolored iced beverage with round edible spheres at the bottom in a glass with a straw.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108592.jpg",
+        "alt": "An blended iced coffee drink with whipped cream, sprinkles and a straw in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108593.jpg",
+        "alt": "An iced coffee drink in a glass with creamy marbling. ",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108592.jpg",
+        "alt": "An blended iced coffee drink with whipped cream, sprinkles and a straw in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108593.jpg",
+        "alt": "An iced coffee drink in a glass with creamy marbling. ",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108602.jpg",
+        "alt": "A bright iced beverage with pieces of dragonfruit in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108603.jpg",
+        "alt": "A bright iced beverage with pieces of strawberries in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108602.jpg",
+        "alt": "A bright iced beverage with pieces of dragonfruit in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108603.jpg",
+        "alt": "A bright iced beverage with pieces of strawberries in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108615.jpg",
+        "alt": "An iced coffee drink with a thick foamy top and sprinkles in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108616.jpg",
+        "alt": "An iced coffee drink with a foamy top and marbling in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108615.jpg",
+        "alt": "An iced coffee drink with a thick foamy top and sprinkles in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108616.jpg",
+        "alt": "An iced coffee drink with a foamy top and marbling in a glass.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108621.jpg",
+        "alt": "Two halves of a flatbrad wrap sandwich with a creamy chicken filling are stacked on a plate.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108622.jpg",
+        "alt": "Two halves of a toasted focaccia sandwich filled with spinach, pesto, cheese and tomato are stacked on a plate.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108621.jpg",
+        "alt": "Two halves of a flatbrad wrap sandwich with a creamy chicken filling are stacked on a plate.",
+        "w": 1408,
+        "h": 1200
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108622.jpg",
+        "alt": "Two halves of a toasted focaccia sandwich filled with spinach, pesto, cheese and tomato are stacked on a plate.",
+        "w": 1408,
+        "h": 1200
+      }
+    ],
+    "allImgCount": 24,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 18,
+    "mainTextLen": 6009,
+    "realImageCount": 24,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

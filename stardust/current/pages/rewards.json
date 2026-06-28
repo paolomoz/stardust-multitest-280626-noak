@@ -1,0 +1,638 @@
+{
+  "slug": "rewards",
+  "url": "https://www.starbucks.com/rewards",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:51.946Z",
+  "finalUrl": "https://www.starbucks.com/rewards",
+  "title": "Join Starbucks® Rewards: Starbucks Coffee Company",
+  "description": "As a member of our Starbucks loyalty program, you'll enjoy a free birthday drink and other exclusive benefits. Join Starbucks® Rewards today!",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Starbucks® Rewards"
+    },
+    {
+      "tag": "h2",
+      "text": "Free coffee is just the beginning"
+    },
+    {
+      "tag": "h2",
+      "text": "How it works"
+    },
+    {
+      "tag": "h3",
+      "text": "Collect Stars"
+    },
+    {
+      "tag": "h3",
+      "text": "Enjoy free treats"
+    },
+    {
+      "tag": "h3",
+      "text": "Unlock benefits"
+    },
+    {
+      "tag": "h2",
+      "text": "Get rewarded for your routine"
+    },
+    {
+      "tag": "h3",
+      "text": "Green status"
+    },
+    {
+      "tag": "h3",
+      "text": "Gold status"
+    },
+    {
+      "tag": "h3",
+      "text": "Reserve status"
+    },
+    {
+      "tag": "h2",
+      "text": "Get your favorites for free"
+    },
+    {
+      "tag": "h2",
+      "text": "Partnerships"
+    },
+    {
+      "tag": "h2",
+      "text": "Free to join, easy to get started"
+    },
+    {
+      "tag": "h3",
+      "text": "Create an account"
+    },
+    {
+      "tag": "h3",
+      "text": "Order and pay your way"
+    },
+    {
+      "tag": "h3",
+      "text": "Earn Stars, get Rewards"
+    },
+    {
+      "tag": "h2",
+      "text": "Questions?"
+    },
+    {
+      "tag": "h2",
+      "text": "It's even better in the app"
+    },
+    {
+      "tag": "h3",
+      "text": "Terms of use"
+    },
+    {
+      "tag": "h3",
+      "text": "Earn Rate"
+    },
+    {
+      "tag": "h3",
+      "text": "Redeeming Rewards"
+    },
+    {
+      "tag": "h3",
+      "text": "*Digital Starbucks Card Reload Bonus Stars"
+    },
+    {
+      "tag": "h3",
+      "text": "Star Expiration"
+    },
+    {
+      "tag": "h3",
+      "text": "Birthday Reward"
+    },
+    {
+      "tag": "h3",
+      "text": "Mod Monday"
+    },
+    {
+      "tag": "h3",
+      "text": "Personal Cup Benefit"
+    },
+    {
+      "tag": "h3",
+      "text": "Partnerships"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Join now to start enjoying exclusive benefits and unlocking more of what you love.",
+    "Start sipping your way to delicious Rewards.",
+    "Earn Stars by making eligible purchases and participating in challenges, offers and games.",
+    "Redeem your Stars for free food, drinks and more. Look forward to a birthday treat on us every year.",
+    "Keep earning Stars to increase your status and help you get to free faster. Discover more benefits at every level.",
+    "As your status grows, so do your benefits.",
+    "Less than 500★Stars earned each year",
+    "Free treat on your birthday",
+    "Earn 1★Star per $1 spent",
+    "Free Mod Mondays—customize your drink once a month, on us",
+    "Early access, personalized offers and games",
+    "Bonus Stars for qualifying digital reloads to your Starbucks Card",
+    "Double Stars with personal cup",
+    "500+★Stars earned each year",
+    "7 days to redeem your birthday treat",
+    "Earn 1.2★Stars per $1 spent",
+    "Stars won’t expire",
+    "Free Mod Mondays—customize your drink once a month, on us",
+    "Early access, personalized offers and games",
+    "Bonus Stars for qualifying digital reloads to your Starbucks Card",
+    "Double Stars with personal cup",
+    "4 more Double Star Days per year",
+    "2,500+★Stars earned each year",
+    "30 days to redeem your birthday treat",
+    "Earn 1.7★Stars per $1 spent",
+    "Stars won’t expire",
+    "Free Mod Mondays—customize your drink once a month, on us",
+    "Early access, personalized offers and games",
+    "Bonus Stars for qualifying digital reloads to your Starbucks Card",
+    "Double Stars with personal cup",
+    "Access to exclusive global coffee experiences",
+    "A free personalized Reserve Card to mark your achievement",
+    "6 more Double Star Days per year",
+    "$1 off a drink customization, including an espresso shot, syrup or cold foam.",
+    "Link your accounts to unlock perks from our partners, all while earning more Stars.",
+    "Join now or download the app",
+    "We have answers. Check out the FAQs.",
+    "Download the app to access exclusive offers, challenges and more.",
+    "For full program details visit starbucks.com/rewards/terms.",
+    "Starbucks® Rewards benefits are available at participating Starbucks stores. Not all stores have the ability to honor Rewards at this time. Visit the Starbucks Store Locator and search for locations honoring “Redeem Rewards”.",
+    "Green members earn 1 Star per $1 spent at participating stores.",
+    "Gold members earn 1.2 Stars per $1 spent at participating stores.",
+    "Reserve members earn 1.7 Stars per $1 spent at participating stores.",
+    "Stars are not earned on purchases of Starbucks Cards, Starbucks Card reloads* and alcohol. Stars are not earned on tax or tips. See Starbucks® Rewards Terms and Conditions for details and earn rates.",
+    "At participating stores. Some restrictions apply. Free food and beverage Rewards may be redeemed at participating stores and exclude alcoholic beverages and multi-serve items. For details, see Starbucks® Rewards Terms and Conditions.",
+    "Digitally reload $30+ to your Starbucks Card in your Starbucks account to receive 10 Bonus Stars or $50+ to receive 25 Bonus Stars. Max 25 Bonus Stars per transaction.",
+    "Green member Stars (including partial Stars) earned toward free food and drink Rewards expire 6 months after they are earned. Green members may extend their Star expiration date by one month by completing one of the following in the calendar month prior to the original Star expiration date: 1) make a qualifying purchase at a participating store. Excludes purchases of Starbucks Cards, alcohol and delivery services; 2) Redeem a Reward at a participating store; or 3) Digitally reload $30 or more to your Starbucks Card through the app or web.",
+    "Stars don’t expire as long as you maintain Gold or Reserve status. See Starbucks Rewards® Terms and Conditions for details.",
+    "Green members: Redeemable on member’s birthday only, at participating stores.",
+    "Gold members: Redeemable for 7 days starting on member’s birthday, at participating stores.",
+    "Reserve members: Redeemable for 30 days starting on member’s birthday, at participating stores.",
+    "Free birthday drink must be standard menu size.",
+    "Excludes alcohol and multi-serve items. To qualify, you must have made at least one Star-earning transaction prior to your birthday each year.",
+    "Redeemable at participating stores. Members will receive one free customization each month, up to $2.25 (pre-tax) each. Not valid for use with Rewards or other offers, discounts or promotions.",
+    "Starbucks Rewards members earn 2x Stars on their transaction when using a clean personal cup at participating stores.",
+    "1 Delta Terms and Conditions↩",
+    "2 Marriott Bonvoy Terms and Conditions↩"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "25★Stars",
+      "href": null
+    },
+    {
+      "label": "60★Stars",
+      "href": null
+    },
+    {
+      "label": "100★Stars",
+      "href": null
+    },
+    {
+      "label": "200★Stars",
+      "href": null
+    },
+    {
+      "label": "300★Stars",
+      "href": null
+    },
+    {
+      "label": "400★Stars",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": "#deltaSkymilesTermsDscId"
+    },
+    {
+      "label": "View details",
+      "href": "https://www.deltastarbucks.com/content/starbucks/en/overview.html?mkcpgn=dipd-sbux7042"
+    },
+    {
+      "label": "2",
+      "href": "#marriottTermsDscId"
+    },
+    {
+      "label": "View details",
+      "href": "https://www.starbucks.com/rewards/partnerships/marriottbonvoy"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "download the app",
+      "href": "https://starbucks.app.link/VLa2I3inh9"
+    },
+    {
+      "label": "Check out the FAQs",
+      "href": "https://about.starbucks.com/starbucks-rewards-faq/"
+    },
+    {
+      "label": "starbucks.com/rewards/terms",
+      "href": "https://www.starbucks.com/rewards/terms/"
+    },
+    {
+      "label": "Starbucks Store Locator",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "https://www.deltastarbucks.com/terms"
+    },
+    {
+      "label": "↩",
+      "href": "#deltaNoteId"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "https://www.starbucks.com/rewards/partnerships/marriottbonvoy#disclaimerTitleId"
+    },
+    {
+      "label": "↩",
+      "href": "#marriottNoteId"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/rewards#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/rewards#deltaSkymilesTermsDscId",
+    "https://www.deltastarbucks.com/content/starbucks/en/overview.html?mkcpgn=dipd-sbux7042",
+    "https://www.starbucks.com/rewards#marriottTermsDscId",
+    "https://www.starbucks.com/rewards/partnerships/marriottbonvoy",
+    "https://starbucks.app.link/VLa2I3inh9",
+    "https://about.starbucks.com/starbucks-rewards-faq/",
+    "https://www.starbucks.com/rewards/terms/",
+    "https://www.deltastarbucks.com/terms",
+    "https://www.starbucks.com/rewards#deltaNoteId",
+    "https://www.starbucks.com/rewards/partnerships/marriottbonvoy#disclaimerTitleId",
+    "https://www.starbucks.com/rewards#marriottNoteId",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.starbucks.com/weblx/images//sr6-rewards/hero-unauth-US.png",
+        "alt": "",
+        "w": 1792,
+        "h": 2316
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/collect-stars.svg",
+        "alt": "",
+        "w": 72,
+        "h": 72
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/free-treats.svg",
+        "alt": "",
+        "w": 72,
+        "h": 72
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/unlock-benefits.svg",
+        "alt": "",
+        "w": 72,
+        "h": 72
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/benefits-backgrounds/green-bg.png",
+        "alt": "",
+        "w": 411,
+        "h": 98
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/benefits-backgrounds/gold-bg.png",
+        "alt": "",
+        "w": 411,
+        "h": 98
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/sr6-rewards/benefits-backgrounds/reserve-bg.png",
+        "alt": "",
+        "w": 411,
+        "h": 39
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/us-ca-25-tier-2x?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/rewards/promo-badge-en.svg",
+        "alt": "",
+        "w": 79,
+        "h": 56
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/us-ca-60-tier-2x?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/us-ca-100-tier-2x?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/us-ca-200-tier-2x?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/us-ca-300-tier-2x?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/400_2x_Web?fmt=png-alpha&scale=.75",
+        "alt": "",
+        "w": 369,
+        "h": 243
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/unauth-us-partnership-delta-2x?fmt=webp-alpha",
+        "alt": "",
+        "w": 440,
+        "h": 192
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/unauth-us-partnership-marriott-bonvoy-2x?fmt=webp-alpha",
+        "alt": "",
+        "w": 440,
+        "h": 192
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/rewards/getting-started/sr6-get-started-en-US.png",
+        "alt": "",
+        "w": 914,
+        "h": 632
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/rewards/getting-started/create-account.svg",
+        "alt": "",
+        "w": 53,
+        "h": 52
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/rewards/getting-started/mop.svg",
+        "alt": "",
+        "w": 60,
+        "h": 54
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/rewards/getting-started/earn-rewards.svg",
+        "alt": "",
+        "w": 50,
+        "h": 57
+      }
+    ],
+    "allImgCount": 23,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 31,
+    "mainTextLen": 5539,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

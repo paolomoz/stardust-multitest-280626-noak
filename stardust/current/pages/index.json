@@ -1,0 +1,356 @@
+{
+  "slug": "index",
+  "url": "https://www.starbucks.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:13.316Z",
+  "finalUrl": "https://www.starbucks.com/",
+  "title": "Starbucks Coffee Company",
+  "description": "Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks® Rewards, manage your gift card and more.",
+  "og": {
+    "title": "Starbucks Coffee Company",
+    "description": "Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks® Rewards, manage your gift card and more.",
+    "image": "/next_static/icons/summary_square.png",
+    "type": "company"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "It's a great day for coffee Start an order"
+    },
+    {
+      "tag": "h1",
+      "text": "New: Blue coconut for a cause"
+    },
+    {
+      "tag": "h2",
+      "text": "It’s Starbucks summer"
+    },
+    {
+      "tag": "h2",
+      "text": "Bold, iced and deliciously classic"
+    },
+    {
+      "tag": "h2",
+      "text": "Good energy in every sip"
+    },
+    {
+      "tag": "h2",
+      "text": "One night with Myles Smith"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "It's a great day for coffee Start an order"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#primary-content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "/account/signin?ReturnUrl=%2F"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/featured/"
+    },
+    {
+      "label": "Explore the summer menu",
+      "href": "https://www.starbucks.com/menu/featured/"
+    },
+    {
+      "label": "Order a cold coffee",
+      "href": "https://www.starbucks.com/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Try one now",
+      "href": "https://www.starbucks.com/menu/drinks/refreshers/energy-refreshers/"
+    },
+    {
+      "label": "Enter sweepstakes",
+      "href": "https://mylessmith.marriottbonvoy.starbucks.com/"
+    },
+    {
+      "label": "www.water.org",
+      "href": "https://water.org/"
+    },
+    {
+      "label": "MylesSmith.MarriottBonvoy.Starbucks.com",
+      "href": "https://mylessmith.marriottbonvoy.starbucks.com"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2F",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2F",
+    "https://www.starbucks.com/menu/featured/",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/refreshers/energy-refreshers/",
+    "https://mylessmith.marriottbonvoy.starbucks.com/",
+    "https://water.org/",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108864.jpg",
+        "alt": "An iced blue drink next to an iced matcha with light-blue cold foam on a light-gray surface. Blue script that reads “Get Blue” sits above the drinks.",
+        "w": 1440,
+        "h": 840
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108640.jpg",
+        "alt": "Three pink, purple and orange layered drinks, an iced coffee with milk and a blended drink with whipped cream in glassware on a sun-drenched table outside.",
+        "w": 1440,
+        "h": 840
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108405.jpg",
+        "alt": "Three cold coffee drinks in glasses on a café table by a window.",
+        "w": 1440,
+        "h": 840
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108664.jpg",
+        "alt": "A Mango Dragonfruit Lemonade Energy Refresher and a Strawberry Açaí Energy Refresher on a café table.",
+        "w": 1440,
+        "h": 840
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-109052.jpg",
+        "alt": "The top half of a person looking outward in front of a round spotlight glow.",
+        "w": 1440,
+        "h": 840
+      }
+    ],
+    "allImgCount": 5,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 1719,
+    "realImageCount": 5,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

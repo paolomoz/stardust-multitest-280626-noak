@@ -1,0 +1,1008 @@
+{
+  "slug": "menu-drinks-hot-coffee",
+  "url": "https://www.starbucks.com/menu/drinks/hot-coffee",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:34.135Z",
+  "finalUrl": "https://www.starbucks.com/menu/drinks/hot-coffee",
+  "title": "Hot Coffee: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Hot Coffee"
+    },
+    {
+      "tag": "h2",
+      "text": "Brewed Coffee"
+    },
+    {
+      "tag": "h2",
+      "text": "Americano"
+    },
+    {
+      "tag": "h2",
+      "text": "Latte"
+    },
+    {
+      "tag": "h2",
+      "text": "Cappuccino"
+    },
+    {
+      "tag": "h2",
+      "text": "Mocha"
+    },
+    {
+      "tag": "h2",
+      "text": "Macchiato"
+    },
+    {
+      "tag": "h2",
+      "text": "Flat White"
+    },
+    {
+      "tag": "h2",
+      "text": "Cortado"
+    },
+    {
+      "tag": "h2",
+      "text": "Espresso Shot"
+    },
+    {
+      "tag": "h2",
+      "text": "Coffee Traveler"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Menu",
+    "Featured",
+    "Previous",
+    "Favorites",
+    "The LatestTrendingEnergy Refreshers",
+    "Trending",
+    "Energy Refreshers",
+    "DrinksProtein BeveragesHot CoffeeCold CoffeeMatchaHot TeaCold TeaRefreshersFrappuccino® Blended BeverageHot Chocolate, Lemonade & MoreBottled Beverages",
+    "Protein Beverages",
+    "Hot Coffee",
+    "Cold Coffee",
+    "Matcha",
+    "Hot Tea",
+    "Cold Tea",
+    "Refreshers",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Bottled Beverages",
+    "FoodBreakfastBakeryTreatsLunchLite Bites",
+    "Breakfast",
+    "Bakery",
+    "Treats",
+    "Lunch",
+    "Lite Bites",
+    "At Home CoffeeWhole BeanStarbucks VIA® InstantShopping Bag",
+    "Whole Bean",
+    "Starbucks VIA® Instant",
+    "Shopping Bag",
+    "Menu /",
+    "Hot Coffee",
+    "Blonde Roast - Starbucks® SunseraBlonde Roast - Starbucks® Sunsera",
+    "Medium Roast - Pike Place® RoastMedium Roast - Pike Place® Roast",
+    "Featured Dark Roast - Starbucks 1971 Roast™Featured Dark Roast - Starbucks 1971 Roast™",
+    "Starbucks® Sun-Dried Ethiopia HighlandsStarbucks® Sun-Dried Ethiopia Highlands",
+    "Decaf Roast - Pike Place® RoastDecaf Roast - Pike Place® Roast",
+    "Caffè MistoCaffè Misto",
+    "Caffè AmericanoCaffè Americano",
+    "Caffè LatteCaffè Latte",
+    "Lavender LatteLavender Latte",
+    "Toasted Coconut LatteToasted Coconut Latte",
+    "Pistachio LattePistachio Latte",
+    "Vanilla Protein LatteVanilla Protein Latte",
+    "Sugar-Free Vanilla Protein LatteSugar-Free Vanilla Protein Latte",
+    "Caramel Protein LatteCaramel Protein Latte",
+    "Cinnamon Dolce LatteCinnamon Dolce Latte",
+    "Sugar-Free Caramel Protein LatteSugar-Free Caramel Protein Latte",
+    "Starbucks® Blonde Vanilla LatteStarbucks® Blonde Vanilla Latte",
+    "CappuccinoCappuccino",
+    "Caffè MochaCaffè Mocha",
+    "White Chocolate MochaWhite Chocolate Mocha",
+    "Espresso MacchiatoEspresso Macchiato",
+    "Caramel MacchiatoCaramel Macchiato",
+    "Flat WhiteFlat White",
+    "CortadoCortado",
+    "Pistachio CortadoPistachio Cortado",
+    "Brown Sugar Oatmilk CortadoBrown Sugar Oatmilk Cortado",
+    "EspressoEspresso",
+    "Espresso Con PannaEspresso Con Panna",
+    "Coffee Traveler – Pike Place® RoastCoffee Traveler – Pike Place® Roast",
+    "Coffee Traveler – Decaf Pike Place® RoastCoffee Traveler – Decaf Pike Place® Roast"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Blonde Roast - Starbucks® Sunsera",
+      "href": "/menu/product/873068625/hot"
+    },
+    {
+      "label": "Medium Roast - Pike Place® Roast",
+      "href": "/menu/product/480/hot"
+    },
+    {
+      "label": "Featured Dark Roast - Starbucks 1971 Roast™",
+      "href": "/menu/product/479/hot"
+    },
+    {
+      "label": "Starbucks® Sun-Dried Ethiopia Highlands",
+      "href": "/menu/product/39916/hot"
+    },
+    {
+      "label": "Decaf Roast - Pike Place® Roast",
+      "href": "/menu/product/481/hot"
+    },
+    {
+      "label": "Caffè Misto",
+      "href": "/menu/product/478/hot"
+    },
+    {
+      "label": "Caffè Americano",
+      "href": "/menu/product/406/hot"
+    },
+    {
+      "label": "Caffè Latte",
+      "href": "/menu/product/407/hot"
+    },
+    {
+      "label": "Lavender Latte",
+      "href": "/menu/product/34919/hot"
+    },
+    {
+      "label": "Toasted Coconut Latte",
+      "href": "/menu/product/40492/hot"
+    },
+    {
+      "label": "Pistachio Latte",
+      "href": "/menu/product/2123404/hot"
+    },
+    {
+      "label": "Vanilla Protein Latte",
+      "href": "/menu/product/28499/hot"
+    },
+    {
+      "label": "Sugar-Free Vanilla Protein Latte",
+      "href": "/menu/product/28501/hot"
+    },
+    {
+      "label": "Caramel Protein Latte",
+      "href": "/menu/product/28576/hot"
+    },
+    {
+      "label": "Cinnamon Dolce Latte",
+      "href": "/menu/product/414/hot"
+    },
+    {
+      "label": "Sugar-Free Caramel Protein Latte",
+      "href": "/menu/product/34819/hot"
+    },
+    {
+      "label": "Starbucks® Blonde Vanilla Latte",
+      "href": "/menu/product/2122164/hot"
+    },
+    {
+      "label": "Cappuccino",
+      "href": "/menu/product/409/hot"
+    },
+    {
+      "label": "Caffè Mocha",
+      "href": "/menu/product/408/hot"
+    },
+    {
+      "label": "White Chocolate Mocha",
+      "href": "/menu/product/420/hot"
+    },
+    {
+      "label": "Espresso Macchiato",
+      "href": "/menu/product/412/hot"
+    },
+    {
+      "label": "Caramel Macchiato",
+      "href": "/menu/product/413/hot"
+    },
+    {
+      "label": "Flat White",
+      "href": "/menu/product/565/hot"
+    },
+    {
+      "label": "Cortado",
+      "href": "/menu/product/2124649/hot"
+    },
+    {
+      "label": "Pistachio Cortado",
+      "href": "/menu/product/34806/hot"
+    },
+    {
+      "label": "Brown Sugar Oatmilk Cortado",
+      "href": "/menu/product/2124651/hot"
+    },
+    {
+      "label": "Espresso",
+      "href": "/menu/product/410/hot"
+    },
+    {
+      "label": "Espresso Con Panna",
+      "href": "/menu/product/411/hot"
+    },
+    {
+      "label": "Coffee Traveler – Pike Place® Roast",
+      "href": "/menu/product/873068655/hot"
+    },
+    {
+      "label": "Coffee Traveler – Decaf Pike Place® Roast",
+      "href": "/menu/product/873068657/hot"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "For item availabilityChoose a store",
+      "href": "/store-locator?source=menu"
+    },
+    {
+      "label": "Open the cart. There are 0 items in cart.",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/drinks/hot-coffee#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/873068625/hot",
+    "https://www.starbucks.com/menu/product/480/hot",
+    "https://www.starbucks.com/menu/product/479/hot",
+    "https://www.starbucks.com/menu/product/39916/hot",
+    "https://www.starbucks.com/menu/product/481/hot",
+    "https://www.starbucks.com/menu/product/478/hot",
+    "https://www.starbucks.com/menu/product/406/hot",
+    "https://www.starbucks.com/menu/product/407/hot",
+    "https://www.starbucks.com/menu/product/34919/hot",
+    "https://www.starbucks.com/menu/product/40492/hot",
+    "https://www.starbucks.com/menu/product/2123404/hot",
+    "https://www.starbucks.com/menu/product/28499/hot",
+    "https://www.starbucks.com/menu/product/28501/hot",
+    "https://www.starbucks.com/menu/product/28576/hot",
+    "https://www.starbucks.com/menu/product/414/hot",
+    "https://www.starbucks.com/menu/product/34819/hot",
+    "https://www.starbucks.com/menu/product/2122164/hot",
+    "https://www.starbucks.com/menu/product/409/hot",
+    "https://www.starbucks.com/menu/product/408/hot",
+    "https://www.starbucks.com/menu/product/420/hot",
+    "https://www.starbucks.com/menu/product/412/hot",
+    "https://www.starbucks.com/menu/product/413/hot",
+    "https://www.starbucks.com/menu/product/565/hot",
+    "https://www.starbucks.com/menu/product/2124649/hot",
+    "https://www.starbucks.com/menu/product/34806/hot",
+    "https://www.starbucks.com/menu/product/2124651/hot",
+    "https://www.starbucks.com/menu/product/410/hot",
+    "https://www.starbucks.com/menu/product/411/hot",
+    "https://www.starbucks.com/menu/product/873068655/hot",
+    "https://www.starbucks.com/menu/product/873068657/hot",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/Veranda_Blend_Hot?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Blonde Roast - Starbucks® Sunsera",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/BrewedCoffee?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Medium Roast - Pike Place® Roast",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_DecafPikePlaceRoast?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Featured Dark Roast - Starbucks 1971 Roast™",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/Veranda_Blend_Hot?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Starbucks® Sun-Dried Ethiopia Highlands",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_DecafPikePlaceRoast?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Decaf Roast - Pike Place® Roast",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeMisto?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caffè Misto",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeAmericano?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caffè Americano",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caffè Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/LavenderOatmilkLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Lavender Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Toasted Coconut Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PistachioLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pistachio Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeLattewProtein?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Vanilla Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeLattewProtein?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Sugar-Free Vanilla Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CaramelProteinLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caramel Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CinnamonDolceLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cinnamon Dolce Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SugarFreeCaramelProteinLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Sugar-Free Caramel Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/BlondeVanillaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Starbucks® Blonde Vanilla Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/Cappuccino?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cappuccino",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20220607_CaffeMocha?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caffè Mocha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/WhiteChocolateMocha?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "White Chocolate Mocha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_EspressoMacchiato?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Espresso Macchiato",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20211029_CaramelMacchiato?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caramel Macchiato",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20230406_FlatWhite?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Flat White",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/Cortado?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cortado",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PistachioCortado?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pistachio Cortado",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/BrownSugarOatmilkCortado?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Brown Sugar Oatmilk Cortado",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_Espresso_Single?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_EspressoConPanna?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Espresso Con Panna",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CoffeeTraveler?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Coffee Traveler – Pike Place® Roast",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CoffeeTraveler?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Coffee Traveler – Decaf Pike Place® Roast",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      }
+    ],
+    "allImgCount": 61,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 16,
+    "mainTextLen": 1760,
+    "realImageCount": 60,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

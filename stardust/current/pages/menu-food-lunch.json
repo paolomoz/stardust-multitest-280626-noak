@@ -1,0 +1,619 @@
+{
+  "slug": "menu-food-lunch",
+  "url": "https://www.starbucks.com/menu/food/lunch",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:35.758Z",
+  "finalUrl": "https://www.starbucks.com/menu/food/lunch",
+  "title": "Lunch: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Lunch"
+    },
+    {
+      "tag": "h2",
+      "text": "Lunch Sandwiches"
+    },
+    {
+      "tag": "h2",
+      "text": "Pockets"
+    },
+    {
+      "tag": "h2",
+      "text": "Protein Boxes"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Menu",
+    "Featured",
+    "Previous",
+    "Favorites",
+    "The LatestTrendingEnergy Refreshers",
+    "Trending",
+    "Energy Refreshers",
+    "DrinksProtein BeveragesHot CoffeeCold CoffeeMatchaHot TeaCold TeaRefreshersFrappuccino® Blended BeverageHot Chocolate, Lemonade & MoreBottled Beverages",
+    "Protein Beverages",
+    "Hot Coffee",
+    "Cold Coffee",
+    "Matcha",
+    "Hot Tea",
+    "Cold Tea",
+    "Refreshers",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Bottled Beverages",
+    "FoodBreakfastBakeryTreatsLunchLite Bites",
+    "Breakfast",
+    "Bakery",
+    "Treats",
+    "Lunch",
+    "Lite Bites",
+    "At Home CoffeeWhole BeanStarbucks VIA® InstantShopping Bag",
+    "Whole Bean",
+    "Starbucks VIA® Instant",
+    "Shopping Bag",
+    "Menu /",
+    "Lunch",
+    "Crispy Grilled Cheese on SourdoughCrispy Grilled Cheese on Sourdough",
+    "Ham & Swiss on BaguetteHam & Swiss on Baguette",
+    "Tomato & Mozzarella on FocacciaTomato & Mozzarella on Focaccia",
+    "Avocado SpreadAvocado Spread",
+    "Spicy Falafel PocketSpicy Falafel Pocket",
+    "Jalapeño Chicken PocketJalapeño Chicken Pocket",
+    "Avocado SpreadAvocado Spread",
+    "Cheese Trio Protein BoxCheese Trio Protein Box",
+    "Eggs & Cheddar Protein BoxEggs & Cheddar Protein Box",
+    "Cheese & Fruit Protein BoxCheese & Fruit Protein Box"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Crispy Grilled Cheese on Sourdough",
+      "href": "/menu/product/2123039/single"
+    },
+    {
+      "label": "Ham & Swiss on Baguette",
+      "href": "/menu/product/574/single"
+    },
+    {
+      "label": "Tomato & Mozzarella on Focaccia",
+      "href": "/menu/product/573/single"
+    },
+    {
+      "label": "Avocado Spread",
+      "href": "/menu/product/2122257/single"
+    },
+    {
+      "label": "Spicy Falafel Pocket",
+      "href": "/menu/product/2124655/single"
+    },
+    {
+      "label": "Jalapeño Chicken Pocket",
+      "href": "/menu/product/2124812/single"
+    },
+    {
+      "label": "Avocado Spread",
+      "href": "/menu/product/2122257/single"
+    },
+    {
+      "label": "Cheese Trio Protein Box",
+      "href": "/menu/product/2123222/single"
+    },
+    {
+      "label": "Eggs & Cheddar Protein Box",
+      "href": "/menu/product/2122248/single"
+    },
+    {
+      "label": "Cheese & Fruit Protein Box",
+      "href": "/menu/product/2122249/single"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "For item availabilityChoose a store",
+      "href": "/store-locator?source=menu"
+    },
+    {
+      "label": "Open the cart. There are 0 items in cart.",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/food/lunch#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/2123039/single",
+    "https://www.starbucks.com/menu/product/574/single",
+    "https://www.starbucks.com/menu/product/573/single",
+    "https://www.starbucks.com/menu/product/2122257/single",
+    "https://www.starbucks.com/menu/product/2124655/single",
+    "https://www.starbucks.com/menu/product/2124812/single",
+    "https://www.starbucks.com/menu/product/2123222/single",
+    "https://www.starbucks.com/menu/product/2122248/single",
+    "https://www.starbucks.com/menu/product/2122249/single",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20220207_GrilledCheeseOnSourdough_US?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Crispy Grilled Cheese on Sourdough",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20221006_HamSwissOnBaguette?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Ham & Swiss on Baguette",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20220207_TomatoMozzarellaFocacciaPanini?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Tomato & Mozzarella on Focaccia",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190814_AvocadoSpread?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Avocado Spread",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SpicyFalafelPocket?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Spicy Falafel Pocket",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/JalapenoChickenPocket?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Jalapeño Chicken Pocket",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190814_AvocadoSpread?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Avocado Spread",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20221206_CheeseTrioProteinBox?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cheese Trio Protein Box",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/EggsCheddarProteinBox?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Eggs & Cheddar Protein Box",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20221206_CheeseFruitProteinBox?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cheese & Fruit Protein Box",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      }
+    ],
+    "allImgCount": 21,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 834,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

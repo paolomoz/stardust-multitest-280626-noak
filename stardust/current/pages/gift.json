@@ -1,0 +1,1084 @@
+{
+  "slug": "gift",
+  "url": "https://www.starbucks.com/gift",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:01.765Z",
+  "finalUrl": "https://www.starbucks.com/gift",
+  "title": "Gift Cards: Starbucks Coffee Company",
+  "description": "Explore designs, send a digital card or buy physical gift cards in store. Check balance and see FAQ's. Order now.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Starbucks® Gift Cards"
+    },
+    {
+      "tag": "h2",
+      "text": "Gift the perfect cup"
+    },
+    {
+      "tag": "h3",
+      "text": "Surprise them via email"
+    },
+    {
+      "tag": "h3",
+      "text": "Send a digital treat"
+    },
+    {
+      "tag": "h3",
+      "text": "Browse physical cards"
+    },
+    {
+      "tag": "h3",
+      "text": "Bring joy to larger groups"
+    },
+    {
+      "tag": "h2",
+      "text": "Featured"
+    },
+    {
+      "tag": "h2",
+      "text": "Graduation"
+    },
+    {
+      "tag": "h2",
+      "text": "Birthday"
+    },
+    {
+      "tag": "h2",
+      "text": "Thank You"
+    },
+    {
+      "tag": "h2",
+      "text": "Celebration"
+    },
+    {
+      "tag": "h2",
+      "text": "Summer"
+    },
+    {
+      "tag": "h2",
+      "text": "Miffy x Starbucks"
+    },
+    {
+      "tag": "h2",
+      "text": "Appreciation"
+    },
+    {
+      "tag": "h2",
+      "text": "Encouragement"
+    },
+    {
+      "tag": "h2",
+      "text": "Workplace"
+    },
+    {
+      "tag": "h2",
+      "text": "Anytime"
+    },
+    {
+      "tag": "h3",
+      "text": "Received a gift card?"
+    },
+    {
+      "tag": "h3",
+      "text": "Sent a card?"
+    },
+    {
+      "tag": "h2",
+      "text": "Questions about Starbucks gift cards?"
+    },
+    {
+      "tag": "h3",
+      "text": "Do Starbucks gift cards expire?"
+    },
+    {
+      "tag": "h3",
+      "text": "What is the security code used for? Where is the security code on a Starbucks gift card?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I check my balance without the security code?"
+    },
+    {
+      "tag": "h3",
+      "text": "Why is my Starbucks gift card balance not showing?"
+    },
+    {
+      "tag": "h3",
+      "text": "How can I reload my Starbucks gift card?"
+    },
+    {
+      "tag": "h3",
+      "text": "Where can I buy physical Starbucks gift cards?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I buy a Starbucks gift card online?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I send a Starbucks gift card by text or via other messaging and social media apps?"
+    },
+    {
+      "tag": "h3",
+      "text": "About eGift cards"
+    },
+    {
+      "tag": "h3",
+      "text": "About Starbucks Gift Cards in general"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Celebrate a milestone. Say a simple thank you. Brighten their day. All with a Starbucks gift card.",
+    "Received a card? Check your balance.",
+    "Choose a design they’ll love and send a card straight to their inbox.",
+    "Gift a little delight in the Starbucks app or via iMessage, or send it through social.",
+    "Looking to gift irl? Visit your local coffeehouse or a Starbucks Card retailer near you, or order a gift card online.",
+    "Make everyone’s day and send many gift cards in one go. Minimum 15 cards per order.",
+    "Add or reload funds, check your balance and register your card here. Plus, earn perks when you join Starbucks® Rewards.",
+    "View your eGift history to send, resend eGifts, or contact Starbucks eGift Support.",
+    "Dive into our FAQ or review our Card Terms and Conditions for more information.",
+    "Do Starbucks gift cards expire?Starbucks gift cards do not have an expiration date, nor does the value on your gift card ever expire.",
+    "What is the security code used for? Where is the security code on a Starbucks gift card?The security code ensures that only the person in possession of the physical card is able to use the gift card. You can find the security code on the back of your Starbucks Card.",
+    "Can I check my balance without the security code?You may check your gift card balance without the security code only if it is registered with your Starbucks Rewards account. Once registered, you can view your balance in the following ways:Online: Visit our Card page and select \"Manage\" to view the card balances.Starbucks app: Select the \"Scan\" tab to view balances on all of the cards associated with your Starbucks Rewards account.For new or unregistered cards, you must provide the security code. Visit our Card page to get started.",
+    "Why is my Starbucks gift card balance not showing?Your gift card balance will automatically refresh every 4 hours.",
+    "How can I reload my Starbucks gift card?You can reload your Starbucks gift card at participating Starbucks locations, by visiting our card page online or on the Starbucks app. You can also set up Auto Reload, which allows you to set an amount on your registered Starbucks Card to reload when the balance falls below a set amount that you choose.You can set up Auto Reload or change your Auto Reload settings by logging into your Starbucks account and selecting \"Manage\". These options are also available within the Starbucks app. If you're having trouble reloading your gift card:Check your billing information: Ensure that the name and address entered on your account matches exactly what your financial institution has on file for you. If you recently moved or changed your name, make sure to also change it in your billing information.Check your credit card information: Make sure your credit card is current with a valid expiration date, and you are entering the correct security code.Other ways to reload your card include PayPal and Apple Pay.If you are still experiencing trouble, contact your financial institution for additional assistance.Starbucks® Rewards members can enjoy a Digital Starbucks Card Reload Bonus Star Benefit:Digital Starbucks Card Reload Bonus Star Benefit: Digitally reload $30 to your Starbucks Card in your Starbucks account to receive 10 Bonus Stars or $50 to receive 25 Bonus Stars. Max 25 Bonus Stars per transaction. At participating stores.",
+    "Where can I buy physical Starbucks gift cards?You can find a selection of physical Starbucks gift cards by visiting Starbucks retail stores, various grocery, drug, and national retailers, as well as online retailers such as Amazon.com.If you would like to purchase an eGift (a digital Starbucks gift card), visit www.starbucks.com/gift. Digital gift cards may also be purchased in the app by selecting the Gift icon at the bottom of the splash page upon opening the app. You can also send an eGift through iMessage, which you can learn more about here.",
+    "Can I buy a Starbucks gift card online?Physical Starbucks gift cards will soon be available via Starbucks Shop! Until then, you may purchase an eGift (a digital Starbucks gift card) on www.starbucks.com/gift or Amazon. Digital gift cards may also be purchased in the app by selecting the Gift icon at the bottom of the splash page upon opening the app. Physical cards are also available at our coffeehouses and other retailers.",
+    "Can I send a Starbucks gift card by text or via other messaging and social media apps?Yes! You can send Starbucks gift cards by text through the Starbucks app. Launch the app, select the Gift tab, and choose your design. Once you input the recipient name and your gift amount, you can choose to send your eGift via text. After checkout, you will be able to send a link to your recipient through any messaging app. This includes text message, Instagram, Facebook Messenger, Slack, etc.If you have an iPhone, you can send a Starbucks gift card directly through the Messages app! Once you have the Starbucks app installed on your device, you can start a new message or open an existing one, click the + button next to the message field and select Starbucks Gifts to choose a design and dollar amount. Send a gift card to anyone, whether they’re an iPhone or Android user! They’ll be able to enjoy their gift. Note: gift cards cannot be sent in group messages.",
+    "A Starbucks eGift card (also known as an “eGift”) is a Starbucks Gift Card that is purchased and sent digitally.",
+    "For Senders of an eGift, go to eGift History when signed in to view, send, or resend eGifts you’ve purchased — or, to directly contact Starbucks eGift Support for help with your order.",
+    "Starbucks Gift Cards, including eGifts, can be used to pay in a participating Starbucks store or can be used to join the Starbucks® Rewards loyalty program.",
+    "Register Gift Cards and eGifts to a Starbucks® Rewards account and Starbucks® Rewards members earn Stars on qualifying purchases when you pay with that card."
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Shop now",
+      "href": "#gift-collection-featured"
+    },
+    {
+      "label": "Gift from your phone",
+      "href": "https://www.starbucks.com/how-to-gift-a-starbucks-gift-card#imessage"
+    },
+    {
+      "label": "More ways to gift",
+      "href": "https://www.starbucks.com/how-to-gift-a-starbucks-gift-card#physical-cards"
+    },
+    {
+      "label": "Shop now",
+      "href": "https://www.starbuckscardb2b.com/?utm_source=starbucks.com%2Fgift"
+    },
+    {
+      "label": "See all",
+      "href": "/gift/category/featured"
+    },
+    {
+      "label": "Your Future Is Bright",
+      "href": "/gift/00001158"
+    },
+    {
+      "label": "Starbucks Store",
+      "href": "/gift/00001153"
+    },
+    {
+      "label": "Miffy",
+      "href": "/gift/00001160"
+    },
+    {
+      "label": "Celebrate With Coffee",
+      "href": "/gift/00001009"
+    },
+    {
+      "label": "Next slide",
+      "href": null
+    },
+    {
+      "label": "Congrats Grad",
+      "href": "/gift/00001156"
+    },
+    {
+      "label": "Your Future Is Bright",
+      "href": "/gift/00001158"
+    },
+    {
+      "label": "Happy Birthday",
+      "href": "/gift/00001056"
+    },
+    {
+      "label": "Let's Celebrate You",
+      "href": "/gift/00001011"
+    },
+    {
+      "label": "Happy Birthday",
+      "href": "/gift/00000645"
+    },
+    {
+      "label": "Thank You",
+      "href": "/gift/00000648"
+    },
+    {
+      "label": "It's My Treat",
+      "href": "/gift/00001077"
+    },
+    {
+      "label": "Big Thank You",
+      "href": "/gift/00000040"
+    },
+    {
+      "label": "Yay",
+      "href": "/gift/00001059"
+    },
+    {
+      "label": "Celebration Cheers",
+      "href": "/gift/00000654"
+    },
+    {
+      "label": "Celebrate With Coffee",
+      "href": "/gift/00001009"
+    },
+    {
+      "label": "Starbucks Store",
+      "href": "/gift/00001153"
+    },
+    {
+      "label": "Miffy",
+      "href": "/gift/00001160"
+    },
+    {
+      "label": "You're A Star",
+      "href": "/gift/00000657"
+    },
+    {
+      "label": "Cheers To You",
+      "href": "/gift/00001013"
+    },
+    {
+      "label": "Friends Buy Friends Coffee",
+      "href": "/gift/00001007"
+    },
+    {
+      "label": "Great Day For Coffee",
+      "href": "/gift/00000663"
+    },
+    {
+      "label": "You Got This",
+      "href": "/gift/00001015"
+    },
+    {
+      "label": "A Little Perk",
+      "href": "/gift/00001017"
+    },
+    {
+      "label": "Above & Beyond",
+      "href": "/gift/00001019"
+    },
+    {
+      "label": "Great Work Deserves Coffee",
+      "href": "/gift/00000011"
+    },
+    {
+      "label": "Starbucks",
+      "href": "/gift/00000660"
+    },
+    {
+      "label": "Café",
+      "href": "/gift/00000651"
+    },
+    {
+      "label": "Heritage Sirens",
+      "href": "/gift/00000035"
+    },
+    {
+      "label": "Add or reload",
+      "href": "/account/cards"
+    },
+    {
+      "label": "Check balance",
+      "href": null
+    },
+    {
+      "label": "eGift history",
+      "href": "/account/history/egift"
+    },
+    {
+      "label": "Card Terms and Conditions",
+      "href": "https://www.starbucks.com/terms/manage-gift-cards/"
+    },
+    {
+      "label": "Do Starbucks gift cards expire?",
+      "href": null
+    },
+    {
+      "label": "What is the security code used for? Where is the security code on a Starbucks gift card?",
+      "href": null
+    },
+    {
+      "label": "Can I check my balance without the security code?",
+      "href": null
+    },
+    {
+      "label": "Why is my Starbucks gift card balance not showing?",
+      "href": null
+    },
+    {
+      "label": "How can I reload my Starbucks gift card?",
+      "href": null
+    },
+    {
+      "label": "Where can I buy physical Starbucks gift cards?",
+      "href": null
+    },
+    {
+      "label": "Can I buy a Starbucks gift card online?",
+      "href": null
+    },
+    {
+      "label": "Can I send a Starbucks gift card by text or via other messaging and social media apps?",
+      "href": null
+    },
+    {
+      "label": "eGift History",
+      "href": "/account/history/egift"
+    },
+    {
+      "label": "Card Terms & Conditions",
+      "href": "https://www.starbucks.com/terms/manage-gift-cards/"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/gift#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/gift#gift-collection-featured",
+    "https://www.starbucks.com/how-to-gift-a-starbucks-gift-card#imessage",
+    "https://www.starbucks.com/how-to-gift-a-starbucks-gift-card#physical-cards",
+    "https://www.starbuckscardb2b.com/?utm_source=starbucks.com%2Fgift",
+    "https://www.starbucks.com/gift/category/featured",
+    "https://www.starbucks.com/gift/00001158",
+    "https://www.starbucks.com/gift/00001153",
+    "https://www.starbucks.com/gift/00001160",
+    "https://www.starbucks.com/gift/00001009",
+    "https://www.starbucks.com/gift/00001156",
+    "https://www.starbucks.com/gift/00001007",
+    "https://www.starbucks.com/gift/00000648",
+    "https://www.starbucks.com/gift/00001056",
+    "https://www.starbucks.com/gift/00001011",
+    "https://www.starbucks.com/gift/00000645",
+    "https://www.starbucks.com/gift/00001077",
+    "https://www.starbucks.com/gift/00000040",
+    "https://www.starbucks.com/gift/00001059",
+    "https://www.starbucks.com/gift/00000654",
+    "https://www.starbucks.com/gift/00000657",
+    "https://www.starbucks.com/gift/00001013",
+    "https://www.starbucks.com/gift/00000663",
+    "https://www.starbucks.com/gift/00001015",
+    "https://www.starbucks.com/gift/00001017",
+    "https://www.starbucks.com/gift/00001019",
+    "https://www.starbucks.com/gift/00000011",
+    "https://www.starbucks.com/gift/00000660",
+    "https://www.starbucks.com/gift/00000651",
+    "https://www.starbucks.com/gift/00000035",
+    "https://www.starbucks.com/account/history/egift",
+    "https://www.starbucks.com/terms/manage-gift-cards/",
+    "https://www.starbucks.com/account/cards/add",
+    "https://www.amazon.com/stores/page/9345E0F3-577A-4C27-90F0-B66EEBA44192?ingress=2&lp_context_asin=B0FDK6V894&visitId=6a4ff826-4228-46e7-aede-2fb89f300567&store_ref=bl_ast_dp_brandlogo_sto&ref_=ast_bln",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/FutureIsBrightFY26",
+        "alt": "",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/sparkle.png",
+        "alt": "",
+        "w": 63,
+        "h": 63
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/2-sparkles.png",
+        "alt": "",
+        "w": 55,
+        "h": 57
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SummerSeasonalFY26",
+        "alt": "",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/2-sparkles.png",
+        "alt": "",
+        "w": 55,
+        "h": 57
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/gift-card-cup.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MiffyFY26",
+        "alt": "",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/sparkle.png",
+        "alt": "",
+        "w": 63,
+        "h": 63
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CelebrateCoffeeFY25.png",
+        "alt": "",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/sparkle.png",
+        "alt": "",
+        "w": 63,
+        "h": 63
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/2-sparkles.png",
+        "alt": "",
+        "w": 55,
+        "h": 57
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/email-icon.png",
+        "alt": "",
+        "w": 209,
+        "h": 209
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/app-icon.png",
+        "alt": "",
+        "w": 209,
+        "h": 209
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/store-icon.png",
+        "alt": "",
+        "w": 209,
+        "h": 209
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/gift/bulk-icon.png",
+        "alt": "",
+        "w": 209,
+        "h": 209
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/FutureIsBrightFY26",
+        "alt": "Gift card image: Your Future Is Bright is written on a green graduation cap next to a paid of sunglasses on a white and yellow sunburst background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SummerSeasonalFY26",
+        "alt": "Gift card image: A Starbucks Coffee House sits near a waterfront beach with palm trees on a blue background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MiffyFY26",
+        "alt": "Gift card image: Miffy Starbucks Gift Card. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CelebrateCoffeeFY25.png",
+        "alt": "Gift card image: Celebrate with Coffee is written on a light green banner help up against a colorful stripped background.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CongratsGradFY26",
+        "alt": "Gift card image: Congrats Grad 2026 is written in dark green on a cream  background surrounded with two black stars. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CongratsGradFY26",
+        "alt": "Gift card image: Congrats Grad 2026 is written in dark green on a cream  background surrounded with two black stars. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/FutureIsBrightFY26",
+        "alt": "Gift card image: Your Future Is Bright is written on a green graduation cap next to a paid of sunglasses on a white and yellow sunburst background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/HolidayBirthdayFY26",
+        "alt": "Gift card image: Happy Birthday is written in green on a white cake surrounded by green candles on a blue background.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CelebrateYouFY25.png",
+        "alt": "Gift card image: Let's Celebrate You is written in dark green aside a close up white and pink frosted birthday cake with lit candles.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/BirthdayFY25.png",
+        "alt": "Gift card image: A white banner that reads Happy Birthday is strung across a green table with multiple birthday cakes on top of it. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/ThankYouCheckerFY25.png",
+        "alt": "Gift card image: Thank You is written in dark green across a cream and light green checkered background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/HolidayMyTreatFY26",
+        "alt": "Gift card image: It's my treat is written in the coffee of a red mug against a neutral beige background.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy22/BigThankYouFY22.jpg",
+        "alt": "Gift card image: A Big Thank You with the words A Big written in small pale blue letters and arched over the top of the larger words Thank You.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/HolidayYayFY26",
+        "alt": "Gift card image: Yay is written in white against a green background surrounded by multi-colored brush strokes and red dots.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CelebrationCheersFY25.png",
+        "alt": "Gift card image: Two white Starbucks cups cheers in the center of a light green background surrounded by green and orange confetti. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CelebrateCoffeeFY25.png",
+        "alt": "Gift card image: Celebrate with Coffee is written on a light green banner help up against a colorful stripped background.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SummerSeasonalFY26",
+        "alt": "Gift card image: A Starbucks Coffee House sits near a waterfront beach with palm trees on a blue background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MiffyFY26",
+        "alt": "Gift card image: Miffy Starbucks Gift Card. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/YoureAStarCoreFY25.png",
+        "alt": "Gift card image: You're A Star is hand written on a Starbucks cup on a gold yellow background. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/CheersToYouFY25.png",
+        "alt": "Gift card image: A hand holding out a blue coffee mug is surrounded by multi-color steam and the words Cheers to You.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/FriendsBuyCoffeeFY25.png",
+        "alt": "Gift card image: Friends Buy Friends Coffee is written in white against a green background with two Starbucks mugs of coffee sitting on a wood table below.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/GreatDayForCoffeeFY25.png",
+        "alt": "Gift card image: It's a great day for coffee is written in white in front of two people holding white Starbucks coffee cups. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/YouGotThisFY25.png",
+        "alt": "Gift card image: You Got This is written in white against a dark green background surrounded by light green lines and pink stars.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/LittlePerkFY25.png",
+        "alt": "Gift card image: A little perk is written in front of a watercolor rendition of a red coffee mug and a blue coffee pot with a red flower in a vase on the side.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy25/AboveAndBeyondFY25.png",
+        "alt": "Gift card image: You go above and beyond is written in on a light blue background surrounded by white clouds and red stars.",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://globalassets.starbucks.com/digitalassets/cards/fy23/GreatWorkDeservesCoffeeFY23.jpg",
+        "alt": "Gift card image: Two hands meet in a high five against a background with Great Work arched over the top of the hands and Deserves Coffee across the bottom. ",
+        "w": 1264,
+        "h": 796
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/placeholder.png",
+        "alt": "",
+        "w": 479,
+        "h": 301
+      }
+    ],
+    "allImgCount": 77,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 35,
+    "mainTextLen": 8247,
+    "realImageCount": 76,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

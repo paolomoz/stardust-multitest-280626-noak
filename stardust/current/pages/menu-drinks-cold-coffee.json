@@ -1,0 +1,1140 @@
+{
+  "slug": "menu-drinks-cold-coffee",
+  "url": "https://www.starbucks.com/menu/drinks/cold-coffee",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:39.713Z",
+  "finalUrl": "https://www.starbucks.com/menu/drinks/cold-coffee",
+  "title": "Cold Coffee: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cold Coffee"
+    },
+    {
+      "tag": "h2",
+      "text": "Cold Brew"
+    },
+    {
+      "tag": "h2",
+      "text": "Nitro Cold Brew"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Coffee"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Shaken Espresso"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Espresso"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Americano"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Latte"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Mocha"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Macchiato"
+    },
+    {
+      "tag": "h2",
+      "text": "Iced Flat White"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Menu",
+    "Featured",
+    "Previous",
+    "Favorites",
+    "The LatestTrendingEnergy Refreshers",
+    "Trending",
+    "Energy Refreshers",
+    "DrinksProtein BeveragesHot CoffeeCold CoffeeMatchaHot TeaCold TeaRefreshersFrappuccino® Blended BeverageHot Chocolate, Lemonade & MoreBottled Beverages",
+    "Protein Beverages",
+    "Hot Coffee",
+    "Cold Coffee",
+    "Matcha",
+    "Hot Tea",
+    "Cold Tea",
+    "Refreshers",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Bottled Beverages",
+    "FoodBreakfastBakeryTreatsLunchLite Bites",
+    "Breakfast",
+    "Bakery",
+    "Treats",
+    "Lunch",
+    "Lite Bites",
+    "At Home CoffeeWhole BeanStarbucks VIA® InstantShopping Bag",
+    "Whole Bean",
+    "Starbucks VIA® Instant",
+    "Shopping Bag",
+    "Menu /",
+    "Cold Coffee",
+    "Cold BrewCold Brew",
+    "Vanilla Protein Cream Cold BrewVanilla Protein Cream Cold Brew",
+    "Toasted Coconut Cream Cold BrewToasted Coconut Cream Cold Brew",
+    "Pistachio Cream Cold BrewPistachio Cream Cold Brew",
+    "Vanilla Sweet Cream Cold BrewVanilla Sweet Cream Cold Brew",
+    "Salted Caramel Cream Cold BrewSalted Caramel Cream Cold Brew",
+    "Chocolate Cream Cold BrewChocolate Cream Cold Brew",
+    "Nondairy Vanilla Sweet Cream Cold BrewNondairy Vanilla Sweet Cream Cold Brew",
+    "Nondairy Salted Caramel Cream Cold BrewNondairy Salted Caramel Cream Cold Brew",
+    "Cold Brew with Nondairy Vanilla Sweet Cream Cold FoamCold Brew with Nondairy Vanilla Sweet Cream Cold Foam",
+    "Nondairy Chocolate Cream Cold BrewNondairy Chocolate Cream Cold Brew",
+    "Nitro Cold BrewNitro Cold Brew",
+    "Vanilla Sweet Cream Nitro Cold BrewVanilla Sweet Cream Nitro Cold Brew",
+    "Iced CoffeeIced Coffee",
+    "Iced Shaken EspressoIced Shaken Espresso",
+    "Iced Vanilla Protein Cream Shaken EspressoIced Vanilla Protein Cream Shaken Espresso",
+    "Iced Horchata Shaken EspressoIced Horchata Shaken Espresso",
+    "Iced Ube Coconut Cream Shaken EspressoIced Ube Coconut Cream Shaken Espresso",
+    "Iced Brown Sugar Oatmilk Shaken EspressoIced Brown Sugar Oatmilk Shaken Espresso",
+    "Iced Hazelnut Oatmilk Shaken EspressoIced Hazelnut Oatmilk Shaken Espresso",
+    "Iced EspressoIced Espresso",
+    "Iced Caffè AmericanoIced Caffè Americano",
+    "Iced Caffè LatteIced Caffè Latte",
+    "Iced Lavender LatteIced Lavender Latte",
+    "Iced Toasted Coconut LatteIced Toasted Coconut Latte",
+    "Iced Pistachio LatteIced Pistachio Latte",
+    "Iced Caramel Protein LatteIced Caramel Protein Latte",
+    "Iced Sugar-Free Caramel Protein LatteIced Sugar-Free Caramel Protein Latte",
+    "Iced Vanilla Protein LatteIced Vanilla Protein Latte",
+    "Iced Sugar-Free Vanilla Protein LatteIced Sugar-Free Vanilla Protein Latte",
+    "Iced Starbucks® Blonde Vanilla LatteIced Starbucks® Blonde Vanilla Latte",
+    "Iced Cinnamon Dolce LatteIced Cinnamon Dolce Latte",
+    "Iced Caffè MochaIced Caffè Mocha",
+    "Iced Dubai Chocolate MochaIced Dubai Chocolate Mocha",
+    "Iced White Chocolate MochaIced White Chocolate Mocha",
+    "Iced Caramel MacchiatoIced Caramel Macchiato",
+    "Iced Ube Coconut MacchiatoIced Ube Coconut Macchiato",
+    "Iced Flat WhiteIced Flat White"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Cold Brew",
+      "href": "/menu/product/2121255/iced"
+    },
+    {
+      "label": "Vanilla Protein Cream Cold Brew",
+      "href": "/menu/product/40624/iced"
+    },
+    {
+      "label": "Toasted Coconut Cream Cold Brew",
+      "href": "/menu/product/34832/iced"
+    },
+    {
+      "label": "Pistachio Cream Cold Brew",
+      "href": "/menu/product/2123702/iced"
+    },
+    {
+      "label": "Vanilla Sweet Cream Cold Brew",
+      "href": "/menu/product/2121859/iced"
+    },
+    {
+      "label": "Salted Caramel Cream Cold Brew",
+      "href": "/menu/product/2122795/iced"
+    },
+    {
+      "label": "Chocolate Cream Cold Brew",
+      "href": "/menu/product/2123644/iced"
+    },
+    {
+      "label": "Nondairy Vanilla Sweet Cream Cold Brew",
+      "href": "/menu/product/2123879/iced"
+    },
+    {
+      "label": "Nondairy Salted Caramel Cream Cold Brew",
+      "href": "/menu/product/2123883/iced"
+    },
+    {
+      "label": "Cold Brew with Nondairy Vanilla Sweet Cream Cold Foam",
+      "href": "/menu/product/2123880/iced"
+    },
+    {
+      "label": "Nondairy Chocolate Cream Cold Brew",
+      "href": "/menu/product/2123881/iced"
+    },
+    {
+      "label": "Nitro Cold Brew",
+      "href": "/menu/product/2121912/iced"
+    },
+    {
+      "label": "Vanilla Sweet Cream Nitro Cold Brew",
+      "href": "/menu/product/2122237/iced"
+    },
+    {
+      "label": "Iced Coffee",
+      "href": "/menu/product/2123863/iced"
+    },
+    {
+      "label": "Iced Shaken Espresso",
+      "href": "/menu/product/2123425/iced"
+    },
+    {
+      "label": "Iced Vanilla Protein Cream Shaken Espresso",
+      "href": "/menu/product/40621/iced"
+    },
+    {
+      "label": "Iced Horchata Shaken Espresso",
+      "href": "/menu/product/27497/iced"
+    },
+    {
+      "label": "Iced Ube Coconut Cream Shaken Espresso",
+      "href": "/menu/product/40582/iced"
+    },
+    {
+      "label": "Iced Brown Sugar Oatmilk Shaken Espresso",
+      "href": "/menu/product/2123431/iced"
+    },
+    {
+      "label": "Iced Hazelnut Oatmilk Shaken Espresso",
+      "href": "/menu/product/2123805/iced"
+    },
+    {
+      "label": "Iced Espresso",
+      "href": "/menu/product/410/iced"
+    },
+    {
+      "label": "Iced Caffè Americano",
+      "href": "/menu/product/406/iced"
+    },
+    {
+      "label": "Iced Caffè Latte",
+      "href": "/menu/product/407/iced"
+    },
+    {
+      "label": "Iced Lavender Latte",
+      "href": "/menu/product/34913/iced"
+    },
+    {
+      "label": "Iced Toasted Coconut Latte",
+      "href": "/menu/product/40491/iced"
+    },
+    {
+      "label": "Iced Pistachio Latte",
+      "href": "/menu/product/2123404/iced"
+    },
+    {
+      "label": "Iced Caramel Protein Latte",
+      "href": "/menu/product/28733/iced"
+    },
+    {
+      "label": "Iced Sugar-Free Caramel Protein Latte",
+      "href": "/menu/product/34818/iced"
+    },
+    {
+      "label": "Iced Vanilla Protein Latte",
+      "href": "/menu/product/28498/iced"
+    },
+    {
+      "label": "Iced Sugar-Free Vanilla Protein Latte",
+      "href": "/menu/product/28500/iced"
+    },
+    {
+      "label": "Iced Starbucks® Blonde Vanilla Latte",
+      "href": "/menu/product/2122164/iced"
+    },
+    {
+      "label": "Iced Cinnamon Dolce Latte",
+      "href": "/menu/product/414/iced"
+    },
+    {
+      "label": "Iced Caffè Mocha",
+      "href": "/menu/product/408/iced"
+    },
+    {
+      "label": "Iced Dubai Chocolate Mocha",
+      "href": "/menu/product/28824/iced"
+    },
+    {
+      "label": "Iced White Chocolate Mocha",
+      "href": "/menu/product/420/iced"
+    },
+    {
+      "label": "Iced Caramel Macchiato",
+      "href": "/menu/product/413/iced"
+    },
+    {
+      "label": "Iced Ube Coconut Macchiato",
+      "href": "/menu/product/34833/iced"
+    },
+    {
+      "label": "Iced Flat White",
+      "href": "/menu/product/565/iced"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/drinks/cold-coffee#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/2121255/iced",
+    "https://www.starbucks.com/menu/product/40624/iced",
+    "https://www.starbucks.com/menu/product/34832/iced",
+    "https://www.starbucks.com/menu/product/2123702/iced",
+    "https://www.starbucks.com/menu/product/2121859/iced",
+    "https://www.starbucks.com/menu/product/2122795/iced",
+    "https://www.starbucks.com/menu/product/2123644/iced",
+    "https://www.starbucks.com/menu/product/2123879/iced",
+    "https://www.starbucks.com/menu/product/2123883/iced",
+    "https://www.starbucks.com/menu/product/2123880/iced",
+    "https://www.starbucks.com/menu/product/2123881/iced",
+    "https://www.starbucks.com/menu/product/2121912/iced",
+    "https://www.starbucks.com/menu/product/2122237/iced",
+    "https://www.starbucks.com/menu/product/2123863/iced",
+    "https://www.starbucks.com/menu/product/2123425/iced",
+    "https://www.starbucks.com/menu/product/40621/iced",
+    "https://www.starbucks.com/menu/product/27497/iced",
+    "https://www.starbucks.com/menu/product/40582/iced",
+    "https://www.starbucks.com/menu/product/2123431/iced",
+    "https://www.starbucks.com/menu/product/2123805/iced",
+    "https://www.starbucks.com/menu/product/410/iced",
+    "https://www.starbucks.com/menu/product/406/iced",
+    "https://www.starbucks.com/menu/product/407/iced",
+    "https://www.starbucks.com/menu/product/34913/iced",
+    "https://www.starbucks.com/menu/product/40491/iced",
+    "https://www.starbucks.com/menu/product/2123404/iced",
+    "https://www.starbucks.com/menu/product/28733/iced",
+    "https://www.starbucks.com/menu/product/34818/iced",
+    "https://www.starbucks.com/menu/product/28498/iced",
+    "https://www.starbucks.com/menu/product/28500/iced",
+    "https://www.starbucks.com/menu/product/2122164/iced",
+    "https://www.starbucks.com/menu/product/414/iced",
+    "https://www.starbucks.com/menu/product/408/iced",
+    "https://www.starbucks.com/menu/product/28824/iced",
+    "https://www.starbucks.com/menu/product/420/iced",
+    "https://www.starbucks.com/menu/product/413/iced",
+    "https://www.starbucks.com/menu/product/34833/iced",
+    "https://www.starbucks.com/menu/product/565/iced",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/ColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20211029_SaltedCaramelCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Vanilla Protein Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CoconutColdBrewCoconutFlakes?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Toasted Coconut Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PistachioCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Pistachio Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/VanillaSweetCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Vanilla Sweet Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20211029_SaltedCaramelCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Salted Caramel Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/ChocolateCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Chocolate Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/NonDairyVanillaSweetCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Nondairy Vanilla Sweet Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/NonDairySaltedCaramelColdBrewColdFoam?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Nondairy Salted Caramel Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/NonDairyVanillaSweetCreamColdFoam?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Cold Brew with Nondairy Vanilla Sweet Cream Cold Foam",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/NonDairyChocolateCreamColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Nondairy Chocolate Cream Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/NitroColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Nitro Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/VanillaSweetCreamNitroColdBrew?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Vanilla Sweet Cream Nitro Cold Brew",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCoffee?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Coffee",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedShakenEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/VanillaProteinCreamIcedShakenEspressoColdFoam?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Vanilla Protein Cream Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedHorchataOatmilkShakenEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Horchata Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedUbeCoconutCreamShakenEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Ube Coconut Cream Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBrownSugarOatmilkShakenEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Brown Sugar Oatmilk Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedHazelnutOatmilkShakenEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Hazelnut Oatmilk Shaken Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190607_IcedEspresso?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Espresso",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeAmericano?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Caffè Americano",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Caffè Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedLavenderOatmilkLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Lavender Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Toasted Coconut Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedPistachioLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Pistachio Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaramelProteinLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Caramel Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedSugarFreeCaramelProteinLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Sugar-Free Caramel Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeLattewProtein?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Vanilla Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeLattewProtein?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Sugar-Free Vanilla Protein Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedBlondeVanillaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Starbucks® Blonde Vanilla Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCinnamonDolceLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Cinnamon Dolce Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaffeMocha%E2%80%8B?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Caffè Mocha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/DubaiMocha1?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Dubai Chocolate Mocha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedWhiteChocolateMocha?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced White Chocolate Mocha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedCaramelMacchiato?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Caramel Macchiato",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/CoconutUbeMacchiato?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Ube Coconut Macchiato",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/IcedFlatWhiteUpdated?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Iced Flat White",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      }
+    ],
+    "allImgCount": 77,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 16,
+    "mainTextLen": 2559,
+    "realImageCount": 76,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

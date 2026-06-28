@@ -1,0 +1,470 @@
+{
+  "slug": "stores-and-ordering",
+  "url": "https://www.starbucks.com/stores-and-ordering",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:56.176Z",
+  "finalUrl": "https://www.starbucks.com/stores-and-ordering/",
+  "title": "Easy Mobile & Online Ordering & Delivery: Starbucks Coffee Company",
+  "description": "Contactless curbside & in-store pick ups & Starbucks delivered with Uber Eats! Order with the Starbucks App on your mobile, on your smart watch or digital assistant",
+  "og": {
+    "title": "Easy Mobile & Online Ordering & Delivery: Starbucks Coffee Company",
+    "description": "Contactless curbside & in-store pick ups & Starbucks delivered with Uber Eats! Order with the Starbucks App on your mobile, on your smart watch or digital assistant",
+    "image": "/next_static/icons/summary_square.png",
+    "type": "company"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "A STORE FOR EVERYONE"
+    },
+    {
+      "tag": "h2",
+      "text": "Classic Café"
+    },
+    {
+      "tag": "h2",
+      "text": "Classic Café"
+    },
+    {
+      "tag": "h2",
+      "text": "Drive Thru"
+    },
+    {
+      "tag": "h2",
+      "text": "Drive Thru"
+    },
+    {
+      "tag": "h2",
+      "text": "Starbucks Reserve® and Starbucks Reserve® Roastery"
+    },
+    {
+      "tag": "h2",
+      "text": "Starbucks Reserve® and Starbucks Reserve® Roastery"
+    },
+    {
+      "tag": "h2",
+      "text": "Delivery"
+    },
+    {
+      "tag": "h2",
+      "text": "Delivery"
+    },
+    {
+      "tag": "h2",
+      "text": "Groceries, Airports, Hotels & More"
+    },
+    {
+      "tag": "h2",
+      "text": "Groceries, Airports, Hotels & More"
+    },
+    {
+      "tag": "h2",
+      "text": "Make your day, your way."
+    },
+    {
+      "tag": "h2",
+      "text": "Additional ways to order & pay."
+    },
+    {
+      "tag": "h2",
+      "text": "Innovating for Future Visits"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "*Menu limited. Restricted delivery area. Available in participating locations only. Fees subject to change. Prices for Starbucks® items purchased through Uber Eats or DoorDash may be higher than posted in stores or as marked. See each delivery app for details.",
+    "**Starbucks® Rewards is available at participating stores. Some restrictions apply. Free food and beverage Rewards may be redeemed at participating stores and exclude alcoholic beverages and multi-serve items. For full program details, visit starbucks.com/terms."
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#primary-content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "/account/signin?ReturnUrl=%2Fstores-and-ordering"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Classic Café",
+      "href": "#classic-cafe"
+    },
+    {
+      "label": "Drive-thru",
+      "href": "#drive-thru"
+    },
+    {
+      "label": "Starbucks Reserve® and Starbucks Reserve® Roastery",
+      "href": "#starbucks-reserve-and-starbucks-reserve-roastery"
+    },
+    {
+      "label": "Delivery",
+      "href": "#delivery"
+    },
+    {
+      "label": "Groceries, Airports, Hotels & More",
+      "href": "#groceries-airports-hotels-more"
+    },
+    {
+      "label": "Find a Classic Café",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "Starbucks Reserve®",
+      "href": "https://www.starbucksreserve.com/en-us?gad_source=1&gclid=EAIaIQobChMIhNyPnrGVhAMV7szCBB12LwRwEAAYASAAEgIWi_D_BwE"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.starbucksreserve.com"
+    },
+    {
+      "label": "DoorDash",
+      "href": "https://www.doordash.com/sdl/Starbucks/?ignore_splash_experience=true&utm_source=Enterprise&utm_medium=Enterprise&utm_campaign=CX_US_EP_EP_EP_PAR_CUSXXX__+Starbucks_Delivery_Landing_Page_Dec2023"
+    },
+    {
+      "label": "Grubhub",
+      "href": "https://www.grubhub.com/food/starbucks"
+    },
+    {
+      "label": "Uber Eats",
+      "href": "https://www.ubereats.com/brand/starbucks?&utm_campaign=bd-starbucks-US-evergreendelivery_Owned_landingpage_US&utm_source=starbucks&utm_medium=Web&publisher=Uber%20Eats%20-%20BD%20(Biz%20Dev)%20-%20Partnerships&publisher_sub_campaign_name=bd-starbucks-US-evergreendelivery_Owned_landingpage_US"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Starbucks® Rewards",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "Download the Starbucks App Now",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "online",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Apple Watch",
+      "href": "https://apps.apple.com/us/story/id1474397862"
+    },
+    {
+      "label": "Garmin",
+      "href": "https://apps.garmin.com/en-US/apps/6606530f-68e5-4ba7-885c-f8dba4268cee"
+    },
+    {
+      "label": "Fitbit",
+      "href": "https://gallery.fitbit.com/details/00001401-0000-4000-8000-000000f17b17"
+    },
+    {
+      "label": "Find Your Nearest Starbucks® Café",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "starbucks.com/terms",
+      "href": "https://www.starbucks.com/terms"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/stores-and-ordering/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2Fstores-and-ordering",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2Fstores-and-ordering",
+    "https://www.starbucks.com/stores-and-ordering/#classic-cafe",
+    "https://www.starbucks.com/stores-and-ordering/#drive-thru",
+    "https://www.starbucks.com/stores-and-ordering/#starbucks-reserve-and-starbucks-reserve-roastery",
+    "https://www.starbucks.com/stores-and-ordering/#delivery",
+    "https://www.starbucks.com/stores-and-ordering/#groceries-airports-hotels-more",
+    "https://www.starbucksreserve.com/en-us?gad_source=1&gclid=EAIaIQobChMIhNyPnrGVhAMV7szCBB12LwRwEAAYASAAEgIWi_D_BwE",
+    "https://www.starbucksreserve.com/",
+    "https://www.doordash.com/sdl/Starbucks/?ignore_splash_experience=true&utm_source=Enterprise&utm_medium=Enterprise&utm_campaign=CX_US_EP_EP_EP_PAR_CUSXXX__+Starbucks_Delivery_Landing_Page_Dec2023",
+    "https://www.grubhub.com/food/starbucks",
+    "https://www.ubereats.com/brand/starbucks?&utm_campaign=bd-starbucks-US-evergreendelivery_Owned_landingpage_US&utm_source=starbucks&utm_medium=Web&publisher=Uber%20Eats%20-%20BD%20(Biz%20Dev)%20-%20Partnerships&publisher_sub_campaign_name=bd-starbucks-US-evergreendelivery_Owned_landingpage_US",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://apps.apple.com/us/story/id1474397862",
+    "https://apps.garmin.com/en-US/apps/6606530f-68e5-4ba7-885c-f8dba4268cee",
+    "https://gallery.fitbit.com/details/00001401-0000-4000-8000-000000f17b17",
+    "https://www.starbucks.com/terms",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89222.jpg",
+        "alt": "Classic Café",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89223.jpg",
+        "alt": "Drive-thru",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89225.jpg",
+        "alt": "Starbucks Reserve® and Starbucks Reserve® Roastery",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89226.jpg",
+        "alt": "Delivery",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89227.jpg",
+        "alt": "Groceries, Airports, Hotels & More",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89434.png",
+        "alt": "Make your day, your way.",
+        "w": 253,
+        "h": 350
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89391.png",
+        "alt": "Ways to Order Stars",
+        "w": 1155,
+        "h": 232
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89244.png",
+        "alt": "Additional ways to order & pay.",
+        "w": 191,
+        "h": 203
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-89394.png",
+        "alt": "Innovating for Future Visits",
+        "w": 363,
+        "h": 366
+      }
+    ],
+    "allImgCount": 9,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 14,
+    "mainTextLen": 2523,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

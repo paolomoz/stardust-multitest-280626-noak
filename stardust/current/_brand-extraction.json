@@ -1,0 +1,73 @@
+{
+  "_provenance": {
+    "source": "https://www.starbucks.com/",
+    "method": "playwright crawl (23 pages) + computed-style brand probe (home)",
+    "fetchedAt": "2026-06-28",
+    "notes": "Site sets no :root CSS custom properties; palette/type/radius/shadow aggregated from getComputedStyle across visible elements on home."
+  },
+  "logo": {
+    "kind": "inline-svg",
+    "path": "assets/logo.svg",
+    "description": "Starbucks Siren mark in a circular badge (viewBox 0 0 62 62): white circle, green siren. Monochrome-friendly.",
+    "primaryColor": "#006241"
+  },
+  "favicon": {
+    "ico": "https://www.starbucks.com/favicon.ico",
+    "appleTouch": "https://www.starbucks.com/apple-touch-icon-180x180.png",
+    "local": "assets/favicon.png"
+  },
+  "palette": [
+    { "role": "primary", "hex": "#006241", "rgb": "rgb(0, 98, 66)", "name": "Starbucks House Green", "source": "buttons/links, themeColor #006341" },
+    { "role": "primary-bright", "hex": "#008248", "rgb": "rgb(0, 130, 72)", "name": "Starbucks Green (accent)", "source": "accent fills" },
+    { "role": "primary-classic", "hex": "#00754A", "rgb": "rgb(0, 117, 74)", "name": "Starbucks Classic Green", "source": "links/headings accents" },
+    { "role": "deep", "hex": "#1E3932", "rgb": "rgb(50, 70, 47) approx", "name": "House Green Dark / Forest", "source": "dark sections" },
+    { "role": "background", "hex": "#FFFFFF", "rgb": "rgb(255, 255, 255)", "name": "White", "source": "page background" },
+    { "role": "surface", "hex": "#F1F8F5", "rgb": "n/a", "name": "House Foam (light green tint)", "source": "Starbucks brand system; card/section backgrounds" },
+    { "role": "text", "hex": "rgba(0,0,0,0.87)", "rgb": "rgba(0, 0, 0, 0.87)", "name": "Near-black body text", "source": "body copy (365 elements)" },
+    { "role": "text-muted", "hex": "rgba(0,0,0,0.58)", "rgb": "rgba(0, 0, 0, 0.58)", "name": "Muted text", "source": "secondary copy" },
+    { "role": "border", "hex": "rgba(0,0,0,0.12)", "rgb": "rgba(0, 0, 0, 0.12)", "name": "Hairline border", "source": "dividers" }
+  ],
+  "type": {
+    "heading": { "family": "SoDoSans", "fallback": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", "weights": [400, 600, 700] },
+    "body": { "family": "SoDoSans", "fallback": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", "weights": [400, 600] },
+    "files": [
+      { "weight": 400, "url": "https://www.starbucks.com/_next/static/media/SoDoSans-Regular.fb96a065.woff", "local": "assets/fonts/SoDoSans-Regular.woff", "licensed": "proprietary (Starbucks brand font)" },
+      { "weight": 600, "url": "https://www.starbucks.com/_next/static/media/SoDoSans-SemiBold.6aebdeb6.woff", "local": "assets/fonts/SoDoSans-SemiBold.woff", "licensed": "proprietary" },
+      { "weight": 700, "url": "https://www.starbucks.com/_next/static/media/SoDoSans-Bold.49f6eaa3.woff", "local": "assets/fonts/SoDoSans-Bold.woff", "licensed": "proprietary" }
+    ],
+    "scaleAudit": { "kind": "ad-hoc", "note": "marketing tiles use large display headings; product grids use compact card titles" }
+  },
+  "motifs": {
+    "radius": [ { "value": "50px", "use": "pill buttons / CTAs", "weight": 10 }, { "value": "8px", "use": "cards/images", "weight": 1 } ],
+    "shadows": [
+      "rgba(0,0,0,0.1) 0 1px 3px, rgba(0,0,0,0.06) 0 2px 2px, rgba(0,0,0,0.07) 0 0 2px (card)",
+      "rgba(0,0,0,0.24) 0 2px 4px (raised)"
+    ],
+    "patterns": ["full-bleed image hero tiles with text overlay", "pill CTA buttons", "product card grid (circular product image, name, short desc)", "circular Siren badge", "alternating editorial image+text rows"]
+  },
+  "voice": {
+    "register": "brand",
+    "heroHeadline": "New: Blue coconut for a cause",
+    "heroImage": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108864.jpg",
+    "heroMedium": null,
+    "tagline": "It's a great day for coffee",
+    "ctas": ["Start an order", "Order now", "Join now", "Find a store", "Explore the summer menu"],
+    "samples": ["It's a great day for coffee", "It's Starbucks summer", "Bold, iced and deliciously classic", "Good energy in every sip"]
+  },
+  "systemComponents": {
+    "header": {
+      "logo": "Siren badge",
+      "nav": ["Menu", "Rewards", "Gift Cards", "Find a store"],
+      "actions": ["Sign in", "Join now"]
+    },
+    "footer": {
+      "columns": {
+        "About Us": ["Our Company", "Our Heritage", "Coffee & Craft", "Our Partners"],
+        "Careers": ["Culture and Values", "Belonging at Starbucks", "Career Opportunities", "Education"],
+        "Social Impact": ["Communities", "The Starbucks Foundation", "Environment", "Reporting Hub"],
+        "For Business Partners": ["Landlord Support Center", "Suppliers"],
+        "Order and Pick Up": ["Order on the App", "Order on the Web", "Delivery", "Find a store"]
+      }
+    }
+  }
+}

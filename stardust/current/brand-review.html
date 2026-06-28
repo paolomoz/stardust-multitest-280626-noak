@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Starbucks — Brand Extraction Review</title>
+<style>
+@font-face{font-family:SoDoSans;src:url(assets/fonts/SoDoSans-Regular.woff);font-weight:400}
+@font-face{font-family:SoDoSans;src:url(assets/fonts/SoDoSans-Bold.woff);font-weight:700}
+body{font-family:SoDoSans,'Helvetica Neue',Arial,sans-serif;color:rgba(0,0,0,.87);margin:0;background:#fff}
+header{background:#006241;color:#fff;padding:32px 48px;display:flex;align-items:center;gap:16px}
+header svg{width:48px;height:48px}
+h1{margin:0;font-size:28px}h2{color:#006241;border-bottom:2px solid #F1F8F5;padding-bottom:6px}
+main{max-width:980px;margin:0 auto;padding:32px 48px}
+.sw{display:inline-block;width:120px;height:64px;border-radius:8px;margin:4px;vertical-align:top;font-size:11px;color:#fff;padding:6px;box-sizing:border-box}
+.chip{display:inline-block;background:#F1F8F5;border-radius:50px;padding:8px 18px;margin:4px;font-size:14px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.card{border:1px solid rgba(0,0,0,.12);border-radius:8px;padding:12px;font-size:13px}
+.tag{font-size:12px;color:rgba(0,0,0,.58)}
+</style></head><body>
+<header><span id="logo"></span><h1>Starbucks.com — Brand Extraction Review</h1></header>
+<main>
+<p class="tag">Source: https://www.starbucks.com/ · 23 pages crawled (sitemap.xml) · 2026-06-28 · register: brand</p>
+<h2>Palette <span class="tag">(_brand-extraction.json § palette)</span></h2>
+<div>
+<span class="sw" style="background:#006241">#006241 House Green</span>
+<span class="sw" style="background:#008248">#008248 Bright</span>
+<span class="sw" style="background:#00754A">#00754A Classic</span>
+<span class="sw" style="background:#1E3932">#1E3932 Forest</span>
+<span class="sw" style="background:#F1F8F5;color:#006241">#F1F8F5 Foam</span>
+<span class="sw" style="background:#fff;color:#000;border:1px solid #ccc">#FFFFFF</span>
+</div>
+<h2>Typography <span class="tag">(§ type)</span></h2>
+<p style="font-size:36px;font-weight:700">SoDoSans Bold — It's a great day for coffee</p>
+<p style="font-size:18px">SoDoSans Regular — Explore our menu of handcrafted drinks, order ahead, sign up for Rewards.</p>
+<h2>Motifs <span class="tag">(§ motifs)</span></h2>
+<span class="chip">Pill CTA (50px)</span><span class="chip">8px cards</span><span class="chip">Siren badge</span><span class="chip">Full-bleed hero tiles</span><span class="chip">Product card grid</span>
+<h2>Templates detected <span class="tag">(state.json)</span></h2>
+<div class="cards">
+<div class="card"><b>home</b><br>marketing hero tiles</div>
+<div class="card"><b>menu-overview</b><br>category cards (/menu)</div>
+<div class="card"><b>product-category</b><br>product grid ×17 (menu/*)</div>
+<div class="card"><b>rewards</b><br>feature/marketing</div>
+<div class="card"><b>stores-and-ordering</b><br>store types feature</div>
+<div class="card"><b>gift</b><br>gift card catalog</div>
+<div class="card"><b>about-us</b><br>editorial/company</div>
+<div class="card"><b>contact</b><br>contact directory</div>
+</div>
+<h2>Tensions</h2>
+<p>Photography-led brand vs. text-only EDS authorability — migration must carry real
+Starbucks CDN imagery, not CSS scenery. Product-category pages depend on live product
+grids (some lazy-load gated; menu-food-snacks captured 0 imgs — re-check at author time).</p>
+</main>
+<script>fetch('assets/logo.svg').then(r=>r.text()).then(s=>document.getElementById('logo').innerHTML=s)</script>
+</body></html>

@@ -1,0 +1,674 @@
+{
+  "slug": "menu-drinks-hot-tea",
+  "url": "https://www.starbucks.com/menu/drinks/hot-tea",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:30:45.351Z",
+  "finalUrl": "https://www.starbucks.com/menu/drinks/hot-tea",
+  "title": "Hot Tea: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "og": {
+    "title": "Starbucks®",
+    "description": null,
+    "image": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Hot Tea"
+    },
+    {
+      "tag": "h2",
+      "text": "Matcha"
+    },
+    {
+      "tag": "h2",
+      "text": "Tea Latte"
+    },
+    {
+      "tag": "h2",
+      "text": "Brewed Tea"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Menu",
+    "Featured",
+    "Previous",
+    "Favorites",
+    "The LatestTrendingEnergy Refreshers",
+    "Trending",
+    "Energy Refreshers",
+    "DrinksProtein BeveragesHot CoffeeCold CoffeeMatchaHot TeaCold TeaRefreshersFrappuccino® Blended BeverageHot Chocolate, Lemonade & MoreBottled Beverages",
+    "Protein Beverages",
+    "Hot Coffee",
+    "Cold Coffee",
+    "Matcha",
+    "Hot Tea",
+    "Cold Tea",
+    "Refreshers",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Bottled Beverages",
+    "FoodBreakfastBakeryTreatsLunchLite Bites",
+    "Breakfast",
+    "Bakery",
+    "Treats",
+    "Lunch",
+    "Lite Bites",
+    "At Home CoffeeWhole BeanStarbucks VIA® InstantShopping Bag",
+    "Whole Bean",
+    "Starbucks VIA® Instant",
+    "Shopping Bag",
+    "Menu /",
+    "Hot Tea",
+    "Matcha LatteMatcha Latte",
+    "Protein MatchaProtein Matcha",
+    "Sugar-Free Vanilla Protein MatchaSugar-Free Vanilla Protein Matcha",
+    "Caramel Protein MatchaCaramel Protein Matcha",
+    "Sugar-Free Caramel Protein MatchaSugar-Free Caramel Protein Matcha",
+    "Chai LatteChai Latte",
+    "London Fog LatteLondon Fog Latte",
+    "Honey Citrus Mint TeaHoney Citrus Mint Tea",
+    "Royal English Breakfast TeaRoyal English Breakfast Tea",
+    "Emperor's Clouds & Mist® TeaEmperor's Clouds & Mist® Tea",
+    "Mint Majesty® TeaMint Majesty® Tea",
+    "Earl Grey TeaEarl Grey Tea",
+    "Chamomile Mint Blossom TeaChamomile Mint Blossom Tea"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Matcha Latte",
+      "href": "/menu/product/468/hot"
+    },
+    {
+      "label": "Protein Matcha",
+      "href": "/menu/product/28503/hot"
+    },
+    {
+      "label": "Sugar-Free Vanilla Protein Matcha",
+      "href": "/menu/product/28505/hot"
+    },
+    {
+      "label": "Caramel Protein Matcha",
+      "href": "/menu/product/28734/hot"
+    },
+    {
+      "label": "Sugar-Free Caramel Protein Matcha",
+      "href": "/menu/product/34817/hot"
+    },
+    {
+      "label": "Chai Latte",
+      "href": "/menu/product/466/hot"
+    },
+    {
+      "label": "London Fog Latte",
+      "href": "/menu/product/477/hot"
+    },
+    {
+      "label": "Honey Citrus Mint Tea",
+      "href": "/menu/product/2122274/hot"
+    },
+    {
+      "label": "Royal English Breakfast Tea",
+      "href": "/menu/product/446/hot"
+    },
+    {
+      "label": "Emperor's Clouds & Mist® Tea",
+      "href": "/menu/product/873068751/hot"
+    },
+    {
+      "label": "Mint Majesty® Tea",
+      "href": "/menu/product/873068754/hot"
+    },
+    {
+      "label": "Earl Grey Tea",
+      "href": "/menu/product/450/hot"
+    },
+    {
+      "label": "Chamomile Mint Blossom Tea",
+      "href": "/menu/product/2123887/hot"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "For item availabilityChoose a store",
+      "href": "/store-locator?source=menu"
+    },
+    {
+      "label": "Open the cart. There are 0 items in cart.",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/drinks/hot-tea#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/468/hot",
+    "https://www.starbucks.com/menu/product/28503/hot",
+    "https://www.starbucks.com/menu/product/28505/hot",
+    "https://www.starbucks.com/menu/product/28734/hot",
+    "https://www.starbucks.com/menu/product/34817/hot",
+    "https://www.starbucks.com/menu/product/466/hot",
+    "https://www.starbucks.com/menu/product/477/hot",
+    "https://www.starbucks.com/menu/product/2122274/hot",
+    "https://www.starbucks.com/menu/product/446/hot",
+    "https://www.starbucks.com/menu/product/873068751/hot",
+    "https://www.starbucks.com/menu/product/873068754/hot",
+    "https://www.starbucks.com/menu/product/450/hot",
+    "https://www.starbucks.com/menu/product/2123887/hot",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20211115_MatchaTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Matcha Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20250821_ProteinMatchaTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Protein Matcha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20250821_ProteinMatchaTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Sugar-Free Vanilla Protein Matcha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20250821_ProteinMatchaTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Caramel Protein Matcha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20250821_ProteinMatchaTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Sugar-Free Caramel Protein Matcha",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20220411_ChaiLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Chai Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190624_LondonFogTeaLatte?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "London Fog Latte",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/HoneyCitrusMintTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Honey Citrus Mint Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/RoyalEnglishBreakfastTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Royal English Breakfast Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/EmperorCloudsAndMistTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Emperor's Clouds & Mist® Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/MintMajestyTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Mint Majesty® Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190624_EarlGreyBlackTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Earl Grey Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      },
+      {
+        "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/ChamomileMintBlossomTea?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+        "alt": "Chamomile Mint Blossom Tea",
+        "w": 288,
+        "h": 288
+      },
+      {
+        "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+        "alt": "",
+        "w": 316,
+        "h": 316
+      }
+    ],
+    "allImgCount": 27,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 903,
+    "realImageCount": 26,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

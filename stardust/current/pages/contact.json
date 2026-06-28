@@ -1,0 +1,237 @@
+{
+  "slug": "contact",
+  "url": "https://www.starbucks.com/contact",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:10.146Z",
+  "finalUrl": "https://www.starbucks.com/contact/",
+  "title": "Contact Us: Starbucks Coffee Company",
+  "description": "Need help from Starbucks? This page helps you reach FAQs, phone support, live chat, plus media, investor, and partnership contacts.",
+  "og": {
+    "title": "Contact Us: Starbucks Coffee Company",
+    "description": "Need help from Starbucks? This page helps you reach FAQs, phone support, live chat, plus media, investor, and partnership contacts.",
+    "image": "/next_static/icons/summary_square.png",
+    "type": "company"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "h1",
+      "text": "Contact us"
+    },
+    {
+      "tag": "h2",
+      "text": "Customer Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Media Contacts"
+    },
+    {
+      "tag": "h2",
+      "text": "Investor Relations"
+    },
+    {
+      "tag": "h2",
+      "text": "Partnership and Sponsorship Requests"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Global: Phone: 206 318 7100 Email: press@starbucks.com",
+    "Europe, Middle East and Africa: Phone: +44 20 3047 2656 Email: PressEMEA@starbucks.com",
+    "Asia or Canada: Please visit their respective Starbucks Stories & News site",
+    "Terms of Use",
+    "Do Not Sell or Share My Personal Information",
+    "Starbucks Transparency in Supply Chains Statement",
+    "Accessibility",
+    "Cookie Preferences",
+    "© 2026 Starbucks Coffee Company. All rights reserved."
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#primary-content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "/account/signin?ReturnUrl=%2Fcontact"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Customer Service Site",
+      "href": "https://customerservice.starbucks.com/sbux"
+    },
+    {
+      "label": "press@starbucks.com",
+      "href": "mailto:press@starbucks.com"
+    },
+    {
+      "label": "PressEMEA@starbucks.com",
+      "href": "mailto:PressEMEA@starbucks.com"
+    },
+    {
+      "label": "investorrelations@starbucks.com",
+      "href": "mailto:investorrelations@starbucks.com"
+    },
+    {
+      "label": "partnerships@starbucks.com",
+      "href": "mailto:partnerships@starbucks.com"
+    },
+    {
+      "label": "About Us",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": null
+    },
+    {
+      "label": "Social Impact",
+      "href": null
+    },
+    {
+      "label": "For Business Partners",
+      "href": null
+    },
+    {
+      "label": "Order and Pick Up",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/contact/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2Fcontact",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2Fcontact",
+    "https://customerservice.starbucks.com/sbux",
+    "mailto:press@starbucks.com",
+    "mailto:PressEMEA@starbucks.com",
+    "mailto:investorrelations@starbucks.com",
+    "mailto:partnerships@starbucks.com",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [],
+    "allImgCount": 0,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 2,
+    "distinctHeadings": 11,
+    "mainTextLen": 1690,
+    "realImageCount": 0,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

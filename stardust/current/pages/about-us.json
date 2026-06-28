@@ -1,0 +1,391 @@
+{
+  "slug": "about-us",
+  "url": "https://www.starbucks.com/about-us",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:05.944Z",
+  "finalUrl": "https://www.starbucks.com/about-us/",
+  "title": "About Us: Starbucks Coffee Company",
+  "description": "Since 1971, Starbucks has been committed to ethically sourcing and roasting the highest quality arabica coffee in the world. Today, with stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world.",
+  "og": {
+    "title": "About Us: Starbucks Coffee Company",
+    "description": "Since 1971, Starbucks has been committed to ethically sourcing and roasting the highest quality arabica coffee in the world. Today, with stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world.",
+    "image": "/next_static/icons/summary_square.png",
+    "type": "company"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Our Company"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Heritage"
+    },
+    {
+      "tag": "h2",
+      "text": "Coffee & Craft"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "We Believe in the Pursuit of Doing Good"
+    },
+    {
+      "tag": "h3",
+      "text": "People"
+    },
+    {
+      "tag": "h3",
+      "text": "Planet"
+    },
+    {
+      "tag": "h2",
+      "text": "Learn More About Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Stories & News"
+    },
+    {
+      "tag": "h3",
+      "text": "Company Profile"
+    },
+    {
+      "tag": "h3",
+      "text": "Company Timeline"
+    },
+    {
+      "tag": "h3",
+      "text": "Ethics & Compliance"
+    },
+    {
+      "tag": "h3",
+      "text": "Corporate Governance"
+    },
+    {
+      "tag": "h2",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Careers"
+    },
+    {
+      "tag": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "tag": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "tag": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "body": [
+    "Our story begins in 1971 along the cobblestone streets of Seattle’s historic Pike Place Market. It was here where Starbucks opened its first store, offering fresh-roasted coffee beans, tea and spices from around the world for our customers to take home. Our name was inspired by the classic tale, “Moby-Dick,” evoking the seafaring tradition of the early coffee traders.",
+    "Ten years later, a young New Yorker named Howard Schultz would walk through these doors and become captivated with Starbucks coffee from his first sip. After joining the company in 1982, a different cobblestone road would lead him to another discovery. It was on a trip to Milan in 1983 that Howard first experienced Italy’s coffeehouses, and he returned to Seattle inspired to bring the warmth and artistry of its coffee culture to Starbucks. By 1987, we swapped our brown aprons for green ones and embarked on our next chapter as a coffeehouse.",
+    "Starbucks would soon expand to Chicago and Vancouver, Canada and then on to California, Washington, D.C. and New York. By 1996, we would cross the Pacific to open our first store in Japan, followed by Europe in 1998 and China in 1999. Over the next two decades, we would grow to welcome millions of customers each week and become a part of the fabric of tens of thousands of neighborhoods all around the world. In everything we do, we are always dedicated to Our Mission: With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.",
+    "It takes many hands to craft the perfect cup of coffee – from the farmers who tend to the red-ripe coffee cherries, to the master roasters who coax the best from every bean, and to the barista who serves it with care. We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+    "We like to say that we are not in the coffee business serving people, but in the people business serving coffee. Our employees – who we call partners – are at the heart of the Starbucks experience. We are committed to making our partners proud and investing in their health, well-being and success and to creating a culture of belonging where everyone is welcome.",
+    "As it has been from the beginning, our purpose goes far beyond profit. We believe Starbucks can, and should, have a positive impact on the communities we serve."
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#primary-content"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "/account/signin?ReturnUrl=%2Fabout-us"
+    },
+    {
+      "label": "Join now",
+      "href": "/account/create"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://stories.starbucks.com/stories/coffee-craft/"
+    },
+    {
+      "label": "Explore Careers",
+      "href": "https://www.starbucks.com/careers/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://stories.starbucks.com/stories/people/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://stories.starbucks.com/stories/planet/"
+    },
+    {
+      "label": "Check out Starbucks Stories",
+      "href": "https://stories.starbucks.com/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://stories.starbucks.com/press/2019/company-profile/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://stories.starbucks.com/press/2019/company-timeline/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.starbucks.com/about-us/business-ethics-and-compliance"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.starbucks.com/about-us/corporate-governance"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Communities",
+      "href": "https://about.starbucks.com/communities/"
+    },
+    {
+      "label": "Starbucks Foundation",
+      "href": "https://about.starbucks.com/the-starbucks-foundation/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://about.starbucks.com/sustainability/"
+    },
+    {
+      "label": "Environmental and Social Impact Reporting",
+      "href": "https://www.starbucks.com/responsibility/reporting-hub/"
+    },
+    {
+      "label": "Landlord Support Center",
+      "href": "https://www.starbucks.com/business/landlord-faq/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.starbucks.com/business/suppliers/"
+    },
+    {
+      "label": "Corporate Gift Card Sales",
+      "href": "https://www.starbuckscardb2b.com/"
+    },
+    {
+      "label": "Office and Foodservice Coffee",
+      "href": "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks"
+    },
+    {
+      "label": "Order on the App",
+      "href": "https://www.starbucks.com/rewards/mobile-apps/"
+    },
+    {
+      "label": "Order on the Web",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Delivery",
+      "href": "https://www.starbucks.com/stores-and-ordering/delivery/"
+    },
+    {
+      "label": "Order and Pick Up Options",
+      "href": "https://www.starbucks.com/stores-and-ordering/"
+    },
+    {
+      "label": "Explore and Find Coffee for Home",
+      "href": "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.starbucks.com/terms/starbucks-terms-of-use/"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "https://www.starbucks.com/personal-information"
+    },
+    {
+      "label": "Starbucks Transparency in Supply Chains Statement",
+      "href": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf"
+    },
+    {
+      "label": "Accessibility",
+      "href": "https://www.starbucks.com/about-us/accessibility/"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/about-us/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2Fabout-us",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2Fabout-us",
+    "https://stories.starbucks.com/stories/coffee-craft/",
+    "https://www.starbucks.com/careers/",
+    "https://stories.starbucks.com/stories/people/",
+    "https://stories.starbucks.com/stories/planet/",
+    "https://stories.starbucks.com/",
+    "https://stories.starbucks.com/press/2019/company-profile/",
+    "https://stories.starbucks.com/press/2019/company-timeline/",
+    "https://www.starbucks.com/about-us/business-ethics-and-compliance",
+    "https://www.starbucks.com/about-us/corporate-governance",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72908.jpg",
+        "alt": "Starbucks storefront",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72909.jpg",
+        "alt": "Starbucks barista serving pour over coffee",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72910.jpg",
+        "alt": "Starbucks partners communicating in ASL",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72911.jpg",
+        "alt": "Sloping mountain filled with coffee trees in the early morning",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 4,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 18,
+    "mainTextLen": 3386,
+    "realImageCount": 4,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
