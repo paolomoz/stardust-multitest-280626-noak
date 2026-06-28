@@ -1,0 +1,405 @@
+{
+  "slug": "about-businesses-us-distribution",
+  "url": "https://www.paramount.com/about/businesses/us-distribution",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:56:50.494Z",
+  "finalUrl": "https://www.paramount.com/about/businesses/us-distribution",
+  "title": "U.S. Distribution | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "U.S. Distribution | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "U.S. Distribution"
+    },
+    {
+      "tag": "h4",
+      "text": "Our Approach"
+    },
+    {
+      "tag": "h6",
+      "text": "Who We Are"
+    },
+    {
+      "tag": "h6",
+      "text": "What We Offer"
+    },
+    {
+      "tag": "h6",
+      "text": "Our Commitment to Our Partners"
+    },
+    {
+      "tag": "h1",
+      "text": "“We’re committed to deepening and expanding our relationships with our valued partners to continue providing audiences with popular content from Paramount’s iconic portfolio.\""
+    },
+    {
+      "tag": "h4",
+      "text": "ray hopkins"
+    },
+    {
+      "tag": "h6",
+      "text": "President, Paramount U.S. Distribution"
+    },
+    {
+      "tag": "h6",
+      "text": "Theatrical Distribution"
+    },
+    {
+      "tag": "h6",
+      "text": "Content Licensing"
+    },
+    {
+      "tag": "h6",
+      "text": "Streaming"
+    },
+    {
+      "tag": "h6",
+      "text": "Studios"
+    }
+  ],
+  "body": [
+    "About",
+    "Businesses",
+    "U.S. Distribution",
+    "Paramount U.S. Distribution oversees the domestic content distribution strategy connecting Paramount’s portfolio of broadcast, cable and streaming brands with an audience of millions nationwide. Our approach to partnership goes beyond carriage, leveraging an extensive toolkit of capabilities to offer strategic solutions that help our distribution partners serve their customers – our audience.",
+    "Who We Are",
+    "What We Offer",
+    "Our Commitment to Our Partners",
+    "Theatrical Distribution Paramount is a global distributor of theatrical and home entertainment releases.",
+    "Paramount is a global distributor of theatrical and home entertainment releases.",
+    "Content Licensing Paramount’s Content Licensing division is the leading distributor of premium content across multiple media platforms throughout the global marketplace.",
+    "Paramount’s Content Licensing division is the leading distributor of premium content across multiple media platforms throughout the global marketplace.",
+    "Streaming Paramount Streaming oversees the company’s streaming technology and is comprised of world-renowned direct-to-consumer services across free, premium and pay.",
+    "Paramount Streaming oversees the company’s streaming technology and is comprised of world-renowned direct-to-consumer services across free, premium and pay.",
+    "Studios Paramount studios—including CBS Studios, SHOWTIME/MTV Entertainment Studios, Paramount Pictures and more— produce popular content across theatrical, broadcast, cable and streaming.",
+    "Paramount studios—including CBS Studios, SHOWTIME/MTV Entertainment Studios, Paramount Pictures and more— produce popular content across theatrical, broadcast, cable and streaming."
+  ],
+  "ctas": [
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Reject All",
+      "href": null
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Who We Are",
+      "href": null
+    },
+    {
+      "label": "What We Offer",
+      "href": null
+    },
+    {
+      "label": "Our Commitment to Our Partners",
+      "href": null
+    },
+    {
+      "label": "Theatrical Distribution Paramount is a global distributor of theatrical and home entertainment releases.",
+      "href": "/about/businesses/theatrical-distribution"
+    },
+    {
+      "label": "Content Licensing Paramount’s Content Licensing division is the leading distributor of premium content across multiple media platforms throughout the global marketplace.",
+      "href": "/about/businesses/content-licensing"
+    },
+    {
+      "label": "Streaming Paramount Streaming oversees the company’s streaming technology and is comprised of world-renowned direct-to-consumer services across free, premium and pay.",
+      "href": "/about/businesses/streaming"
+    },
+    {
+      "label": "Studios Paramount studios—including CBS Studios, SHOWTIME/MTV Entertainment Studios, Paramount Pictures and more— produce popular content across theatrical, broadcast, cable and streaming.",
+      "href": "/about/businesses/studios"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/about/businesses/us-distribution#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.paramount.com/about/businesses/theatrical-distribution",
+    "https://www.paramount.com/about/businesses/content-licensing",
+    "https://www.paramount.com/about/businesses/streaming",
+    "https://www.paramount.com/about/businesses/studios",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/about/businesses/us-distribution",
+    "https://www.paramount.com/terms-of-use",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/Businesses%20Landing%20Page/Tile%20Section/pccomm-misc-webdistributiontriptych-desktop.png",
+        "alt": "",
+        "w": 1920,
+        "h": 745
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/Businesses%20Landing%20Page/Tile%20Section/pccomm-misc-webdistributiontriptych-mobile.png",
+        "alt": "",
+        "w": 767,
+        "h": 861
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_quote_image_640x472_/public/ParamountDotCom/AboutPage/Images/US%20Network%20Distribution/about_business_network_distro_ray_640x472.png?itok=-YYdE85W",
+        "alt": "ray hopkins",
+        "w": 640,
+        "h": 472
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_quote_image_640x472_/public/ParamountDotCom/AboutPage/Images/US%20Network%20Distribution/about_business_network_distro_ray_640x472.png?itok=-YYdE85W",
+        "alt": "ray hopkins",
+        "w": 640,
+        "h": 472
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 16,
+    "cssBackgrounds": [],
+    "modals": [
+      "We use cookies and similar technologies to understand how you use our services, improve your experience and serve you personalized content and advertising as described in our Privacy Policy.Accept AllReject AllManage Cookies"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 2863,
+    "realImageCount": 16,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

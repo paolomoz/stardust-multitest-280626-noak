@@ -5,3 +5,4 @@
 .feed-item .feed-title { font-size: 19px; font-weight: 600; }
 .feed-item .feed-cat { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
 @media (width <= 680px) { .feed-item { grid-template-columns: 1fr; gap: 6px; } }
+.feed-empty { color: var(--muted); padding: 24px 0; }

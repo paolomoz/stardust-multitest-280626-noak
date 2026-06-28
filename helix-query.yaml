@@ -1,0 +1,45 @@
+version: 1
+
+indices:
+  news:
+    include:
+      - '/paramount/news/**'
+    exclude:
+      - '/paramount/news'
+    target: /paramount/news.json
+    properties:
+      title:
+        select: main h1
+        value: textContent(el)
+      category:
+        select: head > meta[name="category"]
+        value: attribute(el, 'content')
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, 'content')
+      date:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, 'content')
+      image:
+        select: head > meta[property="og:image"]
+        value: attribute(el, 'content')
+
+  press:
+    include:
+      - '/paramount/press/**'
+    exclude:
+      - '/paramount/press'
+    target: /paramount/press.json
+    properties:
+      title:
+        select: main h1
+        value: textContent(el)
+      category:
+        select: head > meta[name="category"]
+        value: attribute(el, 'content')
+      description:
+        select: head > meta[name="description"]
+        value: attribute(el, 'content')
+      date:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, 'content')

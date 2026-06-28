@@ -1,0 +1,1204 @@
+{
+  "slug": "about-history",
+  "url": "https://www.paramount.com/about/history",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:59:41.664Z",
+  "finalUrl": "https://www.paramount.com/about/history",
+  "title": "History | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "History | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "a legacy of greatness"
+    },
+    {
+      "tag": "h4",
+      "text": "1910-1919"
+    },
+    {
+      "tag": "h4",
+      "text": "1920-1929"
+    },
+    {
+      "tag": "h4",
+      "text": "1930-1939"
+    },
+    {
+      "tag": "h4",
+      "text": "1940-1949"
+    },
+    {
+      "tag": "h4",
+      "text": "1950-1959"
+    },
+    {
+      "tag": "h4",
+      "text": "1960-1969"
+    },
+    {
+      "tag": "h4",
+      "text": "1970-1979"
+    },
+    {
+      "tag": "h4",
+      "text": "1980-1989"
+    },
+    {
+      "tag": "h4",
+      "text": "1990-1999"
+    },
+    {
+      "tag": "h4",
+      "text": "2000-2009"
+    },
+    {
+      "tag": "h4",
+      "text": "2010-2019"
+    },
+    {
+      "tag": "h4",
+      "text": "Present"
+    }
+  ],
+  "body": [
+    "About",
+    "History",
+    "1910s",
+    "1920s",
+    "1930s",
+    "1940s",
+    "1950s",
+    "1960s",
+    "1970s",
+    "1980s",
+    "1990s",
+    "2000s",
+    "2010s",
+    "Present",
+    "Adolph Zukor, Daniel Frohman, and W.W. Hodkinson partner to establish Paramount Pictures Corporation.",
+    "William S. Paley acquires United Independent Broadcasters Inc., a network of 16 independent radio stations, and changes the name to Columbia Broadcast System (CBS).",
+    "CBS’ first television station, W2XAB, begins broadcasting.",
+    "W2XAB transmits the first color TV broadcast in the United States from a transmitter atop the Chrysler building.",
+    "‘I Love Lucy’ premieres on CBS.",
+    "CBS is the first network to broadcast the Olympics in the United States, with the Winter Games in Squaw Valley, California.",
+    "Viacom, a division of CBS, becomes incorporated.",
+    "MTV makes its debut as a cable channel.",
+    "Viacom launches Comedy Central on April 1—April Fool’s Day.",
+    "Viacom and CBS merge, becoming Viacom Inc.",
+    "CBS News launches 24/7 digital streaming news network CBSN.",
+    "‘Awkwafina is Nora from Queens’ debuts on Comedy Central starring a predominantly Asian cast."
+  ],
+  "ctas": [
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Reject All",
+      "href": null
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "1910s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1920s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1930s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1940s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1950s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1960s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1970s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1980s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "1990s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "2000s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "2010s",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "Present",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "For more Paramount history, click here.",
+      "href": "http://www.paramountstudios.com/paramount-history.html"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/about/history#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "javascript:void(0)",
+    "http://www.paramountstudios.com/paramount-history.html",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/terms-of-use",
+    "https://www.paramount.com/contact-us",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Hero%20Section/Hero%20Section_History.png",
+        "alt": "",
+        "w": 1440,
+        "h": 480
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Hero%20Section/Hero%20Section_History.png",
+        "alt": "",
+        "w": 1440,
+        "h": 480
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/History%20Carousel/Paramount_Pictures_592X440.png?itok=Abnz9qMc",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/History%20Carousel/Paramount_Pictures_592X440.png",
+        "alt": "",
+        "w": 592,
+        "h": 441
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/History%20Carousel/CBS_592X440.png?itok=YALNSHNR",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/History%20Carousel/CBS_592X440.png",
+        "alt": "",
+        "w": 592,
+        "h": 441
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1931_W2XAB-592x440.jpg?itok=otk0qCBQ",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1931_W2XAB-592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1930s_desktop_592x440.jpg?itok=ulY81qvO",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1930s_desktop_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/History%20Carousel/W2XAB%20_%20592X440.png?itok=yxk-l707",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/History%20Carousel/W2XAB%20_%20592X440.png",
+        "alt": "",
+        "w": 592,
+        "h": 441
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1948_WCAU-Philadelphia_592x440.jpg?itok=R2MR5EGx",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1948_WCAU-Philadelphia_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_ilovelucy_592x440.jpg?itok=TGtNGMu3",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_ilovelucy_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/CBS_Corporation_1997_592x440.jpg?itok=YYm9-O9O",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/CBS_Corporation_1997_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1956-As-The-World-Turns_592x440.jpg?itok=OmD0czGY",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1956-As-The-World-Turns_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1956-Masters_592x440.jpg?itok=k2FB8__q",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1956-Masters_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1960_CBS-Winter-Olympics_592x440.jpg?itok=aaI4anpE",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1960_CBS-Winter-Olympics_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/cbs_sports_midnight_logo_592x440.jpg?itok=Dvi8MB0S",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/cbs_sports_midnight_logo_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1967_CBS-color-programming_Star-Trek_592x440.jpg?itok=ZQhqt6oH",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1967_CBS-color-programming_Star-Trek_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_startrekkiss_592x440.jpg?itok=8t2Sktvb",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_startrekkiss_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Original-Viacom-logo_592x440.jpg?itok=GhRYMxRD",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Original-Viacom-logo_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_irvcross_592x440.jpg?itok=FI7rI4u4",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_irvcross_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_phyllisgeorge_592x440.jpg?itok=XLWD3YSk",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_phyllisgeorge_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_edbradley_592x440.jpg?itok=6oGBmt3U",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_edbradley_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1976_Showtime_1967x949_newdesktop.jpg?itok=WnRAAmJL",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1976_Showtime_1967x949_newdesktop.jpg",
+        "alt": "",
+        "w": 1687,
+        "h": 949
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_lesleystahl_592x440.jpg?itok=3F6WK6fu",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_lesleystahl_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Pinwheel-Nickelodeon_592x440.jpg?itok=MPmiCCDf",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Pinwheel-Nickelodeon_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/MTV_592x400.jpg?itok=rmpcIm6x",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/MTV_592x400.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_lesleyvisser_592x440.jpg?itok=UaSs-N5h",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_lesleyvisser_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1980s_desktop.jpg?itok=j8f2eW4f",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1980s_desktop.jpg",
+        "alt": "",
+        "w": 1600,
+        "h": 800
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_yomtvraps_592x440.jpg?itok=_2q6ie1N",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_yomtvraps_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Comedy_Central_592X440.png?itok=i9wAw44x",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/Comedy_Central_592X440.png",
+        "alt": "",
+        "w": 592,
+        "h": 441
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1992-05-21_RealWorld_592x440.jpg?itok=FzkqXBJQ",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1992-05-21_RealWorld_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1999_Paramount-Pictures-acquired-1687x949-desktop.jpg?itok=TK1FYo1R",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/1999_Paramount-Pictures-acquired-1687x949-desktop.jpg",
+        "alt": "",
+        "w": 1687,
+        "h": 949
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_pedrozamora_592x440.jpg?itok=ExWcX_3R",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_pedrozamora_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_forrestgump_592x440.jpg?itok=BeeduQf-",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_forrestgump_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_gullahgullah_592x440.jpg?itok=yjEAgsJJ",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_gullahgullah_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/CBS_Corporation_1997_592x440.jpg?itok=YYm9-O9O",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/CBS_Corporation_1997_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2015-11-05_KelliePickler_592x440.jpg?itok=asCYwxJ2",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2015-11-05_KelliePickler_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1990s_592x440.jpg?itok=gnstKMZ9",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/1990s_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2000_Viacom-and-CBS-merge_592x440.jpg?itok=8XqSJh74",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2000_Viacom-and-CBS-merge_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_soulfood_592x440.jpg?itok=Ttlx-yDL",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_soulfood_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_doratheexplorer_592x440.jpg?itok=zIlsK5UD",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_doratheexplorer_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_betlogo_592x440.jpg?itok=nH--L2fB",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_betlogo_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2000_BET_106andPark_592x440.jpg?itok=0Fcab4aG",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2000_BET_106andPark_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_queerasfolk_592x440.jpg?itok=uDXH_X4m",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_queerasfolk_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_BETawards_592x440.jpg?itok=eNxc00CG",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_BETawards_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_chappellshow_592x440.jpg?itok=JbXTcJRx",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_chappellshow_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2005_Logo_592x440.jpg?itok=wi0rrOxw",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2005_Logo_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/separate_companies_592x440.jpg?itok=Zb2YKqh7",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/separate_companies_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_katiecouric_592x440.jpg?itok=PTY778tw",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_katiecouric_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2007_viacom18_592x440.jpg?itok=FbJYUK5n",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2007_viacom18_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_nihaonickjr_592x440.jpg?itok=F_MAN3KP",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_nihaonickjr_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_epix_592x440.jpg?itok=Jtss4g2P",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_epix_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_RPDRdebut_592x440.jpg?itok=W-lsW9rB",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_RPDRdebut_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_MTVshuga_592x440.jpg?itok=bRBdqfGI",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_MTVshuga_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2014_CBSN_592x440.jpg?itok=dW33KcD-",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2014_CBSN_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_SELMA_592x440.jpg?itok=EhJfvEE3",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_SELMA_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2015_-CBS-All-Access-launch_592x440.jpg?itok=bM84bjpJ",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2015_-CBS-All-Access-launch_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2016_Telefe_592x440.jpg?itok=ZGlbDmnA",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2016_Telefe_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_theloudhouse_592x440.jpg?itok=TQQI03ha",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_theloudhouse_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_STDiscoverypremiere_592x440.jpg?itok=7ON7qooN",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_STDiscoverypremiere_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_THECHIpremiere_592x440.jpg?itok=lKbIYkrT",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_THECHIpremiere_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_plutotv_592x440.jpg?itok=Iyy5YtoK",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_plutotv_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_zirinskyCBSnewspresident_592x440.jpg?itok=9IxoTZ75",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_zirinskyCBSnewspresident_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2019-ViacomCBS-Merger_592x440.jpg?itok=IJ9eyz9J",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/2019-ViacomCBS-Merger_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_AYTOfluidcast_592x440.jpg?itok=3UlRLL8g",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_AYTOfluidcast_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_awkwafina_592x440.jpg?itok=ycgSBBCQ",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_awkwafina_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_BETstudios_592x440.jpg?itok=dltd6Srn",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/history_BETstudios_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/p%2B_592x440.jpg?itok=7vhF0Mmg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/p%2B_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/timeline_w_banner_carousel_desktop_592x440_/public/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/PARAMOUNT_LOGOS_TIMELINE_592x440.jpg?itok=f9Ay-9oI",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/Timeline%20Images/Resized/PARAMOUNT_LOGOS_TIMELINE_592x440.jpg",
+        "alt": "",
+        "w": 592,
+        "h": 440
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 144,
+    "cssBackgrounds": [],
+    "modals": [
+      "We use cookies and similar technologies to understand how you use our services, improve your experience and serve you personalized content and advertising as described in our Privacy Policy.Accept AllReject AllManage Cookies"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 13,
+    "mainTextLen": 6249,
+    "realImageCount": 144,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

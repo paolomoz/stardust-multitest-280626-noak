@@ -1,0 +1,425 @@
+{
+  "slug": "careers-life-at-paramount",
+  "url": "https://www.paramount.com/careers/life-at-paramount",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:59:10.597Z",
+  "finalUrl": "https://www.paramount.com/careers/life-at-paramount",
+  "title": "Life at Paramount | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "Life at Paramount | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Life at Paramount"
+    },
+    {
+      "tag": "h6",
+      "text": "Performance & Engagement"
+    },
+    {
+      "tag": "h2",
+      "text": "SHAPING YOUR EXPERIENCE"
+    },
+    {
+      "tag": "h2",
+      "text": "FOSTERING YOUR GROWTH"
+    },
+    {
+      "tag": "h6",
+      "text": "Employee events"
+    },
+    {
+      "tag": "h2",
+      "text": "DRIVING YOUR ENGAGEMENT"
+    },
+    {
+      "tag": "h6",
+      "text": "Employee Engagement"
+    },
+    {
+      "tag": "h2",
+      "text": "EMPLOYEE RESOURCE GROUPS"
+    },
+    {
+      "tag": "h6",
+      "text": "Community Investment"
+    },
+    {
+      "tag": "h2",
+      "text": "A COMMITMENT TO SERVICE"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW US FOR A GLIMPSE INTO LIFE AT PARAMOUNT"
+    }
+  ],
+  "body": [
+    "Careers",
+    "Life at Paramount",
+    "Employees play a key role in shaping their experience at Paramount and in their team. Some of the ways we offer support include:",
+    "Goal-setting & check-ins: Through goal-setting and performance check-ins, employees identify their most important contributions to their team’s objectives and the company’s mission and strategy. Regular check-ins with managers help employees review progress, discuss challenges, and celebrate accomplishments. Check-ins are also a chance to check in on well-being, discuss growth and development, and receive coaching and feedback.",
+    "Global Experience Survey: Our survey measures several key aspects of our employees’ experience, including engagement and well-being, to continuously strengthen our culture and build a great place to work.",
+    "At Paramount, we know that developing new skills and building a rewarding and meaningful career is important.",
+    "Learning & Development: Paramount’s Learning & Development team offers various immersive experiences, and digital resources for everyone -from those just starting their careers to executive leaders. Our learning and development tools empower you to own your career, elevate your impact, and accelerate your career growth all while connecting with colleagues globally.",
+    "Mentoring Programs: Employees across all brands and functions can build partnerships for personal and professional growth. Our mentoring initiatives include a Buddy Program, 6-month Mentoring+, and Pop-Up Mentoring programs.",
+    "Tuition Assistance: Eligible employees can be reimbursed up to $10,000 per calendar year for undergraduate/graduate degrees, certifications and certificates.",
+    "Our range of events promote meaningful connections among our employees—from mentorship programs, to monthly town halls, to annual initiatives. These events keep employees updated on our company's strategy, foster a sense of unity, and illustrate how our collective efforts drive Paramount forward. These include:",
+    "Community Day: An annual initiative where all global employees are encouraged to take time away from their day-to-day to volunteer in their communities.",
+    "Talent for Good: A flexible way for employees to volunteer their skills with community partners around the world.",
+    "Season of Giving: An annual program encouraging employees to support their communities through volunteer activities, social impact projects, and charitable donations during the holiday season.",
+    "Our Employee Resource Groups (ERGs) are open to all employees. They serve as a source of direct support for core business initiatives across our brands, create forums for employees to connect and build community, and offer opportunities for personal and professional growth through skill-building workshops, networking events, and community service projects.",
+    "We encourage our employees to get involved in their communities and make a difference. This includes our annual and longstanding Community Day—a global effort where employees can take time in their day to volunteer, come together, and make a difference.",
+    "As a company, giving back is part of Paramount's DNA. It's just one way we continue to build on our legacy and elevate the voices of the communities we serve.",
+    "Job Function Job Function None Administrative Business Development Communications/PR Creative Facilities Finance/Accounting General Business Human Resources Legal Marketing Other Production Programming Research Sales Technology",
+    "Job Type Job Type None Full-Time Internship Part-Time Temporary / Per Diem / Freelance (Non-Staff)",
+    "Location Location None Amsterdam, NL Boston, MA Budapest, HU Buenos Aires, AR Burbank, CA Chicago, IL Denver, CO Fort Lauderdale, FL Fort Worth, TX Iselin, NJ London, GB Los Angeles, CA Munich, DE Nashville, TN New York, NY Pittsburgh, PA Pyrmont, NSW, AU Rosario, AR Southfield, MI Stamford, CT Studio City, CA Warsaw, PL West Hollywood, CA West Sacramento, CA",
+    "@ParamountCo",
+    "@WorkatParamount"
+  ],
+  "ctas": [
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Reject All",
+      "href": null
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Job Function",
+      "href": null
+    },
+    {
+      "label": "Job Type",
+      "href": null
+    },
+    {
+      "label": "Location",
+      "href": null
+    },
+    {
+      "label": "Go",
+      "href": null
+    },
+    {
+      "label": "@ParamountCo",
+      "href": "https://www.linkedin.com/company/paramountco"
+    },
+    {
+      "label": "@WorkatParamount",
+      "href": "https://www.instagram.com/workatparamount/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/careers/life-at-paramount#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.instagram.com/workatparamount/",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/terms-of-use",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/lifeatparamount_header_1920x640_dt.jpg",
+        "alt": "",
+        "w": 1920,
+        "h": 640
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/lifeatparamount_header_767x767_mb.jpg",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/life_at_paramount_v4_767x767.jpg",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/life_at_paramount_landd_720x720.jpg",
+        "alt": "",
+        "w": 720,
+        "h": 720
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/careers_lifeat_720x720.png",
+        "alt": "",
+        "w": 720,
+        "h": 720
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/ERG_767x767.jpg",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Life%20at%20Paramount/community_767x767.jpg",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Social%20Icons/Frame%20622.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/CareersPage/Images/Internships/Social%20Icons/instagram-seeklogo.com%201.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 25,
+    "cssBackgrounds": [],
+    "modals": [
+      "We use cookies and similar technologies to understand how you use our services, improve your experience and serve you personalized content and advertising as described in our Privacy Policy.Accept AllReject AllManage Cookies"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 4717,
+    "realImageCount": 21,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

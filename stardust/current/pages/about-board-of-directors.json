@@ -1,0 +1,489 @@
+{
+  "slug": "about-board-of-directors",
+  "url": "https://www.paramount.com/about/board-of-directors",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:59:37.081Z",
+  "finalUrl": "https://www.paramount.com/about/board-of-directors",
+  "title": "Board of Directors | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "Board of Directors | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Board of Directors"
+    },
+    {
+      "tag": "h6",
+      "text": "David Ellison"
+    },
+    {
+      "tag": "h6",
+      "text": "Barbara Byrne"
+    },
+    {
+      "tag": "h6",
+      "text": "Andy Campion"
+    },
+    {
+      "tag": "h6",
+      "text": "Gerry Cardinale"
+    },
+    {
+      "tag": "h6",
+      "text": "Safra A. Catz"
+    },
+    {
+      "tag": "h6",
+      "text": "Andy Gordon"
+    },
+    {
+      "tag": "h6",
+      "text": "Justin G. Hamill"
+    },
+    {
+      "tag": "h6",
+      "text": "Sherry Lansing"
+    },
+    {
+      "tag": "h6",
+      "text": "Paul Marinelli"
+    },
+    {
+      "tag": "h6",
+      "text": "John L. Thornton"
+    }
+  ],
+  "body": [
+    "About",
+    "Board of Directors",
+    "David Ellison Chairman & Chief Executive Officer",
+    "Barbara Byrne Independent Director",
+    "Andy Campion Independent Director",
+    "Gerry Cardinale Director",
+    "Safra A. Catz Director",
+    "Andy Gordon Chief Strategy Officer and Chief Operating Officer",
+    "Justin G. Hamill Independent Director",
+    "Sherry Lansing Independent Director",
+    "Paul Marinelli Director",
+    "John L. Thornton Director"
+  ],
+  "ctas": [
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "David Ellison Chairman & Chief Executive Officer",
+      "href": "/about/leadership/david-ellison"
+    },
+    {
+      "label": "Barbara Byrne Independent Director",
+      "href": "/about/leadership/barbara-byrne"
+    },
+    {
+      "label": "Andy Campion Independent Director",
+      "href": "/about/leadership/andy-campion"
+    },
+    {
+      "label": "Gerry Cardinale Director",
+      "href": "/about/leadership/gerry-cardinale"
+    },
+    {
+      "label": "Safra A. Catz Director",
+      "href": "/about/leadership/safra-a-catz"
+    },
+    {
+      "label": "Andy Gordon Chief Strategy Officer and Chief Operating Officer",
+      "href": "/about/leadership/andy-gordon"
+    },
+    {
+      "label": "Justin G. Hamill Independent Director",
+      "href": "/about/leadership/justin-g-hamill"
+    },
+    {
+      "label": "Sherry Lansing Independent Director",
+      "href": "/about/leadership/sherry-lansing"
+    },
+    {
+      "label": "Paul Marinelli Director",
+      "href": "/about/leadership/paul-marinelli"
+    },
+    {
+      "label": "John L. Thornton Director",
+      "href": "/about/leadership/john-l-thornton"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paramount.com/about/board-of-directors#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.paramount.com/about/leadership/david-ellison",
+    "https://www.paramount.com/about/leadership/barbara-byrne",
+    "https://www.paramount.com/about/leadership/andy-campion",
+    "https://www.paramount.com/about/leadership/gerry-cardinale",
+    "https://www.paramount.com/about/leadership/safra-a-catz",
+    "https://www.paramount.com/about/leadership/andy-gordon",
+    "https://www.paramount.com/about/leadership/justin-g-hamill",
+    "https://www.paramount.com/about/leadership/sherry-lansing",
+    "https://www.paramount.com/about/leadership/paul-marinelli",
+    "https://www.paramount.com/about/leadership/john-l-thornton",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/terms-of-use",
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/DAVID_ELLISON_0252_FINAL.jpg?h=17cd05e8&itok=-_EfvNUY",
+        "alt": "David Ellison",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/DAVID_ELLISON_08062025.jpg?h=9097d733&itok=rLOghNrH",
+        "alt": "David Ellison",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Barbara%20Byrne%20%28Headshot%29.jpg?h=b1003b0c&itok=NDd4_H-x",
+        "alt": "Barbara Byrne",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Barbara%20Byrne_08062025.jpg?h=9be6f92c&itok=l7KueBhD",
+        "alt": "Barbara Byrne",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Andy%20Campion%20-%20Headshot.png?h=fbf7a813&itok=bsMRli31",
+        "alt": "Andy Campion",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Andy%20Campion%20-%20Headshot.png?h=fbf7a813&itok=bsMRli31",
+        "alt": "Andy Campion",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Gerry%20Cardinale%20-%20headshot.jpeg?h=8b947f75&itok=vEJBAeTT",
+        "alt": "Gerry Cardinale",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Gerry%20Cardinale_08062025.jpeg?h=cde8fd1e&itok=ADHB469S",
+        "alt": "Gerry Cardinale",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Safra-Catz%20%28Headshot%29.jpg?h=491072e0&itok=DFFSgAmU",
+        "alt": "Safra A. Catz",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Safra-Catz%20%28Headshot%29.jpg?h=491072e0&itok=DFFSgAmU",
+        "alt": "Safra A. Catz",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/ANDY_GORDON_0069_FINAL.jpg?h=a6a62e64&itok=RKb7_Rzt",
+        "alt": "Andy Gordon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/ANDY_GORDON_08062025.jpg?h=66613d35&itok=lP6KX-dm",
+        "alt": "Andy Gordon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Justin%20Hamill%20%28headshot%29.jpg?h=75809317&itok=PYzGFHdN",
+        "alt": "Justin G. Hamill",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Justin%20Hamill_08062025.jpg?h=28317def&itok=dLB1k_Ka",
+        "alt": "Justin G. Hamill",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Sherry%20Lansing%20%28Headshot%29.jpg?h=54f5a07b&itok=2sfLULHY",
+        "alt": "Sherry Lansing",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/BOARD%20OF%20DIRECTOR%20MOBILE%20IMAGES/Sherry%20Lansing_08062025.jpg?h=9c719185&itok=aV0jDqXq",
+        "alt": "Sherry Lansing",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Paul%20Marinelli%20%281%29.jpeg?h=c5b7eb2c&itok=pPzZjnwG",
+        "alt": "Paul Marinelli",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/Paul%20Marinelli%20%281%29.jpeg?h=c5b7eb2c&itok=pPzZjnwG",
+        "alt": "Paul Marinelli",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/John%20Thornton%20%28Headshot%29.jpg?h=aaedd84b&itok=gDIjjCIV",
+        "alt": "John L. Thornton",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/Other%20Leadership%20Images%20desktop/John%20Thornton%20%28Headshot%29.jpg?h=aaedd84b&itok=gDIjjCIV",
+        "alt": "John L. Thornton",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 32,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 498,
+    "realImageCount": 32,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
