@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "ground": "#000A3C",
+    "surface": "#FFFFFF",
+    "ink": "#000A3C",
+    "paper-text": "#FFFFFF",
+    "signal": "#0064FF",
+    "spark-yellow": "#FFD400",
+    "spark-magenta": "#D63384",
+    "spark-cyan": "#03D1E5",
+    "muted": "#8386A0"
+  },
+  "typography": {
+    "display": "Paramount Vista Sans, 'Peak Sans', Arial, sans-serif",
+    "heading": "'Peak Sans', Arial, Helvetica, sans-serif",
+    "body": "'Peak Sans', Arial, Helvetica, sans-serif",
+    "scaleRatio": 1.333,
+    "weights": [400, 500, 600, 700]
+  },
+  "rounded": "small",
+  "spacing": { "base": 4, "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A-brand-faithful",
+    "brandSignal": "signal-strong",
+    "divergence": {
+      "seed": { "decade": "2025-now", "register": "cinematic-media", "ground_family": { "value": "deep-navy", "override": "brand-faithful" } },
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "brand_faithful_inversions": [
+        "all-caps body -> mixed-case body (reserve caps for display/eyebrow/CTA)",
+        "static key-art hero -> film-montage video hero (motion preserved)",
+        "prose brand list -> mark-led brand grid"
+      ]
+    },
+    "motion": {
+      "register": "kinetic-display",
+      "registerRationale": "PRODUCT.md Brand Personality: display-typography-signature + signage-led",
+      "easings": { "entrance": "cubic-bezier(.16,1,.3,1)", "transition": "cubic-bezier(.4,0,.2,1)" },
+      "durations": { "enter": 600, "stagger": 80 }
+    },
+    "componentStyle": {
+      "buttons": "solid electric-blue or outline; squared; ALL-CAPS labels",
+      "cards": "flat, near-squared, subtle border, spark hover rule",
+      "dualCTAPattern": "one primary (signal), one secondary text-link"
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "persistent brand nav", "position": "top, sticky", "constraint": "mountain logo + About/News/Careers/Investors" },
+      "footer": { "purpose": "secondary nav + legal + social", "position": "bottom" },
+      "cta-band": { "purpose": "careers / join prompt", "position": "pre-footer" },
+      "video-hero": { "purpose": "signature film-montage motion", "constraint": "navy scrim + reduced-motion still fallback" }
+    },
+    "iaPriorities": [
+      { "signal": "audience-routing", "evidence": "header nav: About/News/Careers/Investors", "preserveAs": "first-viewport-nav", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "brand-portfolio", "evidence": "pages/index.json brand descriptions for 13+ brands", "preserveAs": "home-primary-section", "scope": "home", "mutability": "movable" }
+    ],
+    "metadata": {
+      "siteName": "Paramount",
+      "themeColor": "#000A3C",
+      "locale": "en-US",
+      "organization": { "name": "Paramount", "url": "https://www.paramount.com", "logo": "/paramount/icons/logo.svg" }
+    },
+    "voice": {
+      "do": ["SHAPE THE FUTURE", "Join Us", "ALL BRANDS"],
+      "dont": ["all-caps multi-sentence body", "SaaS hero clichés", "stock photography"]
+    }
+  },
+  "narrative": {
+    "northStar": "One unified, cinematic Paramount on a deep-navy stage, faithful to the captured identity at a current execution bar.",
+    "rules": ["ALL-CAPS only for display/eyebrow/CTA", "scrim under every hero overlay", "accent sparks as markers, never large fields", "preserve signature film-montage motion"]
+  }
+}

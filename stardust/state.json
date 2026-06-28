@@ -57,7 +57,7 @@
       "slug": "index",
       "template": "home",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/index.json",
       "prototypePath": null,
       "migratedPath": null
@@ -67,7 +67,7 @@
       "slug": "about",
       "template": "section-overview",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about.json",
       "prototypePath": null,
       "migratedPath": null
@@ -77,7 +77,7 @@
       "slug": "about-brands",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-brands.json",
       "prototypePath": null,
       "migratedPath": null
@@ -87,7 +87,7 @@
       "slug": "about-businesses",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-businesses.json",
       "prototypePath": null,
       "migratedPath": null
@@ -97,7 +97,7 @@
       "slug": "careers",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/careers.json",
       "prototypePath": null,
       "migratedPath": null
@@ -107,7 +107,7 @@
       "slug": "about-leadership",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-leadership.json",
       "prototypePath": null,
       "migratedPath": null
@@ -117,7 +117,7 @@
       "slug": "news",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/news.json",
       "prototypePath": null,
       "migratedPath": null
@@ -127,7 +127,7 @@
       "slug": "press",
       "template": "section-overview",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/press.json",
       "prototypePath": null,
       "migratedPath": null
@@ -137,7 +137,7 @@
       "slug": "about-brands-paramount-plus",
       "template": "brand-detail",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-brands-paramount-plus.json",
       "prototypePath": null,
       "migratedPath": null
@@ -337,7 +337,7 @@
       "slug": "about-businesses-studios",
       "template": "business-detail",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-businesses-studios.json",
       "prototypePath": null,
       "migratedPath": null
@@ -407,7 +407,7 @@
       "slug": "about-leadership-david-ellison",
       "template": "leadership-bio",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-leadership-david-ellison.json",
       "prototypePath": null,
       "migratedPath": null
@@ -587,7 +587,7 @@
       "slug": "news-paramount-and-ufc-expand-partnership-to-canada-in-2027",
       "template": "news-article",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/news-paramount-and-ufc-expand-partnership-to-canada-in-2027.json",
       "prototypePath": null,
       "migratedPath": null
@@ -667,7 +667,7 @@
       "slug": "press-paramount-reports-first-quarter-2026-financial-results",
       "template": "press-release",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/press-paramount-reports-first-quarter-2026-financial-results.json",
       "prototypePath": null,
       "migratedPath": null
@@ -697,7 +697,7 @@
       "slug": "careers-benefits",
       "template": "careers-content",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/careers-benefits.json",
       "prototypePath": null,
       "migratedPath": null
@@ -817,7 +817,7 @@
       "slug": "terms-of-use",
       "template": "legal",
       "archetype": true,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/terms-of-use.json",
       "prototypePath": null,
       "migratedPath": null
@@ -827,7 +827,7 @@
       "slug": "contact-us",
       "template": "legal",
       "archetype": false,
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/contact-us.json",
       "prototypePath": null,
       "migratedPath": null
@@ -842,5 +842,12 @@
       "prototypePath": null,
       "migratedPath": null
     }
-  ]
+  ],
+  "direction": {
+    "resolvedAt": "2026-06-28T16:39:34.864Z",
+    "phrase": "faithful redesign, modernized — single canonical direction, no approval gate",
+    "directionFile": "stardust/direction.md",
+    "mode": "A-brand-faithful",
+    "variantMode": "single"
+  }
 }
