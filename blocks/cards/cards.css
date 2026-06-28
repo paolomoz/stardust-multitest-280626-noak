@@ -1,27 +1,48 @@
-.cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.cards .cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
-
-.cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
+.cards .card {
+  display: block;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  overflow: hidden;
+  color: var(--ink);
+  transition: transform .4s var(--ease), box-shadow .4s var(--ease);
 }
-
-.cards .cards-card-body {
-  margin: 16px;
+.cards .card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgb(0 0 0 / 10%); }
+.cards .card-media { aspect-ratio: 16 / 10; overflow: hidden; background: var(--surface); }
+.cards .card-media picture,
+.cards .card-media img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s var(--ease); }
+.cards .card:hover .card-media img { transform: scale(1.05); }
+.cards .card-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 18px;
 }
+.cards .card-title { color: var(--ink); font-weight: 600; font-size: 1.05rem; }
+.cards .card-desc { color: var(--muted); font-size: .92rem; font-weight: 400; }
+.cards .card-arrow { color: var(--muted); transition: transform .3s var(--ease); }
+.cards .card:hover .card-arrow { transform: translateX(4px); color: var(--ink); }
 
-.cards .cards-card-image {
-  line-height: 0;
+/* links variant — text-forward (section sub-navigation, no images) */
+.cards.links .cards-grid { grid-template-columns: repeat(3, 1fr); gap: 0 24px; }
+.cards.links .card { border: 0; border-top: 1px solid var(--border); border-radius: 0; }
+.cards.links .card:hover { transform: none; box-shadow: none; }
+.cards.links .card-media { display: none; }
+.cards.links .card-label { padding: 18px 2px; }
+
+/* story variant — editorial, taller media, stacked label + description */
+.cards.story .card-label { flex-direction: column; align-items: flex-start; }
+.cards.story .card-media { aspect-ratio: 3 / 2; }
+
+@media (width <= 900px) {
+  .cards .cards-grid { grid-template-columns: repeat(2, 1fr); }
 }
-
-.cards > ul > li img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+@media (width <= 640px) {
+  .cards .cards-grid { grid-template-columns: 1fr; }
 }

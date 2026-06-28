@@ -1,0 +1,38 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "reason": "Mode A: Inter substitutes Sony proprietary SST (identity-preservation)",
+        "createdAt": "2026-06-28T16:54:52.471Z"
+      },
+      {
+        "rule": "overused-font",
+        "value": "arial",
+        "reason": "metric-matched fallback for zero-CLS swap",
+        "createdAt": "2026-06-28T16:54:52.504Z"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#2b2b2b",
+        "reason": "button hover, lifted near-black derived from --ink",
+        "createdAt": "2026-06-28T16:54:52.533Z"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#cfcfcf",
+        "reason": "footer body text on ink",
+        "createdAt": "2026-06-28T16:56:10.249Z"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#9b9b9b",
+        "reason": "footer legal text on ink",
+        "createdAt": "2026-06-28T16:56:10.291Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+version: 1
+
+indices:
+  sony-news:
+    include:
+      - '/sony/sonyinfo/news/press/**'
+    exclude:
+      - '/sony/sonyinfo/news/press'
+    target: /sony/news-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, 'content')
+      publishDate:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, 'content')
+      newsDate:
+        select: head > meta[name="newsdate"]
+        value: attribute(el, 'content')
+      template:
+        select: head > meta[name="template"]
+        value: attribute(el, 'content')
+      image:
+        select: head > meta[property="og:image"]
+        value: attribute(el, 'content')
