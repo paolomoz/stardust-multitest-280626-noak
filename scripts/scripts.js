@@ -172,6 +172,7 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
+  // eslint-disable-next-line no-use-before-define
   initReveal(main);
 }
 

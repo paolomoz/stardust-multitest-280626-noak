@@ -73,7 +73,10 @@ export default async function decorate(block) {
         const heading = row.querySelector('h2, h3, h4');
         const cells = [...row.children];
         const tag = cells.length > 1 ? cells[0].textContent.trim() : 'News';
-        const title = heading ? heading.textContent.trim() : (link ? link.textContent.trim() : cells[cells.length - 1].textContent.trim());
+        let title = '';
+        if (heading) title = heading.textContent.trim();
+        else if (link) title = link.textContent.trim();
+        else title = cells[cells.length - 1].textContent.trim();
         grid.append(newsCard(title, link ? link.getAttribute('href') : '#', tag));
       });
     }

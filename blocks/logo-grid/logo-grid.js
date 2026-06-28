@@ -41,9 +41,12 @@ export default async function decorate(block) {
   // detect a config/index path
   const firstText = rows[0]?.textContent.trim() || '';
   const isDynamic = rows.length === 0 || /index\.json$/.test(firstText);
-  const indexPath = isDynamic
-    ? (/index\.json$/.test(firstText) ? firstText : `${window.location.pathname.split('/').filter(Boolean)[0] ? '/' + window.location.pathname.split('/').filter(Boolean)[0] : ''}/investments-index.json`)
-    : null;
+  const seg = window.location.pathname.split('/').filter(Boolean)[0];
+  const root = seg ? `/${seg}` : '';
+  let indexPath = null;
+  if (isDynamic) {
+    indexPath = /index\.json$/.test(firstText) ? firstText : `${root}/investments-index.json`;
+  }
 
   if (isDynamic) {
     const tiles = await fromIndex(indexPath);
@@ -53,7 +56,8 @@ export default async function decorate(block) {
       const cells = [...row.children];
       const img = cells[0]?.querySelector('img, picture');
       const link = row.querySelector('a');
-      const imgEl = img ? (img.matches('img') ? img : img.querySelector('img')) : null;
+      let imgEl = null;
+      if (img) imgEl = img.matches('img') ? img : img.querySelector('img');
       grid.append(tile(
         link ? link.getAttribute('href') : '#',
         imgEl ? imgEl.getAttribute('src') : '',
