@@ -1,0 +1,35 @@
+{
+  "colors": {
+    "primary": "#012169",
+    "action": "#0070E0",
+    "accent": "#60CDFF",
+    "accent2": "#009CDE",
+    "gold": "#FFC439",
+    "ink": "#2C2E2F",
+    "muted": "#686A6D",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#F5F7FA"
+  },
+  "typography": {
+    "display": "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+    "body": "\"Plain\", \"Helvetica Neue\", Arial, sans-serif",
+    "displayWeight": 900
+  },
+  "rounded": "999px/12px",
+  "extensions": {
+    "componentStyle": {
+      "button": "pill",
+      "card": "layered"
+    },
+    "motifs": [
+      "pill-cta",
+      "layered-card",
+      "navy-hero-sky-accent",
+      "two-tone-monogram"
+    ],
+    "voice": {
+      "register": "brand",
+      "heroHeadline": "Pay, send, and save smarter"
+    }
+  }
+}

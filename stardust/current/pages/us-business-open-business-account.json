@@ -1,0 +1,301 @@
+{
+  "slug": "us-business-open-business-account",
+  "url": "https://www.paypal.com/us/business/open-business-account",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:39:10.804Z",
+  "finalUrl": "https://www.paypal.com/us/business/open-business-account",
+  "title": "Open a Business Account Online | PayPal US",
+  "description": "Open a PayPal business account to accept payments online and in-store. Get invoicing tools, fraud protection, and fast payouts. Sign up free today.",
+  "og": {
+    "title": "Open a Business Account Online | PayPal US",
+    "description": "Open a PayPal business account to accept payments online and in-store. Get invoicing tools, fraud protection, and fast payouts. Sign up free today.",
+    "image": "https://www.paypalobjects.com/marketing/web24/us/business/open-business-account/og-image-get-started-us.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Add us to your online store"
+    },
+    {
+      "tag": "h2",
+      "text": "Enterprise solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "text": "How can I open a Business account online?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I issue invoices with my PayPal Business account?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are the requirements to open a Business account online?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I open a Business account online if my business is new?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I link my PayPal Business account to an eCommerce platform?"
+    },
+    {
+      "tag": "h3",
+      "text": "How does PayPal keep my business info private?"
+    },
+    {
+      "tag": "h3",
+      "text": "What’s the difference between a PayPal Personal and Business account?"
+    },
+    {
+      "tag": "h3",
+      "text": "Are there any fees for a PayPal Business account?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I upgrade my personal account to a business account?"
+    },
+    {
+      "tag": "h3",
+      "text": "What should I do after opening my business account?"
+    },
+    {
+      "tag": "h3",
+      "text": "Do I need an LLC to open a business account?"
+    },
+    {
+      "tag": "h2",
+      "text": "PayPal Open"
+    },
+    {
+      "tag": "h3",
+      "text": "One platform"
+    },
+    {
+      "tag": "h3",
+      "text": "for all business"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Sign Up",
+    "Contact Sales",
+    "We’re integrated with popular eCommerce platforms to make your payments simpler. Link your Business account in just a few clicks.",
+    "For more complex needs or custom pricing, our enterprise solutions can help your business scale.",
+    "It’s easy to create a Business account online with PayPal. Click sign up. Fill out your information. Get paid. Whether you sell online, in person, or both. It only takes a couple of minutes. To discuss more complex business needs, contact sales.",
+    "Get paid. Get growing. Get ahead.",
+    "Do more with the platform designed to power commerce."
+  ],
+  "ctas": [
+    {
+      "label": "Sign Up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?country.x=US&locale.x=en_US&products=business_account"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "Browse Solution Providers",
+      "href": "https://www.paypal.com/us/business/platforms-and-marketplaces/directory"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "How can I open a Business account online?",
+      "href": null
+    },
+    {
+      "label": "sign up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?country.x=US&locale.x=en_US&products=business_account"
+    },
+    {
+      "label": "contact sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "Can I issue invoices with my PayPal Business account?",
+      "href": null
+    },
+    {
+      "label": "What are the requirements to open a Business account online?",
+      "href": null
+    },
+    {
+      "label": "Can I open a Business account online if my business is new?",
+      "href": null
+    },
+    {
+      "label": "Can I link my PayPal Business account to an eCommerce platform?",
+      "href": null
+    },
+    {
+      "label": "How does PayPal keep my business info private?",
+      "href": null
+    },
+    {
+      "label": "What’s the difference between a PayPal Personal and Business account?",
+      "href": null
+    },
+    {
+      "label": "Are there any fees for a PayPal Business account?",
+      "href": null
+    },
+    {
+      "label": "Can I upgrade my personal account to a business account?",
+      "href": null
+    },
+    {
+      "label": "What should I do after opening my business account?",
+      "href": null
+    },
+    {
+      "label": "Do I need an LLC to open a business account?",
+      "href": null
+    },
+    {
+      "label": "Sign Up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?country.x=US&locale.x=en_US&products=business_account"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    },
+    {
+      "label": "Chat Now",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/unifiedonboarding/entry?country.x=US&locale.x=en_US&products=business_account",
+    "https://www.paypal.com/us/business/contact-sales",
+    "https://www.paypal.com/us/business/platforms-and-marketplaces/directory",
+    "https://www.bigcommerce.com/payments/paypal/",
+    "https://woocommerce.com/paypal-checkout/",
+    "https://www.wix.com/payments/payment-gateways-paypal",
+    "https://www.godaddy.com/offers/websites-marketing/paypal",
+    "https://business.adobe.com/products/magento/payment-services.html",
+    "https://www.shift4shop.com/paypal.html",
+    "https://www.miva.com/paypal-commerce-platform?utm_source=paypal&utm_medium=partners",
+    "https://www.opencart.com/index.php?route=marketplace%2Fextension%2Finfo&extension_id=38358&utm_source=paypal&utm_medium=landing_page&utm_campaign=accept_payments_online",
+    "https://www.paypal.com/us/business/accept-payments/invoice",
+    "https://www.paypal.com/myaccount/privacy/privacyhub",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web24/us/business/open-business-account/get-started-hero-v2-media-tablet-up-image1.jpg?quality=75&width=1500&format=webp",
+        "alt": "Woman adjusting candle wicks in numerous mason jars",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web24/us/business/open-business-account/hero-v2-media-2-tablet-up.jpg?quality=75&width=900&format=webp",
+        "alt": "Person working with fabric and a handheld machine in a workshop.",
+        "w": 1440,
+        "h": 809
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web24/us/business/open-business-account/split-stack-tablet.jpg?quality=75&width=1500&format=webp",
+        "alt": "Woman on laptop in a ceramics shop with overlay of an Order volume graph depicting a 12% increase in sales that year so far.",
+        "w": 1440,
+        "h": 600
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/big-commerce-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "BigCommerce logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/woo-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "WooCommerce logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/wix-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "Wix logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/godaddy-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "GoDaddy logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/adobe-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "Adobe logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/shiftshop-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "Shift4Shop logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/miva-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "Miva logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/enterprise/pay-later/partner-logos/opencart-black-logo.png?quality=75&width=600&format=webp",
+        "alt": "opencart logo",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web24/us/business/open-business-account/split-section-enterprise.jpg?quality=75&width=1500&format=webp",
+        "alt": "Man in a green baseball cap with a tablet taking inventory in a warehouse",
+        "w": 1440,
+        "h": 1920
+      }
+    ],
+    "allImgCount": 12,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 18,
+    "mainTextLen": 72212,
+    "realImageCount": 12,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

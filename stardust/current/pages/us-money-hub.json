@@ -1,0 +1,264 @@
+{
+  "slug": "us-money-hub",
+  "url": "https://www.paypal.com/us/money-hub",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:40:41.243Z",
+  "finalUrl": "https://www.paypal.com/us/money-hub",
+  "title": "PayPal Money Hub | PayPal US",
+  "description": "Are you looking to learn about payments? Or maybe you're not sure how to create a budget? Explore our tips and tricks for all things money in our PayPal Money Hub",
+  "og": {
+    "title": "PayPal Money Hub",
+    "description": "Are you looking to learn about payments? Or maybe you're not sure how to create a budget? Explore our tips and tricks for all things money in our PayPal Money Hub",
+    "image": "https://www.paypalobjects.com/webstatic/icon/pp258.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Payments"
+    },
+    {
+      "tag": "h2",
+      "text": "Money Management"
+    },
+    {
+      "tag": "h2",
+      "text": "How-to videos"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Shopping",
+    "Payments",
+    "Money Management",
+    "How-to videos",
+    "From sending money safely across town or across the globe to getting paid to supporting your fave charities, here’s what to know.1",
+    "Managing your finances doesn’t have to be hard. Learn how to budget, do your banking on the go, dip into crypto, and more.2",
+    "Make shopping online and in store simple. Watch these videos to see how."
+  ],
+  "ctas": [
+    {
+      "label": "PayPal Money Hub",
+      "href": "/us/money-hub"
+    },
+    {
+      "label": "Shopping",
+      "href": "/us/money-hub/shopping"
+    },
+    {
+      "label": "Payments",
+      "href": "/us/money-hub/payments"
+    },
+    {
+      "label": "Money Management",
+      "href": "/us/money-hub/money-management"
+    },
+    {
+      "label": "How-to videos",
+      "href": "/us/money-hub/how-to-videos"
+    },
+    {
+      "label": "ShoppingHow to shop with PayPal in AI chats: Step-by-step guide AuthorPayPal Editorial StaffMar 13, 2026Article6 mins read",
+      "href": "/us/money-hub/article/how-paypal-powers-ai-shopping"
+    },
+    {
+      "label": "ShoppingThe AI shopping guide: How to shop smarter, and faster AuthorPayPal Editorial StaffMar 11, 2026Article6 mins read",
+      "href": "/us/money-hub/article/ai-shopping-guide"
+    },
+    {
+      "label": "ShoppingWhat is agentic commerce? A shopper's guide to AI-powered shopping AuthorPayPal Editorial StaffMar 5, 2026Article5 mins read",
+      "href": "/us/money-hub/article/agentic-commerce-explained"
+    },
+    {
+      "label": "View more",
+      "href": "/us/money-hub/shopping"
+    },
+    {
+      "label": "PaymentsAI checkout security: Are AI-powered payments secure in 2026? AuthorPayPal Editorial StaffApr 22, 2026Article4 mins read",
+      "href": "/us/money-hub/article/ai-checkout-security-guide"
+    },
+    {
+      "label": "PaymentsUnderstanding cross-border payments with PayPal World AuthorPayPal Editorial StaffJan 29, 2026Article4 mins read",
+      "href": "/us/money-hub/article/what-are-cross-border-payments"
+    },
+    {
+      "label": "PaymentsHow PayPal World helps consumers shop and pay globally with your wallet AuthorPayPal Editorial StaffJan 29, 2026Article4 mins read",
+      "href": "/us/money-hub/article/how-paypal-world-works-for-global-shopping"
+    },
+    {
+      "label": "View more",
+      "href": "/us/money-hub/payments"
+    },
+    {
+      "label": "Money ManagementHow to identify deepfake videos and fraudulent investment schemes in 2026 AuthorPayPal Editorial StaffJun 11, 2026Article4 mins read",
+      "href": "/us/money-hub/article/how-to-identify-deepfake-videos-and-fraud"
+    },
+    {
+      "label": "Money ManagementWhat are stablecoins and how do they work? AuthorPayPal Editorial StaffApr 22, 2026Article4 mins read",
+      "href": "/us/money-hub/article/what-is-a-stablecoin"
+    },
+    {
+      "label": "Money ManagementHow many savings accounts should I have? A practical guide AuthorPayPal Editorial StaffJan 12, 2026Article3 mins read",
+      "href": "/us/money-hub/article/how-many-savings-accounts-should-i-have"
+    },
+    {
+      "label": "View more",
+      "href": "/us/money-hub/money-management"
+    },
+    {
+      "label": "How-to videosSend & ReceiveHow to send money Play Video",
+      "href": null
+    },
+    {
+      "label": "How-to videosDebitHow to fund your balance to start spending Play Video",
+      "href": null
+    },
+    {
+      "label": "How-to videosCash back MastercardHow to protect your PayPal Cashback Mastercard® Play Video",
+      "href": null
+    },
+    {
+      "label": "View more",
+      "href": "/us/money-hub/how-to-videos"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/us/money-hub",
+    "https://www.paypal.com/us/money-hub/shopping",
+    "https://www.paypal.com/us/money-hub/payments",
+    "https://www.paypal.com/us/money-hub/money-management",
+    "https://www.paypal.com/us/money-hub/how-to-videos",
+    "https://www.paypal.com/us/money-hub/article/how-to-budget-for-vacation",
+    "https://www.paypal.com/us/money-hub/article/back-to-school-on-a-budget",
+    "https://www.paypal.com/us/money-hub/article/how-paypal-powers-ai-shopping",
+    "https://www.paypal.com/us/money-hub/article/ai-shopping-guide",
+    "https://www.paypal.com/us/money-hub/article/agentic-commerce-explained",
+    "https://www.paypal.com/us/money-hub/article/ai-checkout-security-guide",
+    "https://www.paypal.com/us/money-hub/article/what-are-cross-border-payments",
+    "https://www.paypal.com/us/money-hub/article/how-paypal-world-works-for-global-shopping",
+    "https://www.paypal.com/us/money-hub/article/how-to-identify-deepfake-videos-and-fraud",
+    "https://www.paypal.com/us/money-hub/article/what-is-a-stablecoin",
+    "https://www.paypal.com/us/money-hub/article/how-many-savings-accounts-should-i-have",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/MH:%20How%20to%20save%20for%20vacation/how-to-save-for-a-vacation-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A woman walking past a bookstore, looking at her phone",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/money-hub/MoneyHub-Shopping-BackToSchool-Hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A mom helps her young daughter try on a new school backpack",
+        "w": 1440,
+        "h": 1161
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/ai-shopping-hero.png?quality=75&width=900&format=webp",
+        "alt": "OpenAI and PayPal’s text logos on a black background.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/ai-shopping-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "Two people standing on a sidewalk smiling at a smartphone.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/what-is-agentic-commerce-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A person sits outdoors in orange-striped pants and a light magenta jacket while holding a smartphone.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/online-checkout-6.jpeg?quality=75&width=900&format=webp",
+        "alt": "A young woman sitting on the floor, using a smartphone and holding a credit card, in a cozy room with a desk, a chair, and a couch. A large wall art piece is visible in the background.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/what-is-paypal-world-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "International traveler makes a cross-border payment while sitting in a lounge chair with a friend.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/what-is-paypal-world-hero%20(1).jpg?quality=75&width=900&format=webp",
+        "alt": "Person uses PayPal World to tap to pay at a local market.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/01-PAYPAL-2023_CONSUMER-SINGLE_0588.jpg?quality=75&width=900&format=webp",
+        "alt": "Person sitting on a couch using their mobile phone",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://paypalobjects.com/marketing/web23/US/en/Moneyhub/money-management-stablecoins-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A man smiles and swipes on his phone.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/en/Moneyhub/how-many-savings-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A woman reviews her savings accounts and budget.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/money-hub/how-to-videos/updated-image/p2p-category-video-5-image.jpg?quality=75&width=900&format=webp",
+        "alt": "Three women smiling and holding their phones. Send money fast and securely to just about anywhere.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/money-hub/how-to-videos/ppdc_video2.jpg?quality=75&width=900&format=webp",
+        "alt": "Person pulling phone out of bag",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/money-hub/how-to-videos/updated-image/cbms-category-video-5-image.jpg?quality=75&width=900&format=webp",
+        "alt": "Woman seated looking at phone",
+        "w": 1440,
+        "h": 1080
+      }
+    ],
+    "allImgCount": 14,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 4,
+    "mainTextLen": 23486,
+    "realImageCount": 14,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

@@ -11,3 +11,9 @@ helix-importer-ui
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+_crawl.mjs
+_dbg.mjs
+_brand.mjs
+_logo.mjs
+node_modules/

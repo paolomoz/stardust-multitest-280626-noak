@@ -1,0 +1,264 @@
+{
+  "slug": "us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750",
+  "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:43:40.554Z",
+  "finalUrl": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-help667",
+  "title": "How to Receive Money on PayPal | PayPal US",
+  "description": "Receive money on PayPal via email or mobile. Transfer to your bank or keep in balance. Confirm your email to accept payments and access funds securely.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "How do I receive money through PayPal?"
+    },
+    {
+      "tag": "h4",
+      "text": "Was this article helpful?"
+    },
+    {
+      "tag": "h2",
+      "text": "Recommended Articles"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I accept payments with PayPal?"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I confirm I received an item?"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I send money?"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I pay a money request or invoice?"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I create and use PayPal links to send and request money?"
+    },
+    {
+      "tag": "h2",
+      "text": "More ways to get help"
+    },
+    {
+      "tag": "h3",
+      "text": "Browse All Topics"
+    },
+    {
+      "tag": "h3",
+      "text": "Resolution Center"
+    },
+    {
+      "tag": "h3",
+      "text": "Tax center"
+    },
+    {
+      "tag": "h3",
+      "text": "Message Center"
+    },
+    {
+      "tag": "h3",
+      "text": "Technical Help"
+    },
+    {
+      "tag": "h3",
+      "text": "Business Help"
+    },
+    {
+      "tag": "h4",
+      "text": "How are we doing?"
+    },
+    {
+      "tag": "h4",
+      "text": "Take our survey"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Payments and Transfers",
+    "With PayPal, you receive money when someone pays to your email address or mobile number. Once that happens, we’ll send you a message letting you know you have money available.",
+    "You can access the money you receive on your PayPal account home page. You can then choose to:",
+    "Transfer it to your bank account, or",
+    "Keep it in your balance to send money to friends and family or to shop online",
+    "To accept the money, you must open a PayPal account and confirm your email address.",
+    "To add an additional layer of confidence when receiving payment, we now provide the sender of funds the option to share a link directly with the recipient that the recipient can use to access and redeem their money."
+  ],
+  "ctas": [
+    {
+      "label": "Personal",
+      "href": null
+    },
+    {
+      "label": "Business",
+      "href": null
+    },
+    {
+      "label": "What is the third-party partner service?",
+      "href": "https://www.paypal.com/cshelp/article/HELP1010"
+    },
+    {
+      "label": "Transfer it to your bank account",
+      "href": "https://www.paypal.com/cshelp/article/help394"
+    },
+    {
+      "label": "Keep it in your balance",
+      "href": "https://www.paypal.com/cshelp/article/HELP335"
+    },
+    {
+      "label": "open a PayPal account",
+      "href": "https://www.paypal.com/cshelp/article/help315"
+    },
+    {
+      "label": "confirm your email address",
+      "href": "https://www.paypal.com/cshelp/article/help138"
+    },
+    {
+      "label": "How do I accept payments with PayPal?",
+      "href": "/us/cshelp/article/how-do-i-accept-payments-with-paypal-help217"
+    },
+    {
+      "label": "How do I confirm I received an item?",
+      "href": "/us/cshelp/article/how-do-i-confirm-i-received-an-item-help113"
+    },
+    {
+      "label": "How do I send money?",
+      "href": "/us/cshelp/article/how-do-i-send-money-help293"
+    },
+    {
+      "label": "How do I pay a money request or invoice?",
+      "href": "/us/cshelp/article/how-do-i-pay-a-money-request-or-invoice-help316"
+    },
+    {
+      "label": "How do I create and use PayPal links to send and request money?",
+      "href": "/us/cshelp/article/how-do-i-create-and-use-paypal-links-to-send-and-request-money-help1249"
+    },
+    {
+      "label": "Browse All Topics",
+      "href": "/us/cshelp/browse-topics"
+    },
+    {
+      "label": "Resolution Center",
+      "href": "/disputes"
+    },
+    {
+      "label": "Tax center",
+      "href": "/myaccount/statements/tax"
+    },
+    {
+      "label": "Message Center",
+      "href": "/smc/async"
+    },
+    {
+      "label": "Technical Help",
+      "href": "/us/cshelp/technical"
+    },
+    {
+      "label": "Business Help",
+      "href": "/us/cshelp/business"
+    },
+    {
+      "label": "Take our survey",
+      "href": null
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/cshelp/article/HELP1010",
+    "https://www.paypal.com/cshelp/article/help394",
+    "https://www.paypal.com/cshelp/article/HELP335",
+    "https://www.paypal.com/cshelp/article/help315",
+    "https://www.paypal.com/cshelp/article/help138",
+    "https://www.paypal.com/us/cshelp/article/how-do-i-accept-payments-with-paypal-help217",
+    "https://www.paypal.com/us/cshelp/article/how-do-i-confirm-i-received-an-item-help113",
+    "https://www.paypal.com/us/cshelp/article/how-do-i-send-money-help293",
+    "https://www.paypal.com/us/cshelp/article/how-do-i-pay-a-money-request-or-invoice-help316",
+    "https://www.paypal.com/us/cshelp/article/how-do-i-create-and-use-paypal-links-to-send-and-request-money-help1249",
+    "https://www.paypal.com/us/cshelp/browse-topics",
+    "https://www.paypal.com/disputes",
+    "https://www.paypal.com/myaccount/statements/tax",
+    "https://www.paypal.com/smc/async",
+    "https://www.paypal.com/us/cshelp/technical",
+    "https://www.paypal.com/us/cshelp/business",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241211.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 288
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2FRes_29.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 256
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241121.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 256
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F0031.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 256
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F2546.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 256
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241211_bus_help.jpg&w=640&q=75",
+        "alt": "hc-help-option-img",
+        "w": 385,
+        "h": 302
+      }
+    ],
+    "allImgCount": 6,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 18,
+    "mainTextLen": 251980,
+    "realImageCount": 6,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

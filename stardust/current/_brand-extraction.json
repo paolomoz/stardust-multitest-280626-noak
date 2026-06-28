@@ -1,0 +1,52 @@
+{
+  "_provenance": {
+    "source": "https://www.paypal.com/us/home + 7 template archetypes",
+    "renderedBy": "playwright (headed chrome, Akamai bypass)",
+    "fetchedAt": "2026-06-28",
+    "notes": "Palette/type aggregated from home + business + enterprise + digital-wallet + money-hub + security + fees + brc article + cshelp article. PayPal uses <img> assets (no CSS backgrounds), so cssBackgrounds:[] is expected, not a capture failure."
+  },
+  "logo": { "path": "assets/logo.svg", "kind": "inline-svg-wordmark", "viewBox": "0 0 167 56", "note": "PayPal wordmark; fills hardcoded black, recolor to white for navy header" },
+  "favicon": {
+    "icon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp196.png",
+    "appleTouch": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp258.png",
+    "monogram32": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png"
+  },
+  "themeColor": "#012169",
+  "palette": [
+    { "role": "primary", "hex": "#012169", "name": "PayPal Navy", "source": "meta theme-color + headers" },
+    { "role": "action", "hex": "#0070E0", "name": "PayPal Blue", "source": "computed link/cta color rgb(0,112,224)" },
+    { "role": "accent", "hex": "#60CDFF", "name": "Sky", "source": "computed bg rgb(96,205,255)" },
+    { "role": "accent-2", "hex": "#009CDE", "name": "Bright Blue", "source": "brand convention web23" },
+    { "role": "cta-gold", "hex": "#FFC439", "name": "PayPal Gold", "source": "checkout button brand convention" },
+    { "role": "text", "hex": "#2C2E2F", "name": "Ink", "source": "computed text rgb(0,0,0) / body" },
+    { "role": "muted", "hex": "#686A6D", "name": "Gray", "source": "computed rgb(104,106,109)" },
+    { "role": "surface", "hex": "#FFFFFF", "name": "White" },
+    { "role": "surface-alt", "hex": "#F5F7FA", "name": "Mist", "source": "section banding" }
+  ],
+  "type": {
+    "displayFamily": "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+    "bodyFamily": "\"Plain\", \"Helvetica Neue\", Arial, sans-serif",
+    "displayWeight": 900,
+    "scaleAudit": { "kind": "modular", "note": "large display (~64-99px on home hero), strong weight contrast 900 vs 400" },
+    "files": [],
+    "note": "PayPal Pro + Plain are proprietary; migration maps to the brand's own Helvetica Neue/Arial fallback stack with weight 900 display for a faithful, dependency-free, fast-LCP redesign."
+  },
+  "motifs": {
+    "radius": [ { "value": "999px", "use": "pills/buttons/chips" }, { "value": "12px", "use": "cards" }, { "value": "24px", "use": "large cards/media" } ],
+    "shadow": [ "0 2px 8px rgba(0,0,0,0.08)", "0 8px 24px rgba(0,0,0,0.12)" ],
+    "patterns": [ "pill CTA buttons", "layered product cards over photography", "navy hero with sky accents", "two-tone PayPal monogram", "large display headline + short deck" ]
+  },
+  "voice": {
+    "register": "brand",
+    "heroHeadline": "Pay, send, and save smarter",
+    "heroImage": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/brand-moment-hero-tablet-up-v1.jpg?quality=75&width=1500&format=webp",
+    "heroMedium": null,
+    "ctas": [ "Get the PayPal app", "Sign Up", "Learn More", "Send Money", "Browse Offers" ],
+    "sample": "Tap to pay in stores with the PayPal Debit Card and earn rewards online with PayPal checkout."
+  },
+  "systemComponents": {
+    "header": { "topToggles": ["Personal","Business"], "note": "global mega-nav is interaction-gated; primary consumer/business split + Log In / Sign Up" },
+    "footer": { "note": "large multi-column footer (lazy below fold); legal + product + company columns" }
+  },
+  "motion": { "video": [], "canvas": 1, "lottie": 0, "note": "home is image-led with layered cards; a single decorative canvas, no signature background video/Lottie" }
+}

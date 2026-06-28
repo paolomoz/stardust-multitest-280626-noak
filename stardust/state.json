@@ -1,0 +1,94 @@
+{
+  "site": {
+    "originUrl": "https://www.paypal.com/us/home",
+    "extractedAt": "2026-06-28T16:46:57.309Z",
+    "pageCap": 8,
+    "totalDiscovered": 1897,
+    "crawled": 9,
+    "deliveryHost": "https://site-paypal--stardust-multitest-280626-noak--paolomoz.aem.page/paypal/",
+    "daPath": "/paypal/"
+  },
+  "pages": [
+    {
+      "slug": "us-brc-article-10-habits-to-boost-success",
+      "url": "https://www.paypal.com/us/brc/article/10-habits-to-boost-success",
+      "template": "editorial-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-brc-article-10-habits-to-boost-success.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-business-open-business-account",
+      "url": "https://www.paypal.com/us/business/open-business-account",
+      "template": "business-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-business-open-business-account.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750",
+      "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
+      "template": "help-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-digital-wallet",
+      "url": "https://www.paypal.com/us/digital-wallet",
+      "template": "consumer-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-digital-wallet.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-enterprise",
+      "url": "https://www.paypal.com/us/enterprise",
+      "template": "enterprise-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-enterprise.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-home",
+      "url": "https://www.paypal.com/us/home",
+      "template": "home",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-home.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-money-hub",
+      "url": "https://www.paypal.com/us/money-hub",
+      "template": "money-hub",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-money-hub.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-security",
+      "url": "https://www.paypal.com/us/security",
+      "template": "security-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-security.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "us-webapps-mpp-paypal-fees",
+      "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
+      "template": "info-fees",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/us-webapps-mpp-paypal-fees.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ]
+}

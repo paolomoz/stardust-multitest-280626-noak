@@ -1,0 +1,410 @@
+{
+  "slug": "us-webapps-mpp-paypal-fees",
+  "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:41:26.804Z",
+  "finalUrl": "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees",
+  "title": "Fees | PayPal Consumer | PayPal US",
+  "description": "Get detailed information about PayPal's consumer fees. Find PayPal's prices for sending or receiving money, internationally or domestically.",
+  "og": {
+    "title": "Fees | PayPal Consumer | PayPal US",
+    "description": "Get detailed information about PayPal's consumer fees. Find PayPal's prices for sending or receiving money, internationally or domestically.",
+    "image": "https://www.paypalobjects.com/webstatic/icon/pp258.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Receiving personal transactions"
+    },
+    {
+      "tag": "h3",
+      "text": "Fixed fee for personal transactions (based on currency received)"
+    },
+    {
+      "tag": "h2",
+      "text": "PayPal Balance"
+    },
+    {
+      "tag": "h2",
+      "text": "Currency Conversions"
+    },
+    {
+      "tag": "h3",
+      "text": "Converting payments in another currency"
+    },
+    {
+      "tag": "h2",
+      "text": "Withdrawals Out of PayPal"
+    },
+    {
+      "tag": "h3",
+      "text": "Withdrawing from a PayPal personal account"
+    },
+    {
+      "tag": "h3",
+      "text": "Withdrawal Limits – Instant Transfer for Bank"
+    },
+    {
+      "tag": "h3",
+      "text": "Withdrawal Limits – Standard and Instant Transfers for Cards"
+    },
+    {
+      "tag": "h3",
+      "text": "Minimum and Maximum fees – Instant Transfer"
+    },
+    {
+      "tag": "h2",
+      "text": "Other Consumer Fees"
+    },
+    {
+      "tag": "h3",
+      "text": "Other Fees"
+    },
+    {
+      "tag": "h3",
+      "text": "Credit Card and Debit Card Link and Confirmation Table"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Consumer",
+    "Merchant",
+    "Braintree",
+    "Download printable PDF",
+    "A minimum international fee of 0.99 USD",
+    "A maximum international fee of 4.99 USD",
+    "Amex Send™ Account",
+    "5.00%",
+    "A minimum international fee of 0.99 USD",
+    "A maximum international fee of 4.99 USD",
+    "Rate",
+    "No fee (when no currency conversion is involved)",
+    "Currency",
+    "Fee",
+    "Australian dollar",
+    "0.30 AUD",
+    "Brazilian real",
+    "0.60 BRL",
+    "Canadian dollar",
+    "0.30 CAD",
+    "Czech koruna",
+    "10.00 CZK",
+    "Danish krone",
+    "2.60 DKK",
+    "Euro",
+    "0.35 EUR",
+    "Hong Kong dollar",
+    "2.35 HKD",
+    "Hungarian forint",
+    "90.00 HUF",
+    "Israeli new shekel",
+    "1.20 ILS",
+    "Japanese yen",
+    "40.00 JPY",
+    "Malaysian ringgit",
+    "2.00 MYR",
+    "Mexican peso",
+    "4.00 MXN",
+    "Currency",
+    "Fee",
+    "New Taiwan dollar",
+    "10.00 TWD",
+    "New Zealand dollar",
+    "0.45 NZD",
+    "Norwegian krone",
+    "2.80 NOK",
+    "Philippine peso",
+    "15.00 PHP",
+    "Polish zloty",
+    "1.35 PLN",
+    "Russian ruble",
+    "10.00 RUB",
+    "Singapore dollar",
+    "0.50 SGD",
+    "Swedish krona",
+    "3.25 SEK",
+    "Swiss franc",
+    "0.55 CHF",
+    "Thai baht",
+    "11.00 THB",
+    "UK pounds sterling",
+    "0.20 GBP",
+    "US dollar",
+    "0.30 USD",
+    "PayPal offers a balance holding account commonly referred to as PayPal Balance.",
+    "For more information and a complete listing of fees associated, please refer to the PayPal Balance Terms and Conditions.",
+    "For any of the following types of transactions involving a currency conversion by PayPal, the transaction exchange rate will also include a currency conversion spread.",
+    "Type of Transaction",
+    "Currency Conversion Spread",
+    "Paying for goods or services in a currency other than the currency the goods or services are listed in.",
+    "Sending money to a friend or family member such that they receive a different currency from the currency in which you pay.",
+    "Sending money using PayPal Payouts such that your recipients receive a different currency from the currency in which you pay.",
+    "4.00%, or such other amount as may be disclosed to you during the transaction.",
+    "All other transactions",
+    "3.00%, or such other amount as may be disclosed to you during the transaction.",
+    "You can typically withdraw money out of PayPal by standard withdrawals/transfers to your linked bank account or eligible cards. A currency conversion (and currency conversion fees) may also apply.",
+    "Withdrawal/Transfer to",
+    "Withdrawal/Transfer Type",
+    "Rate",
+    "Bank account",
+    "Standard",
+    "With eligible linked bank account",
+    "No Fee (when no currency conversion is involved)",
+    "Instant",
+    "Withdrawal limits apply",
+    "1.75% of amount transferred",
+    "Minimum and Maximum fees apply based on the card withdrawal currency, in the table below",
+    "Cards",
+    "Standard",
+    "With eligible linked debit card",
+    "Withdrawal limits apply",
+    "No Fee (when no currency conversion is involved)",
+    "Instant",
+    "With eligible linked debit card",
+    "Withdrawal limits apply",
+    "1.75% of amount transferred",
+    "Minimum and Maximum fees apply based on the card withdrawal currency, in the table below",
+    "Checks",
+    "Have a paper check mailed to you",
+    "1.50 USD (Fee only applies to PayPal personal accounts without a linked PayPal Balance account)",
+    "Frequency",
+    "Maximum (up to)",
+    "Per transaction",
+    "25,000.00 USD",
+    "Frequency",
+    "Maximum (up to)",
+    "Per transaction",
+    "5000.00 USD",
+    "Per day",
+    "5000.00 USD",
+    "Per week",
+    "5000.00 USD",
+    "Per month",
+    "15,000.00 USD",
+    "Based on withdrawal currency:",
+    "Currency",
+    "Minimum Fee",
+    "Maximum Fee",
+    "US dollar",
+    "0.25 USD",
+    "25.00 USD",
+    "Included below are fees associated with events, requests, or actions that may happen when you use your account.",
+    "Activity",
+    "Description",
+    "Rate",
+    "Bank Return on Withdrawal/Transfer out of PayPal",
+    "This fee is charged when a withdrawal/transfer out of PayPal is attempted by a user and it fails because incorrect bank account information or delivery information is provided.",
+    "No Fee",
+    "Credit Card and Debit Card Confirmation(s)",
+    "Some users, in order to increase their sending limit or as PayPal may determine, may be charged a credit card and debit card link and confirmation fee. This amount will be refunded when you successfully complete the credit card or debit card verification process.",
+    "See Credit Card and Debit Card Link and Confirmation Table below.",
+    "PayPal Business Debit MasterCard",
+    "Use of the PayPal Business Debit MasterCard is subject to eligibility, application, approval by PayPal and your acceptance of the terms.",
+    "PayPal Debit MasterCard",
+    "Use of the PayPal Debit MasterCard is subject to eligibility, application, approval by PayPal and your acceptance of the terms.",
+    "Please see our PayPal Debit MasterCard Cardholder Agreement",
+    "Currency",
+    "Rate",
+    "Australian dollar",
+    "2.00 AUD",
+    "Brazilian real",
+    "4.00 BRL",
+    "Canadian dollar",
+    "2.45 CAD",
+    "Czech koruna",
+    "50.00 CZK",
+    "Danish krone",
+    "12.50 DKK",
+    "Euro",
+    "1.50 EUR",
+    "Hong Kong dollar",
+    "15.00 HKD",
+    "Hungarian forint",
+    "400.00 HUF",
+    "Israeli new shekel",
+    "8.00 ILS",
+    "Japanese yen",
+    "200.00 JPY",
+    "Malaysian ringgit",
+    "Not Applicable",
+    "Mexican peso",
+    "20.00 MXN",
+    "Currency",
+    "Rate",
+    "New Taiwan dollar",
+    "70.00 TWD",
+    "New Zealand dollar",
+    "3.00 NZD",
+    "Norwegian krone",
+    "15.00 NOK",
+    "Philippine peso",
+    "100.00 PHP",
+    "Polish zloty",
+    "6.50 PLN",
+    "Russian ruble",
+    "60.00 RUB",
+    "Singapore dollar",
+    "3.00 SGD",
+    "Swedish krona",
+    "15.00 SEK",
+    "Swiss franc",
+    "3.00 CHF",
+    "Thai baht",
+    "70.00 THB",
+    "UK pounds sterling",
+    "1.00 GBP",
+    "US dollar",
+    "1.95 USD"
+  ],
+  "ctas": [
+    {
+      "label": "Consumer",
+      "href": "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees"
+    },
+    {
+      "label": "Merchant",
+      "href": "https://www.paypal.com/us/business/paypal-business-fees"
+    },
+    {
+      "label": "Braintree",
+      "href": "https://www.paypal.com/us/enterprise/paypal-braintree-fees"
+    },
+    {
+      "label": "Download printable PDF",
+      "href": "https://www.paypalobjects.com/marketing/ua/pdf/US/US-paypal-fees-19-may-2026.pdf"
+    },
+    {
+      "label": "Conversions in all other cases",
+      "href": "#statement-currency"
+    },
+    {
+      "label": "currency conversion",
+      "href": "#statement-currency"
+    },
+    {
+      "label": "PayPal Balance Terms and Conditions",
+      "href": "https://www.paypal.com/legalhub/cashagreement-full"
+    },
+    {
+      "label": "currency conversion",
+      "href": "https://www.paypal.com/legalhub/useragreement-full#currency-conversion"
+    },
+    {
+      "label": "currency conversion fees",
+      "href": "#statement-currency"
+    },
+    {
+      "label": "PayPal Merchant Fees Page",
+      "href": "https://www.paypal.com/us/business/paypal-business-fees"
+    },
+    {
+      "label": "currency conversion",
+      "href": "#statement-currency"
+    },
+    {
+      "label": "Withdrawal limits apply",
+      "href": "#limit-bank"
+    },
+    {
+      "label": "Minimum and Maximum fees apply based on the card withdrawal currency, in the table below",
+      "href": "#minimum-maximum"
+    },
+    {
+      "label": "Withdrawal limits apply",
+      "href": "#limit-card"
+    },
+    {
+      "label": "currency conversion",
+      "href": "#statement-currency"
+    },
+    {
+      "label": "Withdrawal limits apply",
+      "href": "#limit-card"
+    },
+    {
+      "label": "Minimum and Maximum fees apply based on the card withdrawal currency, in the table below",
+      "href": "#minimum-maximum"
+    },
+    {
+      "label": "Credit Card and Debit Card Link and Confirmation Table below",
+      "href": "#credit-card"
+    },
+    {
+      "label": "PayPal Debit MasterCard Cardholder Agreement",
+      "href": "https://www.paypal.com/us/webapps/mpp/ua/cashcard-agreement?locale.x=en_US"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypalobjects.com/marketing/web/shared/clac/en/paypal-fees/Ukraine-paypal-fees-personal-accounts.pdf",
+    "https://www.paypal.com/ua/cshelp/article/expansion-of-services-%7C-paypal-ukraine-help1003",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees",
+    "https://www.paypal.com/us/business/paypal-business-fees",
+    "https://www.paypal.com/us/enterprise/paypal-braintree-fees",
+    "https://www.paypalobjects.com/marketing/ua/pdf/US/US-paypal-fees-19-may-2026.pdf",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#relevant",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#BuyWithPaypal",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#SellingWithPaypal",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#cryptocurrencies",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#ReceivingDonations",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#SendAndReceiveMoney",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#cashplus",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#statement-currency",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#TransfersOutOfPayPal",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#OtherConsumerFees",
+    "https://www.paypal.com/us/legalhub/upcoming-policies-full",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#popover-modal-groupings",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#popover-modal-code-table",
+    "https://www.paypal.com/us/legalhub/useragreement-full",
+    "https://www.paypal.com/us/legalhub/cryptocurrencies-tnc?locale.x=en_US#cryptocurrencies-tnc-info-fees",
+    "https://www.paypal.com/us/legalhub/paypal/cryptocurrencies-tnc#fees-pricing",
+    "https://www.paypal.com/legalhub/useragreement-full",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#FixedfeeDonations",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#InternationaDonations",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#personal-fixed-fee",
+    "https://www.paypal.com/legalhub/cashagreement-full",
+    "https://www.paypal.com/legalhub/useragreement-full#currency-conversion",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#limit-bank",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#minimum-maximum",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#limit-card",
+    "https://www.paypal.com/us/digital-wallet/paypal-consumer-fees#credit-card",
+    "https://www.paypal.com/us/webapps/mpp/ua/debitcard-full?locale.x=en_US",
+    "https://www.paypal.com/us/webapps/mpp/ua/cashcard-agreement?locale.x=en_US",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [],
+    "allImgCount": 0,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 14,
+    "mainTextLen": 316689,
+    "realImageCount": 0,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

@@ -1,0 +1,318 @@
+{
+  "slug": "us-enterprise",
+  "url": "https://www.paypal.com/us/enterprise",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:39:56.213Z",
+  "finalUrl": "https://www.paypal.com/us/business/enterprise",
+  "title": "Enterprise Payments | PayPal for Enterprises | PayPal US",
+  "description": "Leverage PayPal's enterprise payment solution to cover any payment needs a large business may have, including payment optimization, processing, and payouts.",
+  "og": {
+    "title": "Enterprise Payments | PayPal for Enterprises | PayPal US",
+    "description": "Leverage PayPal's enterprise payment solution to cover any payment needs a large business may have, including payment optimization, processing, and payouts.",
+    "image": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-meta-size-all.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Protect against fraud. Reduce chargebacks."
+    },
+    {
+      "tag": "h3",
+      "text": "Flexible options"
+    },
+    {
+      "tag": "h3",
+      "text": "Drive conversion with optimized payments"
+    },
+    {
+      "tag": "h2",
+      "text": "Real stories. Real wins."
+    },
+    {
+      "tag": "h2",
+      "text": "Custom pricing available"
+    },
+    {
+      "tag": "h2",
+      "text": "Explore more resources for enterprises"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "text": "Do you support multi-processor use cases?"
+    },
+    {
+      "tag": "h3",
+      "text": "I already have your checkout solutions. What's the benefit of using your payment processing and additional services?"
+    },
+    {
+      "tag": "h3",
+      "text": "How can you help me reduce my payments processing-related costs?"
+    },
+    {
+      "tag": "h3",
+      "text": "How can you help me improve my authorization rates?"
+    },
+    {
+      "tag": "h3",
+      "text": "How can you protect my business from fraud?"
+    },
+    {
+      "tag": "h2",
+      "text": "Solutions for specific needs"
+    },
+    {
+      "tag": "h3",
+      "text": "Developer"
+    },
+    {
+      "tag": "h3",
+      "text": "Platforms"
+    },
+    {
+      "tag": "h3",
+      "text": "Small business"
+    },
+    {
+      "tag": "h3",
+      "text": "Do more with"
+    },
+    {
+      "tag": "h3",
+      "text": "PayPal Open"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Take control of risk analysis with Fraud Protection Advanced.5 Or let us manage fraud for you with Chargeback Protection on eligible purchases.6 And add Dispute Automation to save time fighting disputes.",
+    "Fraud Protection",
+    "Fraud Protection",
+    "Chargeback Protection",
+    "Chargeback Protection",
+    "Dispute Automation",
+    "Dispute Automation",
+    "Approve more orders with tools designed to increase conversion, minimize costs, and reduce latency.",
+    "You’re in good company. We’ve been helping businesses scale for two decades.",
+    "“As long as we continue to see a positive ROI, we will continue to run the Pay Monthly 0% APR offering.”",
+    "— Bill Kiss, Head of Digital, Ace Hardware",
+    "“Innovation has been a really core tenant of our relationship between PayPal and Ticketmaster.”",
+    "— Pranay Reddy, VP eCommerce Business and Development, Ticketmaster",
+    "We’ll find the appropriate rate structure for your business based on your sales volume, average transaction size, and other payment metrics.",
+    "Yes. If you already have a payments processor, you don't need to switch your current processing provider(s). You can add PayPal as a processor for all or part of your processing volume.",
+    "Start using our AI-based Agent Toolkit. Access APIs. And join our developer community.",
+    "Monetize. Mitigate risk. Add hosted or embedded payments and financing.",
+    "Expand your potential. We’ll help you grow your sales and streamline your operations.",
+    "The platform designed to power commerce."
+  ],
+  "ctas": [
+    {
+      "label": "Explore Fraud Protection Solutions",
+      "href": "https://www.paypal.com/us/business/risk-management"
+    },
+    {
+      "label": "Fraud Protection",
+      "href": "https://www.paypal.com/us/business/risk-management#fraud-protection-advanced"
+    },
+    {
+      "label": "Chargeback Protection",
+      "href": "https://www.paypal.com/us/business/risk-management#chargeback-protection"
+    },
+    {
+      "label": "Dispute Automation",
+      "href": "https://www.paypal.com/us/business/risk-management#dispute-management"
+    },
+    {
+      "label": "Explore Payment Optimization",
+      "href": "https://www.paypal.com/us/business/payment-processing/auth-rate-optimization"
+    },
+    {
+      "label": "Read Case Study",
+      "href": "https://www.paypal.com/us/brc/case-study/ace-hardware-drives-ecommerce-growth-with-paypal-pay-monthly"
+    },
+    {
+      "label": "Play video",
+      "href": null
+    },
+    {
+      "label": "Read Case Study",
+      "href": "https://www.paypal.com/us/brc/case-study/ticketmaster-testimonial-videos"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "EnterpriseCase StudiesAdorama and PayPal’s solutions create a picture-perfect portrait of success AuthorPayPal Editorial StaffMay 09Article1 min read",
+      "href": "https://www.paypal.com/us/brc/case-study/adorama-video-case-study"
+    },
+    {
+      "label": "EnterpriseCase StudiesRevolutionizing Autonomous Checkout with AiFi and PayPal’s In-Person Payments solution AuthorPayPal Editorial StaffJune 26Article3 min read",
+      "href": "https://www.paypal.com/us/brc/case-study/revolutionizing-autonomous-checkout-with-aifi-and-paypal-in-person-payment-solution"
+    },
+    {
+      "label": "Do you support multi-processor use cases?",
+      "href": null
+    },
+    {
+      "label": "I already have your checkout solutions. What's the benefit of using your payment processing and additional services?",
+      "href": null
+    },
+    {
+      "label": "How can you help me reduce my payments processing-related costs?",
+      "href": null
+    },
+    {
+      "label": "How can you help me improve my authorization rates?",
+      "href": null
+    },
+    {
+      "label": "How can you protect my business from fraud?",
+      "href": null
+    },
+    {
+      "label": "Developer resources",
+      "href": "https://developer.paypal.com/home/"
+    },
+    {
+      "label": "Platform solutions",
+      "href": "https://www.paypal.com/us/business/platform-payment-solution"
+    },
+    {
+      "label": "Small business solutions",
+      "href": "https://www.paypal.com/us/business/small-business"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "See terms",
+      "href": "https://www.paypal.com/us/legalhub/paypal/pocpsa-full?country.x=US&locale.x=en_US"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/us/business/contact-sales",
+    "tel:18557871009",
+    "https://www.paypal.com/us/business/payment-processing",
+    "https://www.paypal.com/us/business/accept-payments/paypal-payments",
+    "https://www.paypal.com/us/business/accept-payments/installment-payments",
+    "https://www.paypal.com/us/business/accept-payments/accept-venmo",
+    "https://www.paypal.com/us/business/accept-payments/guest-checkout",
+    "https://www.paypal.com/us/business/accept-payments/checkout#expanded-checkout",
+    "https://www.paypal.ai/agent-ready",
+    "https://www.paypal.ai/store-sync",
+    "https://www.paypal.com/us/business/ai",
+    "https://www.paypal.com/us/business/payment-processing/payment-orchestration",
+    "https://www.paypal.com/us/business/make-payments/enterprise-payouts",
+    "https://www.paypal.com/us/business/risk-management",
+    "https://www.paypal.com/us/business/risk-management#fraud-protection-advanced",
+    "https://www.paypal.com/us/business/risk-management#chargeback-protection",
+    "https://www.paypal.com/us/business/risk-management#dispute-management",
+    "https://www.paypal.com/us/business/payment-processing/auth-rate-optimization",
+    "https://www.paypal.com/us/brc/case-study/ace-hardware-drives-ecommerce-growth-with-paypal-pay-monthly",
+    "https://www.paypal.com/us/brc/case-study/ticketmaster-video-case-study",
+    "https://www.paypal.com/us/brc/case-study/ticketmaster-testimonial-videos",
+    "https://www.paypal.com/us/brc/case-study/adorama-video-case-study",
+    "https://www.paypal.com/us/brc/case-study/revolutionizing-autonomous-checkout-with-aifi-and-paypal-in-person-payment-solution",
+    "https://www.paypal.com/us/business/operations/dispute-management",
+    "https://developer.paypal.com/home/",
+    "https://www.paypal.com/us/business/platform-payment-solution",
+    "https://www.paypal.com/us/business/small-business",
+    "https://www.paypal.com/us/legalhub/paypal/pocpsa-full?country.x=US&locale.x=en_US",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-hero-size-tablet-up-v1.png?quality=75&width=1500&format=webp",
+        "alt": "Image representation of industries PayPal supports, such as travel, entertainment, media & gaming, and marketplaces",
+        "w": 1440,
+        "h": 600
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web26/us/enterprise/mkt-us-page-enterprise-audience-component-split-section-2-size-all.jpg?quality=75&width=1500&format=webp",
+        "alt": " Phone screen showing PayPal, Pay Later, Venmo, and Debit or Credit Card buttons at checkout",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-card-wrapped-content-1-size-all.jpg?quality=75&width=1200&format=webp",
+        "alt": "Person holding a business credit card with overlay of the orchestration flow from the PayPal Vault to Connected eCommerce, Global Expansion, and multi PSP",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-card-wrapped-content-2-size-all.jpg?quality=75&width=1200&format=webp",
+        "alt": "Person typing on laptop with overlay reading “Currencies 50+” with US, Mexican, and British flags",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-media-carousel-section-1-size-tablet-up.jpg?quality=75&width=900&format=webp",
+        "alt": "A photo of an Ace Hardware store associate wearing a company shirt",
+        "w": 1440,
+        "h": 809
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web26/us/enterprise/mkt-us-page-enterprise-audience-component-media-carousel-section-ticketmaster-size-tablet-up.jpg?quality=75&width=900&format=webp",
+        "alt": "Phone screen showing the purchase of a concert ticket with PayPal checkout",
+        "w": 1440,
+        "h": 809
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/logo-ticketmaster.png?quality=75&width=900&format=webp",
+        "alt": "Ticketmaster Logo",
+        "w": 640,
+        "h": 320
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-article-carousel-1-size-mobile-up.jpg?quality=75&width=900&format=webp",
+        "alt": "Brunette woman holds a digital camera over one eye",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/quantum-leap/ent/business-enterprise/component-article-carousel-2-size-mobile-up.jpg?quality=75&width=900&format=webp",
+        "alt": "A grocery store turnstile with a sign reading “Swipe or tap to enter”",
+        "w": 1440,
+        "h": 1080
+      }
+    ],
+    "allImgCount": 10,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 19,
+    "mainTextLen": 120933,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

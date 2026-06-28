@@ -1,0 +1,141 @@
+{
+  "slug": "us-security",
+  "url": "https://www.paypal.com/us/security",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:42:11.243Z",
+  "finalUrl": "https://www.paypal.com/us/security",
+  "title": "PayPal Security Center | Report Fraud & Get Help | PayPal US",
+  "description": "Protecting you against fraud is our priority. Learn how to report fraud and better protect your accounts in the PayPal Security Center.",
+  "og": {
+    "title": "PayPal Security Center | Report Fraud & Get Help | PayPal US",
+    "description": "Protecting you against fraud is our priority. Learn how to report fraud and better protect your accounts in the PayPal Security Center.",
+    "image": "https://www.paypalobjects.com/webstatic/icon/pp258.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Your security is our priority"
+    },
+    {
+      "tag": "h2",
+      "text": "Experiencing a security issue right now?"
+    },
+    {
+      "tag": "h2",
+      "text": "Fraud and unusual account activity"
+    },
+    {
+      "tag": "h2",
+      "text": "Suspicious email or text message"
+    },
+    {
+      "tag": "h2",
+      "text": "Take steps to protect"
+    },
+    {
+      "tag": "h2",
+      "text": "Learn more about security"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Protection Tips",
+    "Discover and Learn",
+    "We’re here to help you take action to get things sorted out.",
+    "Need help with a security issue? Contact us",
+    "Follow these best practices to help prevent unauthorized access to your account and devices.",
+    "Stay up-to-date on fraud trends to better protect yourself and explore how PayPal secures your info."
+  ],
+  "ctas": [
+    {
+      "label": "Security Center",
+      "href": "https://www.paypal.com/us/security"
+    },
+    {
+      "label": "Protection Tips",
+      "href": "https://www.paypal.com/us/security/protect-personal-info"
+    },
+    {
+      "label": "Discover and Learn",
+      "href": "https://www.paypal.com/us/security/learn"
+    },
+    {
+      "label": "Report fraud",
+      "href": "https://www.paypal.com/us/security/report-fraud"
+    },
+    {
+      "label": "Report suspicious messages",
+      "href": "https://www.paypal.com/us/security/report-suspicious-messages"
+    },
+    {
+      "label": "Contact us",
+      "href": "https://www.paypal.com/us/smarthelp/contact-us"
+    },
+    {
+      "label": "Get protection tips",
+      "href": "https://www.paypal.com/us/security/protect-personal-info"
+    },
+    {
+      "label": "Learn about your security",
+      "href": "https://www.paypal.com/us/security/learn"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/us/security",
+    "https://www.paypal.com/us/security/protect-personal-info",
+    "https://www.paypal.com/us/security/learn",
+    "https://www.paypal.com/us/security/report-fraud",
+    "https://www.paypal.com/us/security/report-suspicious-messages",
+    "https://www.paypal.com/us/smarthelp/contact-us",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/en/rebrand/Security-Center/security/security-fraud.png?quality=75&width=1500&format=webp",
+        "alt": "Orange rectangle with text reading 'Security alert', icon of a blue shield with a white keyhole in its center",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/en/rebrand/Security-Center/security/security-suspicious-mail.png?quality=75&width=1200&format=webp",
+        "alt": "2 white text bubbles, 1 features a red circle with a white exclamation mark, 1 features text reading FWD:phishing@paypal.com",
+        "w": 1440,
+        "h": 1080
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 7,
+    "mainTextLen": 37469,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}
