@@ -1,7 +1,7 @@
 {
   "_provenance": {
-    "writtenBy": "stardust:extract",
-    "writtenAt": "2026-06-28T16:36:39.971Z",
+    "writtenBy": "stardust:direct",
+    "writtenAt": "2026-06-28T16:38:46.135Z",
     "stardustVersion": "0.13.1"
   },
   "site": {
@@ -12,7 +12,13 @@
     "totalDiscovered": 400,
     "crawled": 10
   },
-  "direction": null,
+  "direction": {
+    "resolvedAt": "2026-06-28T16:38:46.135Z",
+    "phrase": "faithful redesign, modernized — keep Xfinity brand DNA",
+    "directionFile": "stardust/direction.md",
+    "iaFidelity": "verbatim-leaning",
+    "mode": "brand-faithful"
+  },
   "pages": [
     {
       "slug": "accessibility",
@@ -20,11 +26,15 @@
       "title": "Xfinity Accessibility and Inclusive Design",
       "type": "static",
       "template": "static-legal",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -39,11 +49,15 @@
       "title": "Xfinity App",
       "type": "static",
       "template": "utility",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -58,11 +72,15 @@
       "title": "Pay My Xfinity Bill Online - Comcast Bill Pay",
       "type": "form",
       "template": "utility",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -77,11 +95,15 @@
       "title": "Xfinity vs. Verizon: Compare Internet and Mobile",
       "type": "listing",
       "template": "comparison",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -96,11 +118,15 @@
       "title": "Discover Internet & WiFi Technology | Xfinity",
       "type": "article",
       "template": "hub-article",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -115,11 +141,15 @@
       "title": "Xfinity - Internet, WiFi, Mobile, TV and Streaming",
       "type": "landing",
       "template": "home",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -134,11 +164,15 @@
       "title": "Max on XFINITY | On Demand",
       "type": "article",
       "template": "product-detail",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -153,11 +187,15 @@
       "title": "Xfinity Internet - Home Internet Service",
       "type": "landing",
       "template": "product-landing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -172,11 +210,15 @@
       "title": "Xfinity Stores by State",
       "type": "landing",
       "template": "local-landing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,
@@ -191,11 +233,15 @@
       "title": "Xfinity Mobile",
       "type": "landing",
       "template": "product-landing",
-      "status": "extracted",
+      "status": "directed",
       "history": [
         {
           "status": "extracted",
           "at": "2026-06-28T16:36:39.971Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-06-28T16:38:46.135Z"
         }
       ],
       "stale": false,

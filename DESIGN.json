@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f6f6f9",
+    "text": "#141417",
+    "primary": "#5a23b9",
+    "secondary": "#6138f5",
+    "accent": "#bda7e3",
+    "muted": "#5a5a63",
+    "onPrimary": "#ffffff"
+  },
+  "typography": {
+    "heading": "'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "body": "'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "baseSize": "16px",
+    "scaleRatio": 1.25
+  },
+  "rounded": "16px",
+  "spacing": { "base": "8px", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "components": ["button-primary", "button-secondary", "card", "input", "badge", "link"],
+  "extensions": {
+    "colorMeta": { "themeColor": "#5a23b9", "ground": "stark-white", "note": "brand purple as theme accent" },
+    "typographyMeta": { "displayFace": "XSans (proprietary, substituted by DM Sans 800)", "bodyFace": "DM Sans", "webfont": "DM Sans via Google Fonts" },
+    "shadows": ["0 4px 8px -4px rgba(140,140,140,0.5)", "0 0 18px 0 rgba(0,0,0,0.18)"],
+    "motion": {
+      "register": "kinetic-grid",
+      "registerRationale": "PRODUCT.md Brand Personality = product/modular-catalogue commerce; source heroes static",
+      "easings": { "entrance": "cubic-bezier(0.16,1,0.3,1)", "transition": "cubic-bezier(0.4,0,0.2,1)" },
+      "durations": { "enter": 500, "stagger": 80 }
+    },
+    "divergence": {
+      "mode": "brand-faithful (Mode A)",
+      "signal": "signal-strong",
+      "seed": { "decade": "2025-now", "ground_family": { "value": "stark-white", "override": "brand-faithful" } },
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "brand_faithful_inversions": [
+        { "trait": "near-black text #141417 retained (not pure black)", "basis": "captured dominant text color" },
+        { "trait": "purple #5a23b9 promoted from sparse accent to signature CTA/eyebrow color", "basis": "improvements #3" }
+      ]
+    },
+    "componentStyle": {
+      "buttons": { "primary": { "bg": "#5a23b9", "text": "#ffffff", "radius": "999px" }, "secondary": { "border": "1.5px solid #141417", "text": "#141417", "radius": "999px" } },
+      "cards": { "bg": "#ffffff", "radius": "16px", "shadow": "0 4px 8px -4px rgba(140,140,140,0.5)" },
+      "inputs": { "bg": "#f6f6f9", "radius": "8px" }
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "brand logo + primary pillar nav + sign-in/bill utility", "position": "sticky-top" },
+      "footer": { "purpose": "shop/account/company/resources link columns + legal", "position": "page-end" },
+      "cta-band": { "purpose": "full-width purple conversion band", "position": "pre-footer" }
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "pages/index.json ctas include 'Shop internet','Build your plan'", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "audience-routing", "evidence": "primary nav Internet/Mobile/TV/Home Security", "preserveAs": "header + pillar-row", "scope": "site-wide", "mutability": "movable" }
+    ],
+    "voice": {
+      "register": "brand",
+      "examples": {
+        "do": ["Lead with the benefit and the price", "Concrete, confident, friendly"],
+        "dont": ["Render fine-print as headings", "Invent offers or prices"]
+      }
+    }
+  },
+  "narrative": {
+    "northStar": "The easiest way to get connected — modern, friendly, unmistakably Xfinity.",
+    "overview": "A faithful, modernized refresh of Xfinity's consumer marketing surface.",
+    "keyCharacteristics": ["benefit-led offer cards", "purple-accented near-black/white system", "rounded friendly geometry", "scannable modular grids"],
+    "rules": ["One H1 per page", "Fine-print is caption text, never a heading", "Purple reserved for accents/CTAs", "Reuse captured imagery at same semantic position"],
+    "dos": ["Use real captured copy and imagery", "State value + price"],
+    "donts": ["Fabricate offers", "Use pure-black floods", "Logo-as-editorial"]
+  }
+}
