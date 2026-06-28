@@ -1,0 +1,224 @@
+<!doctype html>
+<!-- _provenance: renderedBy: stardust:prototype -> impeccable:craft (sibling of us-home); contentSource captured-verbatim; surprise: low -->
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fees | PayPal Consumer | PayPal US</title><meta name="description" content="Get detailed information about PayPal's consumer fees for sending or receiving money, internationally or domestically."><meta name="theme-color" content="#012169">
+<link rel="icon" href="https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png">
+<style>
+:root{
+  --navy:#012169; --navy-deep:#001C64; --blue:#0070E0; --blue-bright:#009CDE;
+  --sky:#60CDFF; --gold:#FFC439; --ink:#2C2E2F; --muted:#686A6D;
+  --surface:#FFFFFF; --surface-alt:#F5F7FA;
+  --display:"PayPal Pro","Helvetica Neue",Arial,sans-serif;
+  --body:"Plain","Helvetica Neue",Arial,sans-serif;
+  --pill:999px; --r-card:16px; --r-media:24px;
+  --pad-d:64px; --pad-t:48px; --pad-m:32px;
+  --maxw:1200px;
+  --shadow-1:0 2px 8px rgba(1,33,105,.08);
+  --shadow-2:0 8px 24px rgba(1,33,105,.10);
+  --z-header:100;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;hanging-punctuation:first}
+body{font-family:var(--body);color:var(--ink);background:var(--surface);line-height:1.5;-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+a{color:var(--blue-bright);text-decoration:none}
+h1,h2,h3{font-family:var(--display);font-weight:800;color:var(--navy);line-height:1.05;letter-spacing:-.02em;text-wrap:balance}
+h1{font-size:clamp(2.6rem,6vw,5rem)}
+h2{font-size:clamp(2rem,4vw,3.2rem)}
+h3{font-size:clamp(1.25rem,2vw,1.6rem)}
+p{text-wrap:pretty;max-width:65ch}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:24px}
+section{padding-block:var(--pad-d)}
+.eyebrow{font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;color:var(--blue)}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--display);font-weight:700;font-size:1rem;border-radius:var(--pill);padding:.85rem 1.7rem;cursor:pointer;border:2px solid transparent;transition:transform .18s cubic-bezier(.22,1,.36,1),background .18s,color .18s,box-shadow .18s}
+.btn-primary{background:var(--blue);color:#fff}
+.btn-primary:hover{background:#005bbf;transform:translateY(-2px);box-shadow:var(--shadow-2)}
+.btn-secondary{background:transparent;color:var(--navy);border-color:var(--navy)}
+.btn-secondary:hover{background:var(--navy);color:#fff;transform:translateY(-2px)}
+.btn-on-navy{background:#fff;color:var(--navy)}
+.btn-on-navy:hover{background:var(--sky);transform:translateY(-2px)}
+.textlink{font-family:var(--display);font-weight:700;color:var(--blue);display:inline-flex;align-items:center;gap:.35rem}
+.textlink::after{content:"\2192";transition:transform .18s}
+.textlink:hover::after{transform:translateX(4px)}
+
+/* header */
+header{position:sticky;top:0;z-index:var(--z-header);background:var(--navy);color:#fff}
+.nav{display:flex;align-items:center;gap:1.5rem;height:72px}
+.logo{height:26px;width:auto;filter:brightness(0) invert(1)}
+.audience{display:flex;gap:.25rem;margin-left:.5rem;background:rgba(255,255,255,.10);border-radius:var(--pill);padding:.25rem}
+.audience a{font-family:var(--display);font-weight:700;font-size:.9rem;color:#cdd8ee;padding:.35rem .9rem;border-radius:var(--pill)}
+.audience a[aria-current="true"]{background:#fff;color:var(--navy)}
+.mainnav{display:flex;gap:1.4rem;margin-left:1rem}
+.mainnav a{color:#fff;font-weight:600;font-size:.95rem;opacity:.9}
+.mainnav a:hover{opacity:1}
+.nav-cta{margin-left:auto;display:flex;align-items:center;gap:1rem}
+.nav-cta .login{color:#fff;font-family:var(--display);font-weight:700}
+.burger{display:none;margin-left:auto;background:none;border:0;color:#fff;font-size:1.6rem;cursor:pointer}
+
+/* hero */
+.hero{position:relative;min-height:min(82vh,720px);display:flex;align-items:center;color:#fff;padding-block:var(--pad-d);background:var(--navy)}
+.hero-bg{position:absolute;inset:0;z-index:0;overflow:hidden}
+.hero-bg img{width:100%;height:100%;object-fit:cover}
+.hero-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(105deg,rgba(0,28,100,.92) 0%,rgba(1,33,105,.70) 45%,rgba(1,33,105,.15) 100%)}
+.hero .wrap{position:relative;z-index:1}
+.hero h1{color:#fff;max-width:14ch}
+.hero p{color:#e7eefb;font-size:1.25rem;margin-block:1.25rem 2rem;max-width:42ch}
+.hero .eyebrow{color:var(--sky)}
+
+/* ways to pay */
+.ways{background:var(--surface-alt)}
+.ways .head{max-width:46ch;margin-bottom:2.5rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem}
+.card{background:#fff;border-radius:var(--r-card);padding:1.75rem;box-shadow:var(--shadow-1);transition:transform .2s cubic-bezier(.22,1,.36,1),box-shadow .2s}
+.card:hover{transform:translateY(-4px);box-shadow:var(--shadow-2)}
+.card .ico{width:48px;height:48px;border-radius:var(--pill);background:linear-gradient(135deg,var(--blue),var(--sky));display:grid;place-items:center;color:#fff;font-family:var(--display);font-weight:800;font-size:1.4rem;margin-bottom:1rem}
+.card p{color:var(--muted);margin-block:.4rem 1rem;font-size:.97rem}
+
+/* feature split */
+.split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,5vw,4.5rem);align-items:center}
+.split.reverse .media{order:2}
+.split .media img{border-radius:var(--r-media);width:100%;box-shadow:var(--shadow-2)}
+.split .copy p{color:var(--muted);font-size:1.1rem;margin-block:1rem 1.75rem}
+.split .copy .apy{font-family:var(--display);font-weight:800;color:var(--blue);font-size:1rem}
+.note{color:var(--muted);font-size:.78rem;margin-top:1.25rem;max-width:52ch}
+.note a{color:var(--blue)}
+
+/* rewards strip */
+.rewards{background:var(--navy);color:#fff;text-align:center}
+.rewards h2{color:#fff}
+.rewards p{color:#dbe6fb;margin:1rem auto 1.75rem;font-size:1.15rem}
+.brandrow{display:flex;flex-wrap:wrap;gap:.75rem 1.75rem;justify-content:center;margin-top:2rem;opacity:.9}
+.brandrow span{font-family:var(--display);font-weight:700;font-size:1.05rem;color:var(--sky)}
+
+/* app cta */
+.appcta{background:linear-gradient(120deg,var(--navy) 0%,var(--blue) 120%);color:#fff;text-align:center}
+.appcta h2{color:#fff;max-width:18ch;margin-inline:auto}
+.appcta p{color:#e7eefb;margin:1rem auto 2rem;font-size:1.15rem}
+.appcta .qr{display:inline-flex;align-items:center;gap:1rem;background:rgba(255,255,255,.12);border-radius:var(--r-card);padding:1rem 1.25rem;margin-top:1.5rem}
+.appcta .qr img{width:72px;height:72px;border-radius:8px;background:#fff;padding:4px}
+.appcta .qr span{font-family:var(--display);font-weight:700;text-align:left;font-size:.95rem}
+
+/* footer */
+footer{background:#fff;color:var(--ink);padding-block:var(--pad-d) 2rem;border-top:1px solid #e6eaf0}
+.fcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2rem}
+.fcols h4{font-family:var(--display);color:var(--navy);font-size:.95rem;margin-bottom:.9rem}
+.fcols a{display:block;color:var(--muted);font-size:.9rem;padding:.25rem 0}
+.fcols a:hover{color:var(--blue)}
+.fbottom{display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;align-items:center;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid #e6eaf0;color:var(--muted);font-size:.82rem}
+.flogo{height:22px;filter:none}
+
+@media (max-width:900px){
+  section{padding-block:var(--pad-t)}
+  .split{grid-template-columns:1fr}
+  .split.reverse .media{order:0}
+  .mainnav{display:none}
+}
+@media (max-width:640px){
+  section{padding-block:var(--pad-m)}
+  .mainnav,.audience,.nav-cta .login{display:none}
+  .burger{display:block}
+  .nav-cta{margin-left:0}
+  .hero p{font-size:1.1rem}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+  .btn:hover,.card:hover{transform:none}
+}
+</style>
+<style>
+.prose{max-width:720px;margin-inline:auto}
+.prose h2{font-size:clamp(1.5rem,3vw,2.2rem);margin-top:2.5rem;margin-bottom:.6rem}
+.prose p{color:var(--ink);font-size:1.12rem;margin-bottom:1.1rem;max-width:68ch}
+.lead-media{max-width:980px;margin:0 auto 2.5rem}
+.lead-media img{width:100%;border-radius:var(--r-media);box-shadow:var(--shadow-2)}
+.kicker{color:var(--blue);font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem}
+.feetabs{display:flex;gap:.5rem;justify-content:center;margin-bottom:2rem;flex-wrap:wrap}
+.feetabs a{font-family:var(--display);font-weight:700;border-radius:var(--pill);padding:.5rem 1.3rem;border:2px solid var(--navy);color:var(--navy)}
+.feetabs a[aria-current="true"]{background:var(--navy);color:#fff}
+table.fees{width:100%;border-collapse:collapse;margin:1.5rem 0;font-size:.98rem;background:#fff;border-radius:var(--r-card);overflow:hidden;box-shadow:var(--shadow-1)}
+table.fees caption{font-family:var(--display);font-weight:800;color:var(--navy);text-align:left;font-size:1.2rem;margin-bottom:.6rem}
+table.fees th{background:var(--navy);color:#fff;text-align:left;padding:.85rem 1rem;font-family:var(--display)}
+table.fees td{padding:.8rem 1rem;border-top:1px solid #e6eaf0;color:var(--ink)}
+table.fees tbody tr:nth-child(even){background:var(--surface-alt)}
+.faq{max-width:820px;margin-inline:auto}
+.faq details{background:#fff;border:1px solid #e6eaf0;border-radius:var(--r-card);padding:1rem 1.25rem;margin-bottom:.75rem}
+.faq summary{font-family:var(--display);font-weight:700;color:var(--navy);cursor:pointer;font-size:1.05rem}
+.faq p{color:var(--muted);margin-top:.6rem}
+.logos{display:flex;flex-wrap:wrap;gap:1.5rem 2.5rem;align-items:center;justify-content:center;margin-top:1.5rem}
+.logos img{height:48px;width:auto;object-fit:contain;filter:grayscale(1);opacity:.8}
+</style>
+</head><body>
+<header data-section="header">
+  <nav class="nav wrap" aria-label="Primary">
+    <a href="/paypal/" aria-label="PayPal home"><svg class="logo" viewBox="0 0 167 56" role="img" aria-label="PayPal"><g><path d="M166.885 0.00683594V41.8314H157.371V0.00683594H166.885Z"/><path d="M153.861 14.1101V41.8892H145.401V39.4985C144.334 40.5379 143.111 41.3305 141.753 41.8892C140.389 42.4804 138.914 42.7792 137.329 42.7792C135.337 42.7792 133.494 42.4089 131.8 41.6683C130.105 40.8887 128.63 39.8363 127.376 38.5045C126.121 37.1727 125.125 35.6136 124.388 33.84C123.689 32.0275 123.34 30.0785 123.34 28.0061C123.34 25.9338 123.689 24.0043 124.388 22.2307C125.125 20.4182 126.121 18.8396 127.376 17.5078C128.63 16.176 130.105 15.1365 131.8 14.3959C133.494 13.6164 135.337 13.2266 137.329 13.2266C138.914 13.2266 140.389 13.5254 141.753 14.1166C143.118 14.6753 144.334 15.4679 145.401 16.5073V14.1166H153.861V14.1101ZM138.869 34.3338C140.602 34.3338 142.018 33.7426 143.124 32.5537C144.269 31.3713 144.838 29.8512 144.838 27.9996C144.838 26.1481 144.269 24.628 143.124 23.4456C142.018 22.2632 140.596 21.6655 138.869 21.6655C137.142 21.6655 135.7 22.2567 134.555 23.4456C133.449 24.628 132.893 26.1481 132.893 27.9996C132.893 29.8512 133.449 31.3713 134.555 32.5537C135.7 33.7361 137.135 34.3338 138.869 34.3338Z"/><path d="M109.774 0C112.284 0 114.418 0.350812 116.19 1.05244C117.962 1.75406 119.456 2.73504 120.672 3.99536C121.927 5.29466 122.903 6.77587 123.602 8.43898C124.3 10.1086 124.65 11.9016 124.65 13.8311C124.65 15.7606 124.3 17.5536 123.602 19.2232C122.903 20.8928 121.927 22.374 120.672 23.6668C119.456 24.9272 117.962 25.9081 116.19 26.6097C114.418 27.3114 112.284 27.6622 109.774 27.6622H105.182V41.8831H95.5V0H109.768H109.774ZM108.39 19.0543C109.684 19.0543 110.673 18.9244 111.378 18.6645C112.115 18.3657 112.723 17.9954 113.202 17.5536C114.198 16.6246 114.696 15.3838 114.696 13.8311C114.696 12.2784 114.198 11.0376 113.202 10.1086C112.723 9.66682 112.115 9.30951 111.378 9.05615C110.68 8.75731 109.684 8.61439 108.39 8.61439H105.182V19.0608H108.39V19.0543Z"/><path d="M59.8424 14.1104H70.3523L77.4862 27.4412H77.5961L83.9538 14.1104H93.6876L72.8359 55.9999H63.1538L72.6678 36.8352L59.8359 14.1104H59.8424Z"/><path d="M57.9584 14.1101V41.8892H49.4987V39.4985C48.4315 40.5379 47.2091 41.3305 45.8509 41.8892C44.4862 42.4804 43.0116 42.7792 41.427 42.7792C39.435 42.7792 37.5917 42.4089 35.8972 41.6683C34.2027 40.8887 32.728 39.8363 31.4733 38.5045C30.2186 37.1727 29.2226 35.6136 28.4853 33.84C27.7868 32.0275 27.4375 30.0785 27.4375 28.0061C27.4375 25.9338 27.7868 24.0043 28.4853 22.2307C29.2226 20.4182 30.2186 18.8396 31.4733 17.5078C32.728 16.176 34.2027 15.1365 35.8972 14.3959C37.5917 13.6164 39.435 13.2266 41.427 13.2266C43.0116 13.2266 44.4862 13.5254 45.8509 14.1166C47.2156 14.6753 48.4315 15.4679 49.4987 16.5073V14.1166H57.9584V14.1101ZM42.9663 34.3338C44.6997 34.3338 46.1161 33.7426 47.2285 32.5537C48.3733 31.3713 48.9424 29.8512 48.9424 27.9996C48.9424 26.1481 48.3733 24.628 47.2285 23.4456C46.1226 22.2632 44.6997 21.6655 42.9663 21.6655C41.233 21.6655 39.7972 22.2567 38.6524 23.4456C37.5464 24.628 36.9902 26.1481 36.9902 27.9996C36.9902 29.8512 37.5464 31.3713 38.6524 32.5537C39.7972 33.7361 41.233 34.3338 42.9663 34.3338Z"/><path d="M14.2676 0C16.7771 0 18.9114 0.350812 20.6836 1.05244C22.4557 1.75406 23.9497 2.73504 25.1656 3.99536C26.4204 5.29466 27.397 6.77587 28.0955 8.43898C28.794 10.1086 29.1432 11.9016 29.1432 13.8311C29.1432 15.7606 28.794 17.5536 28.0955 19.2232C27.397 20.8928 26.4204 22.374 25.1656 23.6668C23.9497 24.9272 22.4557 25.9081 20.6836 26.6097C18.9114 27.3114 16.7771 27.6622 14.2676 27.6622H9.67561V41.8831H0V0H14.2676ZM12.89 19.0543C14.1836 19.0543 15.1731 18.9244 15.8781 18.6645C16.6154 18.3657 17.2234 17.9954 17.702 17.5536C18.698 16.6246 19.196 15.3838 19.196 13.8311C19.196 12.2784 18.698 11.0376 17.702 10.1086C17.2234 9.66682 16.6154 9.30951 15.8781 9.05615C15.1796 8.75731 14.1836 8.61439 12.89 8.61439H9.68208V19.0608H12.89V19.0543Z"/></g></svg></a>
+    <div class="audience">
+      <a href="/paypal/" aria-current="true">Personal</a>
+      <a href="/paypal/us/business/open-business-account">Business</a>
+    </div>
+    <div class="mainnav">
+      <a href="/paypal/us/digital-wallet/send-receive-money/send-money">Send &amp; Receive</a>
+      <a href="/paypal/us/digital-wallet">Wallet</a>
+      <a href="/paypal/us/digital-wallet/ways-to-pay/buy-now-pay-later">Pay Later</a>
+      <a href="/paypal/us/security">Security</a>
+    </div>
+    <div class="nav-cta">
+      <a class="login" href="https://www.paypal.com/signin">Log In</a>
+      <a class="btn btn-on-navy" href="https://www.paypal.com/us/welcome/signup">Sign Up</a>
+    </div>
+    <button class="burger" aria-label="Menu" onclick="this.closest('header').querySelector('.mainnav').style.display='flex'">&#9776;</button>
+  </nav>
+</header>
+<main>
+
+<section data-section="hero" style="background:var(--navy);color:#fff">
+  <div class="wrap"><p class="eyebrow" style="color:var(--sky)">Fees</p>
+  <h1 style="color:#fff">PayPal consumer fees</h1>
+  <p style="color:#e7eefb;max-width:60ch">Detailed information about PayPal's consumer fees. Find prices for sending or receiving money, internationally or domestically.</p>
+  <a class="btn btn-on-navy" href="https://www.paypalobjects.com/marketing/ua/pdf/US/US-paypal-fees-19-may-2026.pdf">Download printable PDF</a></div>
+</section>
+<section data-section="fee-table">
+  <div class="wrap">
+    <div class="feetabs"><a href="/paypal/us/digital-wallet/paypal-consumer-fees" aria-current="true">Consumer</a><a href="/paypal/us/business/paypal-business-fees">Merchant</a><a href="/paypal/us/enterprise/paypal-braintree-fees">Braintree</a></div>
+    <table class="fees"><caption>Receiving personal transactions</caption>
+      <thead><tr><th>Payment type</th><th>Fee</th></tr></thead>
+      <tbody>
+        <tr><td>Receiving money within the US (personal)</td><td>No fee</td></tr>
+        <tr><td>International personal transaction</td><td>5.00% (min 0.99 USD, max 4.99 USD)</td></tr>
+        <tr><td>Fixed fee (based on currency received)</td><td>Varies by currency</td></tr>
+      </tbody>
+    </table>
+    <table class="fees"><caption>Withdrawals out of PayPal</caption>
+      <thead><tr><th>Method</th><th>Fee</th></tr></thead>
+      <tbody>
+        <tr><td>Standard transfer to bank</td><td>No fee</td></tr>
+        <tr><td>Instant Transfer to eligible bank/card</td><td>1.75% (min 0.25 USD, max 25.00 USD)</td></tr>
+      </tbody>
+    </table>
+    <table class="fees"><caption>Other consumer fees</caption>
+      <thead><tr><th>Service</th><th>Fee</th></tr></thead>
+      <tbody>
+        <tr><td>Currency conversion</td><td>Applicable currency conversion spread</td></tr>
+        <tr><td>Amex Send&trade; Account</td><td>See terms</td></tr>
+      </tbody>
+    </table>
+    <p class="note">Fees reproduced from the captured PayPal consumer fees page. For the authoritative and current schedule, see the <a href="https://www.paypalobjects.com/marketing/ua/pdf/US/US-paypal-fees-19-may-2026.pdf">printable PDF</a>.</p>
+  </div>
+</section>
+</main>
+<footer data-section="footer">
+  <div class="wrap">
+    <div class="fcols">
+      <div><h4>Personal</h4><a href="/paypal/us/digital-wallet/send-receive-money/send-money">Send &amp; Receive</a><a href="/paypal/us/digital-wallet">Wallet</a><a href="/paypal/us/digital-wallet/ways-to-pay/buy-now-pay-later">Pay Later</a><a href="/paypal/us/money-hub">Money Hub</a></div>
+      <div><h4>Business</h4><a href="/paypal/us/business/open-business-account">Open an account</a><a href="/paypal/us/enterprise">Enterprise</a><a href="/paypal/us/webapps/mpp/paypal-fees">Fees</a></div>
+      <div><h4>Company</h4><a href="/paypal/us/security">Security</a><a href="/paypal/us/brc/article/10-habits-to-boost-success">Resource Center</a><a href="https://www.paypal.com/us/cshelp">Help</a></div>
+      <div><h4>Legal</h4><a href="https://www.paypal.com/us/legalhub/pp-balance-tnc">Balance Terms</a><a href="https://www.paypal.com/us/legalhub/paypal/pp-rewards-program-tnc">Rewards Terms</a><a href="https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US">Manage cookies</a></div>
+    </div>
+    <div class="fbottom">
+      <svg class="flogo" viewBox="0 0 167 56" role="img" aria-label="PayPal" fill="#012169"><path d="M166.885 0.00683594V41.8314H157.371V0.00683594H166.885Z"/><path d="M153.861 14.1101V41.8892H145.401V39.4985C144.334 40.5379 143.111 41.3305 141.753 41.8892C140.389 42.4804 138.914 42.7792 137.329 42.7792C135.337 42.7792 133.494 42.4089 131.8 41.6683C130.105 40.8887 128.63 39.8363 127.376 38.5045C126.121 37.1727 125.125 35.6136 124.388 33.84C123.689 32.0275 123.34 30.0785 123.34 28.0061C123.34 25.9338 123.689 24.0043 124.388 22.2307C125.125 20.4182 126.121 18.8396 127.376 17.5078C128.63 16.176 130.105 15.1365 131.8 14.3959C133.494 13.6164 135.337 13.2266 137.329 13.2266C138.914 13.2266 140.389 13.5254 141.753 14.1166C143.118 14.6753 144.334 15.4679 145.401 16.5073V14.1166H153.861V14.1101ZM138.869 34.3338C140.602 34.3338 142.018 33.7426 143.124 32.5537C144.269 31.3713 144.838 29.8512 144.838 27.9996C144.838 26.1481 144.269 24.628 143.124 23.4456C142.018 22.2632 140.596 21.6655 138.869 21.6655C137.142 21.6655 135.7 22.2567 134.555 23.4456C133.449 24.628 132.893 26.1481 132.893 27.9996C132.893 29.8512 133.449 31.3713 134.555 32.5537C135.7 33.7361 137.135 34.3338 138.869 34.3338Z"/><path d="M109.774 0C112.284 0 114.418 0.350812 116.19 1.05244C117.962 1.75406 119.456 2.73504 120.672 3.99536C121.927 5.29466 122.903 6.77587 123.602 8.43898C124.3 10.1086 124.65 11.9016 124.65 13.8311C124.65 15.7606 124.3 17.5536 123.602 19.2232C122.903 20.8928 121.927 22.374 120.672 23.6668C119.456 24.9272 117.962 25.9081 116.19 26.6097C114.418 27.3114 112.284 27.6622 109.774 27.6622H105.182V41.8831H95.5V0H109.768H109.774ZM108.39 19.0543C109.684 19.0543 110.673 18.9244 111.378 18.6645C112.115 18.3657 112.723 17.9954 113.202 17.5536C114.198 16.6246 114.696 15.3838 114.696 13.8311C114.696 12.2784 114.198 11.0376 113.202 10.1086C112.723 9.66682 112.115 9.30951 111.378 9.05615C110.68 8.75731 109.684 8.61439 108.39 8.61439H105.182V19.0608H108.39V19.0543Z"/><path d="M59.8424 14.1104H70.3523L77.4862 27.4412H77.5961L83.9538 14.1104H93.6876L72.8359 55.9999H63.1538L72.6678 36.8352L59.8359 14.1104H59.8424Z"/><path d="M57.9584 14.1101V41.8892H49.4987V39.4985C48.4315 40.5379 47.2091 41.3305 45.8509 41.8892C44.4862 42.4804 43.0116 42.7792 41.427 42.7792C39.435 42.7792 37.5917 42.4089 35.8972 41.6683C34.2027 40.8887 32.728 39.8363 31.4733 38.5045C30.2186 37.1727 29.2226 35.6136 28.4853 33.84C27.7868 32.0275 27.4375 30.0785 27.4375 28.0061C27.4375 25.9338 27.7868 24.0043 28.4853 22.2307C29.2226 20.4182 30.2186 18.8396 31.4733 17.5078C32.728 16.176 34.2027 15.1365 35.8972 14.3959C37.5917 13.6164 39.435 13.2266 41.427 13.2266C43.0116 13.2266 44.4862 13.5254 45.8509 14.1166C47.2156 14.6753 48.4315 15.4679 49.4987 16.5073V14.1166H57.9584V14.1101ZM42.9663 34.3338C44.6997 34.3338 46.1161 33.7426 47.2285 32.5537C48.3733 31.3713 48.9424 29.8512 48.9424 27.9996C48.9424 26.1481 48.3733 24.628 47.2285 23.4456C46.1226 22.2632 44.6997 21.6655 42.9663 21.6655C41.233 21.6655 39.7972 22.2567 38.6524 23.4456C37.5464 24.628 36.9902 26.1481 36.9902 27.9996C36.9902 29.8512 37.5464 31.3713 38.6524 32.5537C39.7972 33.7361 41.233 34.3338 42.9663 34.3338Z"/><path d="M14.2676 0C16.7771 0 18.9114 0.350812 20.6836 1.05244C22.4557 1.75406 23.9497 2.73504 25.1656 3.99536C26.4204 5.29466 27.397 6.77587 28.0955 8.43898C28.794 10.1086 29.1432 11.9016 29.1432 13.8311C29.1432 15.7606 28.794 17.5536 28.0955 19.2232C27.397 20.8928 26.4204 22.374 25.1656 23.6668C23.9497 24.9272 22.4557 25.9081 20.6836 26.6097C18.9114 27.3114 16.7771 27.6622 14.2676 27.6622H9.67561V41.8831H0V0H14.2676ZM12.89 19.0543C14.1836 19.0543 15.1731 18.9244 15.8781 18.6645C16.6154 18.3657 17.2234 17.9954 17.702 17.5536C18.698 16.6246 19.196 15.3838 19.196 13.8311C19.196 12.2784 18.698 11.0376 17.702 10.1086C17.2234 9.66682 16.6154 9.30951 15.8781 9.05615C15.1796 8.75731 14.1836 8.61439 12.89 8.61439H9.68208V19.0608H12.89V19.0543Z"/></svg>
+      <span>&copy; 1999&ndash;2026 PayPal. Faithful redesign prototype &mdash; content reproduced from paypal.com.</span>
+    </div>
+  </div>
+</footer>
+</body></html>

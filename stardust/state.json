@@ -13,19 +13,21 @@
       "slug": "us-brc-article-10-habits-to-boost-success",
       "url": "https://www.paypal.com/us/brc/article/10-habits-to-boost-success",
       "template": "editorial-article",
-      "status": "directed",
+      "status": "prototyped",
       "currentStatePath": "stardust/current/pages/us-brc-article-10-habits-to-boost-success.json",
-      "prototypePath": null,
-      "migratedPath": null
+      "prototypePath": "stardust/prototypes/us-brc-article-10-habits-to-boost-success-proposed.html",
+      "migratedPath": null,
+      "approved": true
     },
     {
       "slug": "us-business-open-business-account",
       "url": "https://www.paypal.com/us/business/open-business-account",
       "template": "business-landing",
-      "status": "directed",
+      "status": "prototyped",
       "currentStatePath": "stardust/current/pages/us-business-open-business-account.json",
-      "prototypePath": null,
-      "migratedPath": null
+      "prototypePath": "stardust/prototypes/us-business-open-business-account-proposed.html",
+      "migratedPath": null,
+      "approved": true
     },
     {
       "slug": "us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750",
@@ -86,10 +88,11 @@
       "slug": "us-webapps-mpp-paypal-fees",
       "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
       "template": "info-fees",
-      "status": "directed",
+      "status": "prototyped",
       "currentStatePath": "stardust/current/pages/us-webapps-mpp-paypal-fees.json",
-      "prototypePath": null,
-      "migratedPath": null
+      "prototypePath": "stardust/prototypes/us-webapps-mpp-paypal-fees-proposed.html",
+      "migratedPath": null,
+      "approved": true
     }
   ],
   "direction": {
