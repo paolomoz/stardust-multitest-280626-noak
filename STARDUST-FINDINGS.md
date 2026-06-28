@@ -42,3 +42,29 @@ descendants from the `ctas[]`/`links[]` harvest, not just from headings/body.
 news/press detail captures have `H1: undefined` — the article/release title sits
 outside the in-main heading scan. body text captured fine. Fix: fall back to
 `document.title`/`og:title` (minus site suffix) as the headline when no in-main h1.
+
+### F6 · prototype / impeccable setup path doesn't resolve in plugin installs
+`impeccable craft` Setup step 1 says run `node .claude/skills/impeccable/scripts/context.mjs`.
+In a plugin install the scripts live at
+`~/.claude/plugins/cache/impeccable/impeccable/<ver>/skills/impeccable/scripts/`,
+not `.claude/skills/impeccable/`. The documented relative path doesn't exist, so
+the operator must locate the plugin cache dir manually. Fix: resolve the script
+path via the plugin manifest, or document the plugin-cache location.
+
+### F7 · prototype / no "apply canon to sibling templates" in discovery mode
+For a 10-template migration, invoking `impeccable craft` + the 4 gate phases
+(critique/audit/adapt/motion) once per template is enormous. The canon-reuse model
+(home establishes tokens + header/footer + section patterns; siblings deploy them)
+is exactly what's needed, but it only exists in `prototype --prep` (canon write-back).
+In plain discovery mode there's no mechanic to render template N reusing the
+approved home canon, so the operator hand-drives canon reuse. Fix: expose the
+canon write-back / "fork from approved archetype" path in non-prep prototype, or
+have the master orchestrator default to --prep for multi-template migrations.
+
+### F8 · prototype / detector design-system-color noise on Mode A tonal ramps
+Brand-faithful (Mode A) renders need tonal shades of the pinned palette (a darker
+navy footer #00072b, a card-hover #0d1a5e, a gradient end #0042c8) that aren't
+among the 9 named DESIGN.json colors. The detector flags each as
+`design-system-color` (advisory). Not wrong, but every Mode A page trips it. Fix:
+auto-accept shades within a small ΔL/ΔC of a documented brand color as tonal-ramp
+members rather than drift.

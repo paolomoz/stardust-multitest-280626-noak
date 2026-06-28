@@ -57,9 +57,9 @@
       "slug": "index",
       "template": "home",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/index.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/index-proposed.html",
       "migratedPath": null
     },
     {
@@ -67,9 +67,9 @@
       "slug": "about",
       "template": "section-overview",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/about.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-proposed.html",
       "migratedPath": null
     },
     {
@@ -77,9 +77,9 @@
       "slug": "about-brands",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/about-brands.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-brands-proposed.html",
       "migratedPath": null
     },
     {
@@ -97,9 +97,9 @@
       "slug": "careers",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/careers.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/careers-proposed.html",
       "migratedPath": null
     },
     {
@@ -117,9 +117,9 @@
       "slug": "news",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/news.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/news-proposed.html",
       "migratedPath": null
     },
     {
@@ -127,9 +127,9 @@
       "slug": "press",
       "template": "section-overview",
       "archetype": false,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/press.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/press-proposed.html",
       "migratedPath": null
     },
     {
@@ -137,9 +137,9 @@
       "slug": "about-brands-paramount-plus",
       "template": "brand-detail",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/about-brands-paramount-plus.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-brands-paramount-plus-proposed.html",
       "migratedPath": null
     },
     {
@@ -337,9 +337,9 @@
       "slug": "about-businesses-studios",
       "template": "business-detail",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/about-businesses-studios.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-businesses-studios-proposed.html",
       "migratedPath": null
     },
     {
@@ -407,9 +407,9 @@
       "slug": "about-leadership-david-ellison",
       "template": "leadership-bio",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/about-leadership-david-ellison.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-leadership-david-ellison-proposed.html",
       "migratedPath": null
     },
     {
@@ -587,9 +587,9 @@
       "slug": "news-paramount-and-ufc-expand-partnership-to-canada-in-2027",
       "template": "news-article",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/news-paramount-and-ufc-expand-partnership-to-canada-in-2027.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/news-paramount-and-ufc-expand-partnership-to-canada-in-2027-proposed.html",
       "migratedPath": null
     },
     {
@@ -667,9 +667,9 @@
       "slug": "press-paramount-reports-first-quarter-2026-financial-results",
       "template": "press-release",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/press-paramount-reports-first-quarter-2026-financial-results.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/press-paramount-reports-first-quarter-2026-financial-results-proposed.html",
       "migratedPath": null
     },
     {
@@ -697,9 +697,9 @@
       "slug": "careers-benefits",
       "template": "careers-content",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/careers-benefits.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/careers-benefits-proposed.html",
       "migratedPath": null
     },
     {
@@ -817,9 +817,9 @@
       "slug": "terms-of-use",
       "template": "legal",
       "archetype": true,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/terms-of-use.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/terms-of-use-proposed.html",
       "migratedPath": null
     },
     {
@@ -827,9 +827,9 @@
       "slug": "contact-us",
       "template": "legal",
       "archetype": false,
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/contact-us.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/contact-us-proposed.html",
       "migratedPath": null
     },
     {
