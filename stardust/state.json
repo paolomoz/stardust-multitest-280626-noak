@@ -10,38 +10,41 @@
     {
       "slug": "about-us",
       "url": "https://www.starbucks.com/about-us",
-      "status": "directed",
+      "status": "approved",
       "type": "static",
       "currentStatePath": "stardust/current/pages/about-us.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/about-us-proposed.html",
       "migratedPath": null,
       "headings": 18,
       "imgs": 4,
-      "bodyLen": 3386
+      "bodyLen": 3386,
+      "archetype": true
     },
     {
       "slug": "contact",
       "url": "https://www.starbucks.com/contact",
-      "status": "directed",
+      "status": "approved",
       "type": "static",
       "currentStatePath": "stardust/current/pages/contact.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/contact-proposed.html",
       "migratedPath": null,
       "headings": 11,
       "imgs": 0,
-      "bodyLen": 1690
+      "bodyLen": 1690,
+      "archetype": true
     },
     {
       "slug": "gift",
       "url": "https://www.starbucks.com/gift",
-      "status": "directed",
+      "status": "approved",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/gift.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/gift-proposed.html",
       "migratedPath": null,
       "headings": 35,
       "imgs": 76,
-      "bodyLen": 8247
+      "bodyLen": 8247,
+      "archetype": true
     },
     {
       "slug": "index",
@@ -130,14 +133,15 @@
     {
       "slug": "menu-drinks-hot-coffee",
       "url": "https://www.starbucks.com/menu/drinks/hot-coffee",
-      "status": "directed",
+      "status": "approved",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-coffee.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-drinks-hot-coffee-proposed.html",
       "migratedPath": null,
       "headings": 16,
       "imgs": 60,
-      "bodyLen": 1760
+      "bodyLen": 1760,
+      "archetype": true
     },
     {
       "slug": "menu-drinks-hot-tea",
@@ -250,38 +254,41 @@
     {
       "slug": "menu",
       "url": "https://www.starbucks.com/menu",
-      "status": "directed",
+      "status": "approved",
       "type": "listing",
       "currentStatePath": "stardust/current/pages/menu.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-proposed.html",
       "migratedPath": null,
       "headings": 10,
       "imgs": 20,
-      "bodyLen": 851
+      "bodyLen": 851,
+      "archetype": true
     },
     {
       "slug": "rewards",
       "url": "https://www.starbucks.com/rewards",
-      "status": "directed",
+      "status": "approved",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/rewards.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/rewards-proposed.html",
       "migratedPath": null,
       "headings": 32,
       "imgs": 20,
-      "bodyLen": 5539
+      "bodyLen": 5539,
+      "archetype": true
     },
     {
       "slug": "stores-and-ordering",
       "url": "https://www.starbucks.com/stores-and-ordering",
-      "status": "directed",
+      "status": "approved",
       "type": "landing",
       "currentStatePath": "stardust/current/pages/stores-and-ordering.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/stores-and-ordering-proposed.html",
       "migratedPath": null,
       "headings": 19,
       "imgs": 9,
-      "bodyLen": 2523
+      "bodyLen": 2523,
+      "archetype": true
     }
   ],
   "direction": {

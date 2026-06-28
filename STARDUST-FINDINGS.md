@@ -34,6 +34,27 @@ SUGGESTED FIX: extend crawl.mjs capture() to emit the computed-style palette/typ
 radius/shadow aggregation (as my brand-probe does), and ship a `brand-surface.mjs`
 companion that writes `_brand-extraction.json` + seeds DESIGN/PRODUCT/state.
 
+### F4 — [prototype] impeccable design hook fires on legitimate scrim/shadow rgba alphas
+Every Write/Edit of a prototype triggers `design-system-color` findings for
+`rgba(0,0,0,.NN)` values used in hero legibility scrims and card box-shadows — even
+though these are (a) standard overlay/shadow tokens and (b) literally present in the
+captured brand surface (`_brand-extraction.json#motifs.shadows`). The prototype skill
+documents a "brand-faithful inversion auto-dismiss" for exactly this, but the hook has
+no awareness of it and re-prompts on every edit, creating noise. SUGGESTED FIX: the
+design hook should treat near-black/white rgba with alpha < 1 used in `box-shadow`/
+`linear-gradient(...scrim)` contexts as exempt, or read DESIGN.json shadow tokens.
+
+### F5 — [prototype] no batch/sibling rendering; full craft loop per page does not scale
+The skill renders one page per invocation through the full craft + 4 gate phases. For
+a site with one template that has 15+ siblings (Starbucks menu categories), running
+that loop per page is impractical. In practice the right model is: craft ONE archetype
+to lock the design identity (home), then generate the remaining template archetypes by
+reusing the home `:root`/chrome canon (which the skill itself says to do: "Reuse the
+chosen design identity"). There's no helper for this canon-reuse generation — I wrote a
+`build-prototypes.mjs` that shares the home chrome+CSS and composes captured content per
+template. SUGGESTED FIX: ship a `prototype --from-canon <slug>` helper that emits sibling/
+template archetypes from an approved canon page, so the craft loop runs once not N times.
+
 ### F3 — [extract] networkidle wait never settles on analytics-heavy sites
 A `waitUntil:'networkidle'` goto on starbucks.com times out at 60s (continuous
 beacon/telemetry traffic). crawl.mjs correctly uses `domcontentloaded`; any
