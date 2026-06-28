@@ -1,0 +1,46 @@
+{
+  "_provenance": "descriptive; extracted from https://www.paramount.com/ 2026-06-28",
+  "colors": {
+    "background": "#000A3C",
+    "surface": "#FFFFFF",
+    "text": "#FFFFFF",
+    "text-ink": "#000A3C",
+    "primary": "#0064FF",
+    "accent-yellow": "#FFD400",
+    "accent-magenta": "#D63384",
+    "accent-cyan": "#03D1E5",
+    "muted": "#8386A0"
+  },
+  "typography": {
+    "heading": "Paramount Vista Sans, Peak Sans, Arial, sans-serif",
+    "body": "Peak Sans, Arial, Helvetica, sans-serif",
+    "weights": [400, 500, 600, 700],
+    "transform": "uppercase-display"
+  },
+  "rounded": "small",
+  "spacing": "comfortable",
+  "extensions": {
+    "componentStyle": {
+      "buttons": "solid electric-blue or outline-white on navy; squared",
+      "cards": "flat, minimal shadow, near-squared corners",
+      "sections": "full-bleed navy bands alternating with white"
+    },
+    "motifs": [
+      "paramount mountain + stars emblem (inline SVG)",
+      "deep navy full-bleed canvas",
+      "all-caps cinematic display headlines",
+      "show key-art image mosaics",
+      "signature film-montage background video"
+    ],
+    "voice": {
+      "headline": "SHAPE THE FUTURE",
+      "samples": ["We are", "ALL BRANDS", "Join Us"],
+      "heroImage": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/",
+      "heroMedium": {
+        "type": "video",
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Videos/2023%20Paramount%20Film1-%20240415-1080p-veryslow-crf33-96k.mp4"
+      }
+    },
+    "components": ["header", "hero", "video-hero", "brand-grid", "card-grid", "leadership-grid", "news-feed", "cta-band", "footer"]
+  }
+}

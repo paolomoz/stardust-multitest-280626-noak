@@ -1,0 +1,457 @@
+{
+  "slug": "about-brands-paramount-plus",
+  "url": "https://www.paramount.com/about/brands/paramount-plus",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:11.030Z",
+  "finalUrl": "https://www.paramount.com/about/brands/paramount-plus",
+  "title": "Paramount + | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "Paramount + | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Paramount +"
+    },
+    {
+      "tag": "h4",
+      "text": "PEAK STREAMING"
+    },
+    {
+      "tag": "h4",
+      "text": "related content"
+    },
+    {
+      "tag": "h6",
+      "text": "1923"
+    },
+    {
+      "tag": "h6",
+      "text": "Halo"
+    },
+    {
+      "tag": "h6",
+      "text": "The Chi"
+    },
+    {
+      "tag": "h6",
+      "text": "Paw Patrol"
+    },
+    {
+      "tag": "h6",
+      "text": "RuPaul's Drag Race"
+    },
+    {
+      "tag": "h6",
+      "text": "SpongeBob SquarePants"
+    },
+    {
+      "tag": "h6",
+      "text": "Star Trek: Strange New Worlds"
+    },
+    {
+      "tag": "h6",
+      "text": "Tulsa King"
+    },
+    {
+      "tag": "h4",
+      "text": "Related Brands"
+    }
+  ],
+  "body": [
+    "About",
+    "Brands",
+    "Paramount +",
+    "Paramount+, part of Paramount’s global portfolio of multimedia entertainment and news brands, is a direct-to-consumer digital subscription video on-demand and live streaming service, combining live sports, breaking news and A Mountain of Entertainment™. The streaming service features an expansive library of original series, hit shows and popular movies across every genre from world-renowned brands and production studios, including BET, CBS, Comedy Central, MTV, Nickelodeon, Paramount Pictures and the Smithsonian Channel. Paramount+ Premium, the service's cornerstone plan, is also home to SHOWTIME® content, including scripted hits and critically acclaimed nonfiction projects and films. This premium plan includes unmatched events and sports programming through the local live CBS stream, including golf, basketball and more. All Paramount+ subscribers have streaming access to CBS News Network for 24/7 news and CBS Sports HQ for sports news and analysis.",
+    "paramountplus.com",
+    "Paramount+ Press",
+    "Paramount Media Networks Clip Licensing"
+  ],
+  "ctas": [
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "paramountplus.com",
+      "href": "https://www.paramountplus.com/"
+    },
+    {
+      "label": "Paramount+ Press",
+      "href": "https://www.paramountpressexpress.com/paramount-plus/"
+    },
+    {
+      "label": "Paramount Media Networks Clip Licensing",
+      "href": "https://www.paramount.com/paramount-media-networks-clip-licensing"
+    },
+    {
+      "label": "1923",
+      "href": "https://www.paramountplus.com/shows/1923/"
+    },
+    {
+      "label": "Halo",
+      "href": "https://www.paramountplus.com/shows/halo/"
+    },
+    {
+      "label": "The Chi",
+      "href": "https://www.paramountplus.com/shows/the-chi/"
+    },
+    {
+      "label": "Paw Patrol",
+      "href": "https://www.paramountplus.com/shows/paw-patrol/"
+    },
+    {
+      "label": "RuPaul's Drag Race",
+      "href": "https://www.paramountplus.com/shows/rupauls-drag-race/"
+    },
+    {
+      "label": "SpongeBob SquarePants",
+      "href": "https://www.paramountplus.com/shows/spongebob-squarepants/"
+    },
+    {
+      "label": "Star Trek: Strange New Worlds",
+      "href": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
+    },
+    {
+      "label": "Tulsa King",
+      "href": "https://www.paramountplus.com/shows/tulsa-king/"
+    },
+    {
+      "label": "View All",
+      "href": "/about/brands"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paramount.com/about/brands/paramount-plus#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.paramountpressexpress.com/paramount-plus/",
+    "https://www.paramount.com/paramount-media-networks-clip-licensing",
+    "https://www.paramountplus.com/shows/1923/",
+    "https://www.paramountplus.com/shows/halo/",
+    "https://www.paramountplus.com/shows/the-chi/",
+    "https://www.paramountplus.com/shows/paw-patrol/",
+    "https://www.paramountplus.com/shows/rupauls-drag-race/",
+    "https://www.paramountplus.com/shows/spongebob-squarepants/",
+    "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
+    "https://www.paramountplus.com/shows/tulsa-king/",
+    "https://www.paramount.com/about/brands/pluto-tv",
+    "https://www.paramount.com/about/brands/cbs-entertainment",
+    "https://www.paramount.com/about/brands/mtv",
+    "https://www.paramount.com/about/brands/paramount-network",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/about/brands/paramount-plus",
+    "https://www.paramount.com/terms-of-use",
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_1923_304x456.jpg?itok=luEUhh97",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_Halo_304x456.jpg?itok=pBl0Iqnb",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/PPlus_Federal_304x456_Mercedes.jpg?itok=K-6ofeYp",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_PP_304x456_v1.jpg?itok=WYjZYLT1",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_Rupaul_304x456.jpg?itok=ePkJ3FVF",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_SBSP_304x456.jpg?itok=IkSdGX4m",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_ST_304x456.jpg?itok=h1UdRODx",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_news_tiles_304_x_456_/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Plus/Related%20Content/20891_KA_Resize_TK_304x456.jpg?itok=Tt5hj6Mq",
+        "alt": "",
+        "w": 304,
+        "h": 456
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/Plutotv/pluto_BrandImage_767x767.jpg?h=ab622562&itok=Q-MytOQI",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/CBS%20Entertainment/Ghosts_767x767%20%281%29.jpg?h=ab622562&itok=DyZaP3Ak",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Detail%20Page/MTV/RuPaul_767x767.jpg?h=a174b97b&itok=IVLrvlPA",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_brand_square_tile/public/ParamountDotCom/AboutPage/Images/Brands%20Page/Paramount%20Network/Yellowstone_767x767.jpg?h=ab622562&itok=o4ZBQ-c7",
+        "alt": "",
+        "w": 767,
+        "h": 767
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 24,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 1294,
+    "realImageCount": 24,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

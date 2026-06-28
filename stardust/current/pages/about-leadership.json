@@ -1,0 +1,571 @@
+{
+  "slug": "about-leadership",
+  "url": "https://www.paramount.com/about/leadership",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:25.811Z",
+  "finalUrl": "https://www.paramount.com/about/leadership",
+  "title": "Leadership | Paramount",
+  "description": "Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+  "og": {
+    "title": "Leadership | Paramount",
+    "description": null,
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "LEADERSHIP"
+    },
+    {
+      "tag": "h6",
+      "text": "David Ellison"
+    },
+    {
+      "tag": "h6",
+      "text": "Jay Askinasi"
+    },
+    {
+      "tag": "h6",
+      "text": "George Cheeks"
+    },
+    {
+      "tag": "h6",
+      "text": "Dennis K. Cinelli"
+    },
+    {
+      "tag": "h6",
+      "text": "Makan Delrahim"
+    },
+    {
+      "tag": "h6",
+      "text": "Dane Glasgow"
+    },
+    {
+      "tag": "h6",
+      "text": "Dana Goldberg"
+    },
+    {
+      "tag": "h6",
+      "text": "Andy Gordon"
+    },
+    {
+      "tag": "h6",
+      "text": "Josh Greenstein"
+    },
+    {
+      "tag": "h6",
+      "text": "Cindy Holland"
+    },
+    {
+      "tag": "h6",
+      "text": "Stephanie Kyoko McKinnon"
+    },
+    {
+      "tag": "h6",
+      "text": "Jim Sterner"
+    },
+    {
+      "tag": "h6",
+      "text": "Melissa Zukerman"
+    }
+  ],
+  "body": [
+    "About",
+    "Leadership",
+    "David Ellison Chairman & Chief Executive Officer",
+    "Jay Askinasi Chief Revenue Officer",
+    "George Cheeks Chair of TV Media",
+    "Dennis K. Cinelli Chief Financial Officer",
+    "Makan Delrahim Chief Legal Officer",
+    "Dane Glasgow Chief Product Officer",
+    "Dana Goldberg Co-Chair of Paramount Pictures and Chair of Paramount Television Studios",
+    "Andy Gordon Chief Strategy Officer and Chief Operating Officer",
+    "Josh Greenstein Co-Chair of Paramount Pictures and Vice Chair of Platforms",
+    "Cindy Holland Chair of Direct to Consumer",
+    "Stephanie Kyoko McKinnon General Counsel",
+    "Jim Sterner Chief People Officer",
+    "Melissa Zukerman Chief Communications Officer"
+  ],
+  "ctas": [
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "David Ellison Chairman & Chief Executive Officer",
+      "href": "/about/leadership/david-ellison"
+    },
+    {
+      "label": "Jay Askinasi Chief Revenue Officer",
+      "href": "/about/leadership/jay-askinasi"
+    },
+    {
+      "label": "George Cheeks Chair of TV Media",
+      "href": "/about/leadership/george-cheeks"
+    },
+    {
+      "label": "Dennis K. Cinelli Chief Financial Officer",
+      "href": "/about/leadership/dennis-k-cinelli-0"
+    },
+    {
+      "label": "Makan Delrahim Chief Legal Officer",
+      "href": "/about/leadership/makan-delrahim"
+    },
+    {
+      "label": "Dane Glasgow Chief Product Officer",
+      "href": "/about/leadership/dane-glasgow"
+    },
+    {
+      "label": "Dana Goldberg Co-Chair of Paramount Pictures and Chair of Paramount Television Studios",
+      "href": "/about/leadership/dana-goldberg"
+    },
+    {
+      "label": "Andy Gordon Chief Strategy Officer and Chief Operating Officer",
+      "href": "/about/leadership/andy-gordon"
+    },
+    {
+      "label": "Josh Greenstein Co-Chair of Paramount Pictures and Vice Chair of Platforms",
+      "href": "/about/leadership/josh-greenstein"
+    },
+    {
+      "label": "Cindy Holland Chair of Direct to Consumer",
+      "href": "/about/leadership/cindy-holland"
+    },
+    {
+      "label": "Stephanie Kyoko McKinnon General Counsel",
+      "href": "/about/leadership/stephanie-kyoko-mckinnon"
+    },
+    {
+      "label": "Jim Sterner Chief People Officer",
+      "href": "/about/leadership/jim-sterner"
+    },
+    {
+      "label": "Melissa Zukerman Chief Communications Officer",
+      "href": "/about/leadership/melissa-zukerman"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paramount.com/about/leadership#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://www.paramount.com/about/leadership/david-ellison",
+    "https://www.paramount.com/about/leadership/jay-askinasi",
+    "https://www.paramount.com/about/leadership/george-cheeks",
+    "https://www.paramount.com/about/leadership/dennis-k-cinelli-0",
+    "https://www.paramount.com/about/leadership/makan-delrahim",
+    "https://www.paramount.com/about/leadership/dane-glasgow",
+    "https://www.paramount.com/about/leadership/dana-goldberg",
+    "https://www.paramount.com/about/leadership/andy-gordon",
+    "https://www.paramount.com/about/leadership/josh-greenstein",
+    "https://www.paramount.com/about/leadership/cindy-holland",
+    "https://www.paramount.com/about/leadership/stephanie-kyoko-mckinnon",
+    "https://www.paramount.com/about/leadership/jim-sterner",
+    "https://www.paramount.com/about/leadership/melissa-zukerman",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/terms-of-use",
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/DAVID_ELLISON_0252_FINAL.jpg?h=17cd05e8&itok=-_EfvNUY",
+        "alt": "David Ellison",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/DAVID_ELLISON_08062025.jpg?h=9097d733&itok=rLOghNrH",
+        "alt": "David Ellison",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/ParamountWebsite_JAskinasi_Leadership_v01.jpg?h=93fa4828&itok=ml--wdFb",
+        "alt": "Jay Askinasi",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/ParamountWebsite_JAskinasi_Leadership_v01.jpg?h=93fa4828&itok=ml--wdFb",
+        "alt": "Jay Askinasi",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/george-cheeks-desktop.png?h=93fa4828&itok=OYPDy1ha",
+        "alt": "George Cheeks",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/george-cheeks-mobile.png?h=436b82d4&itok=AgmSRJ3c",
+        "alt": "George Cheeks",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/Dennis-Cinelli-Headshot_640x640.jpg?h=93fa4828&itok=3UOvsAou",
+        "alt": "Dennis K. Cinelli",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/Dennis-Cinelli-Headshot_640x640.jpg?h=93fa4828&itok=3UOvsAou",
+        "alt": "Dennis K. Cinelli",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/Delrahim_Makan_640x640.png?h=93fa4828&itok=wmOoG1i5",
+        "alt": "Makan Delrahim",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/Delrahim_Makan_1024x1024.png?h=436b82d4&itok=yEWwk2ly",
+        "alt": "Makan Delrahim",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/Dane%20Glasgow_640x640.png?h=93fa4828&itok=vT-p0c4w",
+        "alt": "Dane Glasgow",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/Dane%20Glasgow_1024x1024.png?h=436b82d4&itok=LBoPZJbu",
+        "alt": "Dane Glasgow",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/DANA_GOLDBERG_F1.jpg?h=51e9e9b4&itok=DmDAEt13",
+        "alt": "Dana Goldberg",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/DANA_GOLDBERG_08062025.jpg?h=7cd31c63&itok=quTx1jgY",
+        "alt": "Dana Goldberg",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/ANDY_GORDON_0069_FINAL.jpg?h=a6a62e64&itok=RKb7_Rzt",
+        "alt": "Andy Gordon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/ANDY_GORDON_08062025.jpg?h=66613d35&itok=lP6KX-dm",
+        "alt": "Andy Gordon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/JOSH_GREENSTEIN_0317_FINAL.jpg?h=b0d00fd1&itok=NkZNdjU7",
+        "alt": "Josh Greenstein",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/JOSH_GREENSTEIN_0317_FINAL.jpg?h=b0d00fd1&itok=NkZNdjU7",
+        "alt": "Josh Greenstein",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/CINDY_HOLLAND_0212_FINAL.jpg?h=f5c909c9&itok=cE2HA-3i",
+        "alt": "Cindy Holland",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/CINDY_HOLLAND_08062025.jpg?h=d6a92f32&itok=COBtZ0uy",
+        "alt": "Cindy Holland",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/STEPHANIE_KYOKO_MCKINNON_0398_FINAL.jpg?h=6723cf56&itok=lm1SR-on",
+        "alt": "Stephanie Kyoko McKinnon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/STEPHANIE_KYOKO_MCKINNON_08062025.jpg?h=3505a58b&itok=DxpfL8NI",
+        "alt": "Stephanie Kyoko McKinnon",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/JIM_STERNER%20%28HEADSHOT%29.jpg?h=b8846c50&itok=QQ_BNg8E",
+        "alt": "Jim Sterner",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/JIM_STERNER_08062025.jpg?h=8d4dc6ac&itok=bHctL7XN",
+        "alt": "Jim Sterner",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20DESKTOP%20IMAGES/MELISSA_ZUKERMAN_1289_FINAL.jpg?h=1a17e610&itok=k9DfF928",
+        "alt": "Melissa Zukerman",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/styles/paramount_leadership_listing/public/ParamountDotCom/AboutPage/Images/Leadership/Merger%20SkyDance%202025/Paramount%20ELT/ELT%20MOBILE/MELISSA_ZUKERMAN_08062025jpg.jpg?h=5ac5f6a4&itok=2WmUw7NM",
+        "alt": "Melissa Zukerman",
+        "w": 304,
+        "h": 304
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 40,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 14,
+    "mainTextLen": 760,
+    "realImageCount": 38,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

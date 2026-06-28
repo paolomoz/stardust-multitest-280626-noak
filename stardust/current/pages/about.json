@@ -1,0 +1,348 @@
+{
+  "slug": "about",
+  "url": "https://www.paramount.com/about",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:02.462Z",
+  "finalUrl": "https://www.paramount.com/about",
+  "title": "About | Paramount",
+  "description": "Paramount delivers premium content and experiences to diverse audiences through television and streaming platforms, studio production, consumer products, and more.",
+  "og": {
+    "title": "About | Paramount",
+    "description": "Paramount delivers premium content and experiences to diverse audiences through television and streaming platforms, studio production, consumer products, and more.",
+    "image": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "UNLEASHING"
+    },
+    {
+      "tag": "h1",
+      "text": "The POWER OF"
+    },
+    {
+      "tag": "h1",
+      "text": "CONTENT"
+    },
+    {
+      "tag": "h2",
+      "text": "growth and innovation"
+    },
+    {
+      "tag": "h4",
+      "text": "Our Business Conduct Statement (BCS)"
+    },
+    {
+      "tag": "h4",
+      "text": "Our Supplier Compliance Policy"
+    },
+    {
+      "tag": "h4",
+      "text": "OPENLINE, our Reporting Helpline"
+    }
+  ],
+  "body": [
+    "MORE OF WHAT YOU LOVE",
+    "Our powerful and unique portfolio of network, studio, and streaming brands entertain, inform, and empower audiences. Our brands are #1 in key U.S. audiences and our networks reach billions of cumulative subscribers across the globe.",
+    "Paramount is a media and entertainment company with expertise in streaming, advertising, global markets, and consumer products. Our businesses fuel all that we do and have cemented us as a leader in the industry.",
+    "Paramount's Global Code of Conduct is available in English and other languages.",
+    "All of Paramount's suppliers should be familiar with the BCS and Paramount's Supplier Compliance Policy.",
+    "Access the OPENLINE website to report a business conduct concern or find domestic and international telephone numbers"
+  ],
+  "ctas": [
+    {
+      "label": "our brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "our businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "A LEGACY OF GREATNESS explore our heritage",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Our Business Conduct Statement (BCS)",
+      "href": "https://bcs.paramount.com/"
+    },
+    {
+      "label": "Our Supplier Compliance Policy",
+      "href": "https://www.paramount.com/sites/g/files/dxjhpe356/files/2024-05/2023_Paramounts_Supplier_Compliance_Policy%20%281%29.pdf"
+    },
+    {
+      "label": "OPENLINE, our Reporting Helpline",
+      "href": "https://secure.ethicspoint.com/domain/media/en/gui/36264/index.html"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Brands",
+      "href": "/about/brands"
+    },
+    {
+      "label": "Businesses",
+      "href": "/about/businesses"
+    },
+    {
+      "label": "Leadership",
+      "href": "/about/leadership"
+    },
+    {
+      "label": "Board of Directors",
+      "href": "/about/board-of-directors"
+    },
+    {
+      "label": "History",
+      "href": "/about/history"
+    },
+    {
+      "label": "Compliance Resources",
+      "href": "/about/compliance-resources"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/about/sustainability"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Press Releases",
+      "href": "/press"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Benefits",
+      "href": "/careers/benefits"
+    },
+    {
+      "label": "Life at Paramount",
+      "href": "/careers/life-at-paramount"
+    },
+    {
+      "label": "Locations",
+      "href": "/careers/international-careers"
+    },
+    {
+      "label": "Internships",
+      "href": "/careers/internships"
+    },
+    {
+      "label": "Applicant Login",
+      "href": "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d"
+    },
+    {
+      "label": "Investors",
+      "href": "https://ir.paramount.com/"
+    },
+    {
+      "label": "Quarterly Results",
+      "href": "https://ir.paramount.com/quarterly-results"
+    },
+    {
+      "label": "Events & Webcasts",
+      "href": "https://ir.paramount.com/events-webcasts-annual-meetings"
+    },
+    {
+      "label": "SEC Filings",
+      "href": "https://ir.paramount.com/sec-filings/paramount"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://ir.paramount.com/press-releases"
+    },
+    {
+      "label": "Streaming Services",
+      "href": null
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://privacy.paramount.com/policy"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "California Notice",
+      "href": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+    },
+    {
+      "label": "Manage Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paramount.com/about#main-content",
+    "https://www.paramount.com/",
+    "https://www.paramount.com/about",
+    "https://www.paramount.com/about/brands",
+    "https://www.paramount.com/about/businesses",
+    "https://www.paramount.com/about/leadership",
+    "https://www.paramount.com/about/board-of-directors",
+    "https://www.paramount.com/about/history",
+    "https://www.paramount.com/about/compliance-resources",
+    "https://www.paramount.com/news",
+    "https://www.paramount.com/press",
+    "https://www.paramount.com/careers",
+    "https://www.paramount.com/careers/benefits",
+    "https://www.paramount.com/careers/life-at-paramount",
+    "https://www.paramount.com/careers/international-careers",
+    "https://www.paramount.com/careers/internships",
+    "https://career41.sapsf.com/career?career_company=viacomcbsi&lang=en_US&company=viacomcbsi&site=&loginFlowRequired=true&_s.crb=tNTDw5w74Q1xchfzDOMgGAIHC%2fQZikHdQhDfpi6qN98%3d",
+    "https://www.paramount.com/careers/talent-pipeline-programs",
+    "https://ir.paramount.com/",
+    "https://ir.paramount.com/quarterly-results",
+    "https://ir.paramount.com/events-webcasts-annual-meetings",
+    "https://ir.paramount.com/sec-filings/paramount",
+    "https://ir.paramount.com/press-releases",
+    "https://www.paramountplus.com/",
+    "https://www.linkedin.com/company/paramountco",
+    "https://www.instagram.com/paramountco/",
+    "https://www.facebook.com/ParamountCompany",
+    "https://www.threads.net/@paramountco",
+    "https://www.youtube.com/c/ParamountCompany",
+    "https://pluto.tv/",
+    "https://bcs.paramount.com/",
+    "https://www.paramount.com/sites/g/files/dxjhpe356/files/2024-05/2023_Paramounts_Supplier_Compliance_Policy%20%281%29.pdf",
+    "https://secure.ethicspoint.com/domain/media/en/gui/36264/index.html",
+    "https://www.paramount.com/about/sustainability",
+    "https://www.paramount.com/terms-of-use",
+    "https://privacy.paramount.com/policy",
+    "https://www.paramount.com/contact-us",
+    "javascript:void(0)",
+    "https://privacy.paramount.com/en/policy#additional-information-us-states"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for About",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for News",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Careers",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg",
+        "alt": "Toggle sub-menu for Investors",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png",
+        "alt": "Return to top-level navigation",
+        "w": 8,
+        "h": 14
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg",
+        "alt": "pluto-tv-logo",
+        "w": 141,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/Media%20Card/media_card_img.png",
+        "alt": "",
+        "w": 720,
+        "h": 808
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/Media%20Card/about_page_startrek_720x720.png",
+        "alt": "",
+        "w": 720,
+        "h": 720
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/history.png",
+        "alt": "paramount studios",
+        "w": 1440,
+        "h": 720
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/AboutPage/Images/History/history-mobile.png",
+        "alt": "paramount studios",
+        "w": 1024,
+        "h": 1024
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/footer%20streaming%20logo.svg",
+        "alt": "Paramount Plus",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto_Color_64_V01-01.svg",
+        "alt": "Pluto-Tv",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png",
+        "alt": "brand logo",
+        "w": 178,
+        "h": 55
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 7,
+    "mainTextLen": 1743,
+    "realImageCount": 16,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
