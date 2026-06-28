@@ -58,10 +58,11 @@
       "slug": "us-home",
       "url": "https://www.paypal.com/us/home",
       "template": "home",
-      "status": "directed",
+      "status": "prototyped",
       "currentStatePath": "stardust/current/pages/us-home.json",
-      "prototypePath": null,
-      "migratedPath": null
+      "prototypePath": "stardust/prototypes/us-home-proposed.html",
+      "migratedPath": null,
+      "approved": true
     },
     {
       "slug": "us-money-hub",
