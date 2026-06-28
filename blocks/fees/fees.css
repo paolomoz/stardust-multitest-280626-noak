@@ -1,0 +1,8 @@
+.fees .fees-tabs { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem; }
+.fees .fees-tabs a { font-family: var(--display); font-weight: 700; border-radius: var(--pill); padding: 0.5rem 1.3rem; border: 2px solid var(--navy); color: var(--navy); }
+.fees .fees-tabs a:hover, .fees .fees-tabs a[aria-current="true"] { background: var(--navy); color: #fff; }
+.fees table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.98rem; background: #fff; border-radius: var(--r-card); overflow: hidden; box-shadow: var(--shadow-1); }
+.fees caption { font-family: var(--display); font-weight: 800; color: var(--navy); text-align: left; font-size: 1.2rem; margin-bottom: 0.6rem; }
+.fees th { background: var(--navy); color: #fff; text-align: left; padding: 0.85rem 1rem; font-family: var(--display); }
+.fees td { padding: 0.8rem 1rem; border-top: 1px solid #e6eaf0; color: var(--ink); }
+.fees tbody tr:nth-child(even) { background: var(--surface-alt); }

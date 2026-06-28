@@ -1,20 +1,9 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
-}
-
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
-}
-
-footer .footer p {
-  margin: 0;
-}
-
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
-  }
-}
+footer { background: #fff; color: var(--ink); border-top: 1px solid #e6eaf0; margin-top: 0; }
+.pp-footer { max-width: var(--maxw); margin: 0 auto; padding: 64px 24px 2rem; }
+.pp-fcols { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 2rem; }
+.pp-fcols h4 { font-family: var(--display); color: var(--navy); font-size: 0.95rem; margin: 0 0 0.9rem; }
+.pp-fcols a { display: block; color: var(--muted); font-size: 0.9rem; padding: 0.25rem 0; }
+.pp-fcols a:hover { color: var(--blue); }
+.pp-fbottom { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #e6eaf0; color: var(--muted); font-size: 0.82rem; }
+.pp-fbottom .pp-logo { height: 22px; }
+.pp-fbottom .pp-logo path { fill: var(--navy); }

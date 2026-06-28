@@ -1,17 +1,20 @@
-import { createOptimizedPicture } from '../../scripts/aem.js';
-
+/**
+ * cards — responsive card grid. One row per card.
+ * Card cell may hold: optional <picture>/<img>, a heading, body <p>, and a link.
+ * A leading icon glyph cell (short, no heading) renders as the .ico badge.
+ */
 export default function decorate(block) {
-  /* change to ul, li */
-  const ul = document.createElement('ul');
   [...block.children].forEach((row) => {
-    const li = document.createElement('li');
-    while (row.firstElementChild) li.append(row.firstElementChild);
-    [...li.children].forEach((div) => {
-      if (div.children.length === 1 && div.querySelector('picture')) div.className = 'cards-card-image';
-      else div.className = 'cards-card-body';
+    row.classList.add('card');
+    const cells = [...row.children];
+    cells.forEach((cell) => {
+      if (cell.querySelector('picture, img')) cell.className = 'card-media';
+      else cell.className = 'card-body';
     });
-    ul.append(li);
+    // promote a short text-only first cell with no heading/link to an icon badge
+    const first = cells[0];
+    if (first && !first.querySelector('h1,h2,h3,h4,a,picture,img') && first.textContent.trim().length <= 3) {
+      first.className = 'card-ico';
+    }
   });
-  ul.querySelectorAll('picture > img').forEach((img) => img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }])));
-  block.replaceChildren(ul);
 }

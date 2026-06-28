@@ -1,33 +1,8 @@
-.columns > div {
-  display: flex;
-  flex-direction: column;
-}
-
-.columns img {
-  width: 100%;
-}
-
-.columns > div > div {
-  order: 1;
-}
-
-.columns > div > .columns-img-col {
-  order: 0;
-}
-
-.columns > div > .columns-img-col img {
-  display: block;
-}
-
-@media (width >= 900px) {
-  .columns > div {
-    align-items: center;
-    flex-direction: unset;
-    gap: 24px;
-  }
-
-  .columns > div > div {
-    flex: 1;
-    order: unset;
-  }
-}
+.columns > div { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
+.columns.reverse > div .col-media { order: 2; }
+.columns .col-media img { border-radius: var(--r-media); width: 100%; box-shadow: var(--shadow-2); }
+.columns .col-copy h2 { color: var(--navy); }
+.columns .col-copy p { color: var(--muted); font-size: 1.1rem; margin: 1rem 0 1.5rem; }
+.columns .col-copy .eyebrow { color: var(--blue); }
+.columns .col-copy p.note, .columns .col-copy sub, .columns .col-copy small { color: var(--muted); font-size: 0.78rem; display: block; margin-top: 1rem; }
+@media (width <= 900px) { .columns > div { grid-template-columns: 1fr; } .columns.reverse > div .col-media { order: 0; } }
