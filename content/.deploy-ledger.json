@@ -1,0 +1,444 @@
+{
+  "/sycamorepartners/approach": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:57:54.445Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/contact": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:57:54.445Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:57:54.445Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:57:54.445Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/atoz-wineworks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:00.067Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/azamara": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:00.067Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/carecentrix": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:00.090Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/digital-room": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:00.764Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/goddard-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:03.936Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/knitwell-group": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:04.228Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/lane-bryant": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:04.439Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/margaritaville-at-sea": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:04.699Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/playa-bowls": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:08.027Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/pure-fishing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:08.296Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/rithum": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:08.485Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/rona": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:08.697Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/shields-health-solutions": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:11.584Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/staples-canada": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:11.866Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/staples-nad": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:12.457Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/staples-us-retail": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:12.734Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/the-boots-group": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:15.426Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/the-limited": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:15.840Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/villagemd": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:16.298Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investment-info/walgreens": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:16.392Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/investments": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:19.235Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/nav": {
+    "status": "verify-fail",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:19.873Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "about:error in delivered html",
+    "lastError": "about:error in delivered html"
+  },
+  "/sycamorepartners/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:20.062Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:20.335Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:22.809Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/commercehub-announces-strategic-investment-from-insight-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:23.525Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/dicks-lumber-acquires-zytech-building-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:23.556Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:24.095Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:26.719Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/gtcr-and-sycamore-partners-complete-acquisition-of-commercehub": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:27.201Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:27.580Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:27.714Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:30.242Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/knitwell-group-adds-chicos-white-house-black-market-and-soma": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:31.024Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:31.042Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:31.566Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:33.984Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/nbg-home-acquires-quoizel": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:34.632Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/pure-fishing-acquires-svendsen-sport": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:34.922Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:35.268Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:37.453Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news-article/shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:38.355Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/news": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:38.809Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/team": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:39.062Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sycamorepartners/terms-privacy-policy-notice": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T16:58:41.359Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

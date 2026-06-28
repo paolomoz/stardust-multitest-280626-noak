@@ -22,9 +22,11 @@ export default async function decorate(block) {
   brand.className = 'nav-brand';
   brand.href = `${root}/`;
   brand.setAttribute('aria-label', 'Sycamore Partners home');
-  const pic = fragment && fragment.querySelector('picture, img');
-  if (pic) brand.append(pic.cloneNode(true));
-  else brand.textContent = 'Sycamore Partners';
+  const logo = document.createElement('img');
+  logo.src = '/icons/sycamore-logo.png';
+  logo.alt = 'Sycamore Partners';
+  logo.width = 290; logo.height = 92;
+  brand.append(logo);
 
   const list = document.createElement('ul');
   list.className = 'nav-links';
