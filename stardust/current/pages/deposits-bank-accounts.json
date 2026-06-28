@@ -1,0 +1,222 @@
+{
+  "slug": "deposits-bank-accounts",
+  "url": "https://www.bankofamerica.com/deposits/bank-accounts/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:50.685Z",
+  "finalUrl": "https://www.bankofamerica.com/deposits/bank-accounts/",
+  "title": "Bank Accounts - Open a Bank of America Account Online Today",
+  "description": "Find a bank account with the features you need to pursue your financial goals. Explore options from Bank of America and open a bank account online today.",
+  "og": {
+    "title": "Bank Accounts - Open a Bank of America Account Online Today",
+    "description": "Find a bank account with the features you need to pursue your financial goals. Explore options from Bank of America and open a bank account online today.",
+    "image": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Enter your zip code"
+    }
+  ],
+  "body": [
+    "Please enter the zip code for your home address so we can give you accurate rate and fee information for your location."
+  ],
+  "ctas": [
+    {
+      "label": "Go",
+      "href": null
+    },
+    {
+      "label": "Online Privacy Policy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf "
+    }
+  ],
+  "links": [
+    "https://www.bankofamerica.com/deposits/bank-accounts/#skip-to-h1",
+    "https://www.bankofamerica.com/deposits/bank-accounts/#",
+    "https://www.bankofamerica.com/",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/online-banking/sign-in/",
+    "https://www.bankofamerica.com/deposits/bank-accounts/es/",
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/",
+    "https://www.bankofamerica.com/deposits/account-fees/",
+    "https://www.bankofamerica.com/deposits/checking/checking-clarity-statement/",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/access-your-accounts.go?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+    "https://www.bankofamerica.com/deposits/savings/savings-accounts/",
+    "https://www.bankofamerica.com/deposits/bank-cds/cd-accounts/",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/",
+    "https://www.bankofamerica.com/deposits/checking/debit-card/",
+    "https://www.bankofamerica.com/deposits/bank-accounts/",
+    "https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/applying-for-accounts-faqs/",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/",
+    "https://itunes.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8%27",
+    "https://itunes.apple.com/us/app/bank-of-america-mobile-banking/id284847138?mt=8",
+    "https://play.google.com/store/apps/details?id=com.infonow.bofa",
+    "https://www.bankofamerica.com/online-banking/iphone-banking-app.go",
+    "https://www.bankofamerica.com/deposits/bank-accounts/#ftn_mobileBankingApp",
+    "https://www.bankofamerica.com/deposits/bank-cds/featured-cd/",
+    "https://www.bankofamerica.com/deposits/bank-cds/standard-term-cd/",
+    "https://www.bankofamerica.com/deposits/bank-cds/flexible-cd/",
+    "https://www.bankofamerica.com/deposits/iras/fdic-insured-iras.go",
+    "https://www.merrilledge.com/retirement/ira?src_cd=bac_deposits_savings",
+    "https://info.bankofamerica.com/en/bofa-rewards",
+    "https://www.bankofamerica.com/deposits/bank-accounts/#ftn_bankAmeriDeals",
+    "https://www.bankofamerica.com/deposits/bank-accounts/#ftn_keepTheChange",
+    "https://promotions.bankofamerica.com/en/deals",
+    "https://www.bankofamerica.com/deposits/manage/keep-the-change.go?request_locale=en_US",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=BBAPRSNL15_ECDEP_A1000&orig=discussiontopic&request_locale=en_US&comment=I%20have%20questions%20about%20a%20Bank%20of%20America%AE%20Core%20Checking%20account",
+    "tel:844.375.7028",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en_US",
+    "http://www.sipc.org/",
+    "https://www.bankofamerica.com/student-banking/",
+    "https://promo.bankofamerica.com/international-banking/",
+    "https://business.bankofamerica.com/en/deposits/checking-accounts",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/savings-iras/",
+    "https://www.merrilledge.com/retirement-planning",
+    "https://www.merrilledge.com/m/pages/mobile/retirement-planning-mobile.aspx?src_cd=bac_ira",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting",
+    "https://bettermoneyhabits.bankofamerica.com/en/personal-banking",
+    "https://www.bankofamerica.com/deposits/routing-number-faqs/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/manage/glossary",
+    "https://www.bankofamerica.com/deposits/savings/savings-goal-calculator/",
+    "https://www.bankofamerica.com/deposits/keep-the-change/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/switch-banks",
+    "https://www.bankofamerica.com/online-banking/sign-in/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/access/setting-up-direct-deposit/",
+    "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/access/request-debit-card/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/resources/deposit-agreements.go?request_locale=en_US",
+    "https://www.bankofamerica.com/contactus/contactus.go?request_locale=en_US",
+    "https://www.bankofamerica.com/help/overview.go?request_locale=en_US",
+    "https://www.bankofamerica.com/accessible-banking/overview",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-US",
+    "https://www.bankofamerica.com/sitemap/personal.go?request_locale=en_US",
+    "https://careers.bankofamerica.com/",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?request_locale=en-us",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-digital-sign-CSX37f66a3e.svg",
+        "alt": "FDIC-Insured - Backed by the full faith and credit of the U.S. Government",
+        "w": 300,
+        "h": 12
+      },
+      {
+        "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-wealth-banner-smalldevice-en-CSX7f123629.svg",
+        "alt": "Bank of America Deposit products:FDIC Insured - Backed by the full faith and credit of the US Government. Investment products are NOT FDIC insured",
+        "w": 375,
+        "h": 60
+      },
+      {
+        "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+        "alt": "Download the Bank of America App",
+        "w": 120,
+        "h": 40
+      },
+      {
+        "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+        "alt": "Download the Bank of America App",
+        "w": 120,
+        "h": 40
+      },
+      {
+        "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-google-play-badge-CSX89f9024.svg",
+        "alt": "Download the Bank of America App",
+        "w": 135,
+        "h": 40
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-engagement-template-bank-accounts-large-CSXe0120dad.png",
+        "alt": "",
+        "w": 1440,
+        "h": 443
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-why-choose-boa-template-bofa-rewards-large-CSX2ccd57ab.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-why-choose-boa-template-piggybank-large-CSXd77ba0d6.jpg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-why-choose-boa-template-map-large-CSXbebe1c9a.jpg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-calendar-black-CSX14dc7e2f.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-contact-black-CSXcce2d264.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+        "alt": "Bank of America Logo ",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 13,
+    "cssBackgrounds": [],
+    "modals": [
+      "Start of dialog contentYou're leaving our websiteYou're going to a website not owned or operated by Bank of America or Merrill. That website is solely responsible for its content, offerings, availability, viewpoints, products or services, and level of security. For more information, refer to its posted privacy policy and terms of use.ContinueCancelEnd of dialog content",
+      "Start of dialog content Dialog Enter your zip code Please enter the zip code for your home address so we can give you accurate rate and fee information for your location.ZIP code * Go End of dialog content",
+      "Cookie Banner We use cookies and other tracking technologies to collect data for advertising, fraud prevention, analytics, and other purposes. By using this website, you agree to the use of these tracking technologies and to the use and disclosure of data in accordance with our Online Privacy Policy and Cookie Policy",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesCalifornia Notice of Right to Opt-Out from Sale/SharingChildren's PrivacySharing and Selling of Personal DataYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. California Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Children's PrivacyAlways ActiveBank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data. For sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website. This setting blocks the collection and use of sensitive information. To learn more about Children’s Privacy, see our Children's Privacy Page.Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Back ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 1,
+    "mainTextLen": 86043,
+    "realImageCount": 13,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

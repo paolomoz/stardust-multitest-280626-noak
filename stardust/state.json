@@ -1,0 +1,31 @@
+{
+  "site": {
+    "originUrl": "https://www.bankofamerica.com/",
+    "extractedAt": "2026-06-28",
+    "pageCap": 11,
+    "totalDiscovered": 385,
+    "crawled": 9,
+    "deliveryHost": "https://site-bankofamerica--stardust-multitest-280626-noak--paolomoz.aem.page",
+    "daSubpath": "/bankofamerica/"
+  },
+  "archetypes": [
+    { "slug": "index", "template": "home", "url": "https://www.bankofamerica.com/" },
+    { "slug": "credit-cards", "template": "category-overview", "url": "https://www.bankofamerica.com/credit-cards/" },
+    { "slug": "credit-cards-cash-back-credit-cards", "template": "product-listing", "url": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/" },
+    { "slug": "auto-loans-auto-loan-faq", "template": "faq-article", "url": "https://www.bankofamerica.com/auto-loans/auto-loan-faq/" },
+    { "slug": "preferred-rewards", "template": "program", "url": "https://www.bankofamerica.com/preferred-rewards/" },
+    { "slug": "customer-service-contact-us-about-bank-of-america", "template": "informational", "url": "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/" },
+    { "slug": "customer-service-contact-us", "template": "contact-hub", "url": "https://www.bankofamerica.com/customer-service/contact-us/" }
+  ],
+  "pages": [
+    { "slug": "index", "status": "extracted", "type": "landing", "template": "home", "currentStatePath": "stardust/current/pages/index.json" },
+    { "slug": "credit-cards", "status": "extracted", "type": "listing", "template": "category-overview", "currentStatePath": "stardust/current/pages/credit-cards.json" },
+    { "slug": "credit-cards-cash-back-credit-cards", "status": "extracted", "type": "listing", "template": "product-listing", "currentStatePath": "stardust/current/pages/credit-cards-cash-back-credit-cards.json" },
+    { "slug": "auto-loans-auto-loan-faq", "status": "extracted", "type": "article", "template": "faq-article", "currentStatePath": "stardust/current/pages/auto-loans-auto-loan-faq.json" },
+    { "slug": "preferred-rewards", "status": "extracted", "type": "program", "template": "program", "currentStatePath": "stardust/current/pages/preferred-rewards.json" },
+    { "slug": "customer-service-contact-us-about-bank-of-america", "status": "extracted", "type": "static", "template": "informational", "currentStatePath": "stardust/current/pages/customer-service-contact-us-about-bank-of-america.json" },
+    { "slug": "customer-service-contact-us", "status": "extracted", "type": "static", "template": "contact-hub", "currentStatePath": "stardust/current/pages/customer-service-contact-us.json" },
+    { "slug": "auto-loans", "status": "gated", "type": "landing", "template": "category-overview", "note": "state-selection SPA gate; under-captured", "currentStatePath": "stardust/current/pages/auto-loans.json" },
+    { "slug": "deposits-bank-accounts", "status": "gated", "type": "listing", "template": "product-listing", "note": "state-selection SPA gate; under-captured", "currentStatePath": "stardust/current/pages/deposits-bank-accounts.json" }
+  ]
+}

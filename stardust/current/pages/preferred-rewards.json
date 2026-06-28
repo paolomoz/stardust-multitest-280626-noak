@@ -1,0 +1,404 @@
+{
+  "slug": "preferred-rewards",
+  "url": "https://www.bankofamerica.com/preferred-rewards/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:31:56.630Z",
+  "finalUrl": "https://info.bankofamerica.com/en/rewards/bofa-rewards",
+  "title": "BofA Rewards – Personalized Banking Benefits & Rewards",
+  "description": "Explore BofA Rewards™, a new loyalty program offering personalized benefits and more ways to make the most of your banking relationship. Join today.",
+  "og": {
+    "title": "BofA Rewards – Personalized Banking Benefits & Rewards",
+    "description": "Explore BofA Rewards™, a new loyalty program offering personalized benefits and more ways to make the most of your banking relationship. Join today.",
+    "image": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "See your estimated BofA Rewards value"
+    },
+    {
+      "tag": "h2",
+      "text": "Here’s how to get rewarded"
+    },
+    {
+      "tag": "h3",
+      "text": "Bank of America customers"
+    },
+    {
+      "tag": "h3",
+      "text": "New to Bank of America"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What is the BofA Rewards program?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I move up to a higher tier?"
+    },
+    {
+      "tag": "h3",
+      "text": "What happens if my average balance drops?"
+    },
+    {
+      "tag": "h2",
+      "text": "Score more with BofA Rewards"
+    }
+  ],
+  "body": [
+    "To get started, tell us about your combined eligible Bank of America deposit and Merrill investing balance.",
+    "Bank of America customers All you need is an eligible Bank of America personal checking account to join. There’s no minimum balance required and there are no fees to join.",
+    "All you need is an eligible Bank of America personal checking account to join. There’s no minimum balance required and there are no fees to join.",
+    "New to Bank of America There are no fees16 to join. Simply open an eligible Bank of America personal checking account to get started.",
+    "There are no fees16 to join. Simply open an eligible Bank of America personal checking account to get started.",
+    "We understand that you may have questions. Here are answers to many frequently asked questions along with helpful videos to ensure you get the most from your BofA Rewards benefits.",
+    "BofA is proud to deliver perks and discounts to BofA Rewards members through our sports, arts and culture partnerships."
+  ],
+  "ctas": [
+    {
+      "label": "Calculate Rewards Value",
+      "href": null
+    },
+    {
+      "label": "personal checking account",
+      "href": "https://www.bankofamerica.com/deposits/checking/advantage-banking/"
+    },
+    {
+      "label": "16",
+      "href": "#disclosure-728704391"
+    },
+    {
+      "label": "Join now",
+      "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=myrwrds_prbr&screen=MyRewards:PreferredRewards&version=7.9.0"
+    },
+    {
+      "label": "Eligibility",
+      "href": null
+    },
+    {
+      "label": "Benefits",
+      "href": null
+    },
+    {
+      "label": "Accounts",
+      "href": null
+    },
+    {
+      "label": "Helpful videos",
+      "href": null
+    },
+    {
+      "label": "What is the BofA Rewards program?",
+      "href": null
+    },
+    {
+      "label": "How do I move up to a higher tier?",
+      "href": null
+    },
+    {
+      "label": "What happens if my average balance drops?",
+      "href": null
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go"
+    },
+    {
+      "label": "CEBI Program",
+      "href": "https://promo.bankofamerica.com/cebi-disclosures"
+    },
+    {
+      "label": "1",
+      "href": "#footnote-793228113-0"
+    },
+    {
+      "label": "BofA Rewards",
+      "href": "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=myrwrds_prbr&version=7.9.0&screen=MyRewards:PreferredRewards&mboxDisable=1&channel=desktop&adobe_authoring_enabled=1"
+    },
+    {
+      "label": "View a complete list of ineligible cards.",
+      "href": "/content/experience-fragments/consumer-info/en/rewards/bofa_rewards/modal/disclosure-2-popup/master"
+    },
+    {
+      "label": "bankofamerica.com/deals",
+      "href": "https://bankofamerica.com/deals"
+    },
+    {
+      "label": "bofa.com/MyCredit",
+      "href": "https://info.bankofamerica.com/en/digital-banking/my-credit?cm_mmc=OLB-FreeCreditScore-_-vanity-_-OS01VN0002_mycredit-_-N/A"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/"
+    },
+    {
+      "label": "Merrill Guided Investing Program Brochure (PDF)",
+      "href": "https://olui2.fs.ml.com/publish/content/application/pdf/gwmol/merrill-edge-guided-investing-program-brochure.pdf"
+    },
+    {
+      "label": "Merrill Guided Investing with Advisor Program Brochure (PDF",
+      "href": "https://olui2.fs.ml.com/publish/content/application/pdf/gwmol/guided-investing-program-brochure.pdf"
+    },
+    {
+      "label": "16",
+      "href": "#footnote-728704391-0"
+    },
+    {
+      "label": "Member SIPC",
+      "href": "http://www.sipc.org/"
+    },
+    {
+      "label": "Locations",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "Contact us",
+      "href": "https://www.bankofamerica.com/contactus/contactus.go?request_locale=en_US"
+    },
+    {
+      "label": "Help & Support",
+      "href": "https://www.bankofamerica.com/help/overview.go?request_locale=en_US"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Children's Privacy",
+      "href": "https://www.bankofamerica.com/childrens-privacy"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": "#"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "#lot"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#lot"
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup"
+    },
+    {
+      "label": "Cookie Policy (PDF)",
+      "href": "https://web.bankofamerica.com/content/dam/consumer/web/privacy/pdf/Cookie_Guide_Multilingual.pdf"
+    },
+    {
+      "label": "Data Protection Notice",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Manage Cookie Settings",
+      "href": null
+    },
+    {
+      "label": "Reject All Optional Cookies",
+      "href": null
+    },
+    {
+      "label": "Accept All Optional Cookies",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#",
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#main-content",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/customer-service/contact-us/",
+    "https://info.bankofamerica.com/es/rewards/bofa-rewards.html",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/deeplink/redirect.go?target=myrwrds_prbr&screen=MyRewards:PreferredRewards&version=7.9.0",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-793228113",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1758928848",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-16118513",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1726691822",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-825465139",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-917345196",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1634811765",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-107998570",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-728704391",
+    "https://info.bankofamerica.com/content/experience-fragments/consumer-info/en/rewards/bofa_rewards/modal/default-faq-qualifying-accounts/master",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards/lifestyle-benefits",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=creditscore&channel=desktop&screen=FICO:Home&version=7.0.0",
+    "https://www.bankofamerica.com/auto-loans/",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1538051017",
+    "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/",
+    "https://business.bankofamerica.com/preferred-rewards-business",
+    "https://www.bankofamerica.com/preferred-rewards/increasing-preferred-rewards-with-credit-cards/",
+    "https://promotions.bankofamerica.com/en/deals",
+    "https://info.bankofamerica.com/en/digital-banking/my-credit",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1850808905",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-rates/",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1699335487",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-852821474",
+    "https://www.bankofamerica.com/mortgage/home-mortgage/",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-889988861",
+    "https://www.bankofamerica.com/foreign-exchange/foreign-currency-exchange/",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1662168100",
+    "https://www.merrilledge.com/investing/merrill-guided-investing",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-1823452570",
+    "https://www.merrilledge.com/pricing",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-rates",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#disclosure-80642235",
+    "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go",
+    "https://promo.bankofamerica.com/cebi-disclosures",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#footnote-793228113-0",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=myrwrds_prbr&version=7.9.0&screen=MyRewards:PreferredRewards&mboxDisable=1&channel=desktop&adobe_authoring_enabled=1",
+    "https://info.bankofamerica.com/content/experience-fragments/consumer-info/en/rewards/bofa_rewards/modal/disclosure-2-popup/master",
+    "https://bankofamerica.com/deals",
+    "https://info.bankofamerica.com/en/digital-banking/my-credit?cm_mmc=OLB-FreeCreditScore-_-vanity-_-OS01VN0002_mycredit-_-N/A",
+    "https://olui2.fs.ml.com/publish/content/application/pdf/gwmol/merrill-edge-guided-investing-program-brochure.pdf",
+    "https://olui2.fs.ml.com/publish/content/application/pdf/gwmol/guided-investing-program-brochure.pdf",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#footnote-728704391-0",
+    "http://www.sipc.org/",
+    "https://www.bankofamerica.com/contactus/contactus.go?request_locale=en_US",
+    "https://www.bankofamerica.com/help/overview.go?request_locale=en_US",
+    "https://web.bankofamerica.com/en/security",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards#lot",
+    "https://www.facebook.com/BankofAmerica",
+    "https://www.instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america/",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://www.bankofamerica.com/help/equalhousing-popup",
+    "https://web.bankofamerica.com/content/dam/consumer/web/privacy/pdf/Cookie_Guide_Multilingual.pdf",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/masthead/optimized-images/masthead_large.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 493
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/masthead/rewards_logo_white.png",
+        "alt": "BofA Rewards",
+        "w": 204,
+        "h": 28
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/immersive-tabs/optimized-images/immersive-member-large.jpg",
+        "alt": "A couple seated in a theater, applauding a performance",
+        "w": 1440,
+        "h": 1024
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/immersive-tabs/optimized-images/immersive-preferredplus-large.jpg",
+        "alt": "A family prepping for an outdoor adventure outside their van",
+        "w": 1440,
+        "h": 1024
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/immersive-tabs/optimized-images/immersive-preferredhonors-large.jpg",
+        "alt": "A woman enjoying an ice cream cone as she takes an evening walk along a harbor",
+        "w": 1440,
+        "h": 1024
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/immersive-tabs/optimized-images/immersive-premier-large.jpg",
+        "alt": "A man in a tuxedo enjoying cocktails with friends at an upscale restaurant",
+        "w": 1440,
+        "h": 1024
+      },
+      {
+        "src": "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/masthead/optimized-images/fifa_en_large.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 630
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/images/house.svg",
+        "alt": "house icon",
+        "w": 208,
+        "h": 150
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/5a21514a-3b71-4677-b52d-207b6f11ff68/fceb4368-db91-43cf-af24-36ac5b5badc2/BOA.PNG",
+        "alt": "Company Logo",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 11,
+    "cssBackgrounds": [
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/masthead/optimized-images/masthead_large.jpg",
+      "https://cfvod.kaltura.com/p/4699762/sp/469976200/thumbnail/entry_id/1_aat28qal/version/100031/height/608/width/1080",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/immersive-tabs/optimized-images/immersive-member-large.jpg",
+      "https://info.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-global/resources/images/flagscape/dimensional/family-3/dimpattern3_darkred_weight-med__desktop.webp",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/masthead/optimized-images/fifa_en_large.jpg",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/modals/optimized-images/modal-member-large.jpg",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/modals/optimized-images/modal-preferredplus-large.jpg",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/modals/optimized-images/modal-preferredhonors-large.jpg",
+      "https://info.bankofamerica.com/content/dam/consumer-info/en/rewards-bofarewards/modals/optimized-images/modal-premier-large.jpg"
+    ],
+    "modals": [
+      "× Important notice: You are now leaving a Bank of America website. By clicking Continue you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use. You can click the Continue button to proceed or the Cancel button to return to the previous page. Continue Cancel Advertising Practices We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that. Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the Digital Advertising Alliance or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.",
+      "Member No minimum balance required Preferred Plus $30K+ combined average 3-month balance Preferred Honors $100K+ combined average 3-month balance Premier $1M+ combined average 3-month balance",
+      "Member No minimum balance required. Start earning right away. As a BofA Rewards member, all you need is a Bank of America personal checking account to get started. Credit card rewards bonus Enjoy a 10% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Fraud and identity monitoring Help keep your information secure with fraud and identity monitoring features with My Credit.4 Discounts on home loans Get $100 off mortgage origination fees.9 Discounts on auto loans Enjoy 0.10% off your auto loan interest rate on applications submitted directly to Bank of America.10",
+      "Preferred Plus $30K+ combined average 3-month balance Enjoy enhanced rewards that power your progress. All benefits Save every day Save on big purchases Maximize your travel Credit card rewards bonus Enjoy a 25% rewards bonus on eligible cash back, points and travel rewards cards.2 Waived monthly maintenance fees Keep more each month with no monthly maintenance fee on checking and savings accounts.6 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Fraud and identity monitoring Help keep your information secure with fraud and identity monitoring features with My Credit.4 ATM waivers and credits Use any ATM domestically – even non-Bank of America, at no fee.11 Priority service Priority service gives you access to dedicated specialists at 888.888.7937. No fees on select banking services Enjoy no fee on select banking services.*6 Discounts on auto loans Enjoy 0.25% off your auto loan interest rate on applications submitted directly to Bank of America.10 Discounts on home loans and HELOCs Get $300 off mortgage origination fees,5 plus a HELOC interest rate discount of 0.250%.†9 Wire fee waivers Waived fees on inbound wire transaction to move your money with ease.12 Discounts on foreign currency exchange rates 0.5% exchange rate discount on Mobile and Online banking orders plus free standard shipping.13 ​Merrill Guided Investing Save 0.10% off the annual Merrill Guided Investing program fee to help grow your future. Other fees may apply.‡15 * Standard Order Check Design or $10 discount on other check designs, Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers. † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. ‡ Other fees may apply. Sales of ETFs are subject to a transaction fee of between $0.01 and $0.03 per $1,000 of principal. There are costs associated with owning ETFs and mutual funds. To learn more about Merrill pricing, visit merrilledge.com/pricing. Credit card rewards bonus Enjoy a 25% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Waived monthly maintenance fees Keep more each month with no monthly maintenance fee on checking and savings accounts.6 No fees on select banking services Enjoy no fee on select banking services.*6 ATM waivers and credits Use any ATM domestically – even non-Bank of America, at no fee.11 * Standard Order Check Design or $10 discount on other check designs, Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers. Discounts on home loans and HELOCs Get $300 off mortgage origination fees,5 plus a HELOC interest rate discount of 0.250%.†9 Discounts on auto loans Enjoy 0.25% off your auto loan interest rate on applications submitted directly to Bank of America.10 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. Credit card rewards bonus Enjoy a 25% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Discounts on foreign currency exchange rates 0.5% exchange rate discount on Mobile and Online banking orders plus free standard shipping.13",
+      "Preferred Honors $100K+ combined average 3-month balance Enjoy an elevated rewards experience with benefits that accelerate your ambitions. All benefits Save every day Save on big purchases Maximize your travel Credit card rewards bonus Enjoy a 50% rewards bonus on eligible cash back, points, and travel rewards cards.2 Subscription credits Get up to $96 in annual credits to pay for your favorite streaming and news services.7 Lifestyle benefits Immerse yourself in lifestyle offers and experiences across curated categories.8 Fraud and identity monitoring Help keep your information secure with fraud and identity monitoring features with My Credit.4 Waived monthly maintenance fees No monthly maintenance fee on checking and savings accounts, so you can put more towards your goals.6 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 ATM waivers and credits Experience no ATM fees, no matter where you transact domestically.11 No fees on select banking services Enjoy no fee on select banking services.*6 Priority service Reach dedicated specialists for faster, personalized support at 888.888.7937. Discounts on foreign currency exchange rates 1% exchange rate discount on Mobile and Online banking orders plus free standard shipping.13 Wire fee waivers Waived fees on inbound wire transaction to move your money with ease.12 Discounts on auto loans Enjoy 0.35% off your auto loan interest rate on applications submitted directly to Bank of America.10 Discounts on home loans and HELOCs Get $600 off mortgage origination fees,5 plus a HELOC interest rate discount of 0.375%.†9 Merrill Guided Investing​ Save 0.15% off the annual Merrill Guided Investing program fee, with guidance to accelerate your financial ambitions. ​Other fees may apply.‡15 * Standard Order Check Design or $10 discount on other check designs, Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers. † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. ‡ Other fees may apply. Sales of ETFs are subject to a transaction fee of between $0.01 and $0.03 per $1,000 of principal. There are costs associated with owning ETFs and mutual funds. To learn more about Merrill pricing, visit merrilledge.com/pricing. Credit card rewards bonus Enjoy a 50% rewards bonus on eligible cash back, points and travel rewards cards.2 Subscription credits Get up to $96 in annual credits to pay for your favorite streaming and news services.7 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Waived monthly maintenance fees No monthly maintenance fee on checking and savings accounts, so you can put more towards your goals.6 No fees on select banking services Enjoy no fee on select banking services.*6 ATM waivers and credits Experience no ATM fees, no matter where you transact domestically.11 * Standard Order Check Design or $10 discount on other check designs, Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers. Discounts on home loans and HELOCs Get $600 off mortgage origination fees,5 plus a HELOC interest rate discount of 0.375%.†9 Discounts on auto loans Enjoy 0.35% off your auto loan interest rate on applications submitted directly to Bank of America.10 Lifestyle benefits Immerse yourself in lifestyle offers and experiences across curated categories.8 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. Credit card rewards bonus Enjoy a 50% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Lifestyle benefits Immerse yourself in lifestyle offers and experiences across curated categories.8 Discounts on foreign currency exchange rates 1% exchange rate discount on Mobile and Online banking orders plus free standard shipping.13",
+      "Premier $1M+ combined average 3-month balance Unlock access to premium benefits that celebrate your achievements and keep you moving toward what's next. All benefits Save every day Save on big purchases Maximize your travel Credit card rewards bonus Enjoy a 75% rewards bonus on eligible cash back, points and travel rewards cards.2 Lifestyle benefits Premium access to immersive lifestyle offers and one-of-a-kind experiences.8 Subscription credits Enjoy up to $180 in annual credits to use on top streaming and news subscription services you love.7 Fraud and identity monitoring Experience a suite of fraud and identity monitoring features, with My Credit.4 Waived monthly maintenance fees Enjoy no monthly maintenance fee on checking and savings accounts as a part of the value your relationship unlocks.6 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 ATM waivers and credits Enjoy global ATM access with no fees – ever.11 Priority service Reach dedicated specialists for faster, personalized support at 888.888.7937. No international transaction fees Use your debit card globally, with no fees on foreign purchases.14 No fees on select banking services Enjoy no fee on select banking services.*6 Discounts on foreign currency exchange rates 2% exchange rate discount on Mobile and Online Banking orders plus free standard shipping.13 Wire fee waivers Waived fees on wire transactions to move your money with freedom and ease.12 Discounts on auto loans Enjoy 0.50% off your auto loan interest rate on applications submitted directly to Bank of America.10 Discounts on home loans and HELOCs Get a 0.375% discount on mortgage rates,5 plus a HELOC interest rate discount of 0.625%.†9 Merrill Guided Investing​ Save 0.15% off the annual Merrill Guided Investing program fee, with guidance to accelerate your financial ambitions. ​Other fees may apply.‡15 * Refer to our Personal Schedule of Fees for information on which fees are waived for BofA Rewards members and other Program benefits. Premier Tier waived fees include: Check orders (incl. No Style limitations, free deposit tickets, free expedited shipping), Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers, Overdraft Item Fee, Int’l Debit Card Foreign Currency Transaction Fee, Outgoing Domestic Wire Transfers, Outgoing International Wire Transfers, and Non-Bank of America Teller Withdrawal Fee. IRA Direct Custodian Transfer Processing Fees and Early CD Withdrawal Penalties are excluded from this benefit. † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. ‡ Other fees may apply. Sales of ETFs are subject to a transaction fee of between $0.01 and $0.03 per $1,000 of principal. There are costs associated with owning ETFs and mutual funds. To learn more about Merrill pricing, visit merrilledge.com/pricing. Credit card rewards bonus Enjoy a 75% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Subscription credits Enjoy up to $180 in annual credits to use on top streaming and news subscription services you love.7 Waived monthly maintenance fees Enjoy no monthly maintenance fee on checking and savings accounts, so you can put more towards your goals.6 No fees on select banking services Enjoy no fee on select banking services.*6 ATM waivers and credits Experience no ATM fees, no matter where you transact domestically.11 * Refer to our Personal Schedule of Fees for information on which fees are waived for BofA Rewards members and other Program benefits. Premier Tier waived fees include: Check orders (incl. No Style limitations, free deposit tickets, free expedited shipping), Debit Card Rush, Stop Payment Fee, Cashier’s Checks, Standard Shipping on Digital FX Orders, In-bound Domestic Wire Transfers, In-bound International Wire Transfers, Overdraft Item Fee, Int’l Debit Card Foreign Currency Transaction Fee, Outgoing Domestic Wire Transfers, Outgoing International Wire Transfers, and Non-Bank of America Teller Withdrawal Fee. IRA Direct Custodian Transfer Processing Fees and Early CD Withdrawal Penalties are excluded from this benefit. Discounts on home loans and HELOCs Get a 0.375% discount on mortgage rates,5 plus a HELOC rate discount of 0.625%.†9 Discounts on auto loans Enjoy 0.50% off your auto loan interest rate on applications submitted directly to Bank of America.10 Lifestyle benefits Premium access to immersive lifestyle offers and one-of-a-kind experiences.8 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 † PayPlan required for mortgage interest rate discount. HELOC rate discount reflects the discounts available through BofA Rewards; it does not include PayPlan discounts. BofA Rewards members enrolled in PayPlan will receive a higher total HELOC rate discount. Credit card rewards bonus Enjoy a 75% rewards bonus on eligible cash back, points and travel rewards cards.2 Cash back deals on popular brands From dining to décor, entertainment to travel, enjoy cash back from top brands.3 Lifestyle benefits Premium access to immersive lifestyle offers and one-of-a-kind experiences.8 Discounts on foreign currency exchange rates 2% exchange rate discount on Mobile and Online Banking orders plus free standard shipping.13 No international transaction fees Use your debit card globally, with no fees on foreign purchases.14",
+      "This site stores cookies on your device that contain information about you and your preferences. Strictly Necessary cookies are not optional and help our site run smoothly. Other categories of cookies are optional and can help create customised experiences. Manage optional cookie categories by selecting from the below buttons. If you click X or the Reject All Optional Cookies button, you will be opted out of all cookies except Strictly Necessary cookies. You can access your preferences as well as cookie and details about our partners at any time on the Application Home Page by clicking Your Privacy Choices. Cookie Policy (PDF) Data Protection Notice Manage Cookie SettingsReject All Optional Cookies Accept All Optional Cookies",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesSharing and Selling of Personal DataAdvertisingPerformancePreferenceChildren's PrivacyStrictly NecessaryCalifornia Notice of Right to Opt-Out from Sale/SharingYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Cookies DetailsAdvertising Advertising Advertising cookies are used to deliver advertisements that may be relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. They are usually placed by our advertising partners and remember that you have visited a site. This information may be shared with other organizations such as advertisers. Cookies DetailsPerformance Performance Performance cookies enable us to measure and improve the performance of our site. They collect information about how visitors use a website, for instance which pages visitors go to most often and if they get error messages from web pages. They can also be used to analyze browsing behavior for marketing research. Cookies DetailsPreference Preference Preference cookies enable the site to provide enhanced functionality and personalization by allowing a website to remember choices you make. They can be used to remember changes you have made to text size, fonts and other parts of web pages that you may have customized as well as pre-filling forms. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. Cookies DetailsChildren's Privacy Children's Privacy Bank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data. For sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website. This setting blocks the collection and use of sensitive information. To learn more about Children’s Privacy, see our Children's Privacy Page.Cookies DetailsStrictly NecessaryAlways ActiveThese cookies are necessary to function and cannot be switched off in our systems. Without these cookies, this site will not work properly. Examples include setting your privacy preferences, setting your language preferences or logging into a secured area requiring authentication. They may also detect transmission errors, data loss or distribute network traffic across different servers to ensure accessibility.Cookies DetailsCalifornia Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Cookies DetailsBack ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ]
+  },
+  "customProps": {
+    "--unityContentBannerHeight": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 61481,
+    "realImageCount": 11,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

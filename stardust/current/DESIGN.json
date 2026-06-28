@@ -1,0 +1,33 @@
+{
+  "colors": {
+    "navy": "#012169",
+    "actionBlue": "#0053C2",
+    "red": "#E31837",
+    "ink": "#000000",
+    "slate": "#646464",
+    "background": "#FFFFFF",
+    "surface": "#F7F4F4",
+    "surfaceCool": "#F3F6FF"
+  },
+  "typography": {
+    "heading": "Connections, Arial, sans-serif",
+    "body": "Roboto, Arial, Helvetica, sans-serif",
+    "base": "16px",
+    "scale": ["14px","16px","18px","20px","24px","32px","36px","48px"],
+    "weights": ["300","400","500","700"]
+  },
+  "rounded": { "button": "24px", "card": "14px", "chip": "4px" },
+  "spacing": "8px",
+  "extensions": {
+    "componentStyle": {
+      "button": "pill, primary = action blue / navy fill white text; secondary = navy outline",
+      "card": "rounded 14px, soft shadow rgba(0,0,0,0.12) 0 2px 20px, image-led",
+      "trustStrip": "FDIC-insured + Equal Housing Lender, small print"
+    },
+    "motifs": ["pill-button","rounded-soft-shadow-card","masthead-offer-carousel","fdic-trust-strip","image-led-product-card"],
+    "voice": {
+      "tagline": "What would you like the power to do?",
+      "ctas": ["Apply now","Learn more","Open an account","Compare cards","Get started"]
+    }
+  }
+}

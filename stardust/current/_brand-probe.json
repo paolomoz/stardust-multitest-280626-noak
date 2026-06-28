@@ -1,0 +1,312 @@
+{
+  "colors": [
+    [
+      "rgb(0, 0, 0)",
+      1715
+    ],
+    [
+      "rgb(100, 100, 100)",
+      833
+    ],
+    [
+      "rgb(255, 255, 255)",
+      360
+    ],
+    [
+      "rgb(0, 83, 194)",
+      316
+    ],
+    [
+      "rgb(1, 33, 105)",
+      70
+    ],
+    [
+      "rgb(51, 51, 51)",
+      37
+    ],
+    [
+      "rgb(107, 94, 81)",
+      27
+    ],
+    [
+      "rgb(220, 20, 49)",
+      15
+    ],
+    [
+      "rgb(13, 27, 167)",
+      6
+    ],
+    [
+      "rgb(227, 24, 55)",
+      5
+    ],
+    [
+      "rgb(47, 66, 255)",
+      3
+    ],
+    [
+      "rgb(85, 85, 85)",
+      1
+    ]
+  ],
+  "bg": [
+    [
+      "rgb(255, 255, 255)",
+      100
+    ],
+    [
+      "rgb(247, 244, 244)",
+      38
+    ],
+    [
+      "rgb(1, 33, 105)",
+      31
+    ],
+    [
+      "rgb(245, 245, 245)",
+      25
+    ],
+    [
+      "rgb(0, 0, 0)",
+      5
+    ],
+    [
+      "rgba(255, 255, 255, 0.72)",
+      4
+    ],
+    [
+      "rgb(243, 246, 255)",
+      4
+    ],
+    [
+      "rgb(196, 18, 48)",
+      3
+    ],
+    [
+      "rgb(47, 66, 255)",
+      2
+    ],
+    [
+      "rgb(246, 246, 246)",
+      1
+    ],
+    [
+      "rgb(165, 14, 40)",
+      1
+    ],
+    [
+      "rgb(0, 115, 207)",
+      1
+    ]
+  ],
+  "fontFamilies": [
+    [
+      "roboto-regular, Arial, Helvetica, sans-serif",
+      941
+    ],
+    [
+      "Connections, Arial, sans-serif",
+      711
+    ],
+    [
+      "roboto-regular",
+      486
+    ],
+    [
+      "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      422
+    ],
+    [
+      "Connections",
+      297
+    ],
+    [
+      "cnx-regular, Arial, Helvetica, sans-serif",
+      243
+    ],
+    [
+      "roboto-medium, Arial, Helvetica, sans-serif",
+      158
+    ],
+    [
+      "cnx-light",
+      20
+    ],
+    [
+      "cnx-light, Arial, Helvetica, sans-serif",
+      19
+    ],
+    [
+      "Lato, \"Helvetica Neue\", \"Segoe UI\", sans-serif",
+      16
+    ],
+    [
+      "roboto-medium",
+      13
+    ],
+    [
+      "sans-serif",
+      12
+    ]
+  ],
+  "fontSizes": [
+    [
+      "16px",
+      1506
+    ],
+    [
+      "14px",
+      727
+    ],
+    [
+      "18px",
+      166
+    ],
+    [
+      "20px",
+      114
+    ],
+    [
+      "12px",
+      43
+    ],
+    [
+      "32px",
+      36
+    ],
+    [
+      "9.9px",
+      24
+    ],
+    [
+      "24px",
+      19
+    ],
+    [
+      "36px",
+      9
+    ],
+    [
+      "48px",
+      9
+    ],
+    [
+      "70px",
+      8
+    ],
+    [
+      "28px",
+      5
+    ]
+  ],
+  "radii": [
+    [
+      "2px",
+      42
+    ],
+    [
+      "22px",
+      41
+    ],
+    [
+      "24px",
+      37
+    ],
+    [
+      "16px",
+      7
+    ],
+    [
+      "4px",
+      6
+    ],
+    [
+      "12px",
+      6
+    ],
+    [
+      "44px",
+      5
+    ],
+    [
+      "8px",
+      4
+    ],
+    [
+      "10px",
+      4
+    ],
+    [
+      "32px",
+      4
+    ],
+    [
+      "50%",
+      3
+    ],
+    [
+      "12px 12px 0px 0px",
+      1
+    ]
+  ],
+  "shadows": [
+    [
+      "rgba(0, 0, 0, 0.12) 0px 2px 20px 0px",
+      6
+    ],
+    [
+      "rgba(0, 0, 0, 0) 0px 0px 0px 1px inset",
+      3
+    ],
+    [
+      "rgb(145, 145, 145) 0px 0px 1px 0px",
+      1
+    ],
+    [
+      "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+      1
+    ],
+    [
+      "rgb(0, 83, 194) 0px 0px 0px 1.5px inset",
+      1
+    ]
+  ],
+  "weights": [
+    [
+      "400",
+      2247
+    ],
+    [
+      "700",
+      182
+    ],
+    [
+      "300",
+      101
+    ],
+    [
+      "500",
+      100
+    ],
+    [
+      "100",
+      50
+    ],
+    [
+      "600",
+      7
+    ],
+    [
+      "900",
+      2
+    ]
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_722_8080371_e.svg",
+    "alt": "$100 cash offer, $300 cash offer, $500 cash offer."
+  },
+  "favicon": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png",
+  "appleTouch": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png",
+  "themeColor": "#ffffff"
+}

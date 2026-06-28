@@ -1,0 +1,64 @@
+{
+  "_provenance": {
+    "source": "https://www.bankofamerica.com/",
+    "method": "playwright headless crawl (crawl.mjs) + brand-probe.mjs computed-style aggregation over home, credit-cards, cash-back, preferred-rewards",
+    "fetchedAt": "2026-06-28",
+    "notes": "Palette/type aggregated cross-page. Logo from real captured BoA wordmark PNG (consent-banner asset). No hero motion (static masthead carousel)."
+  },
+  "logo": {
+    "primary": "assets/logo.png",
+    "format": "png",
+    "intrinsic": "849x84",
+    "description": "Bank of America flagscape mark + 'Bank of America' wordmark, navy + red on white",
+    "source": "real captured asset (OneTrust consent-banner logo)"
+  },
+  "favicon": {
+    "file": "assets/favicon.png",
+    "intrinsic": "180x180",
+    "appleTouch": true,
+    "source": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "palette": {
+    "navy":       { "hex": "#012169", "rgb": "1,33,105",   "role": "primary brand / dark surface / headings", "freq": "high" },
+    "actionBlue": { "hex": "#0053C2", "rgb": "0,83,194",    "role": "links / primary action / accent", "freq": "very high" },
+    "red":        { "hex": "#E31837", "rgb": "227,24,55",   "role": "brand accent (flagscape red) / alerts", "freq": "med" },
+    "redDeep":    { "hex": "#C41230", "rgb": "196,18,48",   "role": "brand red hover/deep", "freq": "low" },
+    "ink":        { "hex": "#000000", "rgb": "0,0,0",       "role": "body text", "freq": "very high" },
+    "slate":      { "hex": "#646464", "rgb": "100,100,100", "role": "secondary text", "freq": "high" },
+    "background": { "hex": "#FFFFFF", "rgb": "255,255,255", "role": "page background", "freq": "very high" },
+    "surface":    { "hex": "#F7F4F4", "rgb": "247,244,244", "role": "warm light surface / sections", "freq": "med" },
+    "surfaceCool":{ "hex": "#F3F6FF", "rgb": "243,246,255", "role": "cool tint surface (blue-wash)", "freq": "low" }
+  },
+  "type": {
+    "headingFamily": "Connections, Arial, sans-serif",
+    "bodyFamily": "roboto-regular, Arial, Helvetica, sans-serif",
+    "note": "Connections is Bank of America's proprietary brand typeface; Roboto is the body workhorse. Web fallback to Arial/Helvetica. Migration substitutes a faithful free pairing (see DESIGN).",
+    "weights": ["300", "400", "500", "700"],
+    "baseSize": "16px",
+    "secondarySize": "14px",
+    "scaleSizes": ["14px", "16px", "18px", "20px", "24px", "32px", "36px", "48px"],
+    "scaleAudit": { "kind": "ad-hoc" }
+  },
+  "motifs": {
+    "borderRadius": { "buttons": "22-24px (pill)", "cards": "12-16px", "chips": "2-4px" },
+    "shadowStack": [
+      "rgba(0,0,0,0.12) 0px 2px 20px 0px",
+      "rgba(0,0,0,0.2) 0px 0px 18px 0px"
+    ],
+    "patterns": ["pill-button", "rounded-card-with-soft-shadow", "image-led product cards", "masthead offer carousel", "FDIC-insured trust strip"]
+  },
+  "voice": {
+    "tagline": "What would you like the power to do?",
+    "purpose": "At Bank of America, our purpose is to help make financial lives better through the power of every connection.",
+    "ctaSamples": ["Apply now", "Learn more", "Get started", "Open an account", "Compare cards"],
+    "heroImage": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-background-images-mh_6pcent_1440_8478822_e.webp",
+    "heroMedium": null,
+    "register": "brand"
+  },
+  "systemComponents": {
+    "header": "Global utility nav (Locations / Contact / Help / Sign in) + primary nav (Personal / Small Business / Wealth / Businesses & Institutions) + flagscape logo + search + Sign in / Open an account CTAs",
+    "footer": "Multi-column footer: products, company, legal/privacy, FDIC + Equal Housing Lender disclosures, social links, copyright",
+    "trustStrip": "FDIC-Insured statement + Equal Housing Lender",
+    "appPromo": "Download the Bank of America Mobile App (App Store / Google Play badges)"
+  }
+}

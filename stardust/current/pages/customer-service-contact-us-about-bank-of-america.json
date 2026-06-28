@@ -1,0 +1,345 @@
+{
+  "slug": "customer-service-contact-us-about-bank-of-america",
+  "url": "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:43.922Z",
+  "finalUrl": "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/",
+  "title": "Bank of America About Us",
+  "description": "Get the facts about Bank of America. From our locations and corporate philanthropy to our privacy and security policies, the Bank of America About Us section offers a wide range of news and information.",
+  "og": {
+    "title": "Bank of America About Us",
+    "description": "Get the facts about Bank of America. From our locations and corporate philanthropy to our privacy and security policies, the Bank of America About Us section offers a wide range of news and information.",
+    "image": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Bank of America About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Call us"
+    },
+    {
+      "tag": "h3",
+      "text": "Your card or account number will be required."
+    },
+    {
+      "tag": "h3",
+      "text": "General account informationLost or stolen ATM or debit cardOpening an account"
+    },
+    {
+      "tag": "h3",
+      "text": "Neighborhood buildersStudent leadersLocal grantsMatching giftsVolunteer grants"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQs"
+    },
+    {
+      "tag": "h2",
+      "text": "Find ATMs & financial centers"
+    },
+    {
+      "tag": "h2",
+      "text": "Schedule an appointment"
+    }
+  ],
+  "body": [
+    "Log in",
+    "Locations",
+    "Use our financial center locator to find a convenient location or ATM near you.",
+    "Make an appointment to open an account or discuss your financial concerns at your convenience.",
+    "Locations",
+    "Contact Us",
+    "Help & Support",
+    "Browse with Specialist",
+    "Accessible Banking",
+    "Privacy",
+    "Children’s Privacy",
+    "Security",
+    "Online Banking Service Agreement",
+    "Advertising Practices",
+    "Site Map",
+    "Careers",
+    "Share Your Feedback",
+    "Your Privacy Choices",
+    "Bank of America, N.A. Member FDIC. Equal Housing Lender",
+    "© 2026 Bank of America Corporation. All Rights Reserved.",
+    "Patent: patents.bankofamerica.com"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#skip-to-h1"
+    },
+    {
+      "label": "Log in",
+      "href": "/sitemap/hub/signin.go"
+    },
+    {
+      "label": "Locations",
+      "href": "https://locators.bankofamerica.com"
+    },
+    {
+      "label": "Search",
+      "href": null
+    },
+    {
+      "label": "Show/Hide Menu related links",
+      "href": "javascript:void(0);"
+    },
+    {
+      "label": "Go to selected page",
+      "href": null
+    },
+    {
+      "label": "800.432.1000",
+      "href": "tel:800.432.1000"
+    },
+    {
+      "label": "1.315.724.4022",
+      "href": "tel:1.315.724.4022"
+    },
+    {
+      "label": "800.688.6086",
+      "href": "tel:800.688.6086"
+    },
+    {
+      "label": "800.218.9946",
+      "href": "tel:800.218.9946"
+    },
+    {
+      "label": "Careers",
+      "href": null
+    },
+    {
+      "label": "Supplier relations and development",
+      "href": null
+    },
+    {
+      "label": "Newsroom",
+      "href": null
+    },
+    {
+      "label": "Corporate philanthropy",
+      "href": null
+    },
+    {
+      "label": "Visit the Bank of America corporate site »",
+      "href": "https://about.bankofamerica.com/en-us/index.html"
+    },
+    {
+      "label": "financial center locator",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "Make an appointment",
+      "href": "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go"
+    },
+    {
+      "label": "Locations",
+      "href": "https://locators.bankofamerica.com/locator/locator/LocatorAction.do"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contactus/contactus.go"
+    },
+    {
+      "label": "Help & Support",
+      "href": "/help/overview.go"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#"
+    },
+    {
+      "label": "Accessible Banking",
+      "href": "https://www.bankofamerica.com/accessiblebanking/overview.go"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Children’s Privacy",
+      "href": "https://www.bankofamerica.com/childrens-privacy"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Online Banking Service Agreement",
+      "href": "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": null
+    },
+    {
+      "label": "Site Map",
+      "href": "https://www.bankofamerica.com/information/personal/"
+    },
+    {
+      "label": "Careers",
+      "href": "https://careers.bankofamerica.com/"
+    },
+    {
+      "label": "Share Your Feedback",
+      "href": "#"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": null
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup/"
+    },
+    {
+      "label": "Patent: patents.bankofamerica.com",
+      "href": "https://patents.bankofamerica.com"
+    },
+    {
+      "label": "Online Privacy Policy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf "
+    }
+  ],
+  "links": [
+    "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/#skip-to-h1",
+    "https://www.bankofamerica.com/",
+    "https://staticweb.bankofamerica.com/cavmwebbactouch/common/index.html#home?app=signon",
+    "https://www.bankofamerica.com/sitemap/hub/signin.go",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/help/overview.go",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/loc.go",
+    "javascript:void(0);",
+    "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/",
+    "https://www.bankofamerica.com/life-services/account-ownership-changes/",
+    "https://www.bankofamerica.com/customer-service/contact-us/remove-digital-access/",
+    "https://www.bankofamerica.com/customer-service/contact-us/atms/",
+    "https://www.bankofamerica.com/customer-service/contact-us/auto-loans/",
+    "https://www.bankofamerica.com/customer-service/contact-us/bank-of-america-login-issues/",
+    "https://www.bankofamerica.com/customer-service/contact-us/cds-iras/",
+    "https://www.bankofamerica.com/customer-service/contact-us/checking-savings/",
+    "https://www.bofaml.com/content/boaml/en_us/contactus.html",
+    "https://www.bankofamerica.com/customer-service/contact-us/credit-card/",
+    "https://www.bankofamerica.com/life-services/elder-financial-services/",
+    "https://www.bankofamerica.com/life-services/estate-services/",
+    "https://www.bankofamerica.com/customer-service/contact-us/international",
+    "https://www.ml.com/contact-us.html",
+    "https://www.bankofamerica.com/life-services/medallion-signature-guarantee/",
+    "https://www.bankofamerica.com/smallbusiness/business-financing/practice-solutions/",
+    "https://www.bankofamerica.com/military-banking/overview/",
+    "https://www.bankofamerica.com/customer-service/contact-us/mobile-banking/",
+    "https://www.bankofamerica.com/customer-service/contact-us/mortgage-home-equity/",
+    "https://www.bankofamerica.com/life-services/notary/",
+    "https://www.bankofamerica.com/customer-service/contact-us/online-banking/",
+    "https://www.bankofamerica.com/foreign-exchange/foreign-currency-exchange/",
+    "https://www.bankofamerica.com/life-services/power-of-attorney/",
+    "https://www.bankofamerica.com/customer-service/contact-us/privacy-security",
+    "https://www.bankofamerica.com/customer-service/contact-us/small-business-banking/",
+    "https://www.bankofamerica.com/customer-service/contact-us/student-banking/",
+    "tel:800.432.1000",
+    "tel:1.315.724.4022",
+    "tel:800.688.6086",
+    "tel:800.218.9946",
+    "https://www.bankofamerica.com/customer-service/contact-us/about-bank-of-america/#",
+    "http://careers.bankofamerica.com/",
+    "http://about.bankofamerica.com/en-us/index.html",
+    "https://newsroom.bankofamerica.com/",
+    "https://www.bankofamerica.com/foundation/index.cfm?template=fd_localgrants",
+    "https://www.bankofamerica.com/foundation/index.cfm?template=fd_grantapp",
+    "https://about.bankofamerica.com/en-us/index.html",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://www.bankofamerica.com/contactus/contactus.go",
+    "https://www.bankofamerica.com/accessiblebanking/overview.go",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us",
+    "https://www.bankofamerica.com/information/personal/",
+    "https://careers.bankofamerica.com/",
+    "https://optout.aboutads.info/?c=2&lang=EN",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/security-center/online-privacy-notice/",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www1.bac-assets.com/customer-service/contact-us/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+        "alt": "Bank of America Logo",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://www1.bac-assets.com/customer-service/contact-us/spa-assets/images/assets-images-site-contact-us-bofa_icon_location2_186rgb-CSX80c17050.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www1.bac-assets.com/customer-service/contact-us/spa-assets/images/assets-images-site-contact-us-bofa_icon_calendar2_186rgb-CSX25e37ac0.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www1.bac-assets.com/customer-service/contact-us/spa-assets/images/assets-images-global-logos-bofa_icon_optout1_ko-CSX2fdcab0b.png",
+        "alt": "",
+        "w": 42,
+        "h": 22
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+        "alt": "Bank of America Logo ",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 6,
+    "cssBackgrounds": [],
+    "modals": [
+      "Cookie Banner We use cookies and other tracking technologies to collect data for advertising, fraud prevention, analytics, and other purposes. By using this website, you agree to the use of these tracking technologies and to the use and disclosure of data in accordance with our Online Privacy Policy and Cookie Policy",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesCalifornia Notice of Right to Opt-Out from Sale/SharingChildren's PrivacySharing and Selling of Personal DataYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. California Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Children's PrivacyAlways ActiveBank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data. For sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website. This setting blocks the collection and use of sensitive information. To learn more about Children’s Privacy, see our Children's Privacy Page.Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Back ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 8,
+    "mainTextLen": 83176,
+    "realImageCount": 6,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
