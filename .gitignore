@@ -16,3 +16,6 @@ samples/
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# local scratch
+scratch/
