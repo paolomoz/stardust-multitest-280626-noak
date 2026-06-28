@@ -1,4 +1,5 @@
 version: 1
+
 indices:
   sycamore-news:
     include:
@@ -7,16 +8,20 @@ indices:
     properties:
       title:
         select: head > meta[property="og:title"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
       publishDate:
         select: head > meta[name="publishdate"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
       category:
         select: head > meta[name="category"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
       image:
         select: head > meta[property="og:image"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
   sycamore-investments:
     include:
       - '/sycamorepartners/investment-info/**'
@@ -24,10 +29,13 @@ indices:
     properties:
       company:
         select: head > meta[property="og:title"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
       logo:
         select: head > meta[name="logo"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
       sector:
         select: head > meta[name="sector"]
-        value: attribute(el, 'content')
+        value: |
+          attribute(el, 'content')
