@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f5f5f7",
+    "surface-dark": "#0a0a0a",
+    "ink": "#101010",
+    "muted": "#6b6b6f",
+    "primary": "#1428a0",
+    "accent": "#006bea",
+    "accent-bright": "#2189ff",
+    "border": "#e2e2e6"
+  },
+  "typography": {
+    "display": "'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
+    "body": "system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
+    "scaleRatio": 1.25,
+    "weights": [400, 600, 700]
+  },
+  "rounded": "20px",
+  "spacing": { "base": "4pt", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "components": ["button-primary", "button-secondary", "card", "input", "badge", "link"],
+  "narrative": {
+    "northStar": "A calm, premium, photography-led canvas where Samsung Blue is a deliberate signature.",
+    "overview": "Faithful redesign of Samsung US, modernized: monochrome restraint preserved, mixed-case headlines, tighter type, one decisive CTA per section.",
+    "keyCharacteristics": ["full-bleed KV heroes", "monochrome canvas", "Samsung Blue signature", "20px radius", "single decisive CTA"],
+    "rules": ["One primary CTA verb ('Shop') per section", "Legibility scrim on text over photography", "No stacked competing CTAs"],
+    "dos": ["Use real Samsung product photography", "Reserve blue for action and brand mark", "Mixed-case headlines"],
+    "donts": ["No gradients/glass", "No logo-as-editorial", "No pure-black UI chrome", "No stacked CTAs"]
+  },
+  "extensions": {
+    "colorMeta": {
+      "primary": "Samsung Blue #1428a0 — brand signature, reserve for action + mark",
+      "ink": "#101010 near-black (brand-faithful nudge off pure #000)",
+      "background": "#ffffff retained (brand ground)"
+    },
+    "typographyMeta": {
+      "display": "Hanken Grotesk stands in for proprietary SamsungSharpSans (geometric grotesque, non-overused)",
+      "body": "humanist system sans stands in for proprietary SamsungOne (zero webfont cost, EDS-perf)",
+      "note": "SamsungOne/SharpSans are proprietary and cannot be redistributed; fallbacks chosen for closest character + performance"
+    },
+    "shadows": ["0 4px 16px rgba(0,0,0,.08)", "0 8px 30px rgba(0,0,0,.12)"],
+    "motion": {
+      "register": "kinetic-grid",
+      "registerRationale": "PRODUCT.md Brand Personality = product/modular-catalogue commerce → kinetic-grid per selection heuristic",
+      "easings": { "entrance": "cubic-bezier(.2,.7,.2,1)", "transition": "ease", "expo": "cubic-bezier(.16,1,.3,1)" },
+      "durations": { "enter": 500, "stagger": 80 },
+      "parallax": { "translate": 6, "fade": 0.3, "rangeStart": 0, "range": 60 }
+    },
+    "breakpoints": { "tablet": "600px", "desktop": "900px", "wide": "1200px" },
+    "componentStyle": {
+      "buttons": { "primaryBg": "#101010", "primaryText": "#ffffff", "radius": "999px", "weight": 600, "padding": "14px 24px", "promoPrimaryBg": "#1428a0" },
+      "cards": { "bg": "#ffffff", "radius": "20px", "shadow": "0 4px 16px rgba(0,0,0,.08)", "media": "16:9 or 4:5" },
+      "inputs": { "radius": "12px", "border": "1px solid #e2e2e6", "focusRing": "#1428a0" },
+      "dualCTAPattern": "replaced — single primary CTA + secondary text link"
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "global navigation + utility", "position": "sticky top", "constraint": "logo = real Samsung wordmark SVG; mega-nav categories" },
+      "footer": { "purpose": "category + support + about + legal link map", "position": "page end" },
+      "cta-band": { "purpose": "single decisive conversion prompt", "position": "section-level" }
+    },
+    "voice": {
+      "examples": {
+        "do": ["Galaxy AI is here.", "Shop now", "Save up to $1,700 on home appliances", "Built for what's next"],
+        "dont": ["DONATE / GIVE / SUPPORT stacked", "ALL-CAPS long headlines", "vague 'click here'"]
+      }
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "every page carries Shop/Buy CTAs to shop.samsung.com", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "offers-merchandising", "evidence": "pages/us-offers.json + offer bands on category pages", "preserveAs": "above-fold-secondary", "scope": "category+home", "mutability": "movable" },
+      { "signal": "support-access", "evidence": "header Support link + pages/us-support.json product picker", "preserveAs": "global-nav", "scope": "site-wide", "mutability": "locked" }
+    ],
+    "divergence": {
+      "mode": "brand-faithful (Mode A)",
+      "brandSignal": "signal-strong",
+      "seed": {
+        "decade": { "value": "2025-now", "picked_by": "anchor: modernized" },
+        "ground_family": { "value": "stark-white", "override": "brand-faithful", "picked_by": "inherited from _brand-extraction.json" }
+      },
+      "font_deck": { "name": "brand-inherited→fallback (proprietary unshippable)", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "brand_faithful_inversions": [
+        { "type": "pure-color-retention", "from": "#000000 text", "to": "#101010", "reason": "near-black for screen comfort while preserving monochrome identity" },
+        { "type": "hex-format-retention", "value": "palette kept in hex (brand-native) rather than OKLCH", "reason": "migration reproduces source palette verbatim; OKLCH conversion would obscure brand-token provenance" },
+        { "type": "pure-white-retention", "from": "#ffffff", "reason": "Samsung's brand ground is stark white; retained as background" }
+      ]
+    }
+  }
+}
