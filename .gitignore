@@ -17,3 +17,7 @@ _dbg.mjs
 _brand.mjs
 _logo.mjs
 node_modules/
+
+.env*
+qa/
+samples/
