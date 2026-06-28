@@ -1,27 +1,93 @@
 .cards > ul {
   list-style: none;
-  margin: 0;
+  margin: 24px 0 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
 }
 
 .cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
+  position: relative;
+  background: var(--background-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 24px;
+  transition: transform 0.25s var(--ease-out), box-shadow 0.25s var(--ease-out);
 }
 
-.cards .cards-card-body {
-  margin: 16px;
+.cards > ul > li:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lift);
 }
+
+.cards .cards-card-body { margin: 0; }
+.cards .cards-card-body > *:first-child { margin-top: 0; }
 
 .cards .cards-card-image {
   line-height: 0;
+  margin: -24px -24px 16px;
 }
 
-.cards > ul > li img {
+.cards .cards-card-image img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.cards .badge {
+  display: inline-block;
+  background: var(--accent);
+  color: #3a1d6e;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+  border-radius: var(--pill);
+  margin-bottom: 8px;
+}
+
+.cards h3 {
+  font-size: 1.3rem;
+  margin: 6px 0;
+}
+
+.cards .cards-card-body p {
+  color: var(--muted-color);
+  font-size: 0.95rem;
+}
+
+.cards .card-link-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  font-size: 0;
+}
+
+/* pillars variant: compact, purple icon-led, equal columns */
+.cards.pillars > ul { grid-template-columns: repeat(5, 1fr); }
+
+.cards.pillars > ul > li {
+  background: var(--surface);
+  border-color: transparent;
+}
+
+.cards.pillars > ul > li:hover {
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+
+.cards.pillars .cards-card-body p:first-child a {
+  color: var(--text-color);
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+.cards.pillars .cards-card-body p:first-child a:hover { color: var(--primary); }
+
+/* deals variant: 3-up */
+.cards.deals > ul { grid-template-columns: repeat(3, 1fr); }
+
+@media (width <= 900px) {
+  .cards.pillars > ul { grid-template-columns: repeat(2, 1fr); }
+  .cards.deals > ul { grid-template-columns: 1fr; }
 }

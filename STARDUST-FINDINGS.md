@@ -38,6 +38,22 @@ domains (cookielaw.org/onetrust/trustarc/cookiebot) from the logo chain; (b) wal
 for logo + nav/footer when the light-DOM header is empty (modern enterprise sites render chrome
 as shadow-DOM web components).
 
+### F5 — [deploy] MAJOR: deploy skill (v3.8) deprecated AuthorKit; migration PROMPT's Phase 0 is stale
+The `new-site-eds-migration-prompt.md` Phase 0 instructs: "If it's vanilla aem-boilerplate (not
+AuthorKit runtime), run the Runtime bootstrap in stardust:deploy first (port ak.js/postlcp.js/
+lazy.js/static header+footer fragments; apply BOTH mandatory runtime edits)" — plus a long list
+of AuthorKit chrome gotchas (block CSS must NOT use `.<name>.block`; buttons are `.btn`/`.btn-group`
+not `.button`; fragment inline `<script>` inert; `body.session` gating; collapse empty page-metadata
+section). The CURRENT `stardust:deploy` (v3.8) **explicitly deprecates all of this**: "That runtime
+has drifted upstream and is no longer the supported target; do NOT port it onto a fresh boilerplate.
+New conversions use the vanilla path." On vanilla aem-boilerplate: buttons ARE `.button`/`.button.primary`
+(via `decorateButtons`), blocks DO decorate with normal `.block` classes, header/footer are REAL blocks,
+`body.appear` paint gate stays. So the entire AuthorKit guardrail block in the prompt (Phase 0 +
+embedded guardrails #15/#15b/#16) is now MISLEADING for any fresh-boilerplate run and would actively
+break a vanilla build if followed (e.g. styling `.btn` when the runtime emits `.button`). SUGGESTED FIX:
+update `new-site-eds-migration-prompt.md` Phase 0 + guardrails #15/#15b/#16 to the vanilla-boilerplate
+contract, or branch them on a detected runtime. This run follows the authoritative current skill (vanilla).
+
 ### F4 — [prototype] craft mandated but per-template gate stack is redundant for single-direction Mode A
 craft.md correctly collapses gates 2–4 when the harness lacks native image-gen, but prototype
 still wants a full craft+critique+audit+adapt+motion render per template. For a faithful Mode-A

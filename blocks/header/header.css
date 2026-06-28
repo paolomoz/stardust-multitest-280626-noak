@@ -270,3 +270,28 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+/* Xfinity brand chrome */
+header nav .nav-brand .xfinity-logo {
+  height: 26px;
+  width: auto;
+  fill: var(--text-color);
+  display: block;
+}
+
+header nav .nav-sections .default-content-wrapper > ul > li {
+  font-weight: 500;
+}
+
+header nav .nav-sections .default-content-wrapper > ul > li:hover {
+  color: var(--primary);
+}
+
+header nav .nav-tools a:any-link {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+header nav .nav-tools a:hover {
+  color: var(--primary);
+}
