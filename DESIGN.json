@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "forest": "#4f752d",
+    "forest-deep": "#3c5a22",
+    "sage": "#78915c",
+    "canvas": "#ffffff",
+    "parchment": "#fafafa",
+    "ink": "#23211f",
+    "text": "#333333",
+    "text-warm": "#4f5047",
+    "navy": "#041e42"
+  },
+  "typography": { "heading": "Merriweather", "body": "Work Sans", "scaleRatio": 1.25 },
+  "rounded": "minimal",
+  "spacing": { "base": "4px", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A",
+    "colorMeta": {
+      "signature": "forest #4f752d",
+      "a11yNote": "sage reserved for large text/accents; small text on forest/forest-deep to hold WCAG AA on white"
+    },
+    "typographyMeta": {
+      "source": "Google Fonts (brand-inherited): Merriweather, Work Sans",
+      "scaleRatio": 1.25
+    },
+    "shadows": ["0 1px 3px rgba(0,0,0,0.08)", "0 4px 16px rgba(0,0,0,0.10)"],
+    "motion": {
+      "register": "arrival",
+      "registerRationale": "PRODUCT.md Brand Personality: civic-formal + institutional",
+      "easings": { "entrance": "cubic-bezier(0.16,1,0.3,1)", "transition": "ease-out", "expo": "cubic-bezier(0.22,1,0.36,1)" },
+      "durations": { "enter": 600, "stagger": 80 },
+      "parallax": { "translate": 6, "fade": 0.2, "rangeStart": 0, "range": 60 }
+    },
+    "divergence": {
+      "mode": "brand-faithful",
+      "seed": {
+        "decade": { "value": "2025-now", "picked_by": "roll" },
+        "register": { "value": "brand / institutional", "picked_by": "inherited" },
+        "ground_family": { "value": "stark-white", "override": "brand-faithful" },
+        "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+        "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" }
+      },
+      "brand_faithful_inversions": [
+        { "kind": "remove-splash-redirect", "basis": "entry / forces a 4s video then redirects; modernize to inline non-blocking hero" },
+        { "kind": "deframework", "basis": "Bootstrap5 + jQuery + FontAwesome kit replaced with native CSS/tokens" }
+      ]
+    },
+    "componentStyle": {
+      "buttons": "rectangular, minimal radius; primary solid forest, secondary outline forest",
+      "cards": "parchment surface, hairline border, subtle shadow",
+      "inputs": "minimal, hairline border, forest focus ring",
+      "dualCTAPattern": "avoided (anti-ref): one primary, one text-link"
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "logo + primary nav (Investments, Team, Approach, News, Contact)", "positionClass": "sticky-top" },
+      "footer": { "purpose": "office contact + legal (Terms / Privacy & Policy Notice)", "positionClass": "page-end" },
+      "stat-band": { "purpose": "credibility numerals", "positionClass": "section" },
+      "cta-band": { "purpose": "quiet closing prompt", "positionClass": "section" }
+    },
+    "voice": {
+      "tone": "institutional, understated, confident",
+      "examples": {
+        "do": ["A private equity firm specializing in consumer, distribution and retail-related investments.", "Mixed-case editorial headlines"],
+        "dont": ["Loud marketing exclamations", "Forced splash gates", "Stacked dual primary CTAs"]
+      }
+    },
+    "iaPriorities": [
+      { "signal": "credibility-stats", "evidence": "pages/home.json stat band ~$11B/30+/40+/~$200B/~500K/~20K", "preserveAs": "above-fold-secondary", "scope": "home", "mutability": "movable" },
+      { "signal": "portfolio-showcase", "evidence": "23 investment-info pages + home logo grid", "preserveAs": "primary", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "signature-motion", "evidence": "_brand-extraction.json#heroMedium video", "preserveAs": "first-viewport", "scope": "home", "mutability": "locked" }
+    ],
+    "metadata": {
+      "siteName": "Sycamore Partners",
+      "themeColor": "#4f752d",
+      "locale": "en",
+      "organization": {
+        "name": "Sycamore Partners",
+        "url": "https://sycamorepartners.com/",
+        "logo": "/sycamorepartners/images/sycamore-logo.png"
+      }
+    }
+  },
+  "narrative": {
+    "northStar": "A brand-faithful, modern, editorial Sycamore Partners — institutional restraint, the tree signature preserved, the portfolio doing the talking.",
+    "overview": "Native-CSS modernization of an institutional PE site. Merriweather/Work Sans, single forest accent, balanced editorial density, inline tree-video hero.",
+    "keyCharacteristics": ["serif-display editorial", "single green accent", "stat-band credibility", "portfolio logo grid", "preserved tree motion"],
+    "rules": ["No framework chrome", "No blocking splash", "Hold WCAG AA", "One primary CTA per section"],
+    "dos": ["Mixed-case serif headlines", "Real portfolio logos at 200", "Sourced stat disclaimers"],
+    "donts": ["loader.gif placeholders", "logo-as-editorial", "dual primary CTAs", "gradient text"]
+  }
+}
