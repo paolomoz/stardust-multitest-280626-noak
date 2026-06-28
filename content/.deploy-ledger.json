@@ -1,0 +1,182 @@
+{
+  "/sony/brand": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.069Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/copyright": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.070Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.070Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.070Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/privacy": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:58.085Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/blog": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:58.101Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/careers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:59.027Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/csr": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:02.628Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/design/stories": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:03.489Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/design": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:03.772Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/ir": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:06.410Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/message": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:07.012Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/news/press/202606/26-014e": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:07.680Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/news/press/202606/26-015e": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:08.264Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/news/press": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:10.508Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/products": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:11.504Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/technology": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:11.581Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/corporateinfo/purpose-and-values": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:06:02.885Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/sonyinfo/corporateinfo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:06:02.886Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/sony/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:08:49.408Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

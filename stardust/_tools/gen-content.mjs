@@ -100,7 +100,7 @@ const NAVLINKS = [
 function navFragment() {
   const logo = img('/media/sony/sony-logo-black.svg', 'Sony');
   const links = NAVLINKS.map(([l, h]) => `<p><a href="${h}">${l}</a></p>`).join('\n      ');
-  return `<body>\n  <main>\n    <div>\n      <p><a href="/sony">${logo}</a></p>\n      ${links}\n    </div>\n  </main>\n</body>\n`;
+  return `<body>\n  <main>\n    <div>\n      <p><a href="/sony/">${logo}</a></p>\n      ${links}\n    </div>\n  </main>\n</body>\n`;
 }
 function footerFragment() {
   const logo = img('/media/sony/sony-logo-white.svg', 'Sony');
