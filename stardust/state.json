@@ -13,86 +13,109 @@
       "slug": "us-brc-article-10-habits-to-boost-success",
       "url": "https://www.paypal.com/us/brc/article/10-habits-to-boost-success",
       "template": "editorial-article",
-      "status": "prototyped",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-brc-article-10-habits-to-boost-success.json",
       "prototypePath": "stardust/prototypes/us-brc-article-10-habits-to-boost-success-proposed.html",
       "migratedPath": null,
-      "approved": true
+      "approved": true,
+      "deliveredPath": "/paypal/us/brc/article/10-habits-to-boost-success"
     },
     {
       "slug": "us-business-open-business-account",
       "url": "https://www.paypal.com/us/business/open-business-account",
       "template": "business-landing",
-      "status": "prototyped",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-business-open-business-account.json",
       "prototypePath": "stardust/prototypes/us-business-open-business-account-proposed.html",
       "migratedPath": null,
-      "approved": true
+      "approved": true,
+      "deliveredPath": "/paypal/us/business/open-business-account"
     },
     {
       "slug": "us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750",
       "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
       "template": "help-article",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-cshelp-article-how-do-i-receive-money-through-paypal-faq1750.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": null,
+      "deliveredPath": "/paypal/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750"
     },
     {
       "slug": "us-digital-wallet",
       "url": "https://www.paypal.com/us/digital-wallet",
       "template": "consumer-landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-digital-wallet.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": null,
+      "deliveredPath": "/paypal/us/digital-wallet"
     },
     {
       "slug": "us-enterprise",
       "url": "https://www.paypal.com/us/enterprise",
       "template": "enterprise-landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-enterprise.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": null,
+      "deliveredPath": "/paypal/us/enterprise"
     },
     {
       "slug": "us-home",
       "url": "https://www.paypal.com/us/home",
       "template": "home",
-      "status": "prototyped",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-home.json",
       "prototypePath": "stardust/prototypes/us-home-proposed.html",
       "migratedPath": null,
-      "approved": true
+      "approved": true,
+      "deliveredPath": "/paypal/"
     },
     {
       "slug": "us-money-hub",
       "url": "https://www.paypal.com/us/money-hub",
       "template": "money-hub",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-money-hub.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": null,
+      "deliveredPath": "/paypal/us/money-hub"
     },
     {
       "slug": "us-security",
       "url": "https://www.paypal.com/us/security",
       "template": "security-landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-security.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": null,
+      "deliveredPath": "/paypal/us/security"
     },
     {
       "slug": "us-webapps-mpp-paypal-fees",
       "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
       "template": "info-fees",
-      "status": "prototyped",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/us-webapps-mpp-paypal-fees.json",
       "prototypePath": "stardust/prototypes/us-webapps-mpp-paypal-fees-proposed.html",
       "migratedPath": null,
-      "approved": true
+      "approved": true,
+      "deliveredPath": "/paypal/us/webapps/mpp/paypal-fees"
+    },
+    {
+      "slug": "us-digital-wallet-send-receive-money-send-money",
+      "template": "consumer-landing",
+      "status": "deployed",
+      "deliveredPath": "/paypal/us/digital-wallet/send-receive-money/send-money",
+      "currentStatePath": "stardust/current/pages/us-digital-wallet-send-receive-money-send-money.json"
+    },
+    {
+      "slug": "us-digital-wallet-ways-to-pay-buy-now-pay-later",
+      "template": "consumer-landing",
+      "status": "deployed",
+      "deliveredPath": "/paypal/us/digital-wallet/ways-to-pay/buy-now-pay-later",
+      "currentStatePath": "stardust/current/pages/us-digital-wallet-ways-to-pay-buy-now-pay-later.json"
     }
   ],
   "direction": {

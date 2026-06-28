@@ -1,0 +1,489 @@
+{
+  "slug": "us-digital-wallet-ways-to-pay-buy-now-pay-later",
+  "url": "https://www.paypal.com/us/digital-wallet/ways-to-pay/buy-now-pay-later",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:05:59.716Z",
+  "finalUrl": "https://www.paypal.com/us/digital-wallet/ways-to-pay/buy-now-pay-later",
+  "title": "Buy Now Pay Later | Pay in 4 | Pay Monthly | PayPal US",
+  "description": "Use PayPal's Buy Now Pay Later App to pay at your favorite retailers. Select a Pay Later offer at checkout, Pay in 4 or Pay Monthly, for qualifying purchases.",
+  "og": {
+    "title": "Buy Now Pay Later | Pay in 4 | Pay Monthly | PayPal US",
+    "description": "Use PayPal's Buy Now Pay Later App to pay at your favorite retailers. Select a Pay Later offer at checkout, Pay in 4 or Pay Monthly, for qualifying purchases.",
+    "image": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/bnpl/meta_size-all-v3.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Make the payments"
+    },
+    {
+      "tag": "h2",
+      "text": "Compare our flexible options"
+    },
+    {
+      "tag": "h2",
+      "text": "Get the most out"
+    },
+    {
+      "tag": "h2",
+      "text": "of Pay Later"
+    },
+    {
+      "tag": "h3",
+      "text": "How to Pay Later with PayPal"
+    },
+    {
+      "tag": "h3",
+      "text": "How to make a Pay Later payment"
+    },
+    {
+      "tag": "h3",
+      "text": "How to use rewards and Pay Later with PayPal"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "text": "Who accepts PayPal Pay in 4?"
+    },
+    {
+      "tag": "h3",
+      "text": "Is a credit check required when applying for PayPal Pay Later offers?"
+    },
+    {
+      "tag": "h3",
+      "text": "Does Pay in 4 or Pay Monthly charge interest and fees?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I pay off my Pay Monthly loan early?"
+    },
+    {
+      "tag": "h3",
+      "text": "Why use buy now, pay later (BNPL)?"
+    },
+    {
+      "tag": "h2",
+      "text": "Discover more ways to pay"
+    },
+    {
+      "tag": "h2",
+      "text": "All in the PayPal app"
+    },
+    {
+      "tag": "h4",
+      "text": "If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn more"
+    }
+  ],
+  "body": [
+    "Do it securely in the app or online with the ease of autopay.",
+    "Availability",
+    "Online",
+    "Both online and in store",
+    "Purchase amount",
+    "$30 to $1,500",
+    "$49 to $10,000",
+    "Number of payments",
+    "4 interest-free payments",
+    "3, 6, 12, or 24 payments",
+    "Time between payments",
+    "Two weeks (1 down payment & 3 payments)",
+    "One month (for duration of term)",
+    "APR",
+    "0%",
+    "9.99% to 35.99%",
+    "Repayment method",
+    "Debit card, credit card, confirmed bank account, or PayPal Balance (not available for autopay)",
+    "Debit card, confirmed bank account, or PayPal Balance (not available for autopay)",
+    "Purchase Protection3",
+    "Late fees",
+    "None",
+    "None",
+    "Sign-up fees",
+    "None",
+    "None",
+    "Autopay available",
+    "Automatically enrolled at time of purchase",
+    "Optionally enroll in autopay at time of purchase or any time after",
+    "Play Video",
+    "Play Video",
+    "Play Video",
+    "Pay in 4 is available to use at millions of online merchant sites where PayPal is accepted. Check out a list of some of the available brands here, search for your favorite brand, if available, save the deal, and create your own list. Transactions can be made in all currencies that PayPal supports, not just USD. For transactions not in USD, PayPal will automatically convert the transaction amount to USD at checkout before you apply for Pay in 4.",
+    "It’s your do-it-all digital wallet. Load up on rewards before you shop. Track your packages. And manage it all on the go."
+  ],
+  "ctas": [
+    {
+      "label": "Make the payments",
+      "href": null
+    },
+    {
+      "label": "Who accepts PayPal Pay in 4?",
+      "href": null
+    },
+    {
+      "label": "here",
+      "href": "https://www.paypal.com/offers/"
+    },
+    {
+      "label": "Is a credit check required when applying for PayPal Pay Later offers?",
+      "href": null
+    },
+    {
+      "label": "Does Pay in 4 or Pay Monthly charge interest and fees?",
+      "href": null
+    },
+    {
+      "label": "Can I pay off my Pay Monthly loan early?",
+      "href": null
+    },
+    {
+      "label": "Why use buy now, pay later (BNPL)?",
+      "href": null
+    },
+    {
+      "label": "Get the App",
+      "href": "https://paypal.com/mobile-app/dashboard?source=%252Fdigital-wallet%252Fways-to-pay%252Fbuy-now-pay-later_cta&pp_ref_id=afd72604-88c3-48e8-bfcb-c3f647aa3208&utm_campaign=&utm_medium=web&utm_source=%2Fdigital-wallet%2Fways-to-pay%2Fbuy-now-pay-later&cust=&redirect=true"
+    },
+    {
+      "label": "Find more disclosures",
+      "href": "https://www.paypal.com/us/webapps/mpp/campaigns/newmexicodisclosure"
+    },
+    {
+      "label": "NMLS Consumer Access",
+      "href": "https://www.nmlsconsumeraccess.org/"
+    },
+    {
+      "label": "Terms and limitations apply",
+      "href": "https://www.paypal.com/us/legalhub/paypal/buyer-protection"
+    },
+    {
+      "label": "Manage cookies and learn more",
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+    },
+    {
+      "label": "Accept",
+      "href": null
+    },
+    {
+      "label": "Decline",
+      "href": null
+    },
+    {
+      "label": "Close",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.paypal.com/offers/",
+    "https://www.paypal.com/us/welcome/signup/#/login_info",
+    "https://www.apple.com/",
+    "https://www.bestbuy.com/",
+    "https://www.nike.com/",
+    "https://www.target.com/",
+    "https://www.officedepot.com/",
+    "https://www.homedepot.com/",
+    "https://www.acehardware.com/",
+    "https://www.landsend.com/",
+    "https://shop.samsonite.com/",
+    "https://www.paypal.com/us/digital-wallet/ways-to-pay/buy-now-pay-later/pay-later-in-store",
+    "https://www.paypal.com/us/digital-wallet/ways-to-pay/add-payment-method",
+    "https://www.paypal.com/us/digital-wallet/rewards",
+    "https://www.paypal.com/us/digital-wallet/ways-to-pay/credit-services",
+    "https://www.paypal.com/us/digital-wallet/ways-to-pay/pay-with-qr-code",
+    "https://paypal.com/mobile-app/dashboard?source=%252Fdigital-wallet%252Fways-to-pay%252Fbuy-now-pay-later_cta&pp_ref_id=afd72604-88c3-48e8-bfcb-c3f647aa3208&utm_campaign=&utm_medium=web&utm_source=%2Fdigital-wallet%2Fways-to-pay%2Fbuy-now-pay-later&cust=&redirect=true",
+    "https://www.paypal.com/us/webapps/mpp/campaigns/newmexicodisclosure",
+    "https://www.nmlsconsumeraccess.org/",
+    "https://www.paypal.com/us/legalhub/paypal/buyer-protection",
+    "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/bnpl/hero_size-tablet-up-v3.jpg?quality=75&width=1500&format=webp",
+        "alt": "Pay in 4 overlay",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--apple--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Apple logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogobestbuyall.png?quality=75&width=900&format=webp",
+        "alt": "Best Buy logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--nike--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Nike logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogotargetall.png?quality=75&width=900&format=webp",
+        "alt": "Target logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoofficedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Office Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogohomedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Home Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoacehardwareall.png?quality=75&width=900&format=webp",
+        "alt": "Ace Hardware logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogolandsendall.png?quality=75&width=900&format=webp",
+        "alt": "Land’s End logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogosamsoniteall.png?quality=75&width=900&format=webp",
+        "alt": "Samsonite logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--apple--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Apple logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogobestbuyall.png?quality=75&width=900&format=webp",
+        "alt": "Best Buy logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--nike--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Nike logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogotargetall.png?quality=75&width=900&format=webp",
+        "alt": "Target logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoofficedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Office Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogohomedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Home Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoacehardwareall.png?quality=75&width=900&format=webp",
+        "alt": "Ace Hardware logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogolandsendall.png?quality=75&width=900&format=webp",
+        "alt": "Land’s End logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogosamsoniteall.png?quality=75&width=900&format=webp",
+        "alt": "Samsonite logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--apple--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Apple logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogobestbuyall.png?quality=75&width=900&format=webp",
+        "alt": "Best Buy logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--nike--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Nike logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogotargetall.png?quality=75&width=900&format=webp",
+        "alt": "Target logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoofficedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Office Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogohomedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Home Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoacehardwareall.png?quality=75&width=900&format=webp",
+        "alt": "Ace Hardware logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogolandsendall.png?quality=75&width=900&format=webp",
+        "alt": "Land’s End logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogosamsoniteall.png?quality=75&width=900&format=webp",
+        "alt": "Samsonite logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--apple--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Apple logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogobestbuyall.png?quality=75&width=900&format=webp",
+        "alt": "Best Buy logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Partner-Logos/partner-logo--nike--ratio=4-3--for=all.png?quality=75&width=900&format=webp",
+        "alt": "Nike logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogotargetall.png?quality=75&width=900&format=webp",
+        "alt": "Target logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoofficedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Office Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogohomedepotall.png?quality=75&width=900&format=webp",
+        "alt": "Home Depot logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogoacehardwareall.png?quality=75&width=900&format=webp",
+        "alt": "Ace Hardware logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogolandsendall.png?quality=75&width=900&format=webp",
+        "alt": "Land’s End logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/partnerlogosamsoniteall.png?quality=75&width=900&format=webp",
+        "alt": "Samsonite logo.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/cardcontentcarouselsectionall.jpg?quality=75&width=1200&format=webp",
+        "alt": "Legs in orange high heels and a pink dress with overlay reading Pay in 4 with 3 payments completed",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/cardcontentcarouselsectionall1.jpg?quality=75&width=1200&format=webp",
+        "alt": "Person making espresso with overlay of Choose from 3, 6, 12, or 24 months and 12 months chosen",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/productscroll2tablet.png?quality=75&width=1500&format=webp",
+        "alt": "PayPal app screen to pay in monthly payments",
+        "w": 1440,
+        "h": 1920
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/productscroll3tablet.png?quality=75&width=1500&format=webp",
+        "alt": "PayPal app screen for Pay Monthly that shows 6 or 12 month payment plan options.",
+        "w": 1440,
+        "h": 1920
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/digital-wallet/bnpl/productscroll4tablet.png?quality=75&width=1500&format=webp",
+        "alt": "PayPal app screen that shows payment history and a toggle option to turn autopay on",
+        "w": 1440,
+        "h": 1920
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/bnpl/component-cardcontent_carousel-section1_size-all.jpg?quality=50&width=1500&format=webply",
+        "alt": "Purchase process to choose Pay Later at checkout, select the payment option and be approved for BNPL.",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/bnpl/component-cardcontent_carousel-section2_size-all.jpg?quality=50&width=1500&format=webply",
+        "alt": "Process on How to make a Pay Later payment from the phone to choose the monthly payment plan and select the available payment amount of your loan.",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/bnpl/component-cardcontent_carousel-section3_size-all.jpg?quality=50&width=1500&format=webply",
+        "alt": "Process on How to get cashback by choosing PayPal at checkout by selecting participating stores that offer cash back in the Paypal app and select Pay Later as payment option.",
+        "w": 1280,
+        "h": 960
+      }
+    ],
+    "allImgCount": 46,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 16,
+    "mainTextLen": 110885,
+    "realImageCount": 45,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  },
+  "httpStatus": 200
+}

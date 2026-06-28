@@ -1,0 +1,17 @@
+{"t":"2026-06-28T17:11:08.215Z","path":"/paypal/index","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:11:10.673Z","path":"/paypal/us/digital-wallet/send-receive-money/send-money","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:11:11.530Z","path":"/paypal/us/brc/article/10-habits-to-boost-success","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:11.530Z","path":"/paypal/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:11.561Z","path":"/paypal/us/business/open-business-account","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:13.401Z","path":"/paypal/us/digital-wallet","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:11:15.240Z","path":"/paypal/us/digital-wallet/ways-to-pay/buy-now-pay-later","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:16.296Z","path":"/paypal/us/enterprise","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:16.379Z","path":"/paypal/us/money-hub","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:17.977Z","path":"/paypal/us/security","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:19.532Z","path":"/paypal/us/webapps/mpp/paypal-fees","step":"verify","ok":true}
+{"t":"2026-06-28T17:11:34.423Z","path":"/paypal/index","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:11:36.698Z","path":"/paypal/us/digital-wallet/send-receive-money/send-money","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:11:39.255Z","path":"/paypal/us/digital-wallet","step":"preview","status":409,"text":"error from content-bus"}
+{"t":"2026-06-28T17:12:49.993Z","path":"/paypal/index","step":"verify","ok":true}
+{"t":"2026-06-28T17:12:55.359Z","path":"/paypal/us/digital-wallet/send-receive-money/send-money","step":"verify","ok":true}
+{"t":"2026-06-28T17:13:00.322Z","path":"/paypal/us/digital-wallet","step":"verify","ok":true}
