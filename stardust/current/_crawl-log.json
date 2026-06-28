@@ -1,7 +1,7 @@
 {
   "discovery": {
     "fetchTechnique": "headless",
-    "count": 23
+    "count": 1
   },
   "consent": {
     "method": "auto"

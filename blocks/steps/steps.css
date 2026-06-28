@@ -1,0 +1,28 @@
+.steps .steps-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+
+.steps .step { text-align: center; }
+
+.steps .step-num {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--house-green);
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+}
+
+.steps .step h3 { color: var(--espresso); margin: 0 0 8px; }
+.steps .step p { color: var(--slate); margin: 0; }
+
+@media (width <= 760px) {
+  .steps .steps-grid { grid-template-columns: 1fr; gap: 28px; }
+}

@@ -55,6 +55,20 @@ chosen design identity"). There's no helper for this canon-reuse generation — 
 template. SUGGESTED FIX: ship a `prototype --from-canon <slug>` helper that emits sibling/
 template archetypes from an approved canon page, so the craft loop runs once not N times.
 
+### F6 — [deploy vs migration-prompt] runtime guidance directly contradicts the prompt
+The migration prompt's Phase 0 + guardrails 15/15b/16 instruct an **AuthorKit** runtime
+bootstrap (port `ak.js`/`postlcp.js`, `.btn`/`.btn-group` buttons, NO `.block` class,
+fragment `innerHTML` inert-script caveat, `main .section:empty` for the metadata band).
+The CURRENT `stardust:deploy` skill (this version) targets **vanilla aem-boilerplate**
+and explicitly says: "do NOT port [AuthorKit] onto a fresh boilerplate ... New conversions
+use the vanilla path" — real `header`/`footer` blocks with running JS, `.button`/`.primary`/
+`.secondary` decorator, `.block` class present, `body.appear` paint gate kept. The repo here
+is vanilla boilerplate, so I followed the SKILL. NET: the prompt and the skill are out of
+sync; a reader following the prompt's AuthorKit guardrails on a vanilla repo would build the
+wrong button classes and the wrong CSS selectors. SUGGESTED FIX: update the migration prompt
+to detect runtime and defer to the deploy skill's runtime gate rather than hard-coding
+AuthorKit gotchas, OR have the deploy skill emit the runtime decision the prompt can read.
+
 ### F3 — [extract] networkidle wait never settles on analytics-heavy sites
 A `waitUntil:'networkidle'` goto on starbucks.com times out at 60s (continuous
 beacon/telemetry traffic). crawl.mjs correctly uses `domcontentloaded`; any

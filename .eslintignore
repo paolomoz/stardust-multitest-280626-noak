@@ -1,2 +1,6 @@
 helix-importer-ui
 *.min.js
+samples/
+stardust/
+scripts/stardust/
+qa/

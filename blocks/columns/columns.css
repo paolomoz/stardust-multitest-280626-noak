@@ -1,33 +1,26 @@
-.columns > div {
-  display: flex;
-  flex-direction: column;
+.columns .feature-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+  margin-bottom: 56px;
 }
 
-.columns img {
+.columns .feature-row:last-child { margin-bottom: 0; }
+.columns .feature-row:nth-child(even) .fr-media { order: 2; }
+
+.columns .fr-media img,
+.columns .fr-media picture {
   width: 100%;
+  border-radius: var(--card-r);
+  box-shadow: 0 4px 18px rgb(0 0 0 / 10%);
 }
 
-.columns > div > div {
-  order: 1;
-}
+.columns .fr-text h2 { margin: 0 0 14px; }
+.columns .fr-text p { color: var(--slate); font-size: 17px; }
+.columns .fr-text .button-container { margin-top: 18px; }
 
-.columns > div > .columns-img-col {
-  order: 0;
-}
-
-.columns > div > .columns-img-col img {
-  display: block;
-}
-
-@media (width >= 900px) {
-  .columns > div {
-    align-items: center;
-    flex-direction: unset;
-    gap: 24px;
-  }
-
-  .columns > div > div {
-    flex: 1;
-    order: unset;
-  }
+@media (width <= 760px) {
+  .columns .feature-row { grid-template-columns: 1fr; gap: 24px; margin-bottom: 36px; }
+  .columns .feature-row:nth-child(even) .fr-media { order: 0; }
 }
