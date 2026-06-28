@@ -1,37 +1,129 @@
-.hero-container .hero-wrapper {
-  max-width: unset;
-  padding: 0;
-}
+/* Bank of America — hero. Scoped under .hero (lifted from index-proposed). */
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  isolation: isolate;
+  overflow: hidden;
+  background: var(--navy);
+  color: #fff;
 }
 
-.hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
+.hero.plain {
+  background: var(--surface-cool);
+  color: var(--ink);
 }
 
-.hero picture {
+/* background photo layer */
+.hero .hero-bg {
   position: absolute;
-  z-index: -1;
   inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
+  z-index: -2;
 }
 
-.hero img {
-  object-fit: cover;
+.hero .hero-bg img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 
-@media (width >= 900px) {
-  .hero {
-    padding: 40px 32px;
+/* legibility scrim (photo variant only) */
+.hero:not(.plain)::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(
+    100deg,
+    rgb(1 33 105 / 92%) 0%,
+    rgb(1 33 105 / 74%) 42%,
+    rgb(1 33 105 / 28%) 72%,
+    rgb(1 33 105 / 12%) 100%
+  );
+}
+
+.hero .hero-content {
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding: clamp(56px, 9vw, 112px) clamp(20px, 5vw, 40px);
+}
+
+.hero .hero-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: var(--space-3);
+  padding: 0.35em 0.85em;
+  border: 1px solid rgb(255 255 255 / 28%);
+  border-radius: var(--radius-chip);
+  background: rgb(255 255 255 / 14%);
+  font-family: var(--font-head);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: #fff;
+}
+
+.hero.plain .hero-eyebrow {
+  border-color: rgb(1 33 105 / 20%);
+  background: rgb(1 33 105 / 6%);
+  color: var(--navy);
+}
+
+.hero h1,
+.hero h2 {
+  max-width: 18ch;
+  color: #fff;
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+
+.hero.plain h1,
+.hero.plain h2 {
+  color: var(--navy);
+}
+
+.hero .hero-lede {
+  max-width: 34ch;
+  margin-top: var(--space-3);
+  font-size: var(--fs-lg);
+  line-height: 1.5;
+  color: rgb(255 255 255 / 94%);
+}
+
+.hero.plain .hero-lede {
+  color: var(--ink);
+}
+
+.hero .hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-5);
+}
+
+/* white CTA on the photo scrim */
+.hero:not(.plain) .hero-actions a.button.primary {
+  background: #fff;
+  color: var(--navy);
+}
+
+.hero:not(.plain) .hero-actions a.button.primary:hover {
+  background: var(--surface-cool);
+  color: var(--navy);
+}
+
+@media (width <= 640px) {
+  .hero .hero-lede {
+    font-size: var(--fs-md);
+  }
+
+  .hero .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero .hero-actions a.button {
+    width: 100%;
   }
 }

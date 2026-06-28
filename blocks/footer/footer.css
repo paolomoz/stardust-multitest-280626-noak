@@ -1,20 +1,140 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* Bank of America — footer chrome. Scoped under .footer (lifted from index-proposed). */
+
+/* stylelint-disable no-descending-specificity */
+
+.footer {
+  margin-top: var(--space-6);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+/* quiet trust band */
+.footer .trust {
+  background: var(--surface);
+  border-top: 1px solid rgb(1 33 105 / 8%);
+  border-bottom: 1px solid rgb(1 33 105 / 8%);
 }
 
-footer .footer p {
+.footer .trust-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2) var(--space-4);
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding: var(--space-3) clamp(20px, 5vw, 40px);
+  text-align: center;
+}
+
+.footer .trust-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--ink);
+  font-size: var(--fs-sm);
+}
+
+.footer .trust-item svg {
+  flex: none;
+  color: var(--navy);
+}
+
+.footer .trust-item a {
+  color: var(--ink);
+  font-weight: 500;
+}
+
+/* main footer */
+.footer .footer-main {
+  background: var(--navy);
+  color: #fff;
+}
+
+.footer .footer-inner {
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding: var(--space-6) clamp(20px, 5vw, 40px);
+}
+
+.footer .footer-inner h2 {
+  margin-bottom: var(--space-3);
+  color: #fff;
+  font-size: var(--fs-xl);
+}
+
+.footer .footer-social {
+  display: flex;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.footer .footer-social a {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgb(255 255 255 / 30%);
+  border-radius: 50%;
+  color: #fff;
+}
+
+.footer .footer-social a:hover {
+  background: rgb(255 255 255 / 14%);
+  text-decoration: none;
+}
+
+.footer .footer-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-5);
+}
+
+.footer .footer-col h4 {
+  margin-bottom: var(--space-2);
+  color: #fff;
+  font-size: var(--fs-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.85;
+}
+
+.footer .footer-col ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+.footer .footer-col a {
+  color: rgb(255 255 255 / 90%);
+  font-size: var(--fs-sm);
+}
+
+.footer .footer-col a:hover {
+  color: #fff;
+}
+
+.footer .footer-legal {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  margin-top: var(--space-5);
+  padding-top: var(--space-3);
+  border-top: 1px solid rgb(255 255 255 / 16%);
+}
+
+.footer .footer-legal p {
+  color: rgb(255 255 255 / 78%);
+  font-size: var(--fs-xs);
+}
+
+@media (width <= 640px) {
+  .footer .footer-legal {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }

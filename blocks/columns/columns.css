@@ -1,33 +1,110 @@
-.columns > div {
+/* Bank of America — columns. Scoped under .columns (lifted from index/faq prototypes). */
+
+/* stylelint-disable no-descending-specificity */
+
+.columns .columns-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-4) var(--space-3);
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: clamp(20px, 5vw, 40px);
+}
+
+.columns .column {
   display: flex;
   flex-direction: column;
+  gap: var(--space-1);
 }
 
-.columns img {
+.columns .column h3 {
+  margin-bottom: var(--space-1);
+  padding-bottom: var(--space-1);
+  border-bottom: 1px solid rgb(1 33 105 / 14%);
+  color: var(--navy);
+  font-size: var(--fs-md);
+  font-weight: 700;
+}
+
+.columns .column ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.columns .column a:not(.button) {
+  color: var(--action-blue);
+  font-size: var(--fs-sm);
+  font-weight: 500;
+}
+
+.columns .column-image img {
   width: 100%;
+  border-radius: var(--radius-card);
 }
 
-.columns > div > div {
-  order: 1;
+/* news variant — card-like tiles */
+.columns.news .columns-grid {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
-.columns > div > .columns-img-col {
-  order: 0;
+.columns.news .column {
+  padding: var(--space-3);
+  border: 1px solid rgb(1 33 105 / 6%);
+  border-radius: var(--radius-card);
+  background: #fff;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out);
 }
 
-.columns > div > .columns-img-col img {
-  display: block;
+.columns.news .column:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
 }
 
-@media (width >= 900px) {
-  .columns > div {
-    align-items: center;
-    flex-direction: unset;
-    gap: 24px;
-  }
+.columns.news .column h3 {
+  border-bottom: 0;
+  font-size: var(--fs-md);
+  font-weight: 600;
+  line-height: 1.3;
+}
 
-  .columns > div > div {
-    flex: 1;
-    order: unset;
+/* security-app variant — two feature panels */
+.columns.security-app .columns-grid {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.columns.security-app .column {
+  gap: var(--space-2);
+  padding: var(--space-4);
+  border: 1px solid rgb(1 33 105 / 6%);
+  border-radius: var(--radius-card);
+  background: #fff;
+  box-shadow: var(--shadow-card);
+}
+
+.columns.security-app .column h3 {
+  border-bottom: 0;
+  font-size: var(--fs-xl);
+}
+
+.columns.security-app .column p {
+  color: var(--ink);
+  font-size: var(--fs-md);
+}
+
+/* compare variant — surface panels */
+.columns.compare .column {
+  padding: var(--space-3);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+}
+
+@media (width <= 600px) {
+  .columns .columns-grid {
+    grid-template-columns: 1fr;
   }
 }

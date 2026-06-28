@@ -1,27 +1,91 @@
-.cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+/* Bank of America — card grid. Scoped under .cards (lifted from index-proposed). */
+
+.cards .cards-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--space-3);
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: clamp(20px, 5vw, 40px);
 }
 
-.cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
+.cards.products .cards-list {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
-.cards .cards-card-body {
-  margin: 16px;
+.cards.card-offers .cards-list {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
-.cards .cards-card-image {
-  line-height: 0;
+/* card shell */
+.cards .card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  padding: var(--space-3);
+  border: 1px solid rgb(1 33 105 / 6%);
+  border-radius: var(--radius-card);
+  background: #fff;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out);
 }
 
-.cards > ul > li img {
+.cards .card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+}
+
+.cards .card-image {
+  margin: calc(var(--space-3) * -1) calc(var(--space-3) * -1) var(--space-2);
+  overflow: hidden;
+  border-radius: var(--radius-card) var(--radius-card) 0 0;
+  background: var(--surface-cool);
+  aspect-ratio: 16 / 9;
+}
+
+.cards .card-image img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;
   object-fit: cover;
+}
+
+.cards .card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.cards .card h3 {
+  font-size: var(--fs-lg);
+  font-weight: 700;
+}
+
+.cards .card p {
+  flex-grow: 1;
+  color: var(--ink);
+  font-size: var(--fs-md);
+}
+
+/* offer "No annual fee" muted line */
+.cards.card-offers .card p {
+  flex-grow: 0;
+  color: var(--slate);
+  font-size: var(--fs-sm);
+}
+
+/* plain text-link CTAs render as action links */
+.cards .card a:not(.button) {
+  font-family: var(--font-head);
+  font-weight: 600;
+  color: var(--action-blue);
+}
+
+.cards .card .button-wrapper,
+.cards .card .button-container {
+  margin-top: var(--space-2);
+}
+
+.cards .card a.button {
+  align-self: flex-start;
 }

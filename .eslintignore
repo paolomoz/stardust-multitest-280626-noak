@@ -1,2 +1,9 @@
 helix-importer-ui
 *.min.js
+# stardust helper scripts (not project code)
+crawl.mjs
+brand-probe.mjs
+logo-grab.mjs
+qa/
+samples/
+stardust/
