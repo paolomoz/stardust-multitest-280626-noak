@@ -1,0 +1,45 @@
+{
+  "slug": "planbuilder",
+  "url": "https://www.xfinity.com/planbuilder",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:00:39.599Z",
+  "finalUrl": "https://www.xfinity.com/planbuilder",
+  "title": "Xfinity Plans, Pricing and Offers - Check Xfinity Availability",
+  "description": "Check Xfinity availability at your address and customize your plan. Shop Xfinity offers, pricing and packages at the right price for your needs today!",
+  "og": {
+    "title": "Plan Builder",
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Check availability",
+      "href": null
+    },
+    {
+      "label": "Sign in here",
+      "href": "https://login.xfinity.com/login?"
+    }
+  ],
+  "links": [
+    "https://login.xfinity.com/login?"
+  ],
+  "media": {
+    "imgs": [],
+    "allImgCount": 5,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 0,
+    "mainTextLen": 449,
+    "realImageCount": 0,
+    "trackingOnlyMedia": true,
+    "spaShellSuspect": false
+  }
+}

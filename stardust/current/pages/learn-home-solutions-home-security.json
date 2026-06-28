@@ -1,0 +1,242 @@
+{
+  "slug": "learn-home-solutions-home-security",
+  "url": "https://www.xfinity.com/learn/home-solutions/home-security",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:00:29.599Z",
+  "finalUrl": "https://www.xfinity.com/learn/home-solutions/home-security",
+  "title": "Home Security - Xfinity Home Solutions",
+  "description": "Buy Professional Home Monitoring from Xfinity that provides a complete home security system that helps protect your family. Get 24/7 pro monitoring and so much more!",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Xfinity Home Security"
+    },
+    {
+      "tag": "h2",
+      "text": "Home monitoring you can count on"
+    },
+    {
+      "tag": "h2",
+      "text": "Safety starts here"
+    },
+    {
+      "tag": "h2",
+      "text": "Your connected home. Your way."
+    },
+    {
+      "tag": "h2",
+      "text": "Our services work even better together"
+    }
+  ],
+  "body": [
+    "Shopping from MILANOChange",
+    "Professional protection 24/7",
+    "Accessible cloud storage",
+    "Outage protection",
+    "Control on-the-go",
+    "No strings attached",
+    "Access all over the house",
+    "Internet",
+    "Mobile",
+    "TV & Streaming",
+    "Home Solutions",
+    "Build your plan"
+  ],
+  "ctas": [
+    {
+      "label": "Find My Plan",
+      "href": null
+    },
+    {
+      "label": "Sign in",
+      "href": "https://login.xfinity.com/login?"
+    },
+    {
+      "label": "Change",
+      "href": "#Change"
+    },
+    {
+      "label": "Shop home security",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder"
+    },
+    {
+      "label": "Sign in to add",
+      "href": "https://www.xfinity.com/buy/plan/offersfilter?upgrade=true&intcmp=ILC:UPS:BAUP:SUB:GEN:XH:COM:NA:cry:9161082552"
+    },
+    {
+      "label": "Shop Xfinity Equipment",
+      "href": "https://www.xfinity.com/learn/home-security/devices"
+    },
+    {
+      "label": "Check compatibility",
+      "href": "https://www.xfinity.com/learn/home-security/our-partners"
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile-service"
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "Home Solutions",
+      "href": "https://www.xfinity.com/learn/home-security"
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    },
+    {
+      "label": "Live chat",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://login.xfinity.com/login?",
+    "https://www.xfinity.com/learn/home-solutions/home-security#Change",
+    "https://www.xfinity.com/digital/offers/plan-builder",
+    "https://www.xfinity.com/buy/plan/offersfilter?upgrade=true&intcmp=ILC:UPS:BAUP:SUB:GEN:XH:COM:NA:cry:9161082552",
+    "https://www.xfinity.com/learn/home-security/devices",
+    "https://www.xfinity.com/learn/home-security/our-partners",
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/learn/mobile-service",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.xfinity.com/learn/home-security",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_Agent_60.png",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_CloudStorage_60.png",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_Lightning_60.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_Verify_60.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_Contract_60.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/Icon_Devices_60.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/internet-card-image-dt.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/mobile-card-image-dt.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/2-LOB-Entertainment-Hover-Tile-DT.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/security-card-image-dt.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/LOB-Build-Your-Plan-Hover-Tile-DT.png",
+        "alt": "",
+        "w": 440,
+        "h": 618
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 17,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/ProMonitor_Hero_Desktop1.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-7932_xfinity-pro-protection-plus-rebrand-to-xfinity-home-security/HS_EquipmentBanner_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/Hover-Tile-BG-Image-Gray.png"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 6932,
+    "realImageCount": 13,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

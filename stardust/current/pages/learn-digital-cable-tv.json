@@ -1,0 +1,317 @@
+{
+  "slug": "learn-digital-cable-tv",
+  "url": "https://www.xfinity.com/learn/digital-cable-tv",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:00:24.446Z",
+  "finalUrl": "https://www.xfinity.com/learn/digital-cable-tv",
+  "title": "Xfinity TV and Streaming - Xfinity Entertainment",
+  "description": "All the entertainment you want, in one place. Live TV, Sports, StreamStore and more. An unmatched viewing experience, Shop Xfinity Today!",
+  "og": {
+    "title": "Xfinity TV and Streaming - Xfinity Entertainment",
+    "description": "All the entertainment you want, in one place. Live TV, Sports, StreamStore and more. An unmatched viewing experience, Shop Xfinity Today!",
+    "image": "https://assets.xfinity.com/assets/dotcom/hub/images/2025/q3/TV_Tablet_Phone.jpg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Xfinity Entertainment"
+    },
+    {
+      "tag": "h2",
+      "text": "Live TV"
+    },
+    {
+      "tag": "h2",
+      "text": "Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV."
+    },
+    {
+      "tag": "h2",
+      "text": "StreamStore"
+    },
+    {
+      "tag": "h2",
+      "text": "All your favorite streaming services at your fingertips with simplified billing."
+    },
+    {
+      "tag": "h2",
+      "text": "Sports"
+    },
+    {
+      "tag": "h2",
+      "text": "Always know where to watch your favorite teams and leagues."
+    },
+    {
+      "tag": "h2",
+      "text": "An unmatched viewing experience"
+    },
+    {
+      "tag": "h2",
+      "text": "Whatever you want, we have it here"
+    },
+    {
+      "tag": "h2",
+      "text": "Turn any screen into a TV"
+    },
+    {
+      "tag": "h2",
+      "text": "Watch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app."
+    },
+    {
+      "tag": "h2",
+      "text": "All the top apps in one place"
+    },
+    {
+      "tag": "h2",
+      "text": "Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching."
+    },
+    {
+      "tag": "h2",
+      "text": "Add-on channels"
+    },
+    {
+      "tag": "h2",
+      "text": "Add sports packages, premium channels like Max and Paramount Plus, and more to your plan"
+    },
+    {
+      "tag": "h2",
+      "text": "Latino TV packages"
+    },
+    {
+      "tag": "h2",
+      "text": "Get your favorite Spanish-language channels and content"
+    },
+    {
+      "tag": "h2",
+      "text": "International"
+    },
+    {
+      "tag": "h2",
+      "text": "Watch your favorite channels from countries across the globe"
+    },
+    {
+      "tag": "h2",
+      "text": "Every match. Every goal.All year long with World Soccer Ticket."
+    },
+    {
+      "tag": "h2",
+      "text": "Entertainment deals you’ll love"
+    }
+  ],
+  "body": [
+    "Shopping from Change"
+  ],
+  "ctas": [
+    {
+      "label": "Change",
+      "href": "#Change"
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder"
+    },
+    {
+      "label": "Explore Xfinity TV",
+      "href": null
+    },
+    {
+      "label": "Visit StreamStore",
+      "href": null
+    },
+    {
+      "label": "Explore Sports",
+      "href": null
+    },
+    {
+      "label": "View add-ons",
+      "href": null
+    },
+    {
+      "label": "View Latino Packages",
+      "href": null
+    },
+    {
+      "label": "View International channels",
+      "href": null
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer"
+    },
+    {
+      "label": "Streaming",
+      "href": null
+    },
+    {
+      "label": "Sports",
+      "href": null
+    },
+    {
+      "label": "Latino",
+      "href": null
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services"
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Shop NOW TV",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/learn/digital-cable-tv#Change",
+    "https://www.xfinity.com/digital/offers/plan-builder",
+    "https://www.xfinity.com/support/articles/get-to-know-voice-remote",
+    "https://www.xfinity.com/get-stream",
+    "https://www.xfinity.com/learn/xumostreambox",
+    "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer",
+    "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+    "https://www.xfinity.com/learn/digital-cable-tv#Pricing&otherinfo",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=TV",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-AddOn.png",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-Latino.png",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-International.png",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+        "alt": "",
+        "w": 357,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 343
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 211
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/streaming-tab/NOW-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card01_ASSET_PC.png",
+        "alt": "",
+        "w": 567,
+        "h": 284
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card02_ASSET_PC.png",
+        "alt": "",
+        "w": 567,
+        "h": 378
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card03_ASSET_PC.png",
+        "alt": "",
+        "w": 593,
+        "h": 395
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/NOWLatino-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/XLatino-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 22,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card1.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card2.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card3.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide1-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide2-Desktop_compressed.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide3-Desktop.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/Metablock_Card1_Mobile-new.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/Metablock_Card2_Mobile.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10448_world-cup-phase-2-fox-integration/TVPage-FullImage.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/streaming-tab/NOW-BG-Desktop.png"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 21,
+    "mainTextLen": 10583,
+    "realImageCount": 14,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

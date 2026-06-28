@@ -1,0 +1,254 @@
+{
+  "/xfinity/accessibility": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:47.644Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/apps": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:47.645Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/bill-pay": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:47.645Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/compare": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:47.645Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.036Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/gig": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.036Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/hub/internet": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.036Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/hub": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:53.036Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:56.720Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/deals/internet": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:57.163Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/deals": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:57.381Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/digital-cable-tv/premium-channels/max": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:04:58.008Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/digital-cable-tv/sports": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:01.187Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/digital-cable-tv/x1": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:01.332Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/digital-cable-tv": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:01.536Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/home-phone-services": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:01.682Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/home-solutions/home-security": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:04.978Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/internet-service/internet-essentials": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:05.286Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/internet-service/modems-and-routers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:05.322Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/internet-service": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:05.525Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/mobile/plan": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:09.027Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/learn/moving": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:09.206Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/local": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:09.462Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/membership": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:09.467Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/mobile": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:12.927Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:13.079Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/planbuilder": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:13.178Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/xfinity/site-map": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-06-28T17:05:13.487Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "slug": "learn-home-phone-services",
+  "url": "https://www.xfinity.com/learn/home-phone-services",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:00:45.242Z",
+  "finalUrl": "https://www.xfinity.com/learn/home-phone-services",
+  "title": "Xfinity Voice, Home Phone, Landline and VoIP Services",
+  "description": "Shop XFINITY Home Phone Service Offers. Connect with friends and family in more places around the world with XFINITY Voice.",
+  "og": {
+    "title": "home-phone-services",
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Transfer your number"
+    },
+    {
+      "tag": "h2",
+      "text": "Block spam calls"
+    },
+    {
+      "tag": "h2",
+      "text": "Stay protected"
+    },
+    {
+      "tag": "h2",
+      "text": "Looking for business service?"
+    },
+    {
+      "tag": "h2",
+      "text": "Easily manage your home phone from anywhere"
+    },
+    {
+      "tag": "h2",
+      "text": "Get a backup battery for your home phone"
+    },
+    {
+      "tag": "h2",
+      "text": "Already with Xfinity?"
+    },
+    {
+      "tag": "h2",
+      "text": "Our services work even better together"
+    }
+  ],
+  "body": [
+    "Talk as much as you want to nearly half the world",
+    "Stay connected across the country with unlimited nationwide and international calling. With Xfinity Voice Premier you can chat with friends and family in 90+ countries for $40/mo.",
+    "Rent our xFi Gateway or use your own modem and router.",
+    "If you plan on using your own equipment, make sure your modem and router are voice-compatible. View compatible devices",
+    "Internet",
+    "TV & Streaming",
+    "Mobile",
+    "Home Security"
+  ],
+  "ctas": [
+    {
+      "label": "Find My Plan",
+      "href": null
+    },
+    {
+      "label": "Sign in",
+      "href": "https://login.xfinity.com/login?"
+    },
+    {
+      "label": "Shop now",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder"
+    },
+    {
+      "label": "Shop Xfinity Voice Premier",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder"
+    },
+    {
+      "label": "See international coverage area",
+      "href": "https://www.xfinity.com/international-voice"
+    },
+    {
+      "label": "Visit Comcast Business",
+      "href": "https://business.comcast.com/?CMP=XFN_Phone_ILC"
+    },
+    {
+      "label": "View compatible devices",
+      "href": "https://www.xfinity.com/support/internet/customerowned"
+    },
+    {
+      "label": "Experience the xFi Gateway",
+      "href": "https://www.xfinity.com/support/internet/customerowned"
+    },
+    {
+      "label": "Learn about backup batteries",
+      "href": "https://www.xfinity.com/learn/home-phone-services/equipment#659baa3d-4c1e-4f4e-b673-bd29891c0a0a"
+    },
+    {
+      "label": "Sign in",
+      "href": "http://www.xfinity.com/buy/plan/gbboffers"
+    },
+    {
+      "label": "I'm new to Xfinity",
+      "href": "#I'mnewtoXfinity"
+    },
+    {
+      "label": "Internet",
+      "href": "/learn/internet-service"
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "/learn/digital-cable-tv"
+    },
+    {
+      "label": "Mobile",
+      "href": "/learn/mobile"
+    },
+    {
+      "label": "Home Security",
+      "href": "/learn/home-security"
+    },
+    {
+      "label": "https://www.xfinity.com/international-voice/rates",
+      "href": "https://www.xfinity.com/international-voice/rates"
+    }
+  ],
+  "links": [
+    "https://login.xfinity.com/login?",
+    "https://www.xfinity.com/digital/offers/plan-builder",
+    "https://www.xfinity.com/international-voice",
+    "https://business.comcast.com/?CMP=XFN_Phone_ILC",
+    "https://www.xfinity.com/support/internet/customerowned",
+    "https://www.xfinity.com/learn/home-phone-services/equipment#659baa3d-4c1e-4f4e-b673-bd29891c0a0a",
+    "http://www.xfinity.com/buy/plan/gbboffers",
+    "https://www.xfinity.com/learn/home-phone-services#I'mnewtoXfinity",
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/learn/digital-cable-tv",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/home-security",
+    "https://www.xfinity.com/international-voice/rates"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6709_site-photography-swap/home-phone/overview-page/homephone-overview-half-image-1-dt.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 1152
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/Stylized_Icon_Support_Transfer_blue50.svg",
+        "alt": "",
+        "w": 72,
+        "h": 73
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/Stylized_Icon_Devices_Mobile_red50.svg",
+        "alt": "",
+        "w": 72,
+        "h": 73
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/Stylized_Icon_Security_Shield__Person_purple50.svg",
+        "alt": "",
+        "w": 72,
+        "h": 73
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/xds-icons/check/ic_check_outline_dark_blue_120.svg",
+        "alt": "",
+        "w": 120,
+        "h": 120
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/xds-icons/check/ic_check_outline_dark_blue_120.svg",
+        "alt": "",
+        "w": 120,
+        "h": 120
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/xds-icons/check/ic_check_outline_dark_blue_120.svg",
+        "alt": "",
+        "w": 120,
+        "h": 120
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6709_site-photography-swap/home-phone/overview-page/homephone-overview-half-image-3-dt.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/icon_voicemail_green50_24px.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/icon_forwardcall_green50_24px.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/icon_3way_green50_24px.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/icon_laptop_green50_24px.svg",
+        "alt": "",
+        "w": 25,
+        "h": 25
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/icon_battery_purple50.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/icons/Stylized_Icon_Support_Profile_purple50.svg",
+        "alt": "",
+        "w": 72,
+        "h": 73
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3560_unbeatable-internet-xb8-launch/Image_HoverTiles_InternetDevice.png",
+        "alt": "XB8",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_VideoDevice_Desktop.png",
+        "alt": "Xfinity Video device",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_MobileDevice_Desktop.png",
+        "alt": "Generic mobile smart phone icon",
+        "w": 440,
+        "h": 620
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_CameraDevice_Desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 620
+      }
+    ],
+    "allImgCount": 23,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3594_prospect_voice_2-0_page/Voice_FullImage_Hero_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6709_site-photography-swap/home-phone/overview-page/homephone-overview-half-image-2-dt.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3594_customer_voice_2-0_page/Image_GridFullImage_BlueGateway_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3560_unbeatable-internet-xb8-launch/Image_HoverTiles_InternetBackground.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_VideoBackground_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_MobileBackground_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_CameraBackground_Desktop.png"
+    ],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 8,
+    "mainTextLen": 10417,
+    "realImageCount": 18,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

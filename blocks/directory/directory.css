@@ -1,0 +1,98 @@
+.directory .directory-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
+.directory .directory-search {
+  flex: 1 1 280px;
+  min-width: 220px;
+  padding: 12px 18px;
+  border: 1.5px solid var(--border-color);
+  border-radius: var(--pill);
+  font: inherit;
+  background: var(--surface);
+}
+
+.directory .directory-search:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.directory .directory-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.directory .directory-chips button {
+  border: 1px solid var(--border-color);
+  background: #fff;
+  border-radius: var(--pill);
+  padding: 8px 16px;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.directory .directory-chips button.active {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
+.directory .directory-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.directory .directory-card {
+  display: block;
+  position: relative;
+  padding: 22px;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: #fff;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: transform 0.25s var(--ease-out), box-shadow 0.25s var(--ease-out);
+}
+
+.directory .directory-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lift);
+  text-decoration: none;
+}
+
+.directory .directory-card h3 {
+  font-size: 1.15rem;
+  margin: 0 0 6px;
+}
+
+.directory .directory-card p {
+  color: var(--muted-color);
+  font-size: 0.9rem;
+  margin: 0 0 14px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.directory .directory-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+
+.directory .directory-empty {
+  color: var(--muted-color);
+}

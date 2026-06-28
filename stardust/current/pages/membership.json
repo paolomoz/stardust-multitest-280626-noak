@@ -1,0 +1,704 @@
+{
+  "slug": "membership",
+  "url": "https://www.xfinity.com/membership",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:00:50.507Z",
+  "finalUrl": "https://www.xfinity.com/membership",
+  "title": "Xfinity Membership Benefits - Access Your Rewards",
+  "description": "Discover your Xfinity membership benefits here - new perks, discounts and exclusives added every single week. Check back every Thursday!",
+  "og": {
+    "title": "Xfinity Membership Benefits",
+    "description": "Discover your Xfinity membership benefits here - new perks, discounts and exclusives added every single week. Check back every Thursday!",
+    "image": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9287_membership-relaunch/CIX-9287_membership-relaunch_Share-preview-image.png",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Experience the magic of Xfinity membership"
+    },
+    {
+      "tag": "h2",
+      "text": "Everyone is a member"
+    },
+    {
+      "tag": "h2",
+      "text": "See what's new"
+    },
+    {
+      "tag": "h2",
+      "text": "Start redeeming"
+    },
+    {
+      "tag": "h2",
+      "text": "Silver"
+    },
+    {
+      "tag": "h2",
+      "text": "Gold"
+    },
+    {
+      "tag": "h2",
+      "text": "Platinum"
+    },
+    {
+      "tag": "h2",
+      "text": "Diamond"
+    }
+  ],
+  "body": [
+    "0-1 YEAR OR 1 XFINITY SERVICE",
+    ">1-5 YEARS OR 2 XFINITY SERVICES",
+    ">5-10 YEARS OR 3 XFINITY SERVICES",
+    "10+ YEARS OR 4 XFINITY SERVICES",
+    "1 Unlimited line: New Xfinity Mobile customers only. Requires residential post-pay 300 Mbps internet or above. New Unlimited mobile line must be purchased within 90 days. $25 one-time activation fee/line applies. Discount limited to the value of one Unlimited line applied via 12 monthly bill credits. Tablet and smart watch lines are not eligible for these discounts. $25/mo charge applies if Xfinity TV, Voice or internet not maintained. After 1 year, taxes and fees, and other applicable charges extra, and subj. to change. Reduced speeds after 30GB of usage/line. Data thresholds may vary. For Xfinity Mobile Broadband Disclosures visit: www.xfinity.com/mobile/policies/broadband-disclosures.",
+    "Smartwatch discount: Limited to Xfinity Gold, Diamond, and Platinum members with account in good standing. $299.99 off for Diamond and Platinum members, $150 off for Gold members. Must enter unique offer code during checkout to receive discount. Requires Xfinity Mobile, purchase and activation of new, eligible smartwatch while supplies last, a 36-month Xfinity Mobile Device Payment Plan Agreement (\"Device Agreement\"), and activation of new Xfinity Mobile watch line within 30 days of device purchase date. Additional $10 monthly smartwatch fee applies. Tax on pre-credit price and fees extra. Up to $299.99 in bill credits applied monthly so long as Device Agreement is in effect. If line is canceled or watch payments are accelerated, remaining credits are forfeited. One code per member account/household; max two transactions per code. Not valid with prior purchases, returns or exchanges. Back orders are eligible. Out of stock watches are not eligible. May not be combined with other device offers.",
+    "Membership eligible services include:",
+    "• Xfinity Internet",
+    "• Internet Essentials",
+    "• Xfinity TV",
+    "• NOW TV/NOW TV Latino/NOW StreamSaver postpaid",
+    "• Xfinity Mobile",
+    "• Xfinity Voice",
+    "• Xfinity Home Security",
+    "• Xfinity Smart Home",
+    "Customers who only receive Xfinity services through bulk accounts through which services are paid by a third party are not eligible for membership. Xfinity Prepaid Internet is not eligible for membership."
+  ],
+  "ctas": [
+    {
+      "label": "See benefits",
+      "href": null
+    },
+    {
+      "label": "Get started.",
+      "href": "#"
+    },
+    {
+      "label": "See our FAQs",
+      "href": null
+    },
+    {
+      "label": "Skip past marquee",
+      "href": null
+    },
+    {
+      "label": "Minions & Monsters Early Access ScreeningRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=632324"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Watch Andy Cohen spill the tea live with a 3-day trip to NYCRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=632326"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Get 25% off at the NBCUniversal shopRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=540020"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Minions & Monsters Early Access ScreeningRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=632324"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Enter for a chance to win a Universal theme park vacationRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=640624"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Get a $1 movie rental this weekendRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=634248"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Laugh the night away in NYC at \"The Tonight Show\"Redeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=632325"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Bravoholics: Save 25% on reality TV merchRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=537130"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Save on tickets to Universal Orlando ResortRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=537126"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Make some mischief with Minion-themed activities for the familyRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=634375"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Bravoholics: Save 25% on reality TV merchRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=537130"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "Save on tickets to Universal Orlando ResortRedeem offer>",
+      "href": "https://customer.xfinity.com/membership?reward_id=537126"
+    },
+    {
+      "label": "See benefits>",
+      "href": "https://customer.xfinity.com/membership"
+    },
+    {
+      "label": "www.xfinity.com/mobile/policies/broadband-disclosures",
+      "href": "http://www.xfinity.com/mobile/policies/broadband-disclosures"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Build your plan",
+      "href": null
+    },
+    {
+      "label": "here.",
+      "href": "https://www.xfinity.com/support/articles/xfinity-membership"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/membership#",
+    "https://customer.xfinity.com/membership?reward_id=632324",
+    "https://customer.xfinity.com/membership",
+    "https://customer.xfinity.com/membership?reward_id=632326",
+    "https://customer.xfinity.com/membership?reward_id=540020",
+    "https://customer.xfinity.com/membership?reward_id=640624",
+    "https://customer.xfinity.com/membership?reward_id=634248",
+    "https://customer.xfinity.com/membership?reward_id=632325",
+    "https://customer.xfinity.com/membership?reward_id=537130",
+    "https://customer.xfinity.com/membership?reward_id=537126",
+    "https://customer.xfinity.com/membership?reward_id=634375",
+    "http://www.xfinity.com/mobile/policies/broadband-disclosures",
+    "https://customer.xfinity.com/membership/history",
+    "https://www.xfinity.com/support/articles/xfinity-membership",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/may/CIX-10509_Early-access-screenings_Minions-and-monsters_event_Hero-Desktop.jpg",
+        "alt": "Illumination minions and monsters. Buy your Xfinity Early Access Screening tickets today. In select theaters while supplies last",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/may/CIX-10509_Early-access-screenings_Minions-and-monsters_event_Hero-Desktop.jpg",
+        "alt": "Illumination minions and monsters. Buy your Xfinity Early Access Screening tickets today. In select theaters while supplies last",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Movies_Dark.png",
+        "alt": "Movie reel",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Movies_Dark.png",
+        "alt": "Movie reel",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9920_WWHL_2026_resize_Sweepstakes_Hero-Desktop.png",
+        "alt": "Watch what happens live with andy cohen Sunday through thursday on bravo and peacock Turning late night upside down",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9920_WWHL_2026_resize_Sweepstakes_Hero-Desktop.png",
+        "alt": "Watch what happens live with andy cohen Sunday through thursday on bravo and peacock Turning late night upside down",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Free_movies_Dark.png",
+        "alt": "Surprises ",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Free_movies_Dark.png",
+        "alt": "Surprises ",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9788_NBC-Universal-Shop-discount_Digital-code_Hero-Desktop.png",
+        "alt": "",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9788_NBC-Universal-Shop-discount_Digital-code_Hero-Desktop.png",
+        "alt": "",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Discount_Dark.png",
+        "alt": "Discounts",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Discount_Dark.png",
+        "alt": "Discounts",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/may/CIX-10509_Early-access-screenings_Minions-and-monsters_event_Hero-Desktop.jpg",
+        "alt": "Illumination minions and monsters. Buy your Xfinity Early Access Screening tickets today. In select theaters while supplies last",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/may/CIX-10509_Early-access-screenings_Minions-and-monsters_event_Hero-Desktop.jpg",
+        "alt": "Illumination minions and monsters. Buy your Xfinity Early Access Screening tickets today. In select theaters while supplies last",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Movies_Dark.png",
+        "alt": "Movie reel",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Movies_Dark.png",
+        "alt": "Movie reel",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/june/CIX-10474_UDX-Minions_Sweepstakes_Hero-Desktop.jpg",
+        "alt": "universal destinations and experiences. Minions and all related elements and indicia TM & © 2026 Universal Studios. All rights reserved. Universal elements and all related indicia TM & © 2026 Universal Studios. All rights reserved.",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/june/CIX-10474_UDX-Minions_Sweepstakes_Hero-Desktop.jpg",
+        "alt": "universal destinations and experiences. Minions and all related elements and indicia TM & © 2026 Universal Studios. All rights reserved. Universal elements and all related indicia TM & © 2026 Universal Studios. All rights reserved.",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Free_movies_Dark.png",
+        "alt": "Surprises ",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Free_movies_Dark.png",
+        "alt": "Surprises ",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/february/CIX-9883_dollar-movie-weekend_feb_EST_Hero-Desktop.png",
+        "alt": "$1 dollar movie night",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/february/CIX-9883_dollar-movie-weekend_feb_EST_Hero-Desktop.png",
+        "alt": "$1 dollar movie night",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Discount_Dark.png",
+        "alt": "Discounts",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Discount_Dark.png",
+        "alt": "Discounts",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/New_CIX-9933_The-tonight-show_Membership-refresh_Sweepstakes_Hero-Desktop.png",
+        "alt": "What a Night. The tonight show starring Jimmy Fallon weeknights on NBC streaming on peacock",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/New_CIX-9933_The-tonight-show_Membership-refresh_Sweepstakes_Hero-Desktop.png",
+        "alt": "What a Night. The tonight show starring Jimmy Fallon weeknights on NBC streaming on peacock",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9854_2026-shop-by-Bravo_Digital-code_Hero-Desktop.png",
+        "alt": "Shop by bravo",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9854_2026-shop-by-Bravo_Digital-code_Hero-Desktop.png",
+        "alt": "Shop by bravo",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9840_Universal-parks-discount_Event_Hero-Desktop.jpg",
+        "alt": "Family walking in front of the universal globe",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9840_Universal-parks-discount_Event_Hero-Desktop.jpg",
+        "alt": "Family walking in front of the universal globe",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/june/CIX-10564_Minions-and-monsters-downloadable_Event_Hero-Desktop.jpg",
+        "alt": "Illuminations minions and monsters Activity kit",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/june/CIX-10564_Minions-and-monsters-downloadable_Event_Hero-Desktop.jpg",
+        "alt": "Illuminations minions and monsters Activity kit",
+        "w": 1524,
+        "h": 1524
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9854_2026-shop-by-Bravo_Digital-code_Hero-Desktop.png",
+        "alt": "Shop by bravo",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9854_2026-shop-by-Bravo_Digital-code_Hero-Desktop.png",
+        "alt": "Shop by bravo",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Sports_Dark.png",
+        "alt": "sports example",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9840_Universal-parks-discount_Event_Hero-Desktop.jpg",
+        "alt": "Family walking in front of the universal globe",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/january/CIX-9840_Universal-parks-discount_Event_Hero-Desktop.jpg",
+        "alt": "Family walking in front of the universal globe",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/memebership-benefits_2026/membership-theme-tiles/Filler_Family_Dark.png",
+        "alt": "Family",
+        "w": 508,
+        "h": 508
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-9726_membership-april-launch/CIX-9726_Text_Mobile-background_membership.jpg",
+        "alt": "",
+        "w": 750,
+        "h": 560
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 78,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9287_membership-relaunch/CIX-9287_membership-relaunch_Silver-tier_breakdown-eyebrow.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9287_membership-relaunch/CIX-9287_membership-relaunch_Gold-tier_breakdown-eyebrow.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9287_membership-relaunch/CIX-9287_membership-relaunch_Platinum-tier_breakdown-eyebrow.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9287_membership-relaunch/CIX-9287_membership-relaunch_Diamond-tier_breakdown-eyebrow.png"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 8,
+    "mainTextLen": 11701,
+    "realImageCount": 74,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

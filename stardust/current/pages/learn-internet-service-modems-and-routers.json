@@ -1,0 +1,208 @@
+{
+  "slug": "learn-internet-service-modems-and-routers",
+  "url": "https://www.xfinity.com/learn/internet-service/modems-and-routers",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:01:52.886Z",
+  "finalUrl": "https://www.xfinity.com/learn/internet-service/modems-and-routers",
+  "title": "Xfinity WiFi Gateway - Home WiFi Modem and Router",
+  "description": "Get the Xfinity WiFi Gateway - Xfinity's internet modem + WiFi router in one that is designed to deliver enhanced coverage and the benefits of our best WiFi experience",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Part modem. Part router. All rock-solid connection."
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity WiFi Gateway. The connectivity hub for your home."
+    },
+    {
+      "tag": "h2",
+      "text": "A zero-hassle setup to faster WiFi"
+    },
+    {
+      "tag": "h2",
+      "text": "Manage your home WiFi experience with the Xfinity app"
+    },
+    {
+      "tag": "h2",
+      "text": "Keep a smooth connection — no matter who’s online"
+    },
+    {
+      "tag": "h2",
+      "text": "Serious security for the seriously online"
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity WiFi Gateway Tech Specs"
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity Pro. Our most elevated WiFi experience."
+    },
+    {
+      "tag": "h2",
+      "text": "Pro WiFi Extender"
+    },
+    {
+      "tag": "h2",
+      "text": "Connect with unlimited 4G LTE cellular data during an unexpected network outage with the Pro WiFi Extender. You can also purchase a Battery Backup for a $60 one-time charge to stay online for up to 4 hours if the power goes out."
+    },
+    {
+      "tag": "h2",
+      "text": "WiFi Extender"
+    },
+    {
+      "tag": "h2",
+      "text": "Get seamless, consistent coverage throughout the house with WiFi Extenders. Xfinity Pro includes up to 2 WiFi Extenders if recommended for your home."
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "body": [
+    "Part modem. Part router.",
+    "All rock-solid connection.",
+    "Keep a smooth connection — no matter who’s online",
+    "• Connect computers, printers, and other devices, both wirelessly and with cables • Secure Xfinity WiFi hotspot for guests (no password needed) • Gateway/network management tool for advanced users (http://10.0.0.1) • Battery backup capability (Xfinity Voice only) • Connect cordless phones and handsets (CAT-iq 2.0*) • Telephone ports: 2",
+    "• Maximum data throughput: 2.5Gbps • Ethernet ports: Single 2.5Gbps, Three 1Gbps • DOCSIS 3.1 cable modem • Backwards compatible with non-WiFi 6E, WiFi 6, and WiFi 5-enabled devices or clients",
+    "• Compatible with Xumo Stream Box from Xfinity"
+  ],
+  "ctas": [
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/support/articles/why-rent-wireless-gateway"
+    },
+    {
+      "label": "Get the Xfinity app",
+      "href": "https://www.xfinity.com/apps"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/support/articles/how-to-boost-wifi-device"
+    },
+    {
+      "label": "Explore Advanced Security",
+      "href": "https://www.xfinity.com/support/articles/getting-started-with-xfinity-xfi-advanced-security"
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/planbuilder?localize=true"
+    },
+    {
+      "label": "Learn more about using approved third-party equipment.",
+      "href": "https://www.xfinity.com/support/articles/list-of-approved-cable-modems"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    },
+    {
+      "label": "Live chat",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.xfinity.com/learn/internet-service",
+    "https://www.xfinity.com/support/articles/why-rent-wireless-gateway",
+    "https://www.xfinity.com/apps",
+    "https://www.xfinity.com/support/articles/how-to-boost-wifi-device",
+    "https://www.xfinity.com/support/articles/getting-started-with-xfinity-xfi-advanced-security",
+    "https://www.xfinity.com/planbuilder?localize=true",
+    "https://www.xfinity.com/learn/internet-service/xpro",
+    "https://www.xfinity.com/support/articles/list-of-approved-cable-modems",
+    "https://www.xfinity.com/local/store-offers",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/xds-icons/mobile_wifi/ic_mobile_wifi_outline_dark_neutral_48.svg",
+        "alt": "",
+        "w": 48,
+        "h": 48
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/aug/cix-9008_mdi-page-refresh-imagery/Icon_In-Home-Coverage_Theme1.svg",
+        "alt": "",
+        "w": 61,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/aug/cix-9008_mdi-page-refresh-imagery/Icon_Cell-Network_Theme1.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/aug/cix-9008_mdi-page-refresh-imagery/Icon_Router_Theme1.svg",
+        "alt": "",
+        "w": 61,
+        "h": 60
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 11,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/CIX-10170_Ignite-SSID-Messaging-for-Learn/Image_Ignite_Equipment-Learn-Hero_Background_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/CIX-10170_Ignite-SSID-Messaging-for-Learn/Image_Ignite_Zero-Hassle-Setup_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/CIX-10170_Ignite-SSID-Messaging-for-Learn/Image_Ignite_Get-Xfinity-App_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/CIX-10170_Ignite-SSID-Messaging-for-Learn/Image_Ignite_Low-Lag-Wifi_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/CIX-10170_Ignite-SSID-Messaging-for-Learn/Image_Ignite_Advance-Security_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10440_xfinity-pro-refresh/placements/XPro-Card1-Equipment-Desktop.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10440_xfinity-pro-refresh/placements/XPro-Card2-Equipment-Desktop.png"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 13,
+    "mainTextLen": 10677,
+    "realImageCount": 6,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}
