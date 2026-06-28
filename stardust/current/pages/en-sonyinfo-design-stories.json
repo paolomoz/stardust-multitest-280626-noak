@@ -1,0 +1,2013 @@
+{
+  "slug": "en-sonyinfo-design-stories",
+  "url": "https://www.sony.com/en/SonyInfo/design/stories/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:37:32.676Z",
+  "finalUrl": "https://www.sony.com/en/SonyInfo/design/stories/",
+  "title": "Stories | Sony Design - Sony Group Portal",
+  "description": "This site provides information on Sony Design.",
+  "og": {
+    "title": "Stories / Sony Design / Sony",
+    "description": null,
+    "image": "https://www.sony.com/en/SonyInfo/design/img/share.jpg",
+    "type": "design"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Design Stories"
+    },
+    {
+      "tag": "h1",
+      "text": "Stories"
+    },
+    {
+      "tag": "h2",
+      "text": "Sakurai Kokeshi x Sony Design"
+    },
+    {
+      "tag": "h2",
+      "text": "Sony ExploraDream"
+    },
+    {
+      "tag": "h2",
+      "text": "SIGNALS"
+    },
+    {
+      "tag": "h2",
+      "text": "RX1R III digital still camera"
+    },
+    {
+      "tag": "h2",
+      "text": "Sony Semiconductor Solutions"
+    },
+    {
+      "tag": "h2",
+      "text": "SIGNALS"
+    },
+    {
+      "tag": "h2",
+      "text": "FavoriteSpace"
+    },
+    {
+      "tag": "h2",
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "tag": "h2",
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "tag": "h2",
+      "text": "The Hug Drum, a \"Yuru\" Musical Instrument"
+    },
+    {
+      "tag": "h2",
+      "text": "Accompanying the still photography of 'Lion Night'"
+    },
+    {
+      "tag": "h2",
+      "text": "Original BlendedMaterial"
+    },
+    {
+      "tag": "h2",
+      "text": "HT-AX7"
+    },
+    {
+      "tag": "h2",
+      "text": "Stepping into our'INTO SIGHT' Exhibition"
+    },
+    {
+      "tag": "h2",
+      "text": "XR Catch"
+    },
+    {
+      "tag": "h2",
+      "text": "Creepy Nuts Special Live"
+    },
+    {
+      "tag": "h2",
+      "text": "INZONE"
+    },
+    {
+      "tag": "h2",
+      "text": "VISION-S 02"
+    },
+    {
+      "tag": "h2",
+      "text": "LinkBuds"
+    },
+    {
+      "tag": "h2",
+      "text": "Waste Age: What can design do?"
+    },
+    {
+      "tag": "h2",
+      "text": "Sony’s Motion Logo"
+    },
+    {
+      "tag": "h2",
+      "text": "DESIGN VISION"
+    },
+    {
+      "tag": "h2",
+      "text": "Flow Machines"
+    },
+    {
+      "tag": "h2",
+      "text": "Airpeak"
+    },
+    {
+      "tag": "h2",
+      "text": "Sci-Fi prototyping"
+    },
+    {
+      "tag": "h2",
+      "text": "Cinema Line : FX6 / FX3"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.12"
+    },
+    {
+      "tag": "h2",
+      "text": "PlayStation®5Design Story"
+    },
+    {
+      "tag": "h2",
+      "text": "Building a GUI prototype for an AI-powered recipe-creation app"
+    },
+    {
+      "tag": "h2",
+      "text": "Service Design Master's Course with UNOPS"
+    },
+    {
+      "tag": "h2",
+      "text": "DESIGN VISION"
+    },
+    {
+      "tag": "h2",
+      "text": "Design Research"
+    },
+    {
+      "tag": "h2",
+      "text": "Spatial Reality Display ELF-SR1"
+    },
+    {
+      "tag": "h2",
+      "text": "FANCL Genki Station"
+    },
+    {
+      "tag": "h2",
+      "text": "The ID7000™ Spectral Cell Analyzer"
+    },
+    {
+      "tag": "h2",
+      "text": "How Sony's foray into mobility became a pursuit of \"reality\""
+    },
+    {
+      "tag": "h2",
+      "text": "How Sony's foray into mobility became a pursuit of \"reality\""
+    },
+    {
+      "tag": "h2",
+      "text": "How Sony's foray into mobility became a pursuit of \"reality\""
+    },
+    {
+      "tag": "h2",
+      "text": "How Sony's foray into mobility became a pursuit of \"reality\""
+    },
+    {
+      "tag": "h2",
+      "text": "How Sony's foray into mobility became a pursuit of \"reality\""
+    },
+    {
+      "tag": "h2",
+      "text": "Sports & AI Project"
+    },
+    {
+      "tag": "h2",
+      "text": "CMF Framework Project"
+    },
+    {
+      "tag": "h2",
+      "text": "Interactive Content Solution"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.11"
+    },
+    {
+      "tag": "h2",
+      "text": "YOU and BAU"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.10"
+    },
+    {
+      "tag": "h2",
+      "text": "DESIGN VISION 2019"
+    },
+    {
+      "tag": "h2",
+      "text": "GHOSTBUSTERS ROOKIE TRAINING"
+    },
+    {
+      "tag": "h2",
+      "text": "Immersive Edge"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.9"
+    },
+    {
+      "tag": "h2",
+      "text": "Sony Mobile corporate vision"
+    },
+    {
+      "tag": "h2",
+      "text": "Hidden Senses Concept"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.8"
+    },
+    {
+      "tag": "h2",
+      "text": "CAVE without a LIGHT"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.7"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.6"
+    },
+    {
+      "tag": "h2",
+      "text": "Signature Series: DMP-Z1 and IER-Z1R"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.5"
+    },
+    {
+      "tag": "h2",
+      "text": "UX Branding Project"
+    },
+    {
+      "tag": "h2",
+      "text": "Slice of Living 2019"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.3"
+    },
+    {
+      "tag": "h2",
+      "text": "VENICE"
+    },
+    {
+      "tag": "h2",
+      "text": "China Eastern Airlines Brand Showroom"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.2"
+    },
+    {
+      "tag": "h2",
+      "text": "Soft Minimalism"
+    },
+    {
+      "tag": "h2",
+      "text": "A new surgical microscope system"
+    },
+    {
+      "tag": "h2",
+      "text": "Perspectives vol.1"
+    },
+    {
+      "tag": "h2",
+      "text": "A(i)R Hockey"
+    },
+    {
+      "tag": "h2",
+      "text": "Interactive CUBE"
+    },
+    {
+      "tag": "h2",
+      "text": "RX0"
+    },
+    {
+      "tag": "h2",
+      "text": "IFA 2017"
+    },
+    {
+      "tag": "h2",
+      "text": "ambie sound earcuffs"
+    },
+    {
+      "tag": "h2",
+      "text": "DPT-RP1"
+    },
+    {
+      "tag": "h2",
+      "text": "Immersive Space Entertainment"
+    },
+    {
+      "tag": "h2",
+      "text": "Warp Square"
+    },
+    {
+      "tag": "h2",
+      "text": "Motion Sonic Project"
+    },
+    {
+      "tag": "h2",
+      "text": "Space and Communication Design"
+    },
+    {
+      "tag": "h2",
+      "text": "Any Surface"
+    },
+    {
+      "tag": "h2",
+      "text": "KOOV™"
+    },
+    {
+      "tag": "h2",
+      "text": "One Slate -Slice of Living-"
+    },
+    {
+      "tag": "h2",
+      "text": "Slice of Living 2017"
+    },
+    {
+      "tag": "h2",
+      "text": "EXTRA BASS™ Series"
+    },
+    {
+      "tag": "h2",
+      "text": "Signature Series"
+    },
+    {
+      "tag": "h2",
+      "text": "Future Lab Program"
+    },
+    {
+      "tag": "h2",
+      "text": "News Suite"
+    },
+    {
+      "tag": "h2",
+      "text": "Slice of Living"
+    },
+    {
+      "tag": "h2",
+      "text": "Sony Bank WALLET"
+    },
+    {
+      "tag": "h2",
+      "text": "Life Space UX"
+    },
+    {
+      "tag": "h2",
+      "text": "α7/RX series"
+    },
+    {
+      "tag": "h2",
+      "text": "BeautyExplorer™"
+    },
+    {
+      "tag": "h2",
+      "text": "h.ear™"
+    },
+    {
+      "tag": "h2",
+      "text": "Negative Space"
+    },
+    {
+      "tag": "h2",
+      "text": "Pure Geometry"
+    },
+    {
+      "tag": "h2",
+      "text": "4K Ultra Short Throw Projector"
+    },
+    {
+      "tag": "h2",
+      "text": "DSC-KW1/KW11"
+    },
+    {
+      "tag": "h2",
+      "text": "Lifelog application and smartwear products"
+    },
+    {
+      "tag": "h2",
+      "text": "Definitive Outline"
+    },
+    {
+      "tag": "h2",
+      "text": "2014 BRAVIA®"
+    },
+    {
+      "tag": "h2",
+      "text": "DSC-QX100 / DSC-QX10"
+    },
+    {
+      "tag": "h2",
+      "text": "SST Type Project"
+    },
+    {
+      "tag": "h2",
+      "text": "SST Type Project"
+    },
+    {
+      "tag": "h2",
+      "text": "SH800 / SP6800"
+    },
+    {
+      "tag": "h2",
+      "text": "SHAKE-7 / MHC-GPX88"
+    },
+    {
+      "tag": "h2",
+      "text": "Sense of Quartz"
+    },
+    {
+      "tag": "h2",
+      "text": "WALKMAN® NWD-W270 series"
+    },
+    {
+      "tag": "h2",
+      "text": "DSC-RX1 / SLT-A99V /NEX-VG900"
+    }
+  ],
+  "body": [
+    "Inside stories on design inspiration",
+    "All",
+    "Product",
+    "UI / UX",
+    "Communication",
+    "Interviews",
+    "Perspectives",
+    "Extending the wonders of kokeshi dolls through collaborative design",
+    "Product",
+    "Communication",
+    "Interviews",
+    "A Creative Entertainment Science Museum that Ignites Young Dreams with Inspiration",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Inventing the in-between",
+    "Interviews",
+    "Crystallizing beauty through the purity of form and function",
+    "Product",
+    "Communication",
+    "Interviews",
+    "Crafting the vision fora semiconductor business",
+    "Communication",
+    "Interviews",
+    "Exploring Transmedia EntertainmentThrough Design",
+    "Interviews",
+    "Social Entertainment Space That Connects the World Through \"Favorites\"",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "Designing \"where the Sony Group wants to be\" (Part 1)",
+    "Interviews",
+    "Designing \"where the Sony Group wants to be\" (Part 2)",
+    "Interviews",
+    "An Inclusive Percussion InstrumentThat Allows Anyone to Join a Jam Session",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "The Mission of Design, as Seen in a Tsuyoshi Takashiro - Directed Wildlife Photography Trip to Africa",
+    "Interviews",
+    "Changing the future one step at a time",
+    "Product",
+    "Breaking from convention to liberate the listening experience",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "Designing for the future",
+    "Product",
+    "UI/UX",
+    "Connecting Hearts Beyond Constraints:An Opportunity for Play Createdwith Inclusive Design Methods",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "Creativity comes from play",
+    "Interviews",
+    "Helping gamers push the limits",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Racing into the unknown world of mobility",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "A sound experience like nothing else in the world, born from a bold idea",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Exhibition in collaboration with Design Museum London",
+    "Communication",
+    "Interviews",
+    "Capturing Sony’s evolution in visual form",
+    "Communication",
+    "Interviews",
+    "Sci-Fi meets design to shape hopes for the future: Designer roundtable on DESIGN VISION 2021",
+    "Interviews",
+    "Making music like never before",
+    "UI/UX",
+    "Communication",
+    "Creation in the air: Exploring new frontiers of expression",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Designing the future with science-fiction writers: ONE DAY, 2050 / Sci-Fi Prototyping",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "For creators who believe in the power of visual storytelling",
+    "Product",
+    "Communication",
+    "How Triporous spun together a compelling collaboration with A-POC ABLE ISSEY MIYAKE",
+    "Perspectives",
+    "A new world of gameplay beyond dimensions",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Creating the future of food",
+    "UI/UX",
+    "Interviews",
+    "Supporting the local community and future talents",
+    "Interviews",
+    "DESIGN VISION, Sony's design research project",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Sony's approach to design research",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Toward a new horizon of creation",
+    "Product",
+    "Communication",
+    "A New Space for Health Awareness",
+    "UI/UX",
+    "Interviews",
+    "Accelerating the development of life sciences",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "VISION-S Prototype Design Story",
+    "No.1 Dialog",
+    "Interviews",
+    "VISION-S Prototype Design Story",
+    "No.2 Exterior design",
+    "Product",
+    "VISION-S Prototype Design Story",
+    "No.3 Interior design",
+    "Product",
+    "VISION-S Prototype Design Story",
+    "No.4 UI/UX design",
+    "UI/UX",
+    "VISION-S Prototype Design Story",
+    "No.5 Communication design",
+    "Communication",
+    "Discovering the unseen charm of sports",
+    "UI/UX",
+    "Interviews",
+    "Constantly creating fresh emotional value",
+    "Interviews",
+    "Designing a compelling moment",
+    "UI/UX",
+    "Interviews",
+    "A deeper understanding of the creators can expand the possibilities of craftmaking",
+    "Perspectives",
+    "Bringing new experience value to art photography",
+    "UI/UX",
+    "Interviews",
+    "Making new value a part of everyday life",
+    "Perspectives",
+    "Design research for the future insights",
+    "Reshaping the experience: Technology as entertainment",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "A gateway to the ultimate in immersion",
+    "Product",
+    "Communication",
+    "Weaving essence into a vision",
+    "Perspectives",
+    "Designing a corporate identity",
+    "Communication",
+    "Interviews",
+    "Maximum comfort: Exploring \"new everyday living\" through intuitive interactions",
+    "UI/UX",
+    "Communication",
+    "Experiencing photography through the five senses",
+    "Perspectives",
+    "Crafting a \"cross-border\" entertainment experience",
+    "UI/UX",
+    "Reading into extraordinary experiences",
+    "Perspectives",
+    "The resonance of nature",
+    "Perspectives",
+    "A ceaseless quest for peerless audio quality",
+    "Product",
+    "Loosen up to get closer to customers",
+    "Perspectives",
+    "Enriching the Sony brand experience through a consistent UX",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Bringing creator’s visions into living spaces",
+    "Product",
+    "Light from the past and present, observed from two different perspectives",
+    "Perspectives",
+    "How co-creation unlocked the future of cinema",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Breathing life into solutions with design",
+    "Communication",
+    "Interviews",
+    "What does AI make of a story taken out of its timeline?",
+    "Perspectives",
+    "Embedding the viewing experience into day-to-day living",
+    "Product",
+    "Bringing cutting-edge technology to the medical field",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "Bringing Relaxation into \"Idealized\" Ways of Working and Living",
+    "Perspectives",
+    "Design meets AR, unlocking exciting new possibilities",
+    "UI/UX",
+    "Endless evolution into fresh forms of fun",
+    "UI/UX",
+    "The infinite possibilities of the RX0",
+    "Product",
+    "Communication",
+    "A place to embody a brand: Designing a location to represent the Sony brand experience",
+    "Communication",
+    "Interviews",
+    "Guiding the listening experience into an uncharted future",
+    "Product",
+    "Communication",
+    "Interviews",
+    "Paper for the digital age",
+    "Product",
+    "UI/UX",
+    "How designers are shaping the technologies for \"future experiences\"",
+    "UI/UX",
+    "Composing the \"next story\" with a unique interface",
+    "UI/UX",
+    "Reworking microphones to amplify wind noise",
+    "Product",
+    "UI/UX",
+    "Sony's \"ideal factory,\" a constant source of wows, keeps the fun flowing",
+    "Communication",
+    "A single point: The origin of Sony’s new-generation user interface",
+    "UI/UX",
+    "Letting the innovators of tomorrow explore their imaginations",
+    "Product",
+    "UI/UX",
+    "Interviews",
+    "The artistic aesthetics of the One Slate experience",
+    "Product",
+    "Styling the space, styling the viewing experience",
+    "Product",
+    "Powerful bass and dazzling light in a single package",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "To deliver the ultimate musical experience in headphones",
+    "Product",
+    "Sharing new value and forging a new future with users",
+    "Communication",
+    "Interviews",
+    "Sony brings business divisions and design teams together to create new value",
+    "UI/UX",
+    "Interviews",
+    "Making home entertainment more comfortable",
+    "Product",
+    "How the \"story\" fuels business",
+    "UI/UX",
+    "Communication",
+    "Interviews",
+    "Unlocking the potential of spaces to enrich everyday life",
+    "Product",
+    "UI/UX",
+    "Enhancing value across generations",
+    "Product",
+    "UI/UX",
+    "Exploring the future of health and beauty",
+    "Product",
+    "UI/UX",
+    "Letting listeners find their own style, in new classics",
+    "Product",
+    "Communication",
+    "Showing what’s behind premium audio",
+    "Product",
+    "A symphony of audio-visual and interior elements",
+    "Product",
+    "Bringing extraordinary experience home",
+    "Product",
+    "UI/UX",
+    "Creating a camera that’s a charming approach to selfies",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Life-enriching technology that’s a perfect fit",
+    "Product",
+    "UI/UX",
+    "Create new music experience with wireless",
+    "Product",
+    "Redefining the value of TVs",
+    "Product",
+    "UI/UX",
+    "Beyond the bounds of camera conventions",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Designing an Authentic Typeface",
+    "Communication",
+    "Special Interview with Type Director Akira Kobayashi",
+    "Communication",
+    "Interviews",
+    "Advancing into medical frontiers",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Creating music experiences that defy expectations",
+    "Product",
+    "UI/UX",
+    "Materials that signal captivating experiences",
+    "Product",
+    "UI/UX",
+    "Taking music to new heights, and new depths",
+    "Product",
+    "UI/UX",
+    "Communication",
+    "Setting the standard in imaging",
+    "Product",
+    "UI/UX",
+    "Communication"
+  ],
+  "ctas": [
+    {
+      "label": "Businesses & Products open",
+      "href": "/en/SonyInfo/products/"
+    },
+    {
+      "label": "About Sony Group open",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "Technology open",
+      "href": "/en/SonyInfo/technology/"
+    },
+    {
+      "label": "Sustainability open",
+      "href": "/en/SonyInfo/csr/"
+    },
+    {
+      "label": "Design open",
+      "href": "/en/SonyInfo/design/"
+    },
+    {
+      "label": "Employees / Careers open",
+      "href": "/en/SonyInfo/Employee/"
+    },
+    {
+      "label": "Investor Relations open",
+      "href": "/en/SonyInfo/IR/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/SonyInfo/SupportAll/"
+    },
+    {
+      "label": "Search button in the site Open search form",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "HOME",
+      "href": "/en/"
+    },
+    {
+      "label": "Design",
+      "href": "/en/SonyInfo/design/"
+    },
+    {
+      "label": "JP",
+      "href": "/ja/SonyInfo/design/"
+    },
+    {
+      "label": "MENU",
+      "href": null
+    },
+    {
+      "label": "All",
+      "href": "#all"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI / UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "Perspectives",
+      "href": "#perspectives"
+    },
+    {
+      "label": "<img src=\"./img/index_kokeshi.jpg\" alt=\"\"> Sakurai Kokeshi x Sony Design Extending the wonders of kokeshi dolls through collaborative design June 3, 2026",
+      "href": "./kokeshi/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_ExploraDream.jpg\" alt=\"\"> Sony ExploraDream A Creative Entertainment Science Museum that Ignites Young Dreams with Inspiration March 26, 2026",
+      "href": "./ExploraDream/"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_CalArts.jpg\" alt=\"\"> SIGNALS Inventing the in-between March 9, 2026",
+      "href": "./CalArts/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_RX1RIII.jpg\" alt=\"\"> RX1R III digital still camera Crystallizing beauty through the purity of form and function November 18, 2025",
+      "href": "./RX1RIII/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_sss.jpg\" alt=\"\"> Sony Semiconductor Solutions Crafting the vision fora semiconductor business November 6, 2025",
+      "href": "./sss/"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_SIGNALS_No1.jpg\" alt=\"\"> SIGNALS Exploring Transmedia EntertainmentThrough Design July 3, 2025",
+      "href": "./SIGNALS_No1/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_FavoriteSpace.jpg\" alt=\"\"> FavoriteSpace Social Entertainment Space That Connects the World Through \"Favorites\" January 9, 2025",
+      "href": "./FavoriteSpace/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_creative-entertainment-vision-01.jpg\" alt=\"\"> Creative Entertainment Vision Designing \"where the Sony Group wants to be\" (Part 1) December 26, 2024",
+      "href": "./creative-entertainment-vision-01/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_creative-entertainment-vision-02.jpg\" alt=\"\"> Creative Entertainment Vision Designing \"where the Sony Group wants to be\" (Part 2) December 26, 2024",
+      "href": "./creative-entertainment-vision-02/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_hugdrum.jpg\" alt=\"\"> The Hug Drum, a \"Yuru\" Musical Instrument An Inclusive Percussion InstrumentThat Allows Anyone to Join a Jam Session May 10, 2024",
+      "href": "./hugdrum/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_lionnight.jpg\" alt=\"\"> Accompanying the still photography of 'Lion Night' The Mission of Design, as Seen in a Tsuyoshi Takashiro - Directed Wildlife Photography Trip to Africa March 28, 2024",
+      "href": "./lionnight/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_OBM.jpg\" alt=\"\"> Original BlendedMaterial Changing the future one step at a time March 28, 2024",
+      "href": "./obm/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "<img src=\"./img/index_HT-AX7.jpg\" alt=\"\"> HT-AX7 Breaking from convention to liberate the listening experience January 30, 2024",
+      "href": "./HT-AX7/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_intosight.jpg\" alt=\"\"> Stepping into our'INTO SIGHT' Exhibition Designing for the future November 1, 2023",
+      "href": "./intosight/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "<img src=\"./img/index_XR_catch.jpg\" alt=\"\"> XR Catch Connecting Hearts Beyond Constraints:An Opportunity for Play Createdwith Inclusive Design Methods September 29, 2023",
+      "href": "./XR_catch/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_GSP_speciallive.jpg\" alt=\"\"> Creepy Nuts Special Live Creativity comes from play March 1, 2023",
+      "href": "./GSP_speciallive/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_inzone.jpg\" alt=\"\"> INZONE Helping gamers push the limits November 28, 2022",
+      "href": "./inzone/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_Vision_S_02.jpg\" alt=\"\"> VISION-S 02 Racing into the unknown world of mobility October 7, 2022",
+      "href": "./vision-s_02/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_LinkBuds.jpg\" alt=\"\"> LinkBuds A sound experience like nothing else in the world, born from a bold idea August 23, 2022",
+      "href": "./linkbuds/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_waste_age.jpg\" alt=\"\"> Waste Age: What can design do? Exhibition in collaboration with Design Museum London July 5, 2022",
+      "href": "./waste_age/"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_motionlogo.jpg\" alt=\"\"> Sony’s Motion Logo Capturing Sony’s evolution in visual form June 24, 2022",
+      "href": "./motionlogo/"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_designvision2021.jpg\" alt=\"\"> DESIGN VISION Sci-Fi meets design to shape hopes for the future: Designer roundtable on DESIGN VISION 2021 April 11, 2022",
+      "href": "./designvision2021/"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_flow-machines.jpg\" alt=\"\"> Flow Machines Making music like never before March 15, 2022",
+      "href": "./flow-machines/"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "<img src=\"./img/index_airpeak.jpg\" alt=\"\"> Airpeak Creation in the air: Exploring new frontiers of expression February 10, 2022",
+      "href": "./Airpeak/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    },
+    {
+      "label": "Communication",
+      "href": "#communication"
+    },
+    {
+      "label": "Interviews",
+      "href": "#interviews"
+    },
+    {
+      "label": "<img src=\"./img/index_sci-fi_prototyping.jpg\" alt=\"\"> Sci-Fi prototyping Designing the future with science-fiction writers: ONE DAY, 2050 / Sci-Fi Prototyping January 20, 2022",
+      "href": "./sci-fi_prototyping/"
+    },
+    {
+      "label": "Product",
+      "href": "#product"
+    },
+    {
+      "label": "UI/UX",
+      "href": "#ui-ux"
+    }
+  ],
+  "links": [
+    "https://www.sony.com/en/",
+    "javascript:void(0)",
+    "https://www.sony.com/en/SonyInfo/products/",
+    "https://sonyinteractive.com/en/",
+    "https://www.playstation.com/",
+    "https://www.sonymusic.com/",
+    "https://www.sonypictures.net/",
+    "https://www.sony.net/",
+    "https://www.sony.net/electronics/",
+    "https://pro.sony/",
+    "https://www.sony-semicon.com/en/",
+    "https://www.sonyfg.co.jp/index_en.html",
+    "https://www.sony.com/en/SonyInfo/products/#new-initiatives",
+    "https://www.sony.com/en/SonyInfo/design/stories/#",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+    "https://www.sony.com/en/SonyInfo/message/",
+    "https://www.sony.com/en/SonyInfo/News/Press/",
+    "https://www.sony.com/en/SonyInfo/blog/",
+    "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+    "https://www.sony.com/en/brand/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+    "https://www.sony.com/en/SonyInfo/technology/",
+    "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+    "https://www.sony.com/en/SonyInfo/technology/stories/",
+    "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+    "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+    "https://www.sony.com/en/SonyInfo/technology/publications/",
+    "https://www.sony.com/en/SonyInfo/csr/",
+    "https://www.sony.com/en/SonyInfo/csr/vision/",
+    "https://www.sony.com/en/SonyInfo/csr_report/",
+    "https://www.sony.net/eco",
+    "https://www.sony.com/en/SonyInfo/csr/community/",
+    "https://www.sony.com/en/SonyInfo/diversity/",
+    "https://www.sony.com/en/SonyInfo/accessibility/",
+    "https://www.sony.com/en/SonyInfo/covid_19_response/",
+    "https://www.sony.com/en/SonyInfo/design/",
+    "https://www.sony.com/en/SonyInfo/design/about/",
+    "https://www.sony.com/en/SonyInfo/design/stories/",
+    "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+    "https://www.sony.com/en/SonyInfo/design/gallery/",
+    "https://www.sony.com/en/SonyInfo/design/news/",
+    "https://www.sony.com/en/SonyInfo/Employee/",
+    "https://www.sony.com/en/SonyInfo/Careers/",
+    "https://www.sony.com/en/SonyInfo/IR/",
+    "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+    "https://www.sony.com/en/SonyInfo/IR/library/",
+    "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+    "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+    "https://www.sony.com/en/SonyInfo/SupportAll/",
+    "https://www.sony.com/ja/SonyInfo/design/",
+    "https://www.sony.com/en/SonyInfo/design/stories/#all",
+    "https://www.sony.com/en/SonyInfo/design/stories/#product",
+    "https://www.sony.com/en/SonyInfo/design/stories/#ui-ux",
+    "https://www.sony.com/en/SonyInfo/design/stories/#communication",
+    "https://www.sony.com/en/SonyInfo/design/stories/#interviews",
+    "https://www.sony.com/en/SonyInfo/design/stories/#perspectives",
+    "https://www.sony.com/en/SonyInfo/design/stories/kokeshi/",
+    "https://www.sony.com/en/SonyInfo/design/stories/ExploraDream/",
+    "https://www.sony.com/en/SonyInfo/design/stories/CalArts/",
+    "https://www.sony.com/en/SonyInfo/design/stories/RX1RIII/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sss/",
+    "https://www.sony.com/en/SonyInfo/design/stories/SIGNALS_No1/",
+    "https://www.sony.com/en/SonyInfo/design/stories/FavoriteSpace/",
+    "https://www.sony.com/en/SonyInfo/design/stories/creative-entertainment-vision-01/",
+    "https://www.sony.com/en/SonyInfo/design/stories/creative-entertainment-vision-02/",
+    "https://www.sony.com/en/SonyInfo/design/stories/hugdrum/",
+    "https://www.sony.com/en/SonyInfo/design/stories/lionnight/",
+    "https://www.sony.com/en/SonyInfo/design/stories/obm/",
+    "https://www.sony.com/en/SonyInfo/design/stories/HT-AX7/",
+    "https://www.sony.com/en/SonyInfo/design/stories/intosight/",
+    "https://www.sony.com/en/SonyInfo/design/stories/XR_catch/",
+    "https://www.sony.com/en/SonyInfo/design/stories/GSP_speciallive/",
+    "https://www.sony.com/en/SonyInfo/design/stories/inzone/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s_02/",
+    "https://www.sony.com/en/SonyInfo/design/stories/linkbuds/",
+    "https://www.sony.com/en/SonyInfo/design/stories/waste_age/",
+    "https://www.sony.com/en/SonyInfo/design/stories/motionlogo/",
+    "https://www.sony.com/en/SonyInfo/design/stories/designvision2021/",
+    "https://www.sony.com/en/SonyInfo/design/stories/flow-machines/",
+    "https://www.sony.com/en/SonyInfo/design/stories/Airpeak/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sci-fi_prototyping/",
+    "https://www.sony.com/en/SonyInfo/design/stories/cinemaline/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives12/",
+    "https://www.sony.com/en/SonyInfo/design/stories/PS5/",
+    "https://www.sony.com/en/SonyInfo/design/stories/aigastronomy/",
+    "https://www.sony.com/en/SonyInfo/design/stories/ikdc/",
+    "https://www.sony.com/en/SonyInfo/design/stories/designvision/",
+    "https://www.sony.com/en/SonyInfo/design/stories/designresearch/",
+    "https://www.sony.com/en/SonyInfo/design/stories/ELF-SR1/",
+    "https://www.sony.com/en/SonyInfo/design/stories/fancl/",
+    "https://www.sony.com/en/SonyInfo/design/stories/id7000/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s01/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s02/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s03/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s04/",
+    "https://www.sony.com/en/SonyInfo/design/stories/vision-s05/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sports_ai/",
+    "https://www.sony.com/en/SonyInfo/design/stories/cmf/",
+    "https://www.sony.com/en/SonyInfo/design/stories/icso/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives11/",
+    "https://www.sony.com/en/SonyInfo/design/stories/youandbau/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives10/",
+    "https://www.sony.com/en/SonyInfo/design/stories/designvision2019/",
+    "https://www.sony.com/en/SonyInfo/design/stories/ghostbusters/",
+    "https://www.sony.com/en/SonyInfo/design/stories/immersive_edge/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives09/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sonymobile_vision/",
+    "https://www.sony.com/en/SonyInfo/design/stories/hidden_senses/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives08/",
+    "https://www.sony.com/en/SonyInfo/design/stories/cave/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives07/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives06/",
+    "https://www.sony.com/en/SonyInfo/design/stories/signature_series2/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives05/",
+    "https://www.sony.com/en/SonyInfo/design/stories/uxbranding/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sliceofliving2019/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives03/",
+    "https://www.sony.com/en/SonyInfo/design/stories/venice/",
+    "https://www.sony.com/en/SonyInfo/design/stories/cea/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives02/",
+    "https://www.sony.com/en/SonyInfo/design/stories/softminimalism/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sms/",
+    "https://www.sony.com/en/SonyInfo/design/stories/perspectives01/",
+    "https://www.sony.com/en/SonyInfo/design/stories/AiRhockey/",
+    "https://www.sony.com/en/SonyInfo/design/stories/interactivecube/",
+    "https://www.sony.com/en/SonyInfo/design/stories/RX0/",
+    "https://www.sony.com/en/SonyInfo/design/stories/eventdesign/",
+    "https://www.sony.com/en/SonyInfo/design/stories/ambie/",
+    "https://www.sony.com/en/SonyInfo/design/stories/DPT-RP1/",
+    "https://www.sony.com/en/SonyInfo/design/stories/immersivespace/",
+    "https://www.sony.com/en/SonyInfo/design/stories/warpsquare/",
+    "https://www.sony.com/en/SonyInfo/design/stories/motionsonic/",
+    "https://www.sony.com/en/SonyInfo/design/stories/communicationdesign/",
+    "https://www.sony.com/en/SonyInfo/design/stories/anysurface/",
+    "https://www.sony.com/en/SonyInfo/design/stories/koov/",
+    "https://www.sony.com/en/SonyInfo/design/stories/oneslate/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sliceofliving2017/",
+    "https://www.sony.com/en/SonyInfo/design/stories/extrabass/",
+    "https://www.sony.com/en/SonyInfo/design/stories/signature_series/",
+    "https://www.sony.com/en/SonyInfo/design/stories/futurelabprogram/",
+    "https://www.sony.com/en/SonyInfo/design/stories/newssuite/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sliceofliving/",
+    "https://www.sony.com/en/SonyInfo/design/stories/bank/",
+    "https://www.sony.com/en/SonyInfo/design/stories/lifespaceUX/",
+    "https://www.sony.com/en/SonyInfo/design/stories/a7_rx_series/",
+    "https://www.sony.com/en/SonyInfo/design/stories/beautyexplorer/",
+    "https://www.sony.com/en/SonyInfo/design/stories/h_ear/",
+    "https://www.sony.com/en/SonyInfo/design/stories/negative_space/",
+    "https://www.sony.com/en/SonyInfo/design/stories/pure_geometry/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/LSPX-W1/",
+    "https://www.sony.com/en/SonyInfo/design/stories/dsc-kw1/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/lifelog_smartwear/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/srs_x9_x7_x5_x3/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/bravia/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/qx100_qx10/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/sst-font/",
+    "https://www.sony.com/en/SonyInfo/design/stories/sst-font/interview01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/sh800_sp6800/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/shake7_gpx88/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/sense_of_quartz/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/nwd-w270/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/full-frame/01.html",
+    "https://www.sony.com/en/SonyInfo/design/stories/#top",
+    "https://www.sony.com/en/copyright/",
+    "https://www.sony.com/en/privacy/",
+    "https://www.sony.com/en/privacy/cookie/",
+    "https://www.sony.com/en/web-accessibility-statement/",
+    "https://www.sony.com/en/about/",
+    "https://www.sony.com/en/sitemap/",
+    "https://www.sony.com/ja",
+    "https://www.sony.com/en",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-product",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-about",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-tech",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-sustainability",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-design",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-employees",
+    "https://www.sony.com/en/SonyInfo/design/stories/#tmpl-flickNavChild-investor"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+        "alt": "SONY",
+        "w": 300,
+        "h": 53
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_kokeshi.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_ExploraDream.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_CalArts.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_RX1RIII.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_sss.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_SIGNALS_No1.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_FavoriteSpace.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_creative-entertainment-vision-01.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_creative-entertainment-vision-02.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_hugdrum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_lionnight.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_OBM.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_HT-AX7.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_intosight.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_XR_catch.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_GSP_speciallive.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_inzone.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_Vision_S_02.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_LinkBuds.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_waste_age.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_motionlogo.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_designvision2021.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_flow-machines.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_airpeak.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_sci-fi_prototyping.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_cinemaline.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives12.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_ps5.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_aigastronomy.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_ikdc.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_designvision2020.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_designresearch.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_elf-sr1.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_fancl.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_id7000.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/01_dialog_index.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/02_exterior_index.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/03_interior_index.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/04_uiux_index.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/05_cd_index.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_sports_ai.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_CMF_framework.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_icso.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives11.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_YOU_and_BAU.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives10.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_designvision2019.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_GHOSTBUSTERS.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_ImmersiveEdge.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives09.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_somcvision.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_hidden_senses.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives08.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_cave.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives07.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives06.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_signature_series2.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives05.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_uxbranding.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_sliceofliving2019.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_perspectives03.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_VENICE.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/cea-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/perspectives02-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/softminimalism-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/microscope-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/perspectives01-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/hockey-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/cube-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/rx0-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/ifa2017-storiessum.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_ambie.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_DPT-RP1.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_immersivespace.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_WarpSquare.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_MotionSonic.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_CommunicationDesign.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_anysurface.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_koov2.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_oneslate.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_sliceofliving2017.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_extrabass.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_signature_series.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_futurelab.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_newssuite_en.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_slice_of_living.jpg",
+        "alt": "",
+        "w": 1200,
+        "h": 1200
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_bank.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_life_space_ux.jpg",
+        "alt": "",
+        "w": 1200,
+        "h": 1200
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_a7_rx_series.jpg",
+        "alt": "",
+        "w": 598,
+        "h": 598
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_BeautyExplorer.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_h_ear.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_negative_space.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_PureGeometry.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_lspx-w1.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_dsc-kw1.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_lifelog_smartwear.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_srs_x9_x7_x5_x3.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_2014_bravia.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_qx100_qx10.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_SST.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_SSTproject.jpg",
+        "alt": "",
+        "w": 600,
+        "h": 600
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_fcm.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_shake7.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_quartz.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_nwd-w270.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/stories/img/index_di.jpg",
+        "alt": "",
+        "w": 580,
+        "h": 580
+      }
+    ],
+    "allImgCount": 107,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 100,
+    "mainTextLen": 16469,
+    "realImageCount": 107,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

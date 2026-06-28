@@ -1,0 +1,18 @@
+[crawl] fingerprint block — switching to headed real Chrome (channel:chrome)
+[crawl] technique=headed-chrome pages=15
+[crawl] OK   en  
+[crawl] OK   en-sonyinfo-products  
+[crawl] OK   en-sonyinfo-corporateinfo  
+[crawl] OK   en-sonyinfo-technology  
+[crawl] OK   en-sonyinfo-csr  
+[crawl] OK   en-sonyinfo-design  
+[crawl] OK   en-sonyinfo-careers  
+[crawl] OK   en-sonyinfo-ir  
+[crawl] OK   en-sonyinfo-news-press  
+[crawl] OK   en-sonyinfo-news-press-202606-26-015e-index-html  
+[crawl] OK   en-sonyinfo-blog  
+[crawl] OK   en-brand  
+[crawl] OK   en-sonyinfo-design-stories  
+[crawl] OK   en-sonyinfo-corporateinfo-purpose-and-values  
+[crawl] OK   en-sonyinfo-message  
+[crawl] done. 15/15 captured, 0 failed. log: stardust/current/_crawl-log.json

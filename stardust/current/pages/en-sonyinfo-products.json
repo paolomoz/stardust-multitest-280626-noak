@@ -1,0 +1,736 @@
+{
+  "slug": "en-sonyinfo-products",
+  "url": "https://www.sony.com/en/SonyInfo/products/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:33:23.645Z",
+  "finalUrl": "https://www.sony.com/en/SonyInfo/products/",
+  "title": "Products & Services - Sony Group Portal",
+  "description": "%TMPL_DESCRIPTION%",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Businesses & Products"
+    },
+    {
+      "tag": "h2",
+      "text": "New Initiatives"
+    },
+    {
+      "tag": "h3",
+      "text": "Mobility Initiatives"
+    },
+    {
+      "tag": "h3",
+      "text": "Sony AI Inc."
+    },
+    {
+      "tag": "h3",
+      "text": "aibo"
+    },
+    {
+      "tag": "h3",
+      "text": "Small Optical Link for International Space Station (SOLISS)"
+    },
+    {
+      "tag": "h3",
+      "text": "Sony Global Education"
+    },
+    {
+      "tag": "h3",
+      "text": "Toio™"
+    },
+    {
+      "tag": "h3",
+      "text": "Triporous"
+    }
+  ],
+  "body": [
+    "Businesses & Products open Businesses & Products Top Games & Network Services PlayStation Sony Interactive Entertainment Music Pictures: Movies & TV Shows Electronics: Entertainment Technology & Services Consumer Electronics Professional Products & Solutions Imaging & Sensing Solutions Financial Services New Initiatives Close",
+    "About Sony Group open About Sony Group Top Sony's Purpose & Values Message from the CEO News Releases Sony Corporate Blog Creative Entertainment Vision Brand History Corporate Data Affiliated Companies Close",
+    "Technology open Technology Top Chief Digital Officer Message Tech Stories Programs & Events Corporate Distinguished Engineer Publications Close",
+    "Sustainability open Sustainability Top Vision of Founder andBasic Policy for Sustainability Initiatives Sustainability Report Environment Social Contribution Diversity Accessibility Response to COVID-19 Close",
+    "Design open Design Top About Design Stories Interviews & Lectures Gallery News Close",
+    "Employees / Careers open Employees Top Careers Top Close",
+    "Investor Relations open Investor Relations Top IR News IR Library Corporate Report Earning Announcement Corporate Bonds & Ratings Close",
+    "Contact Us",
+    "Contact Us",
+    "HOME",
+    "Businesses & Products",
+    "Delivering Excitement, Passion, Joy and Compassion to the World.",
+    "Supporting the dreams of creators with the power of technology, creating experiences that move many hearts, and delivering them to people around the world through our products and services, we make people’s lives full of inspiration.",
+    "Sony Interactive Entertainment",
+    "PlayStation®",
+    "Sony Music Group",
+    "Sony Pictures Entertainment",
+    "Sony Corporation",
+    "Consumer Products",
+    "Professional Products & Solutions",
+    "Sony Semiconductor Solutions",
+    "Sony Financial Group",
+    "Personalized entertainment space to enhance the value of the mobility.",
+    "Learn more",
+    "Sony AI’s mission is to “unleash human imagination and creativity with AI.”",
+    "Learn more",
+    "Autonomous entertainment robot that brings fun and joy to its owner",
+    "Learn more",
+    "Research on small optical link system for broad band communication in space",
+    "Learn more",
+    "Mission: Creating a new educational infrastructure for a connected society",
+    "Learn more",
+    "The new, eye-opening experiences of playing with robotics toys “toio” brings out creativity in children. (Japanese Only)",
+    "Learn more",
+    "A sustainable porous carbon material made from rice husks",
+    "Learn more",
+    "Terms and Conditions",
+    "Privacy Policy",
+    "Cookie Policy",
+    "Customize Cookies",
+    "Web Accessibility Statement",
+    "About this Site",
+    "Site Map",
+    "JA",
+    "EN",
+    "Games & Network Services",
+    "PlayStation",
+    "Sony Interactive Entertainment",
+    "Music",
+    "Pictures: Movies & TV Shows",
+    "Electronics: Entertainment Technology & Services",
+    "Consumer Electronics",
+    "Professional Products & Solutions",
+    "Imaging & Sensing Solutions",
+    "Financial Services",
+    "New Initiatives",
+    "Sony's Purpose & Values",
+    "Message from the CEO",
+    "News Releases",
+    "Sony Corporate Blog",
+    "Creative Entertainment Vision",
+    "Brand",
+    "History",
+    "Corporate Data",
+    "Affiliated Companies",
+    "Chief Digital Officer Message",
+    "Tech Stories",
+    "Programs & Events",
+    "Corporate Distinguished Engineer",
+    "Publications",
+    "Vision of Founder andBasic Policy for Sustainability Initiatives",
+    "Sustainability Report",
+    "Environment",
+    "Social Contribution",
+    "Diversity",
+    "Accessibility",
+    "Response to COVID-19",
+    "About",
+    "Design Stories",
+    "Interviews & Lectures",
+    "Gallery",
+    "News",
+    "IR News",
+    "IR Library",
+    "Corporate Report",
+    "Earning Announcement",
+    "Corporate Bonds & Ratings"
+  ],
+  "ctas": [
+    {
+      "label": "Businesses & Products open",
+      "href": "/en/SonyInfo/products/"
+    },
+    {
+      "label": "About Sony Group open",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "Technology open",
+      "href": "/en/SonyInfo/technology/"
+    },
+    {
+      "label": "Sustainability open",
+      "href": "/en/SonyInfo/csr/"
+    },
+    {
+      "label": "Design open",
+      "href": "/en/SonyInfo/design/"
+    },
+    {
+      "label": "Employees / Careers open",
+      "href": "/en/SonyInfo/Employee/"
+    },
+    {
+      "label": "Investor Relations open",
+      "href": "/en/SonyInfo/IR/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/SonyInfo/SupportAll/"
+    },
+    {
+      "label": "Search button in the site Open search form",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "HOME",
+      "href": "/ja/"
+    },
+    {
+      "label": "JP",
+      "href": "/ja/SonyInfo/products/"
+    },
+    {
+      "label": "Menu",
+      "href": null
+    },
+    {
+      "label": "Games & Network Services Sony Interactive Entertainment",
+      "href": "https://sonyinteractive.com/en/"
+    },
+    {
+      "label": "Games & Network Services PlayStation®",
+      "href": "https://www.playstation.com/"
+    },
+    {
+      "label": "Music Sony Music Group",
+      "href": "https://www.sonymusic.com/"
+    },
+    {
+      "label": "Pictures Sony Pictures Entertainment",
+      "href": "https://www.sonypictures.com/"
+    },
+    {
+      "label": "Entertainment Technology & Services Sony Corporation",
+      "href": "https://www.sony.net/"
+    },
+    {
+      "label": "Entertainment Technology & Services Consumer Products",
+      "href": "https://www.sony.com/en/electronics/"
+    },
+    {
+      "label": "Entertainment Technology & Services Professional Products & Solutions",
+      "href": "https://www.pro.sony/"
+    },
+    {
+      "label": "Imaging & Sensing Solutions Sony Semiconductor Solutions",
+      "href": "https://www.sony-semicon.com/en/index.html"
+    },
+    {
+      "label": "Financial Services Sony Financial Group",
+      "href": "https://www.sonyfg.co.jp/index_en.html"
+    },
+    {
+      "label": "Mobility Initiatives Personalized entertainment space to enhance the value of the mobility. Learn more",
+      "href": "https://www.sony.com/en/SonyInfo/Mobility/"
+    },
+    {
+      "label": "Sony AI Inc. Sony AI’s mission is to “unleash human imagination and creativity with AI.” Learn more",
+      "href": "https://www.ai.sony/"
+    },
+    {
+      "label": "aibo Autonomous entertainment robot that brings fun and joy to its owner Learn more",
+      "href": "https://us.aibo.com/"
+    },
+    {
+      "label": "Small Optical Link for International Space Station (SOLISS) Research on small optical link system for broad band communication in space Learn more",
+      "href": "https://www.sonycsl.co.jp/press/prs20200423/"
+    },
+    {
+      "label": "Sony Global Education Mission: Creating a new educational infrastructure for a connected society Learn more",
+      "href": "https://www.sonyged.com/en"
+    },
+    {
+      "label": "Toio™ The new, eye-opening experiences of playing with robotics toys “toio” brings out creativity in children. (Japanese Only) Learn more",
+      "href": "https://toio.io/"
+    },
+    {
+      "label": "Triporous A sustainable porous carbon material made from rice husks Learn more",
+      "href": "/en/SonyInfo/triporous/"
+    },
+    {
+      "label": "Page Top",
+      "href": "#top"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/en/copyright/"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en/privacy/"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/en/privacy/cookie/"
+    },
+    {
+      "label": "Customize Cookies",
+      "href": null
+    },
+    {
+      "label": "Web Accessibility Statement",
+      "href": "/en/web-accessibility-statement/"
+    },
+    {
+      "label": "About this Site",
+      "href": "/en/about/"
+    },
+    {
+      "label": "Site Map",
+      "href": "/en/sitemap/"
+    },
+    {
+      "label": "JA",
+      "href": "/ja"
+    },
+    {
+      "label": "EN",
+      "href": "/en"
+    },
+    {
+      "label": "Businesses & Products open",
+      "href": "#tmpl-flickNavChild-product"
+    },
+    {
+      "label": "About Sony Group open",
+      "href": "#tmpl-flickNavChild-about"
+    },
+    {
+      "label": "Technology open",
+      "href": "#tmpl-flickNavChild-tech"
+    },
+    {
+      "label": "Sustainability open",
+      "href": "#tmpl-flickNavChild-sustainability"
+    },
+    {
+      "label": "Design open",
+      "href": "#tmpl-flickNavChild-design"
+    },
+    {
+      "label": "Employees / Careers open",
+      "href": "#tmpl-flickNavChild-employees"
+    },
+    {
+      "label": "Investor Relations open",
+      "href": "#tmpl-flickNavChild-investor"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/SonyInfo/SupportAll/"
+    },
+    {
+      "label": "Businesses & Products Top",
+      "href": "/en/SonyInfo/products/"
+    },
+    {
+      "label": "Games & Network Services",
+      "href": "https://sonyinteractive.com/en/"
+    },
+    {
+      "label": "PlayStation",
+      "href": "https://www.playstation.com/"
+    },
+    {
+      "label": "Sony Interactive Entertainment",
+      "href": "https://sonyinteractive.com/en/"
+    },
+    {
+      "label": "Music",
+      "href": "https://www.sonymusic.com/"
+    },
+    {
+      "label": "Pictures: Movies & TV Shows",
+      "href": "https://www.sonypictures.net/"
+    },
+    {
+      "label": "Electronics: Entertainment Technology & Services",
+      "href": "https://www.sony.net/"
+    },
+    {
+      "label": "Consumer Electronics",
+      "href": "https://www.sony.net/electronics/"
+    },
+    {
+      "label": "Professional Products & Solutions",
+      "href": "https://pro.sony/"
+    },
+    {
+      "label": "Imaging & Sensing Solutions",
+      "href": "https://www.sony-semicon.com/en/"
+    },
+    {
+      "label": "Financial Services",
+      "href": "https://www.sonyfg.co.jp/index_en.html"
+    },
+    {
+      "label": "New Initiatives",
+      "href": "/en/SonyInfo/products/#new-initiatives"
+    },
+    {
+      "label": "About Sony Group Top",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "Sony's Purpose & Values",
+      "href": "/en/SonyInfo/CorporateInfo/purpose_and_values/"
+    },
+    {
+      "label": "Message from the CEO",
+      "href": "/en/SonyInfo/message/"
+    },
+    {
+      "label": "News Releases",
+      "href": "/en/SonyInfo/News/Press/"
+    },
+    {
+      "label": "Sony Corporate Blog",
+      "href": "/en/SonyInfo/blog/"
+    },
+    {
+      "label": "Creative Entertainment Vision",
+      "href": "/en/SonyInfo/create-infinite-realities/"
+    },
+    {
+      "label": "Brand",
+      "href": "/en/brand/"
+    },
+    {
+      "label": "History",
+      "href": "/en/SonyInfo/CorporateInfo/History/"
+    },
+    {
+      "label": "Corporate Data",
+      "href": "/en/SonyInfo/CorporateInfo/data/"
+    },
+    {
+      "label": "Affiliated Companies",
+      "href": "/en/SonyInfo/CorporateInfo/Subsidiaries/"
+    },
+    {
+      "label": "Technology Top",
+      "href": "/en/SonyInfo/technology/"
+    },
+    {
+      "label": "Chief Digital Officer Message",
+      "href": "/en/SonyInfo/technology/kodera_message/"
+    },
+    {
+      "label": "Tech Stories",
+      "href": "/en/SonyInfo/technology/stories/"
+    },
+    {
+      "label": "Programs & Events",
+      "href": "/en/SonyInfo/technology/programs_events/"
+    },
+    {
+      "label": "Corporate Distinguished Engineer",
+      "href": "/en/SonyInfo/technology/activities/distinguished_engineer/"
+    },
+    {
+      "label": "Publications",
+      "href": "/en/SonyInfo/technology/publications/"
+    },
+    {
+      "label": "Sustainability Top",
+      "href": "/en/SonyInfo/csr/"
+    },
+    {
+      "label": "Vision of Founder andBasic Policy for Sustainability Initiatives",
+      "href": "/en/SonyInfo/csr/vision/"
+    },
+    {
+      "label": "Sustainability Report",
+      "href": "/en/SonyInfo/csr_report/"
+    },
+    {
+      "label": "Environment",
+      "href": "https://www.sony.net/eco"
+    },
+    {
+      "label": "Social Contribution",
+      "href": "/en/SonyInfo/csr/community/"
+    },
+    {
+      "label": "Diversity",
+      "href": "/en/SonyInfo/diversity/"
+    },
+    {
+      "label": "Accessibility",
+      "href": "/en/SonyInfo/accessibility/"
+    },
+    {
+      "label": "Response to COVID-19",
+      "href": "/en/SonyInfo/covid_19_response/"
+    },
+    {
+      "label": "Design Top",
+      "href": "/en/SonyInfo/design/"
+    },
+    {
+      "label": "About",
+      "href": "/en/SonyInfo/design/about/"
+    },
+    {
+      "label": "Design Stories",
+      "href": "/en/SonyInfo/design/stories/"
+    },
+    {
+      "label": "Interviews & Lectures",
+      "href": "/en/SonyInfo/design/interviews-lectures/"
+    },
+    {
+      "label": "Gallery",
+      "href": "/en/SonyInfo/design/gallery/"
+    },
+    {
+      "label": "News",
+      "href": "/en/SonyInfo/design/news/"
+    },
+    {
+      "label": "Employees Top",
+      "href": "/en/SonyInfo/Employee/"
+    },
+    {
+      "label": "Careers Top",
+      "href": "/en/SonyInfo/Careers/"
+    },
+    {
+      "label": "Investor Relations Top",
+      "href": "/en/SonyInfo/IR/"
+    },
+    {
+      "label": "IR News",
+      "href": "/en/SonyInfo/IR/news/2026.html"
+    },
+    {
+      "label": "IR Library",
+      "href": "/en/SonyInfo/IR/library/"
+    },
+    {
+      "label": "Corporate Report",
+      "href": "/en/SonyInfo/IR/library/corporatereport/"
+    },
+    {
+      "label": "Earning Announcement",
+      "href": "/en/SonyInfo/IR/library/presen/er/archive.html"
+    },
+    {
+      "label": "Corporate Bonds & Ratings",
+      "href": "/en/SonyInfo/IR/stock/convert.html"
+    }
+  ],
+  "links": [
+    "https://www.sony.com/en/",
+    "javascript:void(0)",
+    "https://www.sony.com/en/SonyInfo/products/",
+    "https://sonyinteractive.com/en/",
+    "https://www.playstation.com/",
+    "https://www.sonymusic.com/",
+    "https://www.sonypictures.net/",
+    "https://www.sony.net/",
+    "https://www.sony.net/electronics/",
+    "https://pro.sony/",
+    "https://www.sony-semicon.com/en/",
+    "https://www.sonyfg.co.jp/index_en.html",
+    "https://www.sony.com/en/SonyInfo/products/#new-initiatives",
+    "https://www.sony.com/en/SonyInfo/products/#",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+    "https://www.sony.com/en/SonyInfo/message/",
+    "https://www.sony.com/en/SonyInfo/News/Press/",
+    "https://www.sony.com/en/SonyInfo/blog/",
+    "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+    "https://www.sony.com/en/brand/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+    "https://www.sony.com/en/SonyInfo/technology/",
+    "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+    "https://www.sony.com/en/SonyInfo/technology/stories/",
+    "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+    "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+    "https://www.sony.com/en/SonyInfo/technology/publications/",
+    "https://www.sony.com/en/SonyInfo/csr/",
+    "https://www.sony.com/en/SonyInfo/csr/vision/",
+    "https://www.sony.com/en/SonyInfo/csr_report/",
+    "https://www.sony.net/eco",
+    "https://www.sony.com/en/SonyInfo/csr/community/",
+    "https://www.sony.com/en/SonyInfo/diversity/",
+    "https://www.sony.com/en/SonyInfo/accessibility/",
+    "https://www.sony.com/en/SonyInfo/covid_19_response/",
+    "https://www.sony.com/en/SonyInfo/design/",
+    "https://www.sony.com/en/SonyInfo/design/about/",
+    "https://www.sony.com/en/SonyInfo/design/stories/",
+    "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+    "https://www.sony.com/en/SonyInfo/design/gallery/",
+    "https://www.sony.com/en/SonyInfo/design/news/",
+    "https://www.sony.com/en/SonyInfo/Employee/",
+    "https://www.sony.com/en/SonyInfo/Careers/",
+    "https://www.sony.com/en/SonyInfo/IR/",
+    "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+    "https://www.sony.com/en/SonyInfo/IR/library/",
+    "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+    "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+    "https://www.sony.com/en/SonyInfo/SupportAll/",
+    "https://www.sony.com/ja/",
+    "https://www.sony.com/ja/SonyInfo/products/",
+    "https://www.sony.com/en/electronics/",
+    "https://www.pro.sony/",
+    "https://www.sonypictures.com/",
+    "https://www.sony-semicon.com/en/index.html",
+    "https://www.sony.com/en/SonyInfo/Mobility/",
+    "https://www.ai.sony/",
+    "https://us.aibo.com/",
+    "https://www.sonycsl.co.jp/press/prs20200423/",
+    "https://www.sonyged.com/en",
+    "https://toio.io/",
+    "https://www.sony.com/en/SonyInfo/triporous/",
+    "https://www.sony.com/en/SonyInfo/products/#top",
+    "https://www.sony.com/en/copyright/",
+    "https://www.sony.com/en/privacy/",
+    "https://www.sony.com/en/privacy/cookie/",
+    "https://www.sony.com/en/web-accessibility-statement/",
+    "https://www.sony.com/en/about/",
+    "https://www.sony.com/en/sitemap/",
+    "https://www.sony.com/ja",
+    "https://www.sony.com/en",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-product",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-about",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-tech",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-sustainability",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-design",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-employees",
+    "https://www.sony.com/en/SonyInfo/products/#tmpl-flickNavChild-investor"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+        "alt": "SONY",
+        "w": 300,
+        "h": 53
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/mv.png",
+        "alt": "",
+        "w": 2048,
+        "h": 585
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img05.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img04.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img06.png",
+        "alt": "",
+        "w": 1140,
+        "h": 760
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img07.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img03.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img01.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img02.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img08.png",
+        "alt": "",
+        "w": 1140,
+        "h": 760
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img09.png",
+        "alt": "",
+        "w": 1122,
+        "h": 744
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-mobility.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img13.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img14.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img17.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img18.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img19.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img20.png",
+        "alt": "",
+        "w": 748,
+        "h": 496
+      }
+    ],
+    "allImgCount": 18,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 4761,
+    "realImageCount": 18,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

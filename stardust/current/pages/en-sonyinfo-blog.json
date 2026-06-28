@@ -1,0 +1,775 @@
+{
+  "slug": "en-sonyinfo-blog",
+  "url": "https://www.sony.com/en/SonyInfo/blog/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:36:49.322Z",
+  "finalUrl": "https://www.sony.com/en/SonyInfo/blog/",
+  "title": "Sony Corporate Blog - Sony Group Portal",
+  "description": "Stories of value creation at Sony",
+  "og": {
+    "title": "Sony Corporate Blog - Sony Group Portal",
+    "description": "Stories of value creation at Sony",
+    "image": null,
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Sony Pictures at CinemaCon 2026"
+    },
+    {
+      "tag": "h2",
+      "text": "Latest Articles"
+    },
+    {
+      "tag": "h3",
+      "text": "The Global Power of Anime -Celebrating the 10th Crunchyroll Anime Awards-"
+    },
+    {
+      "tag": "h3",
+      "text": "In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity"
+    },
+    {
+      "tag": "h3",
+      "text": "Sony Pictures at CinemaCon 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI"
+    },
+    {
+      "tag": "h2",
+      "text": "Featured"
+    },
+    {
+      "tag": "h3",
+      "text": "Technology ＞"
+    },
+    {
+      "tag": "h3",
+      "text": "Sony's Technology Exchange Fair \"STEF 2025\": Driving Innovation Together with Creators"
+    },
+    {
+      "tag": "h3",
+      "text": "Technology to \"Create\" and \"Deliver\" KANDO: CDO Kodera's Keynote at AWS re:Invent 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "Celebrating the Release of Demon Slayer: Kimetsu no Yaiba Infinity Castle - Sony Group Unites 10 Companies in a Campaign to Deepen Fans' Passion"
+    },
+    {
+      "tag": "h3",
+      "text": "Corporate Distinguished Engineers: Boundary Spanners Who Facilitate Co-creation by Bringing Together Technological Disciplines across Sony Group"
+    },
+    {
+      "tag": "h2",
+      "text": "Most Viewed"
+    },
+    {
+      "tag": "h2",
+      "text": "Related Sites"
+    },
+    {
+      "tag": "h2",
+      "text": "Category"
+    },
+    {
+      "tag": "h2",
+      "text": "Follow Our SNS"
+    }
+  ],
+  "body": [
+    "TOP",
+    "Latest Articles",
+    "Executive Message",
+    "Business",
+    "Sustainability",
+    "Technology",
+    "Culture",
+    "Business",
+    "プログレスバー",
+    "プログレスバー",
+    "プログレスバー",
+    "プログレスバー",
+    "Culture",
+    "Sustainability",
+    "Business",
+    "Executive Message",
+    "Technology",
+    "Technology",
+    "Technology",
+    "Technology",
+    "Creative Entertainment Vision ＞",
+    "1 Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI",
+    "2 Sony Group's 80th Anniversary: Then, Now, and the Future",
+    "3 The Present and Future of REON POCKET, a Wearable Thermal Device, Spin off from the Sony Group and Ready for Global Rollout",
+    "4 In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity",
+    "5 The New Sony City Entrance Hall: Sharing Sony's \"Journey\" and its \"Now\""
+  ],
+  "ctas": [
+    {
+      "label": "Businesses & Products open",
+      "href": "/en/SonyInfo/products/"
+    },
+    {
+      "label": "About Sony Group open",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "Technology open",
+      "href": "/en/SonyInfo/technology/"
+    },
+    {
+      "label": "Sustainability open",
+      "href": "/en/SonyInfo/csr/"
+    },
+    {
+      "label": "Design open",
+      "href": "/en/SonyInfo/design/"
+    },
+    {
+      "label": "Employees / Careers open",
+      "href": "/en/SonyInfo/Employee/"
+    },
+    {
+      "label": "Investor Relations open",
+      "href": "/en/SonyInfo/IR/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/SonyInfo/SupportAll/"
+    },
+    {
+      "label": "Search button in the site Open search form",
+      "href": "javascript:void(0)"
+    },
+    {
+      "label": "Home",
+      "href": "/en/"
+    },
+    {
+      "label": "About Sony Group",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "JP",
+      "href": "//www.sony.com/ja/SonyInfo/blog/index.html"
+    },
+    {
+      "label": "TOP",
+      "href": "index.html"
+    },
+    {
+      "label": "Latest Articles",
+      "href": "articles/index.html"
+    },
+    {
+      "label": "Executive Message",
+      "href": "executive_message/index.html"
+    },
+    {
+      "label": "Business",
+      "href": "business/index.html"
+    },
+    {
+      "label": "Sustainability",
+      "href": "sustainability/index.html"
+    },
+    {
+      "label": "Technology",
+      "href": "technology/index.html"
+    },
+    {
+      "label": "Culture",
+      "href": "culture/index.html"
+    },
+    {
+      "label": "Sony Pictures at CinemaCon 2026 2026.5.19 Business",
+      "href": "2026/05/19/index.html"
+    },
+    {
+      "label": "プログレスバー",
+      "href": null
+    },
+    {
+      "label": "プログレスバー",
+      "href": null
+    },
+    {
+      "label": "プログレスバー",
+      "href": null
+    },
+    {
+      "label": "プログレスバー",
+      "href": null
+    },
+    {
+      "label": "Play Pause",
+      "href": null
+    },
+    {
+      "label": "The Global Power of Anime -Celebrating the 10th Crunchyroll Anime Awards- 2026.5.28 Culture",
+      "href": "2026/05/28/index.html"
+    },
+    {
+      "label": "In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity 2026.5.21 Sustainability",
+      "href": "2026/05/21/index.html"
+    },
+    {
+      "label": "Sony Pictures at CinemaCon 2026 2026.5.19 Business",
+      "href": "2026/05/19/index.html"
+    },
+    {
+      "label": "Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI 2026.5.8 Executive Message",
+      "href": "2026/05/08/index.html"
+    },
+    {
+      "label": "Technology ＞",
+      "href": "featured/technology/index.html"
+    },
+    {
+      "label": "Sony's Technology Exchange Fair \"STEF 2025\": Driving Innovation Together with Creators 2025.12.22 Technology",
+      "href": "2025/12/22/index.html"
+    },
+    {
+      "label": "Technology to \"Create\" and \"Deliver\" KANDO: CDO Kodera's Keynote at AWS re:Invent 2025 2025.12.5 Technology",
+      "href": "2025/12/05/index.html"
+    },
+    {
+      "label": "Celebrating the Release of Demon Slayer: Kimetsu no Yaiba Infinity Castle - Sony Group Unites 10 Companies in a Campaign to Deepen Fans' Passion 2025.10.2 Technology",
+      "href": "2025/10/02/index.html"
+    },
+    {
+      "label": "Corporate Distinguished Engineers: Boundary Spanners Who Facilitate Co-creation by Bringing Together Technological Disciplines across Sony Group 2025.8.19 Technology",
+      "href": "2025/08/19/index.html"
+    },
+    {
+      "label": "Creative Entertainment Vision ＞",
+      "href": "featured/CreativeEntertainmentVision/index.html"
+    },
+    {
+      "label": "1 Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI",
+      "href": "2026/05/08/index.html"
+    },
+    {
+      "label": "2 Sony Group's 80th Anniversary: Then, Now, and the Future",
+      "href": "2026/05/07/index.html"
+    },
+    {
+      "label": "3 The Present and Future of REON POCKET, a Wearable Thermal Device, Spin off from the Sony Group and Ready for Global Rollout",
+      "href": "2025/08/06/index.html"
+    },
+    {
+      "label": "4 In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity",
+      "href": "2026/05/21/index.html"
+    },
+    {
+      "label": "5 The New Sony City Entrance Hall: Sharing Sony's \"Journey\" and its \"Now\"",
+      "href": "2026/04/24/index.html"
+    },
+    {
+      "label": "Tech Stories",
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/"
+    },
+    {
+      "label": "Delivering New Emotional Experiences: How the \"groovots\" Entertainment Swarm Robot System is Expanding Creative Possibilities",
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/entries/groovots/"
+    },
+    {
+      "label": "Design Stories",
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/"
+    },
+    {
+      "label": "Sakurai Kokeshi x Sony Design - Extending the wonders of kokeshi dolls through collaborative design",
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/kokeshi/"
+    },
+    {
+      "label": "Latest Articles",
+      "href": "articles/index.html"
+    },
+    {
+      "label": "Executive Message",
+      "href": "executive_message/index.html"
+    },
+    {
+      "label": "Business",
+      "href": "business/index.html"
+    },
+    {
+      "label": "Sustainability",
+      "href": "sustainability/index.html"
+    },
+    {
+      "label": "Technology",
+      "href": "technology/index.html"
+    },
+    {
+      "label": "Culture",
+      "href": "culture/index.html"
+    },
+    {
+      "label": "X(Twitter)",
+      "href": "https://x.com/SonyGroupGlobal"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/sony/"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/Sony"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/user/Sony"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/sony/"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/en/copyright/"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en/privacy/"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/en/privacy/cookie/"
+    },
+    {
+      "label": "Customize Cookies",
+      "href": null
+    },
+    {
+      "label": "Web Accessibility Statement",
+      "href": "/en/web-accessibility-statement/"
+    },
+    {
+      "label": "About this Site",
+      "href": "/en/about/"
+    },
+    {
+      "label": "Site Map",
+      "href": "/en/sitemap/"
+    },
+    {
+      "label": "JA",
+      "href": "/ja"
+    },
+    {
+      "label": "EN",
+      "href": "/en"
+    },
+    {
+      "label": "Businesses & Products open",
+      "href": "#tmpl-flickNavChild-product"
+    },
+    {
+      "label": "About Sony Group open",
+      "href": "#tmpl-flickNavChild-about"
+    },
+    {
+      "label": "Technology open",
+      "href": "#tmpl-flickNavChild-tech"
+    },
+    {
+      "label": "Sustainability open",
+      "href": "#tmpl-flickNavChild-sustainability"
+    },
+    {
+      "label": "Design open",
+      "href": "#tmpl-flickNavChild-design"
+    },
+    {
+      "label": "Employees / Careers open",
+      "href": "#tmpl-flickNavChild-employees"
+    },
+    {
+      "label": "Investor Relations open",
+      "href": "#tmpl-flickNavChild-investor"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/SonyInfo/SupportAll/"
+    },
+    {
+      "label": "Businesses & Products Top",
+      "href": "/en/SonyInfo/products/"
+    },
+    {
+      "label": "Games & Network Services",
+      "href": "https://sonyinteractive.com/en/"
+    },
+    {
+      "label": "PlayStation",
+      "href": "https://www.playstation.com/"
+    },
+    {
+      "label": "Sony Interactive Entertainment",
+      "href": "https://sonyinteractive.com/en/"
+    },
+    {
+      "label": "Music",
+      "href": "https://www.sonymusic.com/"
+    },
+    {
+      "label": "Pictures: Movies & TV Shows",
+      "href": "https://www.sonypictures.net/"
+    },
+    {
+      "label": "Electronics: Entertainment Technology & Services",
+      "href": "https://www.sony.net/"
+    },
+    {
+      "label": "Consumer Electronics",
+      "href": "https://www.sony.net/electronics/"
+    },
+    {
+      "label": "Professional Products & Solutions",
+      "href": "https://pro.sony/"
+    },
+    {
+      "label": "Imaging & Sensing Solutions",
+      "href": "https://www.sony-semicon.com/en/"
+    },
+    {
+      "label": "Financial Services",
+      "href": "https://www.sonyfg.co.jp/index_en.html"
+    },
+    {
+      "label": "New Initiatives",
+      "href": "/en/SonyInfo/products/#new-initiatives"
+    },
+    {
+      "label": "About Sony Group Top",
+      "href": "/en/SonyInfo/CorporateInfo/"
+    },
+    {
+      "label": "Sony's Purpose & Values",
+      "href": "/en/SonyInfo/CorporateInfo/purpose_and_values/"
+    },
+    {
+      "label": "Message from the CEO",
+      "href": "/en/SonyInfo/message/"
+    },
+    {
+      "label": "News Releases",
+      "href": "/en/SonyInfo/News/Press/"
+    },
+    {
+      "label": "Sony Corporate Blog",
+      "href": "/en/SonyInfo/blog/"
+    },
+    {
+      "label": "Creative Entertainment Vision",
+      "href": "/en/SonyInfo/create-infinite-realities/"
+    },
+    {
+      "label": "Brand",
+      "href": "/en/brand/"
+    },
+    {
+      "label": "History",
+      "href": "/en/SonyInfo/CorporateInfo/History/"
+    },
+    {
+      "label": "Corporate Data",
+      "href": "/en/SonyInfo/CorporateInfo/data/"
+    },
+    {
+      "label": "Affiliated Companies",
+      "href": "/en/SonyInfo/CorporateInfo/Subsidiaries/"
+    },
+    {
+      "label": "Technology Top",
+      "href": "/en/SonyInfo/technology/"
+    },
+    {
+      "label": "Chief Digital Officer Message",
+      "href": "/en/SonyInfo/technology/kodera_message/"
+    },
+    {
+      "label": "Tech Stories",
+      "href": "/en/SonyInfo/technology/stories/"
+    },
+    {
+      "label": "Programs & Events",
+      "href": "/en/SonyInfo/technology/programs_events/"
+    },
+    {
+      "label": "Corporate Distinguished Engineer",
+      "href": "/en/SonyInfo/technology/activities/distinguished_engineer/"
+    },
+    {
+      "label": "Publications",
+      "href": "/en/SonyInfo/technology/publications/"
+    }
+  ],
+  "links": [
+    "https://www.sony.com/en/",
+    "javascript:void(0)",
+    "https://www.sony.com/en/SonyInfo/products/",
+    "https://sonyinteractive.com/en/",
+    "https://www.playstation.com/",
+    "https://www.sonymusic.com/",
+    "https://www.sonypictures.net/",
+    "https://www.sony.net/",
+    "https://www.sony.net/electronics/",
+    "https://pro.sony/",
+    "https://www.sony-semicon.com/en/",
+    "https://www.sonyfg.co.jp/index_en.html",
+    "https://www.sony.com/en/SonyInfo/products/#new-initiatives",
+    "https://www.sony.com/en/SonyInfo/blog/#",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+    "https://www.sony.com/en/SonyInfo/message/",
+    "https://www.sony.com/en/SonyInfo/News/Press/",
+    "https://www.sony.com/en/SonyInfo/blog/",
+    "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+    "https://www.sony.com/en/brand/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+    "https://www.sony.com/en/SonyInfo/technology/",
+    "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+    "https://www.sony.com/en/SonyInfo/technology/stories/",
+    "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+    "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+    "https://www.sony.com/en/SonyInfo/technology/publications/",
+    "https://www.sony.com/en/SonyInfo/csr/",
+    "https://www.sony.com/en/SonyInfo/csr/vision/",
+    "https://www.sony.com/en/SonyInfo/csr_report/",
+    "https://www.sony.net/eco",
+    "https://www.sony.com/en/SonyInfo/csr/community/",
+    "https://www.sony.com/en/SonyInfo/diversity/",
+    "https://www.sony.com/en/SonyInfo/accessibility/",
+    "https://www.sony.com/en/SonyInfo/covid_19_response/",
+    "https://www.sony.com/en/SonyInfo/design/",
+    "https://www.sony.com/en/SonyInfo/design/about/",
+    "https://www.sony.com/en/SonyInfo/design/stories/",
+    "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+    "https://www.sony.com/en/SonyInfo/design/gallery/",
+    "https://www.sony.com/en/SonyInfo/design/news/",
+    "https://www.sony.com/en/SonyInfo/Employee/",
+    "https://www.sony.com/en/SonyInfo/Careers/",
+    "https://www.sony.com/en/SonyInfo/IR/",
+    "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+    "https://www.sony.com/en/SonyInfo/IR/library/",
+    "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+    "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+    "https://www.sony.com/en/SonyInfo/SupportAll/",
+    "https://www.sony.com/ja/SonyInfo/blog/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/articles/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/executive_message/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/business/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/sustainability/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/technology/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/culture/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/05/28/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/05/21/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/05/19/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/05/08/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/featured/technology/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2025/12/22/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2025/12/05/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2025/10/02/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2025/08/19/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/featured/CreativeEntertainmentVision/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/05/07/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2025/08/06/index.html",
+    "https://www.sony.com/en/SonyInfo/blog/2026/04/24/index.html",
+    "https://www.sony.com/en/SonyInfo/technology/stories/entries/groovots/",
+    "https://www.sony.com/en/SonyInfo/design/stories/kokeshi/",
+    "https://x.com/SonyGroupGlobal",
+    "https://www.instagram.com/sony/",
+    "https://www.facebook.com/Sony",
+    "https://www.youtube.com/user/Sony",
+    "https://www.linkedin.com/company/sony/",
+    "https://www.sony.com/en/copyright/",
+    "https://www.sony.com/en/privacy/",
+    "https://www.sony.com/en/privacy/cookie/",
+    "https://www.sony.com/en/web-accessibility-statement/",
+    "https://www.sony.com/en/about/",
+    "https://www.sony.com/en/sitemap/",
+    "https://www.sony.com/ja",
+    "https://www.sony.com/en",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-product",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-about",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-tech",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-sustainability",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-design",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-employees",
+    "https://www.sony.com/en/SonyInfo/blog/#tmpl-flickNavChild-investor"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+        "alt": "SONY",
+        "w": 300,
+        "h": 53
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/28/o7agol00000000n1-img/20260528_top_Banner.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/21/ob9u6700000006kg-img/20260521_top_Banner.jpg",
+        "alt": "In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/19/ob9u6700000005j5-img/20260519_top_Banner.png",
+        "alt": "Sony Pictures at CinemaCon 2026",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/08/ob9u67000000040w-img/20260508_top_Banner.jpg",
+        "alt": "Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_carousel_prev.svg",
+        "alt": "Previous slide",
+        "w": 25,
+        "h": 24
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_carousel_next.svg",
+        "alt": "Next slide",
+        "w": 25,
+        "h": 24
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/28/o7agol00000000n1-img/20260528_top_Banner.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/21/ob9u6700000006kg-img/20260521_top_Banner.jpg",
+        "alt": "In Celebration of Global Accessibility Awareness Day - Inclusive Design Unleashing Sony's Creativity",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/19/ob9u6700000005j5-img/20260519_top_Banner.png",
+        "alt": "Sony Pictures at CinemaCon 2026",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2026/05/08/ob9u67000000040w-img/20260508_top_Banner.jpg",
+        "alt": "Sony Group Corporate Strategy 2026 - Driving Further Growth by Focusing on Entertainment and Expanding Creativity through AI",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2025/12/22/bpi5q300000000qq-img/20251222_top_Banner.jpg",
+        "alt": "Sony's Technology Exchange Fair \"STEF 2025\": Driving Innovation Together with Creators",
+        "w": 748,
+        "h": 499
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2025/12/05/l8v5ai000000035s-img/20251205_top_Banner.jpg",
+        "alt": "Technology to \"Create\" and \"Deliver\" KANDO: CDO Kodera's Keynote at AWS re:Invent 2025",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2025/10/02/cemr2600000000y8-img/20251002_top_Banner.jpg",
+        "alt": "Celebrating the Release of Demon Slayer: Kimetsu no Yaiba Infinity Castle - Sony Group Unites 10 Companies in a Campaign to Deepen Fans' Passion",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/2025/08/19/hidtrd00000001iw-img/20250819_top_Banner.jpg",
+        "alt": "Corporate Distinguished Engineers: Boundary Spanners Who Facilitate Co-creation by Bringing Together Technological Disciplines across Sony Group",
+        "w": 748,
+        "h": 498
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank_blue.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/s3h2fm000000044e-img/KV_groovots.jpg",
+        "alt": "",
+        "w": 1080,
+        "h": 720
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank_blue.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank_blue.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/s3h2fm000000044e-img/stories_kokeshi.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/blog/common/img/icon_blank_blue.svg",
+        "alt": "Open in a new window",
+        "w": 16,
+        "h": 16
+      }
+    ],
+    "allImgCount": 25,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 15,
+    "mainTextLen": 2085,
+    "realImageCount": 25,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

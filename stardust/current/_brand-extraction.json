@@ -1,0 +1,76 @@
+{
+  "_provenance": {
+    "originUrl": "https://www.sony.com/en/",
+    "extractedAt": "2026-06-28",
+    "renderedBy": "playwright (headed chrome, Akamai bot-mgmt fallback)",
+    "pagesAggregated": 15,
+    "notes": "Sony Group corporate portal (global). Palette/type aggregated from home + computed-style walk; per-page captures via bundled crawl.mjs (lighter than full recipe — no per-section style summary)."
+  },
+  "logo": {
+    "type": "img-svg",
+    "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+    "localWhite": "assets/logo.svg",
+    "localBlack": "assets/logo-black.svg",
+    "alt": "Sony",
+    "note": "Iconic Sony wordmark. Source SVG ships white-fill (for dark headers); black variant derived for light headers."
+  },
+  "favicon": {
+    "src": "https://www.sony.com/en/favicon.ico",
+    "local": "assets/favicon-src"
+  },
+  "palette": {
+    "background": "rgb(255,255,255)",
+    "surface": "rgb(239,239,239)",
+    "surfaceAlt": "rgb(248,248,248)",
+    "text": "rgb(17,17,17)",
+    "textMuted": "rgb(101,101,101)",
+    "ink": "rgb(0,0,0)",
+    "inkSurface": "rgb(43,43,43)",
+    "primary": "rgb(0,0,0)",
+    "accentBlue": "rgb(45,117,199)",
+    "accentBlueDeep": "rgb(1,73,142)",
+    "accentRed": "rgb(184,55,68)",
+    "linkBlue": "rgb(0,0,238)",
+    "_note": "Sony brand reads near-monochrome: black wordmark, white/light-grey surfaces, restrained blue (corporate/IR) and red (alerts) accents. Faithful-modernized target keeps black primary + a single refined blue accent."
+  },
+  "type": {
+    "headingFamily": "SST (Sony proprietary) → fallback Arial, Helvetica Neue, sans-serif",
+    "bodyFamily": "SST → fallback Arial, Helvetica Neue, sans-serif",
+    "observedStacks": [
+      "\"SST W20 Roman\", \"SST W55 Regular\", Arial, \"Helvetica Neue\", sans-serif",
+      "\"SST W20 Bold\""
+    ],
+    "weights": ["400", "700"],
+    "scaleAudit": { "kind": "ad-hoc", "note": "Dense corporate scale (11-16px body, larger display headings). Modernized target uses a cleaner modular scale." },
+    "targetSubstitute": "Inter (or system Helvetica/Arial stack) — SST is unlicensed; Inter is the closest free humanist-grotesque match for a faithful modernized look."
+  },
+  "motifs": {
+    "borderRadius": "minimal (0-3px; occasional pills 50px/100px for chips)",
+    "shadows": ["rgba(0,0,0,0.2) 0px 4px 8px", "subtle card lifts only"],
+    "patterns": ["full-bleed image hero", "auto-rotating hero carousel", "card grid (image + label)", "dated news list", "story/gallery grid"],
+    "aesthetic": "minimalist, editorial, generous whitespace, image-forward, restrained chrome"
+  },
+  "voice": {
+    "heroImage": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+    "heroMedium": {
+      "kind": "image-carousel",
+      "mechanism": "auto-advancing full-bleed slideshow (cross-fade), 4+ brand slides",
+      "note": "SIGNATURE motion — home hero is a rotating slideshow of brand stories. Prototype must reproduce the auto-rotating carousel, not a single static image. prefers-reduced-motion: hold first slide."
+    },
+    "headline": "Creative Entertainment Vision",
+    "ctas": ["Read More", "News Releases", "Learn More"],
+    "tagline": "Sony Group Portal — creativity and technology"
+  },
+  "systemComponents": {
+    "header": {
+      "logo": "Sony wordmark (links to /en/)",
+      "nav": ["Businesses & Products", "About Sony Group", "Technology", "Sustainability", "Design", "Employees / Careers", "Investor Relations", "Contact Us"],
+      "note": "Mega-menu style global nav over /en/SonyInfo/* sections."
+    },
+    "footer": {
+      "groups": ["About Sony Group", "Products & Services", "Technology", "Sustainability", "Design", "Careers", "Investor Relations", "News"],
+      "legal": ["Terms and Conditions (/en/copyright/)", "Privacy Policy (/en/privacy/)"],
+      "note": "Large multi-column corporate footer + legal row."
+    }
+  }
+}

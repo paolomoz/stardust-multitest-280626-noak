@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "background": "#ffffff", "surface": "#efefef", "surfaceAlt": "#f8f8f8",
+    "text": "#111111", "textMuted": "#656565", "ink": "#000000",
+    "primary": "#000000", "accent": "#2d75c7", "accentDeep": "#01498e", "alert": "#b83744"
+  },
+  "typography": {
+    "headingFamily": "SST, Arial, 'Helvetica Neue', sans-serif",
+    "bodyFamily": "SST, Arial, 'Helvetica Neue', sans-serif",
+    "weights": [400, 700]
+  },
+  "rounded": "minimal",
+  "spacing": "editorial",
+  "extensions": {
+    "componentStyle": ["header-mega-nav", "hero-carousel", "card-grid", "news-list", "story-grid", "footer-columns"],
+    "motifs": ["fullbleed-hero", "auto-carousel", "card-grid", "dated-news-list", "story-grid", "minimal-radius"],
+    "voice": {
+      "heroImage": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+      "heroMedium": {"kind": "image-carousel", "mechanism": "auto-advancing cross-fade slideshow"},
+      "headline": "Creative Entertainment Vision",
+      "ctas": ["Read More", "News Releases", "Learn More"]
+    }
+  }
+}

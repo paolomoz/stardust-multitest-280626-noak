@@ -1,0 +1,166 @@
+{
+  "site": {
+    "originUrl": "https://www.sony.com/en/",
+    "extractedAt": "2026-06-28T16:41:15.593Z",
+    "pageCap": 15,
+    "totalDiscovered": 47,
+    "crawled": 15,
+    "edsProject": "paolomoz/stardust-multitest-280626-noak",
+    "branch": "site-sony",
+    "daFolder": "paolomoz/stardust-multitest-280626-noak",
+    "daSubpath": "/sony/",
+    "deliveryHost": "https://site-sony--stardust-multitest-280626-noak--paolomoz.aem.page/sony/"
+  },
+  "pages": [
+    {
+      "slug": "en",
+      "url": "https://www.sony.com/en/",
+      "type": "landing",
+      "template": "home",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-products",
+      "url": "https://www.sony.com/en/SonyInfo/products/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-products.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-corporateinfo",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-corporateinfo.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-technology",
+      "url": "https://www.sony.com/en/SonyInfo/technology/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-technology.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-csr",
+      "url": "https://www.sony.com/en/SonyInfo/csr/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-csr.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-design",
+      "url": "https://www.sony.com/en/SonyInfo/design/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-design.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-careers",
+      "url": "https://www.sony.com/en/SonyInfo/Careers/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-careers.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-ir",
+      "url": "https://www.sony.com/en/SonyInfo/IR/",
+      "type": "landing",
+      "template": "section-landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-ir.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-news-press",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/",
+      "type": "listing",
+      "template": "listing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-news-press.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-blog",
+      "url": "https://www.sony.com/en/SonyInfo/blog/",
+      "type": "listing",
+      "template": "listing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-blog.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-news-press-202606-26-015e-index-html",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/202606/26-015E/index.html",
+      "type": "article",
+      "template": "article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-news-press-202606-26-015e-index-html.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-message",
+      "url": "https://www.sony.com/en/SonyInfo/message/",
+      "type": "article",
+      "template": "article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-message.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-corporateinfo-purpose-and-values",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+      "type": "article",
+      "template": "article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-corporateinfo-purpose-and-values.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-sonyinfo-design-stories",
+      "url": "https://www.sony.com/en/SonyInfo/design/stories/",
+      "type": "listing",
+      "template": "editorial",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-sonyinfo-design-stories.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-brand",
+      "url": "https://www.sony.com/en/brand/",
+      "type": "landing",
+      "template": "editorial",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/en-brand.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ]
+}
