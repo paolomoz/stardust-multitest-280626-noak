@@ -1,0 +1,113 @@
+{
+  "slug": "news-article-pure-fishing-acquires-svendsen-sport",
+  "url": "https://sycamorepartners.com/news-article/pure-fishing-acquires-svendsen-sport",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:59.232Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/pure-fishing-acquires-svendsen-sport",
+  "title": "Private Equity | Sycamore Partners | February 22 2022",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "February 22, 2022"
+    },
+    {
+      "tag": "h5",
+      "text": "Pure Fishing Acquires Svendsen Sport"
+    },
+    {
+      "tag": "h3",
+      "text": "About Pure Fishing"
+    },
+    {
+      "tag": "h3",
+      "text": "About Svendsen Sport A/S"
+    }
+  ],
+  "body": [
+    "COLUMBIA, S.C. — Pure Fishing Inc., the world’s largest fishing tackle company, today announced the acquisition of Svendsen Sport, a leading supplier of fishing tackle in Europe and owner of leading brands in that market including Savage Gear, Prologic, MadCat, WaterWolf and DAM.",
+    "The purchase of Svendsen Sport further strengthens Pure Fishing’s position as a global powerhouse in the growing recreational fishing industry. The acquisition adds several well-known and widely distributed brands in the European market, broader sales coverage, and complementary product development and marketing capabilities that enable Pure Fishing to deliver against its global expansion goals. This strategic acquisition is the fourth for Pure Fishing in three years under the ownership of private equity firm Sycamore Partners.",
+    "“We are proud to add Svendsen Sport, its portfolio of exciting growth brands and its talented people to our team at Pure Fishing,” said Pure Fishing Chief Executive Officer Harlan Kent. “The sport of fishing continues to see strong growth around the world and the acquisition of a company with a proven track record of innovation and brand-building gives us complementary capabilities to position our business for continued success as a global leader in fishing.”",
+    "“We are particularly excited about the talented colleagues who are joining us as a result of this acquisition,” added Kent. “We have bold plans to continue to drive compelling new products around the globe and the Pure Fishing team is now even stronger with the addition of Svendsen Sport.”",
+    "“Our Svendsen team has worked very hard over the last few years to create award winning new products and build market-leading brands on a scalable platform,” said Hans Maasbøl, CEO of Svendsen Sport. “We are proud that we have doubled the turnover during Maj Invest Equity’s ownership, and at the same time significantly improved profitability.”",
+    "“We are especially excited about the opportunity to join with Pure Fishing and make use of the resources they bring, which will enable us to continue the momentum we have in our business,” added Maasbøl. “We also appreciate that they hold customer service in the same high regard as we do.”",
+    "Through its acquisition of the Svendsen Sport business, Pure Fishing will obtain leading brands including Savage Gear, Prologic, MadCat, WaterWolf, and DAM, and add over 180 people to the team in Europe.",
+    "Closing terms for the sale were not disclosed.",
+    "Pure Fishing, Inc. is the leading global provider of fishing tackle, lures, rods and reels with a portfolio of brands that includes Abu Garcia®, All Star®, Berkley®, Fenwick®, Fin-Nor®, Frabill®, Greys®, Hardy®, Hodgman®, Hooker Reels®, Johnson®, JRC®, Mitchell®, PENN®, Pflueger®, Plano®, Sebile®, Shakespeare®, SpiderWire®, Stren®, Ugly Stik®, and Van Staal®.",
+    "Svendsen Sport A/S is a leading European supplier of Sports Fishing Tackle. With headquarters close to Copenhagen in Denmark, we innovate, develop, market and sell products to a large number of countries in Europe, Asia, Australia, and Americas through our own sales companies and agents. Our most popular brands are Savage Gear, Prologic, MadCat, Water Wolf, and DAM.",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/pf_logo.png",
+        "alt": "Pure Fishing Acquires Svendsen Sport",
+        "w": 318,
+        "h": 318
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 5,
+    "mainTextLen": 103172,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

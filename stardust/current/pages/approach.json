@@ -1,0 +1,139 @@
+{
+  "slug": "approach",
+  "url": "https://sycamorepartners.com/approach",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:16.584Z",
+  "finalUrl": "https://sycamorepartners.com/approach",
+  "title": "Private Equity | Sycamore Partners",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Approach"
+    },
+    {
+      "tag": "h5",
+      "text": "Omnichannel Retail & E-commerce"
+    },
+    {
+      "tag": "h5",
+      "text": "Food and Beverage"
+    },
+    {
+      "tag": "h5",
+      "text": "Consumer Products"
+    },
+    {
+      "tag": "h5",
+      "text": "Multi-Unit Retail Services"
+    },
+    {
+      "tag": "h5",
+      "text": "B2B Distribution"
+    },
+    {
+      "tag": "h5",
+      "text": "Travel, Leisure & Hospitality"
+    }
+  ],
+  "body": [
+    "Sycamore Partners' strategy is to partner with management teams to improve the operating profitability and strategic value of their businesses. We provide flexible capital structured for each investment to position companies to succeed.",
+    "Our areas of focus within the consumer, retail, and distribution sectors include:",
+    "Apparel, footwear, and accessories",
+    "Hardlines",
+    "Discounters",
+    "Convenience stores and gas stations",
+    "Grocery stores and pharmacies",
+    "Retail, pure-play e-commerce, and omni-channel business models",
+    "Branded food, beverage, and alcohol",
+    "Private label and co-manufacturing",
+    "Protein, fresh produce, and bakery",
+    "Health, wellness, and beauty",
+    "Personal care",
+    "Furniture and home goods",
+    "Consumer-oriented building products",
+    "Electronics",
+    "Auto aftermarket",
+    "Recreational and sporting goods",
+    "Outdoor enthusiast",
+    "Private label and co-manufacturing",
+    "Fitness and personal care services",
+    "Auto aftermarket services",
+    "QSR, fast casual, and full service restaurants",
+    "Education",
+    "Financial",
+    "Retail healthcare",
+    "Franchisor, franchisee, and company-operated business models",
+    "Office supplies and janitorial/sanitation",
+    "Equipment",
+    "MRO",
+    "Building products",
+    "Packaging",
+    "Specialty distribution",
+    "Food distribution",
+    "Leisure experiences and location-based entertainment",
+    "Travel and tourism",
+    "Cruise, hotels, and hospitality",
+    "Asset-light and asset-heavy business models",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      }
+    ],
+    "allImgCount": 1,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 7,
+    "mainTextLen": 101328,
+    "realImageCount": 1,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

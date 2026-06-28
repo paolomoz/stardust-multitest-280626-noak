@@ -1,0 +1,105 @@
+{
+  "slug": "news-article-kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+  "url": "https://sycamorepartners.com/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:43.502Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+  "title": "Private Equity | Sycamore Partners | April 01 2014",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "April 01, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Kurt Geiger Positioned for Growth Following Management Buyout with Support of Sycamore Partners"
+    }
+  ],
+  "body": [
+    "Sycamore Partners today announced that Kurt Geiger, a leading European luxury branded shoe retailer, has completed a management-led buyout and is now operating as an independent company. Sycamore Partners supported Kurt Geiger’s management team in its acquisition of the business, which previously was a division of The Jones Group Inc.",
+    "Kurt Geiger has been a leader and innovator in European footwear since 1963, when it opened its first boutique on Bond Street in London. Today the company operates in more than 180 multi-branded luxury and premium shoe concessions in leading British and international department stores, including Harrods, Selfridges, House of Fraser, John Lewis, Debenhams, David Jones and Myer. The company also sells its own iconic footwear brands, including Kurt Geiger London and Carvela, in more than 70 global retail locations, as well as premium department stores in the UK and around the world.",
+    "Neil Clifford, Kurt Geiger Chief Executive Officer, said, “We are thrilled to be supported by Sycamore Partners, which has extensive retail experience and a proven history of partnering with management teams. We believe our company has tremendous potential for growth in the UK and internationally, and we will continue to invest in new opportunities alongside our department store and brand partners. Our company is passionate about product, and we will carry on our legacy of offering the most exciting and innovative footwear, bringing the creativity of British design talent to a global audience.”",
+    "“We have great respect for Kurt Geiger’s strong and dedicated management team, deep history of partnership with exceptional department stores, and its own distinctive portfolio of footwear brands,” said Stefan Kaluzny, a Managing Director of Sycamore Partners. “The company has great potential for growth, and we look forward to working with Neil and the Kurt Geiger team to help position the business for long-term success.”",
+    "Mr. Clifford and the other members of the Kurt Geiger management team are all reinvesting in the company and will hold a significant stake going forward. They remain fully committed to the growth of the brand and the business.",
+    "As noted, Kurt Geiger was previously a division of The Jones Group, which was acquired by Sycamore Partners on April 8, 2014.",
+    "About Kurt Geiger",
+    "Kurt Geiger is a leading authority on designer footwear and accessories. Since first opening its doors in Britain’s fashion capital on Bond Street in 1963, Kurt Geiger now has over 70 stores worldwide, a digital global flagship kurtgeiger.com and operates in concessions within the world’s most prestigious department stores.",
+    "About Sycamore Partners",
+    "Sycamore Partners is a private equity firm based in New York. The firm has more than $1 billion in capital under management. Sycamore specializes in consumer and retail-related investments and its strategy is to partner with established management teams to improve the operating performance of their businesses. The firm’s investment portfolio currently includes Hot Topic, Inc.; The Talbots, Inc.; MGF Sourcing; and Pathlight Capital.",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Kurtgeiger.png",
+        "alt": "Kurt Geiger Positioned for Growth Following Management Buyout with Support of Sycamore Partners",
+        "w": 253,
+        "h": 19
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 103105,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

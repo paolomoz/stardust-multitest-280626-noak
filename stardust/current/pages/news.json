@@ -1,0 +1,900 @@
+{
+  "slug": "news",
+  "url": "https://sycamorepartners.com/news",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:20.580Z",
+  "finalUrl": "https://sycamorepartners.com/news",
+  "title": "Private Equity | Sycamore Partners",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h5",
+      "text": "December 21, 2021"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Acquires Digital Room, a Leading E-Commerce Provider of Customized Marketing Products to Small and Medium Sized Businesses"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "October 01, 2021"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition of Ste. Michelle Wine Estates"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 16, 2021"
+    },
+    {
+      "tag": "h5",
+      "text": "Pure Fishing Announces The Close Of Purchase For Plano Synergy Holdings Inc. With Pure Fishing To Retain Strategic Brands From The Plano Portfolio And Gsm Outdoors To Acquire The Hunting Accessories And Archery Brands"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "March 19, 2021"
+    },
+    {
+      "tag": "h5",
+      "text": "Royal Caribbean Group completes the sale of its Azamara brand to Sycamore Partners"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "January 14, 2021"
+    },
+    {
+      "tag": "h5",
+      "text": "Express, Inc. Announces $140 Million in Additional Financing to Bolster Liquidity"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "December 23, 2020"
+    },
+    {
+      "tag": "h5",
+      "text": "Ascena retail group Completes Sale of Ann Taylor, LOFT, Lou & Grey and Lane Bryant to Sycamore Partners"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "December 02, 2020"
+    },
+    {
+      "tag": "h5",
+      "text": "CommerceHub Announces Strategic Investment from Insight Partners"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "January 08, 2019"
+    },
+    {
+      "tag": "h5",
+      "text": "NBG Home Acquires Quoizel"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "January 07, 2019"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition of Pure Fishing"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "July 30, 2018"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Closes Third Fund At $4.75 Billion"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "May 21, 2018"
+    },
+    {
+      "tag": "h5",
+      "text": "GTCR and Sycamore Partners Complete Acquisition of CommerceHub"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "September 20, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "John A. Lederer Joins Sycamore Partners as a Senior Advisor"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "September 12, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition Of Staples, Inc."
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "June 29, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "Staples, Inc. Enters into Definitive Agreement to be Acquired by Sycamore Partners for $10.25 Per Share in Cash, or Approximately $6.9 Billion"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 27, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Acquires NBG Home"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "February 24, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Acquires The Limited's Brand and Related Intellectual Property"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "September 15, 2016"
+    },
+    {
+      "tag": "h5",
+      "text": "Michael Weiss, Longtime CEO of Express, Joins Talbots Board of Directors"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "December 10, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquistion Of Belk, Inc"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "November 02, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Dollar Tree Completes Divestiture of 330 Family Dollar Stores to Dollar Express"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "August 06, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners acquires E.M.P. Merchandising, Germany-Based Multi-Channel Retailer"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "January 12, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Lew Frankfort Joins Sycamore Partners As Executive In Residence"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "June 09, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Acquires Coldwater Creek Intellectual Property"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "June 09, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Closes Second Fund At $2.5 Billion"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 15, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Establishes Four Additional Independent Companies in Organizational Realignment of The Jones Group"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 11, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Establishes Stuart Weitzman as Standalone Company"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 08, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition of The Jones Group"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "April 01, 2014"
+    },
+    {
+      "tag": "h5",
+      "text": "Kurt Geiger Positioned for Growth Following Management Buyout with Support of Sycamore Partners"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "June 12, 2013"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition of Hot Topic, Inc"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "October 03, 2012"
+    },
+    {
+      "tag": "h5",
+      "text": "Junior Capital team at Wells Fargo Capital Finance and Pathlight Capital provide $100 million term loan to RadioShack"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "August 07, 2012"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Completes Acquisition of Talbots"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    },
+    {
+      "tag": "h5",
+      "text": "November 03, 2011"
+    },
+    {
+      "tag": "h5",
+      "text": "Sycamore Partners Acquires 51% Interest in Mast Global Fashions"
+    },
+    {
+      "tag": "h5",
+      "text": "Read More"
+    }
+  ],
+  "body": [
+    "NEW YORK, Dec. 21, 2021 /PRNewswire/ -- Sycamore Partners, a private equity firm specializing in consumer, distribution, and retail-related investments, today announced that it has acquired Digital Room from an affiliate of H.I.G. Capital.",
+    "NEW YORK, Oct. 1, 2021 /PRNewswire/ -- Sycamore Partners, a private equity firm specializing in consumer, retail, and distribution investments, today announced that it has completed its acquisition of Ste. Michelle Wine Estates from Altria Group, Inc.",
+    "COLUMBIA, S.C. (April 16, 2021) — Pure Fishing Inc., the world’s largest fishing tackle company, announces the close of its purchase of Plano Synergy Holdings Inc., effective today. As part of the closing of this purchase, Pure Fishing also announces it has closed the sale of Plano Synergy’s archery and hunting accessories brands to GSM Outdoors, the leader in the enthusiast hunting, sport shooting, and rugged outdoor market, also effective today.",
+    "MIAMI – March 19, 2021 – Royal Caribbean Group (NYSE: RCL) (the Group) today announced it completed the sale of its Azamara brand to Sycamore Partners, a private equity firm specializing in consumer, retail and distribution investments, in an all-cash transaction for $201 million. The sale included Azamara’s three-ship fleet and associated intellectual property.",
+    "COLUMBUS, Ohio-- Fashion apparel retailer Express, Inc. (NYSE: EXPR) today announced that it has entered into a definitive loan agreement with Sycamore Partners as lead lender, along with Wells Fargo and Bank of America Merrill Lynch, that strengthens its liquidity position by an additional $140 million. The new financing includes a $90 million FILO Term Loan with a maturity date of May 24, 2024, and a $50 million Delayed Draw Term Loan, to be repaid upon receipt of a CARES Act tax refund expected to be received in the second quarter of 2021. This financing is in addition to the Company’s existing $250 million asset-based loan facility, of which it had previously drawn $165 million.",
+    "MAHWAH, N.J., Dec. 23, 2020 (GLOBE NEWSWIRE) -- ascena retail group, inc. (OTCMKTS: ASNAQ) and certain of its subsidiaries (collectively, “ascena” or the “Company”) today announced that it has completed the sale of the Ann Taylor, LOFT, Lou & Grey, and Lane Bryant brands to Premium Apparel LLC, an affiliate of Sycamore Partners. Premium Apparel has committed to retaining a substantial portion of the retail stores, associates, and corporate operations affiliated with these brands.",
+    "ALBANY, N.Y., Dec. 2, 2020 /PRNewswire/ -- CommerceHub, a leading provider of ecommerce solutions for enterprise retailers and brands, today announced a strategic investment by global venture capital and private equity firm Insight Partners. This investment will accelerate CommerceHub's platform innovation and expand its solutions to realize the company's digital supply chain vision.",
+    "AUSTIN, Texas and CHARLESTON, S.C., Jan. 8, 2019 /PRNewswire/ -- NBG Home (\"NBG\" or the \"Company\"), the largest provider of affordable home décor products, today announced that it has acquired Quoizel, a leading designer and marketer of decorative lighting. Following the transaction, Quoizel's headquarters and team will remain in Charleston, South Carolina, and Rick Seidman, President of Quoizel, will continue in his role. This acquisition is the second for NBG in less than two years under the ownership of private equity firm Sycamore Partners.",
+    "NEW YORK, Jan. 7, 2019 /PRNewswire/ -- Sycamore Partners today announced that it has completed its acquisition of Pure Fishing from Newell Brands.",
+    "Peter Morrow, Managing Director at Sycamore Partners, said, \"Pure Fishing and its portfolio of global brands represent an exciting opportunity to continue our strategy of investing in and supporting great retail and consumer brands with significant potential. We are excited to help Pure Fishing build on its market-leading position and accelerate its growth. We are also pleased to have been able to work constructively on this carve-out for Newell Brands to further its strategic transformation.\"customers.",
+    "NEW YORK, July 30, 2018 /PRNewswire/ -- Sycamore Partners (\"Sycamore\"), a private equity firm based in New York specializing in consumer and retail investments, today announced it has closed its third fund, Sycamore Partners III, L.P. (\"Fund III\"), with $4.75 billion of limited partner capital commitments. Sycamore has a globally diversified investor base of prominent endowments, foundations, funds of funds, family offices, insurance companies, pension plans and sovereign wealth funds.",
+    "May 21, 2018 – Affiliates of GTCR and Sycamore Partners, two leading private equity firms, today announced the closing of the acquisition of CommerceHub, Inc. (“CommerceHub” or the “Company”), a leading distributed commerce network for retailers and brands.",
+    "September 20, 2017 – Sycamore Partners today announced that John A. Lederer, former President and Chief Executive Officer of US Foods, has joined the firm as a Senior Advisor. In this capacity, he will serve as the Executive Chairman of the Board of Directors of Staples, Inc. and its newly formed and independent United States and Canadian Retail Businesses.",
+    "Sycamore Partners today announced that it has completed its acquisition of Staples, Inc. (the “Company”).",
+    "\"We are pleased to have completed this transaction and look forward to partnering with CEO Shira Goodman and the Staples management team as we seek to increase long-term profitability,\" said Stefan Kaluzny, Managing Director of Sycamore Partners. “With the support of its dedicated associates, Staples is well-positioned to leverage its iconic brand and leading competitive position to drive even greater value for its business-to-business and retail customers in the U.S. and Canada.”",
+    "FRAMINGHAM, Mass. & NEW YORK--(BUSINESS WIRE)-- Staples, Inc. (NASDAQ: SPLS or the “Company”) and Sycamore Partners, a leading private equity firm, today announced that they have entered into a merger agreement in which investment funds managed by Sycamore Partners will acquire the Company in a transaction that values Staples at an equity value of approximately $6.9 billion. Under the terms of the merger agreement, all Staples’ stockholders will receive $10.25 per share in cash for each share of common stock they own, which represents a premium of approximately 20 percent to the 10-day volume weighted average stock price for Staples shares for the period ended April 3, 2017, the last trading day prior to widespread media speculation about a potential transaction.",
+    "NEW YORK, April 27, 2017 /PRNewswire/ -- Sycamore Partners today announced that it has acquired NBG Home (\"NBG\"), a leading global designer, manufacturer and marketer of affordable home décor products from Kohlberg & Company, L.L.C.",
+    "NEW YORK, Feb. 24, 2017 /PRNewswire/ -- Sycamore Partners today announced that it has acquired The Limited's brand and other related intellectual property assets. The intellectual property was purchased through a competitive auction run by The Limited as part of its ongoing Chapter 11 proceedings in the U.S. Bankruptcy Court for the District of Delaware.",
+    "Sycamore plans to reintroduce the brand to the marketplace at a later date and will communicate with The Limited's loyal customers about how to obtain the merchandise they know and love.",
+    "The Talbots, Inc. (\"Talbots\") today announced that Michael Weiss, the longtime CEO of Express and a highly respected figure in the retail industry for many years, has joined the Talbots Board of Directors, effective September 1, 2016.",
+    "\"Michael has long been viewed as one of the retail industry's most visionary, charismatic and inspiring leaders, and we are thrilled that he has agreed to join the Talbots' Board,\" said Lizanne Kindler, Chief Executive Officer of Talbots. \"I am confident that my colleagues and I will benefit greatly from Michael's unique insights as we work to achieve our long-term goals.\"",
+    "Sycamore Partners today announced that it has completed its acquisition of Belk, Inc. (“Belk” or the “Company”).",
+    "Stefan Kaluzny, Managing Director of Sycamore Partners, said, “We are excited to have completed this acquisition and to begin our partnership with Belk. The Company has developed a loyal base of customers over its 127-year history, and we believe Belk is positioned for continued growth and success. We look forward to working with Belk’s management team and associates as they build on the Company’s legacy and continue to serve its customers and deliver Modern. Southern. Style.”",
+    "Dollar Tree, Inc. (NASDAQ: DLTR), the nation's leading operator of discount variety stores selling everything for $1 or less, and Sycamore Partners, a private equity firm specializing in consumer and retail investments, today announced that they have completed the transaction pursuant to which Dollar Tree divested 330 Family Dollar stores to Dollar Express LLC, a portfolio company of Sycamore Partners. The divestiture satisfied a condition as required by the Federal Trade Commission in connection with Dollar Tree's recently-completed acquisition of Family Dollar Stores, Inc. The stores will operate under the Dollar Express banner.",
+    "We are delighted to enter into this partnership with Sycamore Partners,” said Ernst Trapp, the Company’s Chief Executive Officer. “Sycamore has extensive multi-channel retailing experience and knowledge of the music- and entertainment-inspired apparel and accessories world. We believe this makes them an ideal partner as we look to grow our business, while continuing to operate as we always have – with a deep appreciation for our employees, customers and business partners.",
+    "Sycamore Partners today announced that Lew Frankfort, the former Chairman and Chief Executive Officer of Coach, Inc., has joined the firm as an Executive in Residence. In this role, Mr. Frankfort will serve as a valued resource to Sycamore Partners and the management teams of its portfolio companies, enabling them to tap into his incomparable retail knowledge, managerial expertise and network of industry relationships.",
+    "Sycamore Partners today announced that it has acquired the Coldwater Creek brand and other intellectual property. Sycamore intends to re-launch Coldwater Creek as an independent portfolio company.",
+    "Sycamore Partners today announced that it has closed its second fund, Sycamore Partners II, L.P., with limited partner commitments of $2.5 billion. Sycamore Partners’ first fund, Sycamore Partners, L.P., closed in 2012 with limited partner commitments of $1 billion. With the closing of its second fund, Sycamore Partners now has in excess of $3.5 billion in assets under management.",
+    "Sycamore Partners today announced that it has reorganized the remaining businesses of The Jones Group into four independent operating companies: the Nine West Group, a Jeanswear company (which will be named later), Jones New York, and the Kasper Group. Each will operate as an independent company led by its own management team. Sycamore Partners previously announced that Stuart Weitzman and Kurt Geiger would each become independent companies.",
+    "Sycamore Partners today announced that, in conjunction with its recent acquisition of The Jones Group Inc., Stuart Weitzman will operate as an independent company in the investment firm’s growing portfolio of leading retail and consumer businesses. Sycamore Partners’ acquisition of Stuart Weitzman is being made in partnership with the company’s long-time management team, including Executive Chairman Stuart Weitzman and Chief Executive Officer Wayne Kulkin.",
+    "Sycamore Partners today announced that it has completed its acquisition of The Jones Group Inc. (“The Jones Group” or the “Company”). The transaction is valued at approximately $2.2 billion.",
+    "Sycamore Partners today announced that Kurt Geiger, a leading European luxury branded shoe retailer, has completed a management-led buyout and is now operating as an independent company. Sycamore Partners supported Kurt Geiger’s management team in its acquisition of the business, which previously was a division of The Jones Group Inc.",
+    "Sycamore Partners today announced that it has completed its acquisition of Hot Topic, Inc. (“Hot Topic” or the “Company”). The transaction is valued at approximately $600 million.",
+    "Wells Fargo Capital Finance, part of Wells Fargo & Company (NYSE: WFC), recently agented a $100 million term loan for the financing of RadioShack Corporation, a Ft. Worth, Texas-based consumer electronics retailer. Pathlight Capital, LLC, a portfolio company of Sycamore Partners, acted as Syndication Agent on the transaction.",
+    "Michael Archbold Appointed CEO and CFO, Lizanne Kindler Named President and Michele Mandell Named Chief Operating Officer",
+    "Sycamore Partners today announced that TLB Merger Sub Inc. (an affiliate of Sycamore Partners) has completed its acquisition of The Talbots, Inc., following the previously announced completion of its tender offer on August 3, 2012. The transaction is valued at approximately $391 million, including net debt.",
+    "Sycamore Partners Joins with Limited Brands to Establish Apparel Sourcing Unit as Standalone Company",
+    "Sycamore Partners (“Sycamore”), a private equity firm based in New York, and Limited Brands, Inc. (NYSE: LTD) today announced that Sycamore has acquired a controlling 51% interest in Mast Global Fashions, the third-party apparel sourcing division of Limited Brands. Limited Brands will retain a 49% stake in this standalone apparel production and sourcing company. Terms of the transaction were not disclosed. Limited Brands will retain 100 percent ownership of its separate sourcing operation for their intimate apparel and personal care/beauty businesses.",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "December 21, 2021 Sycamore Partners Acquires Digital Room, a Leading E-Commerce Provider of Customized Marketing Products to Small and Medium Sized Businesses NEW YORK, Dec. 21, 2021 /PRNewswire/ -- Sycamore Partners, a private equity firm specializing in consumer, distribution, and retail-related investments, today announced that it has acquired Digital Room from an affiliate of H.I.G. Capital. Read More",
+      "href": "/news-article/sycamore-partners-acquires-digital-room-a-leading-e-commerce-provider-of-customized-marketing-products-to-small-and-medium-sized-businesses"
+    },
+    {
+      "label": "October 01, 2021 Sycamore Partners Completes Acquisition of Ste. Michelle Wine Estates NEW YORK, Oct. 1, 2021 /PRNewswire/ -- Sycamore Partners, a private equity firm specializing in consumer, retail, and distribution investments, today announced that it has completed its acquisition of Ste. Michelle Wine Estates from Altria Group, Inc. Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-ste-michelle-wine-estates"
+    },
+    {
+      "label": "April 16, 2021 Pure Fishing Announces The Close Of Purchase For Plano Synergy Holdings Inc. With Pure Fishing To Retain Strategic Brands From The Plano Portfolio And Gsm Outdoors To Acquire The Hunting Accessories And Archery Brands COLUMBIA, S.C. (April 16, 2021) — Pure Fishing Inc., the world’s largest fishing tackle company, announces the close of its purchase of Plano Synergy Holdings Inc., effective today. As part of the closing of this purchase, Pure Fishing also announces it has closed the sale of Plano Synergy’s archery and hunting accessories brands to GSM Outdoors, the leader in the enthusiast hunting, sport shooting, and rugged outdoor market, also effective today. Read More",
+      "href": "/news-article/pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands"
+    },
+    {
+      "label": "March 19, 2021 Royal Caribbean Group completes the sale of its Azamara brand to Sycamore Partners MIAMI – March 19, 2021 – Royal Caribbean Group (NYSE: RCL) (the Group) today announced it completed the sale of its Azamara brand to Sycamore Partners, a private equity firm specializing in consumer, retail and distribution investments, in an all-cash transaction for $201 million. The sale included Azamara’s three-ship fleet and associated intellectual property. Read More",
+      "href": "/news-article/royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners"
+    },
+    {
+      "label": "January 14, 2021 Express, Inc. Announces $140 Million in Additional Financing to Bolster Liquidity COLUMBUS, Ohio-- Fashion apparel retailer Express, Inc. (NYSE: EXPR) today announced that it has entered into a definitive loan agreement with Sycamore Partners as lead lender, along with Wells Fargo and Bank of America Merrill Lynch, that strengthens its liquidity position by an additional $140 million. The new financing includes a $90 million FILO Term Loan with a maturity date of May 24, 2024, and a $50 million Delayed Draw Term Loan, to be repaid upon receipt of a CARES Act tax refund expected to be received in the second quarter of 2021. This financing is in addition to the Company’s existing $250 million asset-based loan facility, of which it had previously drawn $165 million. Read More",
+      "href": "/news-article/express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity"
+    },
+    {
+      "label": "December 23, 2020 Ascena retail group Completes Sale of Ann Taylor, LOFT, Lou & Grey and Lane Bryant to Sycamore Partners MAHWAH, N.J., Dec. 23, 2020 (GLOBE NEWSWIRE) -- ascena retail group, inc. (OTCMKTS: ASNAQ) and certain of its subsidiaries (collectively, “ascena” or the “Company”) today announced that it has completed the sale of the Ann Taylor, LOFT, Lou & Grey, and Lane Bryant brands to Premium Apparel LLC, an affiliate of Sycamore Partners. Premium Apparel has committed to retaining a substantial portion of the retail stores, associates, and corporate operations affiliated with these brands. Read More",
+      "href": "/news-article/ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners"
+    },
+    {
+      "label": "December 02, 2020 CommerceHub Announces Strategic Investment from Insight Partners ALBANY, N.Y., Dec. 2, 2020 /PRNewswire/ -- CommerceHub, a leading provider of ecommerce solutions for enterprise retailers and brands, today announced a strategic investment by global venture capital and private equity firm Insight Partners. This investment will accelerate CommerceHub's platform innovation and expand its solutions to realize the company's digital supply chain vision. Read More",
+      "href": "/news-article/commercehub-announces-strategic-investment-from-insight-partners"
+    },
+    {
+      "label": "January 08, 2019 NBG Home Acquires Quoizel AUSTIN, Texas and CHARLESTON, S.C., Jan. 8, 2019 /PRNewswire/ -- NBG Home (\"NBG\" or the \"Company\"), the largest provider of affordable home décor products, today announced that it has acquired Quoizel, a leading designer and marketer of decorative lighting. Following the transaction, Quoizel's headquarters and team will remain in Charleston, South Carolina, and Rick Seidman, President of Quoizel, will continue in his role. This acquisition is the second for NBG in less than two years under the ownership of private equity firm Sycamore Partners. Read More",
+      "href": "/news-article/nbg-home-acquires-quoizel"
+    },
+    {
+      "label": "January 07, 2019 Sycamore Partners Completes Acquisition of Pure Fishing NEW YORK, Jan. 7, 2019 /PRNewswire/ -- Sycamore Partners today announced that it has completed its acquisition of Pure Fishing from Newell Brands. Peter Morrow, Managing Director at Sycamore Partners, said, \"Pure Fishing and its portfolio of global brands represent an exciting opportunity to continue our strategy of investing in and supporting great retail and consumer brands with significant potential. We are excited to help Pure Fishing build on its market-leading position and accelerate its growth. We are also pleased to have been able to work constructively on this carve-out for Newell Brands to further its strategic transformation.\"customers. Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-pure-fishing"
+    },
+    {
+      "label": "July 30, 2018 Sycamore Partners Closes Third Fund At $4.75 Billion NEW YORK, July 30, 2018 /PRNewswire/ -- Sycamore Partners (\"Sycamore\"), a private equity firm based in New York specializing in consumer and retail investments, today announced it has closed its third fund, Sycamore Partners III, L.P. (\"Fund III\"), with $4.75 billion of limited partner capital commitments. Sycamore has a globally diversified investor base of prominent endowments, foundations, funds of funds, family offices, insurance companies, pension plans and sovereign wealth funds. Read More",
+      "href": "/news-article/sycamore-partners-closes-third-fund-at-475-billion"
+    },
+    {
+      "label": "May 21, 2018 GTCR and Sycamore Partners Complete Acquisition of CommerceHub May 21, 2018 – Affiliates of GTCR and Sycamore Partners, two leading private equity firms, today announced the closing of the acquisition of CommerceHub, Inc. (“CommerceHub” or the “Company”), a leading distributed commerce network for retailers and brands. Read More",
+      "href": "/news-article/gtcr-and-sycamore-partners-complete-acquisition-of-commercehub"
+    },
+    {
+      "label": "September 20, 2017 John A. Lederer Joins Sycamore Partners as a Senior Advisor September 20, 2017 – Sycamore Partners today announced that John A. Lederer, former President and Chief Executive Officer of US Foods, has joined the firm as a Senior Advisor. In this capacity, he will serve as the Executive Chairman of the Board of Directors of Staples, Inc. and its newly formed and independent United States and Canadian Retail Businesses. Read More",
+      "href": "/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor"
+    },
+    {
+      "label": "September 12, 2017 Sycamore Partners Completes Acquisition Of Staples, Inc. Sycamore Partners today announced that it has completed its acquisition of Staples, Inc. (the “Company”). \"We are pleased to have completed this transaction and look forward to partnering with CEO Shira Goodman and the Staples management team as we seek to increase long-term profitability,\" said Stefan Kaluzny, Managing Director of Sycamore Partners. “With the support of its dedicated associates, Staples is well-positioned to leverage its iconic brand and leading competitive position to drive even greater value for its business-to-business and retail customers in the U.S. and Canada.” Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-staples-inc"
+    },
+    {
+      "label": "June 29, 2017 Staples, Inc. Enters into Definitive Agreement to be Acquired by Sycamore Partners for $10.25 Per Share in Cash, or Approximately $6.9 Billion FRAMINGHAM, Mass. & NEW YORK--(BUSINESS WIRE)-- Staples, Inc. (NASDAQ: SPLS or the “Company”) and Sycamore Partners, a leading private equity firm, today announced that they have entered into a merger agreement in which investment funds managed by Sycamore Partners will acquire the Company in a transaction that values Staples at an equity value of approximately $6.9 billion. Under the terms of the merger agreement, all Staples’ stockholders will receive $10.25 per share in cash for each share of common stock they own, which represents a premium of approximately 20 percent to the 10-day volume weighted average stock price for Staples shares for the period ended April 3, 2017, the last trading day prior to widespread media speculation about a potential transaction. Read More",
+      "href": "/news-article/staples-inc-enters-into-definitive-agreement-to-be-acquired-by-sycamore-partners-for-1025-per-share-in-cash-or-approximately-69-billion"
+    },
+    {
+      "label": "April 27, 2017 Sycamore Partners Acquires NBG Home NEW YORK, April 27, 2017 /PRNewswire/ -- Sycamore Partners today announced that it has acquired NBG Home (\"NBG\"), a leading global designer, manufacturer and marketer of affordable home décor products from Kohlberg & Company, L.L.C. Read More",
+      "href": "/news-article/sycamore-partners-acquires-nbg-home"
+    },
+    {
+      "label": "February 24, 2017 Sycamore Partners Acquires The Limited's Brand and Related Intellectual Property NEW YORK, Feb. 24, 2017 /PRNewswire/ -- Sycamore Partners today announced that it has acquired The Limited's brand and other related intellectual property assets. The intellectual property was purchased through a competitive auction run by The Limited as part of its ongoing Chapter 11 proceedings in the U.S. Bankruptcy Court for the District of Delaware. Sycamore plans to reintroduce the brand to the marketplace at a later date and will communicate with The Limited's loyal customers about how to obtain the merchandise they know and love. Read More",
+      "href": "/news-article/sycamore-partners-acquires-the-limiteds-brand-and-related-intellectual-property"
+    },
+    {
+      "label": "September 15, 2016 Michael Weiss, Longtime CEO of Express, Joins Talbots Board of Directors The Talbots, Inc. (\"Talbots\") today announced that Michael Weiss, the longtime CEO of Express and a highly respected figure in the retail industry for many years, has joined the Talbots Board of Directors, effective September 1, 2016. \"Michael has long been viewed as one of the retail industry's most visionary, charismatic and inspiring leaders, and we are thrilled that he has agreed to join the Talbots' Board,\" said Lizanne Kindler, Chief Executive Officer of Talbots. \"I am confident that my colleagues and I will benefit greatly from Michael's unique insights as we work to achieve our long-term goals.\" Read More",
+      "href": "/news-article/michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors"
+    },
+    {
+      "label": "December 10, 2015 Sycamore Partners Completes Acquistion Of Belk, Inc Sycamore Partners today announced that it has completed its acquisition of Belk, Inc. (“Belk” or the “Company”). Stefan Kaluzny, Managing Director of Sycamore Partners, said, “We are excited to have completed this acquisition and to begin our partnership with Belk. The Company has developed a loyal base of customers over its 127-year history, and we believe Belk is positioned for continued growth and success. We look forward to working with Belk’s management team and associates as they build on the Company’s legacy and continue to serve its customers and deliver Modern. Southern. Style.” Read More",
+      "href": "/news-article/sycamore-partners-completes-acquistion-of-belk-inc"
+    },
+    {
+      "label": "November 02, 2015 Dollar Tree Completes Divestiture of 330 Family Dollar Stores to Dollar Express Dollar Tree, Inc. (NASDAQ: DLTR), the nation's leading operator of discount variety stores selling everything for $1 or less, and Sycamore Partners, a private equity firm specializing in consumer and retail investments, today announced that they have completed the transaction pursuant to which Dollar Tree divested 330 Family Dollar stores to Dollar Express LLC, a portfolio company of Sycamore Partners. The divestiture satisfied a condition as required by the Federal Trade Commission in connection with Dollar Tree's recently-completed acquisition of Family Dollar Stores, Inc. The stores will operate under the Dollar Express banner. Read More",
+      "href": "/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express"
+    },
+    {
+      "label": "August 06, 2015 Sycamore Partners acquires E.M.P. Merchandising, Germany-Based Multi-Channel Retailer We are delighted to enter into this partnership with Sycamore Partners,” said Ernst Trapp, the Company’s Chief Executive Officer. “Sycamore has extensive multi-channel retailing experience and knowledge of the music- and entertainment-inspired apparel and accessories world. We believe this makes them an ideal partner as we look to grow our business, while continuing to operate as we always have – with a deep appreciation for our employees, customers and business partners. Read More",
+      "href": "/news-article/sycamore-partners-acquires-emp-merchandising-germany-based-multi-channel-retailer-"
+    },
+    {
+      "label": "January 12, 2015 Lew Frankfort Joins Sycamore Partners As Executive In Residence Sycamore Partners today announced that Lew Frankfort, the former Chairman and Chief Executive Officer of Coach, Inc., has joined the firm as an Executive in Residence. In this role, Mr. Frankfort will serve as a valued resource to Sycamore Partners and the management teams of its portfolio companies, enabling them to tap into his incomparable retail knowledge, managerial expertise and network of industry relationships. Read More",
+      "href": "/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence"
+    },
+    {
+      "label": "June 09, 2014 Sycamore Partners Acquires Coldwater Creek Intellectual Property Sycamore Partners today announced that it has acquired the Coldwater Creek brand and other intellectual property. Sycamore intends to re-launch Coldwater Creek as an independent portfolio company. Read More",
+      "href": "/news-article/sycamore-partners-acquires-coldwater-creek-intellectual-property"
+    },
+    {
+      "label": "June 09, 2014 Sycamore Partners Closes Second Fund At $2.5 Billion Sycamore Partners today announced that it has closed its second fund, Sycamore Partners II, L.P., with limited partner commitments of $2.5 billion. Sycamore Partners’ first fund, Sycamore Partners, L.P., closed in 2012 with limited partner commitments of $1 billion. With the closing of its second fund, Sycamore Partners now has in excess of $3.5 billion in assets under management. Read More",
+      "href": "/news-article/sycamore-partners-closes-second-fund-at-25-billion"
+    },
+    {
+      "label": "April 15, 2014 Sycamore Partners Establishes Four Additional Independent Companies in Organizational Realignment of The Jones Group Sycamore Partners today announced that it has reorganized the remaining businesses of The Jones Group into four independent operating companies: the Nine West Group, a Jeanswear company (which will be named later), Jones New York, and the Kasper Group. Each will operate as an independent company led by its own management team. Sycamore Partners previously announced that Stuart Weitzman and Kurt Geiger would each become independent companies. Read More",
+      "href": "/news-article/sycamore-partners-establishes-four-additional-independent-companies-in-organizational-realignment-of-the-jones-group"
+    },
+    {
+      "label": "April 11, 2014 Sycamore Partners Establishes Stuart Weitzman as Standalone Company Sycamore Partners today announced that, in conjunction with its recent acquisition of The Jones Group Inc., Stuart Weitzman will operate as an independent company in the investment firm’s growing portfolio of leading retail and consumer businesses. Sycamore Partners’ acquisition of Stuart Weitzman is being made in partnership with the company’s long-time management team, including Executive Chairman Stuart Weitzman and Chief Executive Officer Wayne Kulkin. Read More",
+      "href": "/news-article/sycamore-partners-establishes-stuart-weitzman-as-standalone-company"
+    },
+    {
+      "label": "April 08, 2014 Sycamore Partners Completes Acquisition of The Jones Group Sycamore Partners today announced that it has completed its acquisition of The Jones Group Inc. (“The Jones Group” or the “Company”). The transaction is valued at approximately $2.2 billion. Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-the-jones-group"
+    },
+    {
+      "label": "April 01, 2014 Kurt Geiger Positioned for Growth Following Management Buyout with Support of Sycamore Partners Sycamore Partners today announced that Kurt Geiger, a leading European luxury branded shoe retailer, has completed a management-led buyout and is now operating as an independent company. Sycamore Partners supported Kurt Geiger’s management team in its acquisition of the business, which previously was a division of The Jones Group Inc. Read More",
+      "href": "/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners"
+    },
+    {
+      "label": "June 12, 2013 Sycamore Partners Completes Acquisition of Hot Topic, Inc Sycamore Partners today announced that it has completed its acquisition of Hot Topic, Inc. (“Hot Topic” or the “Company”). The transaction is valued at approximately $600 million. Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-hot-topic-inc"
+    },
+    {
+      "label": "October 03, 2012 Junior Capital team at Wells Fargo Capital Finance and Pathlight Capital provide $100 million term loan to RadioShack Wells Fargo Capital Finance, part of Wells Fargo & Company (NYSE: WFC), recently agented a $100 million term loan for the financing of RadioShack Corporation, a Ft. Worth, Texas-based consumer electronics retailer. Pathlight Capital, LLC, a portfolio company of Sycamore Partners, acted as Syndication Agent on the transaction. Read More",
+      "href": "/news-article/junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack"
+    },
+    {
+      "label": "August 07, 2012 Sycamore Partners Completes Acquisition of Talbots Michael Archbold Appointed CEO and CFO, Lizanne Kindler Named President and Michele Mandell Named Chief Operating Officer Sycamore Partners today announced that TLB Merger Sub Inc. (an affiliate of Sycamore Partners) has completed its acquisition of The Talbots, Inc., following the previously announced completion of its tender offer on August 3, 2012. The transaction is valued at approximately $391 million, including net debt. Read More",
+      "href": "/news-article/sycamore-partners-completes-acquisition-of-talbots"
+    },
+    {
+      "label": "November 03, 2011 Sycamore Partners Acquires 51% Interest in Mast Global Fashions Sycamore Partners Joins with Limited Brands to Establish Apparel Sourcing Unit as Standalone Company Sycamore Partners (“Sycamore”), a private equity firm based in New York, and Limited Brands, Inc. (NYSE: LTD) today announced that Sycamore has acquired a controlling 51% interest in Mast Global Fashions, the third-party apparel sourcing division of Limited Brands. Limited Brands will retain a 49% stake in this standalone apparel production and sourcing company. Terms of the transaction were not disclosed. Limited Brands will retain 100 percent ownership of its separate sourcing operation for their intimate apparel and personal care/beauty businesses. Read More",
+      "href": "/news-article/sycamore-partners-acquires-51-interest-in-mast-global-fashions"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+    "https://sycamorepartners.com/news-article/shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-walgreens-boots-alliance",
+    "https://sycamorepartners.com/news-article/walgreen-co-to-operate-as-private-standalone-company-following-acquisition-by-sycamore-partners",
+    "https://sycamorepartners.com/news-article/the-boots-group-positioned-for-growth-as-a-private-standalone-company-following-acquisition-by-sycamore-partners",
+    "https://sycamorepartners.com/news-article/carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+    "https://sycamorepartners.com/news-article/walgreens-boots-alliance-enters-into-definitive-agreement-to-be-acquired-by-sycamore-partners",
+    "https://sycamorepartners.com/news-article/sycamore-partners-announces-acquisition-of-all-fab-group",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-playa-bowls-the-nations-leading-superfruit-bowl-shop",
+    "https://sycamorepartners.com/news-article/knitwell-group-adds-chicos-white-house-black-market-and-soma",
+    "https://sycamorepartners.com/news-article/dicks-lumber-acquires-zytech-building-systems",
+    "https://sycamorepartners.com/news-article/iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-lowes-canadian-retail-business-",
+    "https://sycamorepartners.com/news-article/ste-michelle-wine-estatesacquires-a-to-zwineworks",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-goddard-systems-the-leading-franchisor-of-premium-early-education-centers",
+    "https://sycamorepartners.com/news-article/pure-fishing-acquires-svendsen-sport",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-digital-room-a-leading-e-commerce-provider-of-customized-marketing-products-to-small-and-medium-sized-businesses",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-ste-michelle-wine-estates",
+    "https://sycamorepartners.com/news-article/pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands",
+    "https://sycamorepartners.com/news-article/royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners",
+    "https://sycamorepartners.com/news-article/express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity",
+    "https://sycamorepartners.com/news-article/ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners",
+    "https://sycamorepartners.com/news-article/commercehub-announces-strategic-investment-from-insight-partners",
+    "https://sycamorepartners.com/news-article/nbg-home-acquires-quoizel",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-pure-fishing",
+    "https://sycamorepartners.com/news-article/sycamore-partners-closes-third-fund-at-475-billion",
+    "https://sycamorepartners.com/news-article/gtcr-and-sycamore-partners-complete-acquisition-of-commercehub",
+    "https://sycamorepartners.com/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-staples-inc",
+    "https://sycamorepartners.com/news-article/staples-inc-enters-into-definitive-agreement-to-be-acquired-by-sycamore-partners-for-1025-per-share-in-cash-or-approximately-69-billion",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-nbg-home",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-the-limiteds-brand-and-related-intellectual-property",
+    "https://sycamorepartners.com/news-article/michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquistion-of-belk-inc",
+    "https://sycamorepartners.com/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-emp-merchandising-germany-based-multi-channel-retailer-",
+    "https://sycamorepartners.com/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-coldwater-creek-intellectual-property",
+    "https://sycamorepartners.com/news-article/sycamore-partners-closes-second-fund-at-25-billion",
+    "https://sycamorepartners.com/news-article/sycamore-partners-establishes-four-additional-independent-companies-in-organizational-realignment-of-the-jones-group",
+    "https://sycamorepartners.com/news-article/sycamore-partners-establishes-stuart-weitzman-as-standalone-company",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-the-jones-group",
+    "https://sycamorepartners.com/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-hot-topic-inc",
+    "https://sycamorepartners.com/news-article/junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack",
+    "https://sycamorepartners.com/news-article/sycamore-partners-completes-acquisition-of-talbots",
+    "https://sycamorepartners.com/news-article/sycamore-partners-acquires-51-interest-in-mast-global-fashions",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/sycamorelogofinaljpeg.jpg",
+        "alt": "Archie Norman, Chairman of Marks & Spencer, joins Sycamore Partners as a Senior Advisor",
+        "w": 1584,
+        "h": 506
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/shs-logo.svg",
+        "alt": "Shields Health Solutions Advances Health System-Focused Specialty Pharmacy Strategy As A Private Standalone Company Following Acquisition By Sycamore Partners",
+        "w": 200,
+        "h": 42
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/wba-logo_46.png",
+        "alt": "Sycamore Partners Completes Acquisition of Walgreens Boots Alliance",
+        "w": 1821,
+        "h": 776
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Walgreens-logo.png",
+        "alt": "Walgreen Co. To Operate as Private Standalone Company Following Acquisition By Sycamore Partners",
+        "w": 750,
+        "h": 208
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Boots-logo.png",
+        "alt": "The Boots Group Positioned For Growth As A Private Standalone Company Following Acquisition By Sycamore Partners",
+        "w": 466,
+        "h": 176
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/CareCentrix-logo.png",
+        "alt": "CareCentrix to Operate As A Private Standalone Company  Following Acquisition By Sycamore Partners",
+        "w": 2401,
+        "h": 497
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/wba-logo.png",
+        "alt": "Walgreens Boots Alliance Enters into Definitive Agreement to Be Acquired by Sycamore Partners",
+        "w": 1821,
+        "h": 776
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/rona-logo_48.png",
+        "alt": "Sycamore Partners Announces Acquisition of All-Fab Group",
+        "w": 1656,
+        "h": 648
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/PLAYA_LOGO.jpg",
+        "alt": "Sycamore Partners Acquires Playa Bowls, the Nation’s Leading Superfruit Bowl Shop",
+        "w": 601,
+        "h": 601
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/knitwell-new-logo.png",
+        "alt": "Knitwell Group Adds Chico's, White House Black Market And Soma",
+        "w": 285,
+        "h": 234
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/rona-logo_50.png",
+        "alt": "Dick's Lumber Acquires ZyTech Building Systems",
+        "w": 1656,
+        "h": 648
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/knitwell-new-logo_94.png",
+        "alt": "Iconic Apparel Brands Ann Taylor, LOFT and Talbots Come Together as KnitWell Group",
+        "w": 285,
+        "h": 234
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/rona-logo.png",
+        "alt": "Sycamore Partners Completes Acquisition of Lowe’s Canadian Retail Business ",
+        "w": 1656,
+        "h": 648
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Ste_Michelle_logo.png",
+        "alt": "Ste. Michelle Wine Estates  acquires A to Z  Wineworks",
+        "w": 800,
+        "h": 367
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Goddard_Systems.png",
+        "alt": "Sycamore Partners Acquires Goddard Systems, the Leading Franchisor of Premium Early Education Centers",
+        "w": 1788,
+        "h": 902
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/pf_logo.png",
+        "alt": "Pure Fishing Acquires Svendsen Sport",
+        "w": 318,
+        "h": 318
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Digital_Room_Logo.png",
+        "alt": "Sycamore Partners Acquires Digital Room, a Leading E-Commerce Provider of Customized Marketing Products to Small and Medium Sized Businesses",
+        "w": 349,
+        "h": 127
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/Ste_Michelle_logo.png",
+        "alt": "Sycamore Partners Completes Acquisition of Ste. Michelle Wine Estates",
+        "w": 800,
+        "h": 367
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/pf_logo.png",
+        "alt": "Pure Fishing Announces The Close Of Purchase For Plano Synergy Holdings Inc. With Pure Fishing To Retain Strategic Brands From The Plano Portfolio And Gsm Outdoors To Acquire The Hunting Accessories And Archery Brands",
+        "w": 318,
+        "h": 318
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/pf_logo.png",
+        "alt": "Sycamore Partners Completes Acquisition of Pure Fishing",
+        "w": 318,
+        "h": 318
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "GTCR and Sycamore Partners Complete Acquisition of CommerceHub",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "John A. Lederer Joins Sycamore Partners as a Senior Advisor",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Completes Acquisition Of Staples, Inc.",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Staples, Inc. Enters into Definitive Agreement to be Acquired by Sycamore Partners for $10.25 Per Share in Cash, or Approximately $6.9 Billion",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Acquires NBG Home",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Acquires The Limited's Brand and Related Intellectual Property",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Michael Weiss, Longtime CEO of Express, Joins Talbots Board of Directors",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Completes Acquistion Of Belk, Inc",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Dollar Tree Completes Divestiture of 330 Family Dollar Stores to Dollar Express",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners acquires E.M.P. Merchandising, Germany-Based Multi-Channel Retailer ",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Lew Frankfort Joins Sycamore Partners As Executive In Residence",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Acquires Coldwater Creek Intellectual Property",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Closes Second Fund At $2.5 Billion",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Establishes Four Additional Independent Companies in Organizational Realignment of The Jones Group",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Establishes Stuart Weitzman as Standalone Company",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Completes Acquisition of The Jones Group",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Kurt Geiger Positioned for Growth Following Management Buyout with Support of Sycamore Partners",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Completes Acquisition of Hot Topic, Inc",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Junior Capital team at Wells Fargo Capital Finance and Pathlight Capital provide $100 million term loan to RadioShack",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Completes Acquisition of Talbots",
+        "w": 40,
+        "h": 5
+      },
+      {
+        "src": "https://sycamorepartners.com/images/loader.gif",
+        "alt": "Sycamore Partners Acquires 51% Interest in Mast Global Fashions",
+        "w": 40,
+        "h": 5
+      }
+    ],
+    "allImgCount": 48,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 62,
+    "mainTextLen": 124361,
+    "realImageCount": 42,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

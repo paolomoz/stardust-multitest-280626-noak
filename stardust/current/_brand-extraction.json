@@ -1,0 +1,73 @@
+{
+  "_provenance": {
+    "extractedBy": "stardust:extract (crawl.mjs Phase1-2) + agent Phase3 aggregation",
+    "originUrl": "https://sycamorepartners.com/",
+    "realEntry": "https://sycamorepartners.com/home",
+    "fetchedAt": "2026-06-28",
+    "notes": "Root / is a 4s video splash that JS-redirects to /home. Site is Bootstrap 5.3.3 + jQuery + FontAwesome. Palette/type aggregated from /css/style.css and captured pages; the lean crawl.mjs does not emit per-section computed styles, so visual tokens sourced from the live stylesheet."
+  },
+  "logo": {
+    "path": "assets/logo.png",
+    "source": "https://sycamorepartners.com/images/Sycamore-logo.png",
+    "kind": "icon+wordmark",
+    "description": "Green sycamore tree mark left of a black serif 'SYCAMORE PARTNERS' wordmark, divided by a thin green rule.",
+    "treeMotif": true
+  },
+  "favicon": {
+    "source": "https://sycamorepartners.com/images/favicon/",
+    "appleTouchIcon": "/images/favicon/apple-touch-icon.png",
+    "png32": "/images/favicon/favicon-32x32.png",
+    "png16": "/images/favicon/favicon-16x16.png"
+  },
+  "palette": [
+    { "role": "primary", "hex": "#4f752d", "name": "sycamore green", "freq": 21 },
+    { "role": "secondary", "hex": "#78915c", "name": "sage", "freq": 2 },
+    { "role": "text", "hex": "#333333", "name": "near-black" },
+    { "role": "text-warm", "hex": "#4f5047", "name": "warm charcoal" },
+    { "role": "background", "hex": "#ffffff", "name": "white" },
+    { "role": "surface", "hex": "#fafafa", "name": "off-white" },
+    { "role": "accent-deep", "hex": "#041e42", "name": "navy" },
+    { "role": "ink", "hex": "#231f20", "name": "ink black" }
+  ],
+  "type": {
+    "headingFamily": "Merriweather",
+    "bodyFamily": "Work Sans",
+    "source": "Google Fonts (Merriweather ital/wght 300-900; Work Sans 100-900)",
+    "scaleAudit": { "kind": "ad-hoc" },
+    "note": "style.css declares the families with swapped generic fallbacks; intent is Merriweather=serif display, Work Sans=sans body. Wordmark uses a Trajan-like serif (in logo image)."
+  },
+  "motifs": {
+    "signature": "sycamore tree silhouette",
+    "borderRadius": "minimal (Bootstrap defaults); institutional, restrained",
+    "shadows": ["rgba(0,0,0,0.1)", "rgba(0,0,0,0.3)"],
+    "patterns": ["stat-band", "logo-grid (portfolio)", "card (news)", "full-bleed video hero"]
+  },
+  "heroMedium": {
+    "type": "background-video",
+    "asset": "assets/media/Sycamore-Partners-Animation.mp4",
+    "source": "https://sycamorepartners.com/images/home/Video/Sycamore-Partners-Animation.mp4",
+    "location": "site entry splash (/) — autoplay loop muted, then redirects to /home after 4s",
+    "signature": true,
+    "note": "This animated tree/brand reveal is the site's signature motion and MUST be reproduced, not flattened."
+  },
+  "voice": {
+    "heroHeadline": "A private equity firm specializing in consumer, distribution and retail-related investments.",
+    "firstParagraph": "Sycamore Partners is a private equity firm based in New York specializing in consumer, distribution and retail-related investments. The firm has approximately $11 billion in aggregate committed capital.",
+    "ctas": ["Investments", "Approach", "News", "Contact", "Overview"],
+    "tone": "institutional, restrained, confident, understated",
+    "stats": [
+      { "value": "~$11B", "label": "Aggregate committed capital" },
+      { "value": "30+", "label": "Investments" },
+      { "value": "40+", "label": "Investment professionals" },
+      { "value": "~$200B", "label": "Portfolio revenues" },
+      { "value": "~500K", "label": "Portfolio employees" },
+      { "value": "~20K", "label": "Portfolio stores" }
+    ]
+  },
+  "systemComponents": {
+    "header": "Logo left; nav: Investments, Team, Approach, News, Contact (Investments expands to portfolio list).",
+    "footer": "Contact info + Terms / Privacy & Policy Notice link.",
+    "register": "brand"
+  },
+  "register": "brand"
+}

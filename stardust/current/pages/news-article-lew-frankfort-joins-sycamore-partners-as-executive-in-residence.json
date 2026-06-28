@@ -1,0 +1,101 @@
+{
+  "slug": "news-article-lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+  "url": "https://sycamorepartners.com/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:47.433Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+  "title": "Private Equity | Sycamore Partners | January 12 2015",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "January 12, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Lew Frankfort Joins Sycamore Partners As Executive In Residence"
+    }
+  ],
+  "body": [
+    "Sycamore Partners today announced that Lew Frankfort, the former Chairman and Chief Executive Officer of Coach, Inc., has joined the firm as an Executive in Residence. In this role, Mr. Frankfort will serve as a valued resource to Sycamore Partners and the management teams of its portfolio companies, enabling them to tap into his incomparable retail knowledge, managerial expertise and network of industry relationships.",
+    "“Lew Frankfort is a legend in the retail industry, with decades of experience building brand awareness, developing customer loyalty and driving global growth at Coach,” said Stefan Kaluzny, a Managing Director of Sycamore Partners. “We are thrilled to have Lew join Sycamore Partners as an Executive in Residence and look forward to working closely with him as we continue to focus on building a portfolio of best-in-class consumer and retail brands.”",
+    "Mr. Frankfort said, “I am excited to join Sycamore Partners as an Executive in Residence. The firm has an excellent reputation in the industry for building lasting value. It continues to assemble an outstanding roster of leading retail and apparel brands with tremendous potential for growth and profitability.”",
+    "Mr. Frankfort joined Coach in 1979 and served as Chairman and Chief Executive Officer from November 1995 through December 2013. He then served as Executive Chairman until his retirement in November 2014. In his 35 years with the company, he transformed a cottage-industry manufacturer of leather goods into a leading global, modern luxury accessories brand. Prior to joining Coach, Mr. Frankfort held various management roles in New York City government, culminating in the position of Commissioner of New York City’s Head Start and Day Care Programs. He holds a BA degree from Hunter College and an MBA from Columbia University. Currently, Mr. Frankfort is the Chairman of Flywheel Sports, Inc. In addition, Mr. Frankfort serves on the Board of Directors of WeWork. He is also affiliated with a number of not-for-profit organizations.",
+    "About Sycamore Partners",
+    "Sycamore Partners is a private equity firm based in New York specializing in consumer and retail investments. The firm has more than $3.5 billion in capital under management. The firm’s strategy is to partner with management teams to improve the operating profitability and strategic value of their businesses. The firm’s investment portfolio currently includes Aéropostale, Coldwater Creek, Hot Topic, Jones New York, the Kasper Group, Kurt Geiger, MGF Sourcing, Nine West Holdings, Pathlight Capital, Stuart Weitzman and Talbots.",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/noimage.png",
+        "alt": "Lew Frankfort Joins Sycamore Partners As Executive In Residence",
+        "w": 353,
+        "h": 108
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 102545,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

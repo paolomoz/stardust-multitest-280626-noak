@@ -8,6 +8,12 @@ helix-importer-ui
 *.bak
 .idea
 
+# secrets and scratch
+.env*
+qa/
+samples/
+stardust/current/raw/
+
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md

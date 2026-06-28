@@ -1,0 +1,108 @@
+{
+  "slug": "news-article-knitwell-group-adds-chicos-white-house-black-market-and-soma",
+  "url": "https://sycamorepartners.com/news-article/knitwell-group-adds-chicos-white-house-black-market-and-soma",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:39.585Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/knitwell-group-adds-chicos-white-house-black-market-and-soma",
+  "title": "Private Equity | Sycamore Partners | January 05 2024",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "January 05, 2024"
+    },
+    {
+      "tag": "h5",
+      "text": "Knitwell Group Adds Chico's, White House Black Market And Soma"
+    }
+  ],
+  "body": [
+    "Company is now a $6 billion Powerhouse in the Women's Specialty Retail Apparel Space",
+    "NEW YORK, Jan. 5, 2024 /PRNewswire/ -- KnitWell Group (\"KnitWell\"), a company comprising industry-leading apparel brands Ann Taylor, LOFT, and Talbots, today announced it has added Chico's, White House Black Market and Soma to its portfolio. KnitWell also provides oversight and shared services to Lane Bryant, a leading plus-size women's apparel brand. This combination follows the sale of Chico's FAS to Sycamore Partners, a leading private equity firm specializing in consumer, distribution, and retail-related investments.",
+    "\"KnitWell is a best-in-class operating enterprise in the world of vertical specialty retail, comprising some of America's most iconic brands, committed to instilling confidence in the women they serve,\" said Lizanne Kindler, Executive Chair and Chief Executive Officer of KnitWell Group. \"Chico's, White House Black Market and Soma fit perfectly into the portfolio as established and inspiring brands that generate sustainable, high-quality results. We are thrilled to welcome these brands, their more than 14,000 associates and their customers to the KnitWell family.\"",
+    "With the addition of Chico's, White House Black Market and Soma, KnitWell's brands generate approximately $6 billion in annual sales, further solidifying its position as one of the largest specialty apparel companies in the United States.",
+    "Adds Ms. Kindler, \"There is so much opportunity that comes with being part of this larger family of brands in terms of sharing best practices, innovation, and an incredible runway for growth and development, as well as efficiencies and leverage that come from size and scale with eight of the best retail apparel brands in the country. This is a great day and we cannot wait to get started.\"",
+    "Contacts",
+    "Sycamore Partners",
+    "Michael Freitag or Lyle Weston Joele Frank, Wilkinson Brimmer Katcher 212-355-4449 media@sycamorepartners.com",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    },
+    {
+      "label": "media@sycamorepartners.com",
+      "href": "mailto:media@sycamorepartners.com"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "mailto:media@sycamorepartners.com",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/knitwell-new-logo.png",
+        "alt": "Knitwell Group Adds Chico's, White House Black Market And Soma",
+        "w": 285,
+        "h": 234
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 101914,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

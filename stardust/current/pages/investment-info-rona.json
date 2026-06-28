@@ -1,0 +1,346 @@
+{
+  "slug": "investment-info-rona",
+  "url": "https://sycamorepartners.com/investment-info/rona",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:33:11.026Z",
+  "finalUrl": "https://sycamorepartners.com/investment-info/rona",
+  "title": "Private Equity | Sycamore Partners",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Investments"
+    },
+    {
+      "tag": "h2",
+      "text": "Current Investments"
+    },
+    {
+      "tag": "h2",
+      "text": "Exited Investments"
+    },
+    {
+      "tag": "h5",
+      "text": "RONA"
+    },
+    {
+      "tag": "h5",
+      "text": "Current Investment"
+    },
+    {
+      "tag": "h5",
+      "text": "Website: www.ronainc.ca"
+    }
+  ],
+  "body": [
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment.",
+    "RONA is a leading home improvement retailer in Canada serving Canadians nationwide through its broad network of store and dealer locations."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "www.ronainc.ca",
+      "href": "http://www.ronainc.ca"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice",
+    "http://www.ronainc.ca/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Walgreens-logo_1.png",
+        "alt": "Walgreens",
+        "w": 750,
+        "h": 208
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Boots-logo.png",
+        "alt": "The Boots Group",
+        "w": 466,
+        "h": 176
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/shs-logo.svg",
+        "alt": "Shields Health Solutions",
+        "w": 200,
+        "h": 42
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/CareCentrix-logo.png",
+        "alt": "CareCentrix",
+        "w": 2401,
+        "h": 497
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/VillageMD-logo.png",
+        "alt": "VillageMD",
+        "w": 297,
+        "h": 73
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/iALogo_Purple1R_RGB_2023.png",
+        "alt": "iA",
+        "w": 3600,
+        "h": 3600
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Playa_11.png",
+        "alt": "Playa Bowls",
+        "w": 601,
+        "h": 601
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/knitwell-new-logo.png?v=3",
+        "alt": "KnitWell Group",
+        "w": 285,
+        "h": 234
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/rona-logo.png",
+        "alt": "RONA",
+        "w": 1656,
+        "h": 648
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Goddard_Systems.png",
+        "alt": "Goddard Systems",
+        "w": 1788,
+        "h": 902
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Digital_Room_Logo.png",
+        "alt": "Digital Room",
+        "w": 349,
+        "h": 127
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/AtoZLLCandBrandsLogo.png",
+        "alt": "AtoZ Wineworks",
+        "w": 309,
+        "h": 164
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/23_AZA-CRUISES_TM_LOGO_HORIZONTAL_CMYK.png",
+        "alt": "Azamara",
+        "w": 800,
+        "h": 208
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/MV_atSea_Logo_2Colors.png",
+        "alt": "Margaritaville at Sea",
+        "w": 2000,
+        "h": 584
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/lane-bryant_37.png",
+        "alt": "Lane Bryant",
+        "w": 492,
+        "h": 47
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/pf_logo.png",
+        "alt": "Pure Fishing",
+        "w": 318,
+        "h": 318
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Rithum.png",
+        "alt": "Rithum",
+        "w": 908,
+        "h": 179
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/staples.png",
+        "alt": "Staples NAD",
+        "w": 290,
+        "h": 54
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/staples_us_retail.png",
+        "alt": "Staples US Retail",
+        "w": 182,
+        "h": 26
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/staples_canada.png",
+        "alt": "Staples Canada",
+        "w": 181,
+        "h": 40
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/THE_LIMITED_LOGO_2015.png",
+        "alt": "The Limited",
+        "w": 313,
+        "h": 30
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/hottopic.png",
+        "alt": "Hot Topic",
+        "w": 250,
+        "h": 49
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/torrid.png",
+        "alt": "Torrid",
+        "w": 221,
+        "h": 35
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/mgf-sourcing.png",
+        "alt": "MGF Sourcing",
+        "w": 206,
+        "h": 230
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/belk.png",
+        "alt": "Belk",
+        "w": 200,
+        "h": 100
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/nbghome.png",
+        "alt": "NBG Home",
+        "w": 764,
+        "h": 205
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/dollarexpress.png",
+        "alt": "Dollar Express",
+        "w": 200,
+        "h": 100
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/emp_84.png",
+        "alt": "EMP",
+        "w": 272,
+        "h": 67
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/coldwatercreek.png",
+        "alt": "Coldwater Creek",
+        "w": 300,
+        "h": 34
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/aeropostalelogo.png",
+        "alt": "Aeropostale",
+        "w": 500,
+        "h": 100
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/stuartweitzman.png",
+        "alt": "Stuart Weitzman",
+        "w": 219,
+        "h": 108
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/jonesny.png",
+        "alt": "Jones NY",
+        "w": 250,
+        "h": 24
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/Kurtgeiger.png",
+        "alt": "Kurt Geiger",
+        "w": 253,
+        "h": 19
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/pathlight.png",
+        "alt": "Pathlight Capital",
+        "w": 200,
+        "h": 60
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/ninewest.png",
+        "alt": "Nine West Holdings",
+        "w": 300,
+        "h": 48
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/express-logo_70.png",
+        "alt": "Express",
+        "w": 500,
+        "h": 80
+      },
+      {
+        "src": "https://sycamorepartners.com/images/icons/icon-modal-exit.svg",
+        "alt": "exit",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://sycamorepartners.com/images/icons/icon-modal-previous.svg",
+        "alt": "previous",
+        "w": 16,
+        "h": 26
+      },
+      {
+        "src": "https://sycamorepartners.com/images/icons/icon-modal-next.svg",
+        "alt": "next",
+        "w": 16,
+        "h": 26
+      },
+      {
+        "src": "https://sycamorepartners.com/images/Investments/Logo/original/rona-logo.png",
+        "alt": "RONA",
+        "w": 1656,
+        "h": 648
+      }
+    ],
+    "allImgCount": 41,
+    "cssBackgrounds": [],
+    "modals": [
+      "RONA Current Investment Website: www.ronainc.ca RONA is a leading home improvement retailer in Canada serving Canadians nationwide through its broad network of store and dealer locations. $(function () { lazyload(); window.addEventListener(\"load\", function (event) { lazyload(); }); });",
+      "RONA Current Investment Website: www.ronainc.ca RONA is a leading home improvement retailer in Canada serving Canadians nationwide through its broad network of store and dealer locations. $(function () { lazyload(); window.addEventListener(\"load\", function (event) { lazyload(); }); });"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 6,
+    "mainTextLen": 103561,
+    "realImageCount": 41,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

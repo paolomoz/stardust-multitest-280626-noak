@@ -1,0 +1,31 @@
+{
+  "colors": {
+    "primary": "#4f752d",
+    "secondary": "#78915c",
+    "background": "#ffffff",
+    "surface": "#fafafa",
+    "text": "#333333",
+    "text-warm": "#4f5047",
+    "accent-deep": "#041e42"
+  },
+  "typography": { "heading": "Merriweather", "body": "Work Sans" },
+  "rounded": "minimal",
+  "spacing": "generous",
+  "extensions": {
+    "componentStyle": {
+      "buttons": "rectangular, restrained; green or outline",
+      "cards": "minimal border, subtle shadow",
+      "statBand": "large serif numerals + small-caps sans labels"
+    },
+    "motifs": ["sycamore-tree", "stat-band", "logo-grid", "green-rule"],
+    "voice": {
+      "tone": "institutional, understated, confident",
+      "headline": "A private equity firm specializing in consumer, distribution and retail-related investments."
+    },
+    "heroMedium": {
+      "type": "background-video",
+      "asset": "assets/media/Sycamore-Partners-Animation.mp4",
+      "signature": true
+    }
+  }
+}

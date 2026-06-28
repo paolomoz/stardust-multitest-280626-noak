@@ -1,0 +1,104 @@
+{
+  "slug": "news-article-archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+  "url": "https://sycamorepartners.com/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:32:32.468Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+  "title": "Private Equity | Sycamore Partners | March 12 2026",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "March 12, 2026"
+    },
+    {
+      "tag": "h5",
+      "text": "Archie Norman, Chairman of Marks & Spencer, joins Sycamore Partners as a Senior Advisor"
+    }
+  ],
+  "body": [
+    "NEW YORK, March 12, 2026 /PRNewswire/ -- Sycamore Partners (\"Sycamore\"), a leading private equity firm based in New York that specializes in consumer, distribution, and retail-related investments, announced today the appointment of Archie Norman, a leading UK retail executive and Chairman of Marks and Spencer, as a Senior Advisor.",
+    "In his role, Archie will work closely with Sycamore to support its existing investments and evaluate new opportunities in the UK and broader European consumer and retail sectors.",
+    "Sycamore recently extended its presence to the UK with its investment in Boots, as part of its broader acquisition of Walgreens Boots Alliance, Inc. in August 2025.",
+    "Stefan Kaluzny, Managing Director of Sycamore Partners, said: \"We are thrilled to welcome Archie as a Senior Advisor at this exciting time for our firm. Archie has deep operational experience at leading global retailers, and I am confident his expertise will be invaluable in our efforts in the UK and more broadly.\"",
+    "Mr. Norman said: \"I am excited to join the Sycamore Partners team as a Senior Advisor. Sycamore has a longstanding reputation for driving profitable growth across iconic retailers, and I look forward to partnering with Stefan and his team to further build upon that track record.\"",
+    "Archie currently serves as Chairman of Marks & Spencer, one of the UK's largest home, fashion, and food retailers. In this role, he has worked closely with management to support a multi-year transformation focused on improving performance, strengthening governance, and positioning the business for long-term value creation. Previously, Archie served as Chief Executive Officer of Asda, a leading UK grocery retail chain, where he led a significant turnaround of the business, and as Chairman of ITV, a commercial television broadcaster in the UK, where he guided the company through a period of industry disruption. Across his executive, board, and advisory roles, Archie has an established track record of driving business change and working with leadership teams at pivotal moments in their evolution.",
+    "About Sycamore Partners",
+    "Sycamore Partners is a private equity firm based in New York. The firm specializes in consumer, distribution and retail-related investments and partners with management teams to improve the operating profitability and strategic value of their business. With approximately $13 billion in aggregate committed capital raised since its inception in 2011, Sycamore Partners' investors include leading endowments, financial institutions, family offices, pension plans and sovereign wealth funds. For more information on Sycamore Partners, visit www.sycamorepartners.com.",
+    "Sycamore Contacts Michael Freitag and Arielle Rothstein Joele Frank, Wilkinson Brimmer Katcher 212-355-4449 media@sycamorepartners.com",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/sycamorelogofinaljpeg.jpg",
+        "alt": "Archie Norman, Chairman of Marks & Spencer, joins Sycamore Partners as a Senior Advisor",
+        "w": 1584,
+        "h": 506
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 102792,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

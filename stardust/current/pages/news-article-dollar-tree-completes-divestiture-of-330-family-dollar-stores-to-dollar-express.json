@@ -1,0 +1,101 @@
+{
+  "slug": "news-article-dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+  "url": "https://sycamorepartners.com/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:15.984Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+  "title": "Private Equity | Sycamore Partners | November 02 2015",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "November 02, 2015"
+    },
+    {
+      "tag": "h5",
+      "text": "Dollar Tree Completes Divestiture of 330 Family Dollar Stores to Dollar Express"
+    }
+  ],
+  "body": [
+    "Dollar Tree, Inc. (NASDAQ: DLTR), the nation's leading operator of discount variety stores selling everything for $1 or less, and Sycamore Partners, a private equity firm specializing in consumer and retail investments, today announced that they have completed the transaction pursuant to which Dollar Tree divested 330 Family Dollar stores to Dollar Express LLC, a portfolio company of Sycamore Partners. The divestiture satisfied a condition as required by the Federal Trade Commission in connection with Dollar Tree's recently-completed acquisition of Family Dollar Stores, Inc. The stores will operate under the Dollar Express banner.",
+    "\"We are pleased to have completed this acquisition, which adds to our growing portfolio of leading retailers and consumer brands,\" said Peter Morrow, a Managing Director at Sycamore Partners. \"We look forward to operating these 330 stores as Dollar Express, a brand new, nationwide discount retailer that is well-positioned as an innovator in the market. We believe our significant experience with carve-out transactions will be beneficial in supporting the Dollar Express team to serve our loyal customers and create value.\"",
+    "About Dollar Tree, Inc.",
+    "Dollar Tree, Inc., a Fortune 500 Company, operated 13,864 stores in 48 states and five Canadian Provinces as of August 1, 2015, with total retail selling square footage of 108.2 million. To learn more about the Company, visit www.DollarTree.com.",
+    "About Sycamore Partners",
+    "Sycamore Partners is a private equity firm based in New York specializing in consumer and retail investments. The firm has more than $3.5 billion in capital under management. The firm's strategy is to partner with management teams to improve the operating profitability and strategic value of their businesses. The firm's investment portfolio currently includes Aeropostale, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, the Kasper Group, Kurt Geiger, MGF Sourcing, Nine West Holdings, Pathlight Capital, Talbots, and Torrid.",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/dollarexpress.png",
+        "alt": "Dollar Tree Completes Divestiture of 330 Family Dollar Stores to Dollar Express",
+        "w": 200,
+        "h": 100
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 101985,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

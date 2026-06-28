@@ -1,0 +1,103 @@
+{
+  "slug": "news-article-iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+  "url": "https://sycamorepartners.com/news-article/iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:27.845Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+  "title": "Private Equity | Sycamore Partners | August 30 2023",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "August 30, 2023"
+    },
+    {
+      "tag": "h5",
+      "text": "Iconic Apparel Brands Ann Taylor, LOFT and Talbots Come Together as KnitWell Group"
+    }
+  ],
+  "body": [
+    "NEW YORK, NY (August 30, 2023) Sycamore Partners, a private equity firm specializing in consumer, distribution, and retail-related investments, today announced the formation of KnitWell Group (“KnitWell”), a new holding company comprising industry-leading apparel brands Ann Taylor, LOFT, and Talbots. Together, these brands generate more than $3 billion in annual sales. The Company will also continue to provide oversight and shared services to Lane Bryant, a leading plus-size women’s apparel brand. Together, these brands position KnitWell as one of the largest specialty apparel companies in the United States.",
+    "KnitWell’s name reflects the Company’s core belief that each strong brand is distinctive, but when put together they are a powerhouse retail organization dedicated to meeting customers where they are in their journey.",
+    "Lizanne Kindler, current Chief Executive Officer of Talbots, will lead KnitWell Group as Executive Chair and Chief Executive Officer. She is joined in the Office of the Executive Chair by a seasoned team of retail executives, and further supported by senior leaders at each of the brands – all of whom are dedicated to the unique needs of their customers.",
+    "“KnitWell is a collection of powerful brands that, in aggregate, have been providing customers with the fashions they want for nearly 300 years,” said Ms. Kindler. “Brands are propelled by a deep and meaningful connection with the customers they serve, and that is where we start and end each day. With that as our North Star, we know that this new structure will support our efforts to unite brands and people by providing greater resources and capabilities, economies of scale, and enhanced value. We are excited about the opportunities ahead and grateful for our more than 30,000 associates for being part of this next chapter.”",
+    "Stefan Kaluzny, Managing Director of Sycamore Partners, added, “Lizanne and the team have done an incredible job over the last decade reviving and growing these iconic American brands, first Talbots and most recently Ann Taylor and LOFT. The consistent and focused approach, which leverages the replicable playbook this team has developed, is laying the foundation of success not only for the brands currently part of the KnitWell portfolio, but also for potential future brands. We look forward to our continued partnership with Lizanne and the entire team.”",
+    "Contacts",
+    "Sycamore Partners",
+    "Michael Freitag or Arielle Rothstein Joele Frank, Wilkinson Brimmer Katcher 212-355-4449 media@sycamorepartners.com",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/knitwell-new-logo_94.png",
+        "alt": "Iconic Apparel Brands Ann Taylor, LOFT and Talbots Come Together as KnitWell Group",
+        "w": 285,
+        "h": 234
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 102508,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

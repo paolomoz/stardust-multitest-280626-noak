@@ -1,0 +1,104 @@
+{
+  "slug": "news-article-nbg-home-acquires-quoizel",
+  "url": "https://sycamorepartners.com/news-article/nbg-home-acquires-quoizel",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:55.281Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/nbg-home-acquires-quoizel",
+  "title": "Private Equity | Sycamore Partners | January 08 2019",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "January 08, 2019"
+    },
+    {
+      "tag": "h5",
+      "text": "NBG Home Acquires Quoizel"
+    }
+  ],
+  "body": [
+    "AUSTIN, Texas and CHARLESTON, S.C., Jan. 8, 2019 /PRNewswire/ -- NBG Home (\"NBG\" or the \"Company\"), the largest provider of affordable home décor products, today announced that it has acquired Quoizel, a leading designer and marketer of decorative lighting. Following the transaction, Quoizel's headquarters and team will remain in Charleston, South Carolina, and Rick Seidman, President of Quoizel, will continue in his role. This acquisition is the second for NBG in less than two years under the ownership of private equity firm Sycamore Partners.",
+    "Scott Slater, CEO of NBG, said, \"We are pleased to welcome Quoizel to the NBG family. Quoizel's brand is widely known for quality and innovation in fine decorative lighting. Its strong sales force and capable design team are well-regarded for their customer first attitude. We look forward to partnering with Rick Seidman and the Quoizel team as we increase our operating scale, product and brand diversity to further enhance our category management solutions to the benefit of our retail partners. Furthermore, we plan to capitalize on each company's market leadership, sales force and capabilities to driver higher revenue growth than either company could independently accomplish.\"",
+    "Mr. Seidman said, \"We are excited about this next chapter in Quoizel's proud history, as it ensures our loyal customers continue to have access to our timeless products while enabling our talented team to continue doing what they do best. NBG was thoughtful in helping our ownership group achieve their objectives, and with NBG's support and scale, we can enhance our capabilities and expand distribution points across North America and Europe, providing an attractive future for our employees, customers and vendors.\"",
+    "Peter Morrow, Managing Director at Sycamore Partners, said, \"This transaction, which follows NBG's purchase of Cheyenne Products a year ago, reflects Sycamore's confidence in NBG. The company is growing organically and through acquisitions as it further strengthens its deep connections to the world's leading omni-channel retailers through market-leading design, merchandising and sourcing capabilities. We look forward to continuing our support of NBG and its team as they execute on this growth strategy.\"",
+    "Baird served as financial advisor to Quoizel and Houlihan Lokey served as financial advisor to NBG Home.",
+    "About NBG Home Headquartered in Austin, Texas, NBG Home is the largest provider of affordable home décor products, including lighting, accent furniture, soft goods, wall décor, frames and other categories marketed under brands such as Pinnacle, Jimco, Patton, Plantation Patterns and THRO. Through its leading research, innovation and product development capabilities, NBG Home offers trend-right products at affordable price points, and serves a wide variety of retail partners, including mass merchants, specialty stores, discount stores, home centers, warehouse clubs, and internet retailers.",
+    "About Quoizel Founded in 1930 and based in Charleston, South Carolina, Quoizel is one of the nation's leading manufacturers of fine decorative lighting. Quoizel's promise is to bring timeless designs into customers' homes, while building lasting relationships along the way.",
+    "About Sycamore Partners Sycamore Partners is a private equity firm based in New York. The firm specializes in consumer, distribution and retail-related investments and partners with management teams to improve the operating profitability and strategic value of their business. Sycamore has approximately $10 billion in assets under management. The firm's investment portfolio currently includes Belk, Coldwater Creek, CommerceHub, Hot Topic, MGF Sourcing, NBG Home, Pure Fishing, Staples, Inc., Staples United States Retail, Staples Canada, Talbots, The Limited and Torrid.",
+    "Contact: Michael Freitag or Arielle Rothstein Joele Frank, Wilkinson Brimmer Katcher (212) 355-4449",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/nbghome.png",
+        "alt": "NBG Home Acquires Quoizel",
+        "w": 764,
+        "h": 205
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 103842,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

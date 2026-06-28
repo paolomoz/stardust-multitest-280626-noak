@@ -1,0 +1,107 @@
+{
+  "slug": "news-article-carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+  "url": "https://sycamorepartners.com/news-article/carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:04.193Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+  "title": "Private Equity | Sycamore Partners | August 28 2025",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "August 28, 2025"
+    },
+    {
+      "tag": "h5",
+      "text": "CareCentrix to Operate As A Private Standalone Company Following Acquisition By Sycamore Partners"
+    }
+  ],
+  "body": [
+    "HARTFORD, CT, Aug. 28, 2025 – CareCentrix, a leading home-centered care company that coordinates care for health plans, patients, and providers, announced today that it is now operating as a private standalone company following its acquisition by Sycamore Partners (“Sycamore”), a leading private equity firm based in New York.",
+    "Sycamore is acquiring the business in partnership with Stefano Pessina and his family, who have reinvested 100% of their interests in CareCentrix, demonstrating their ongoing support and confidence in the company’s future.",
+    "This announcement coincides with Sycamore’s acquisition of Walgreens Boots Alliance, Inc. (“WBA”), CareCentrix’s previous owner, which closed today. The separation of CareCentrix into a private standalone company is a return to its ownership structure prior to WBA’s acquisition of the business in 2022. CareCentrix will continue to be led by Steve Horowitz as Chief Executive Officer and the rest of its existing management team.",
+    "“This is an exciting moment for CareCentrix and our team,” said Steve Horowitz, CareCentrix’s Chief Executive Officer. “Together with Sycamore, we remain committed to advancing our mission to deliver high quality whole-person care, drive better outcomes, and create a world where anyone can heal, age, and thrive at home.”",
+    "“We are pleased to announce that CareCentrix is once again an independent company,” said Stefan Kaluzny, Managing Director of Sycamore Partners. “We look forward to partnering with the CareCentrix team as they continue to provide exceptional home-centered care serving communities and partners.”",
+    "“Our family has deep appreciation for CareCentrix and the impact they have on patients,” said Stefano Pessina. “We are proud to support CareCentrix in its mission to empower health at home by delivering coordinated, timely, and compassionate care.”",
+    "About CareCentrix",
+    "CareCentrix offers value-based home solutions to payors and health systems to help more of their members access the home care they need when they need it. Through a single platform, CareCentrix coordinates multiple, complex home care needs for over 16 million members through a national network of more than 6,000 provider locations, resulting in a simplified patient and physician experience. For nearly 30 years, CareCentrix’s focus on the whole person has improved continuity of care, reduced unnecessary readmissions and unnecessary emergency department utilization, and delivered positive financial results for health plans. With proprietary HomeFirst Analytics to stratify risk and optimize care delivery, CareCentrix takes on the complexities of care coordination and management of care in the home to provide essential insights. In 2025, CareCentrix earned its Great Place to Work® certification for the sixth year in a row. For more information, please visit www.carecentrix.com.",
+    "About Sycamore Partners",
+    "Sycamore Partners is a private equity firm based in New York. The firm specializes in consumer, distribution and retail-related investments and partners with management teams to improve the operating profitability and strategic value of their business. With approximately $11 billion in aggregate committed capital raised since its inception in 2011, Sycamore Partners' investors include leading endowments, financial institutions, family offices, pension plans and sovereign wealth funds. For more information on Sycamore Partners, visit www.sycamorepartners.com.",
+    "CareCentrix Contact Suzanne Bedell mediainquiries@carecentrix.com",
+    "Sycamore Contacts Michael Freitag, Zach Genirs, Abigail South Joele Frank, Wilkinson Brimmer Katcher 212-355-4449 media@sycamorepartners.com",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/CareCentrix-logo.png",
+        "alt": "CareCentrix to Operate As A Private Standalone Company  Following Acquisition By Sycamore Partners",
+        "w": 2401,
+        "h": 497
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 103652,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

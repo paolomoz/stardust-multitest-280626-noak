@@ -1,0 +1,105 @@
+{
+  "slug": "news-article-dicks-lumber-acquires-zytech-building-systems",
+  "url": "https://sycamorepartners.com/news-article/dicks-lumber-acquires-zytech-building-systems",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:12.055Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/dicks-lumber-acquires-zytech-building-systems",
+  "title": "Private Equity | Sycamore Partners | October 11 2023",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "October 11, 2023"
+    },
+    {
+      "tag": "h5",
+      "text": "Dick's Lumber Acquires ZyTech Building Systems"
+    }
+  ],
+  "body": [
+    "BOUCHERVILLE, QC, Oct. 11, 2023 /CNW/ - Dick's Lumber, a banner of RONA inc., one of Canada's leading home improvement retailers operating or servicing some 425 corporate and affiliated stores, has completed the acquisition of ZyTech Building Systems, a leader in the manufacturing and distribution of building components and engineered wood products. This is the first strategic acquisition for Dick's Lumber under the ownership of private equity firm Sycamore Partners.",
+    "This transaction will allow Dick's Lumber to expand its design and manufacturing footprint to better serve developers and builders in Western Canada. The combined business will bring valuable resources to both companies and will deliver more value to customers via strengthened capabilities, increased product availability, and best-in-class talent.",
+    "\"We are thrilled to welcome the ZyTech team to the Dick's Lumber and RONA families,\" explained Andrew Iacobucci, CEO of RONA inc. \"ZyTech is a very strong player in its field. This acquisition will strengthen our position in the Alberta and Saskatchewan markets and improve how we serve our valued customers.\"",
+    "\"ZyTech is known for providing customers with superior service and high-quality products. We are looking forward to better serving our customers through the combined Dick's Lumber and ZyTech enterprise,\" said Paul McKeown, President of Dick's Lumber. \"The combination of these highly complementary businesses will benefit all stakeholders, including ZyTech's dedicated employees. We are excited to begin this next chapter under RONA's ownership,\" added Mike Powell, President and CEO of ZyTech Building Systems.",
+    "To share this news on social media, please use @RONAcarrieres.careers (Facebook), @RONA (LinkedIn), and @RONAinc (Twitter).",
+    "About RONA inc. RONA inc. is one of Canada's leading home improvement retailers and is headquartered in Boucherville, Québec. The RONA inc. network operates or services some 425 corporate and affiliated dealer stores under the Lowe's, RONA+, RONA, Réno-Dépôt, and Dick's Lumber banners. With a long and rich history, RONA inc. has supported Canadians in their home improvement and construction projects since 1939. To achieve this, the company relies on a team of 22,000 employees, to whom it strives to provide an inclusive workplace where everyone is invited to contribute. RONA inc. is one of the Montréal region's Top Employers since 2021. As a result of its ongoing efforts in sustainable development, the company was awarded the Stratégie de développement durable Mercure in 2022 and is recognized as one of Canada's Greenest Employers. To learn more about the company, visit the website www.ronainc.ca.",
+    "About Dick's Lumber Since 1964 Dick's Lumber has been providing Lumber and Building Materials to its customers throughout British Columbia, Alberta and the world. We are committed to high quality products and services to support Residential & Commercial Construction, Industrial Applications, Property Management and much more. Dick's Lumber is Where the Builders Buy! www.dickslumber.com",
+    "About ZyTech Building Systems LP ZyTech is a manufacturer, innovator and distributor of high-quality building materials for the construction industry. We are committed to providing superior products and service through strong relationships with our customers, communities, suppliers, and employees. Through product research and development, we are continually striving for the most efficient, effective and advanced procedures to deliver the best product to our customers expeditiously. www.zytechtruss.com",
+    "SOURCE RONA inc.",
+    "Media Relations: RONA inc., 514-599-5900, ext. 5271, 1-866-566-3342, media@rona.ca",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/rona-logo_50.png",
+        "alt": "Dick's Lumber Acquires ZyTech Building Systems",
+        "w": 1656,
+        "h": 648
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 103623,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

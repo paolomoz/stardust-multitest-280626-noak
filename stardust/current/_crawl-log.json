@@ -1,0 +1,12 @@
+{
+  "discovery": {
+    "fetchTechnique": "headless",
+    "count": 18
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "crawl": {
+    "failures": []
+  }
+}

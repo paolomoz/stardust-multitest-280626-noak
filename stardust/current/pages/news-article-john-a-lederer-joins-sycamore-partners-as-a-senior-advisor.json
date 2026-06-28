@@ -1,0 +1,101 @@
+{
+  "slug": "news-article-john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+  "url": "https://sycamorepartners.com/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T16:35:31.761Z",
+  "finalUrl": "https://sycamorepartners.com/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+  "title": "Private Equity | Sycamore Partners | September 20 2017",
+  "description": "Sycamore Partners, Private equity, Sycamore private equity, Retail investment, Retail private equity, Consumer investment, Consumer private equity, Sycamore investment, Retail capital, Consumer capital, Stefan Kaluzny, Peter Morrow, Belk, Coldwater Creek, Dollar Express, EMP Merchandising, Hot Topic, Kasper, MGF Sourcing, Nine West, Talbots, Torrid",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h5",
+      "text": "September 20, 2017"
+    },
+    {
+      "tag": "h5",
+      "text": "John A. Lederer Joins Sycamore Partners as a Senior Advisor"
+    }
+  ],
+  "body": [
+    "September 20, 2017 – Sycamore Partners today announced that John A. Lederer, former President and Chief Executive Officer of US Foods, has joined the firm as a Senior Advisor. In this capacity, he will serve as the Executive Chairman of the Board of Directors of Staples, Inc. and its newly formed and independent United States and Canadian Retail Businesses. “We are thrilled to have John join the Sycamore Partners team at this exciting time in the firm’s continued growth and development,” said Stefan Kaluzny, Managing Director of Sycamore Partners. “John has significant institutional knowledge of both distribution and retail businesses across the United States and Canada, which is particularly relevant given our recent acquisition of Staples. I am confident that John’s leadership experience and business acumen will be tremendously beneficial to create value and deliver exceptional products, services and expertise that enable businesses to work better.”",
+    "Mr. Lederer said, “I am honored to join Sycamore Partners as a Senior Advisor and Executive Chairman at Staples. Sycamore Partners has an outstanding reputation for driving profitable growth across its leading retail and consumer brands. I look forward to working closely with my new colleagues as we focus on building on the great legacy that has been created at Staples.” As previously announced, Sycamore Partners completed its acquisition of Staples, Inc. on September 12, 2017.",
+    "About John A. Lederer",
+    "Mr. Lederer was most recently associated with Oak Hill Capital, advising it on acquisitions in the retail and consumer goods sectors, and serving on the board of several of its portfolio companies. From 2010 to 2015, Mr. Lederer served as the Chief Executive Officer of US Foods, one of the largest food service distributors in the United States, where he led a comprehensive rebranding of the company. From 2008 to 2010, he was Chairman and Chief Executive Officer of Duane Reade, where he led a major transformation of the Duane Reade pharmacy chain in just two years, culminating in its sale to Walgreens. Prior to Duane Reade, Mr. Lederer spent 30 years at Loblaw Companies Limited, Canada’s largest retail food distributor, where he served in a variety of senior leadership positions including President from 2000 to 2006. Mr. Lederer serves on the Board of Directors of US Foods, Maple Leaf Foods and Walgreens Boots Alliance. Mr. Lederer holds a Bachelor of Arts degree in Economics from York University.",
+    "About Sycamore Partners Sycamore Partners is a private equity firm based in New York specializing in consumer and retail investments. The firm has more than $3.5 billion in capital under management. The firm's strategy is to partner with management teams to improve the operating profitability and strategic value of their businesses. The firm's investment portfolio currently includes Belk, Coldwater Creek, EMP Merchandising, Hot Topic, MGF Sourcing, NBG Home, Nine West Holdings, Staples, Inc., Staples’ United States Retail Business, Staples’ Canadian Retail Business, Talbots, The Limited and Torrid.",
+    "About Staples, Inc. Staples brings technology and people together in innovative ways to consistently deliver products, services and expertise that elevate and delight customers. Staples is in business with businesses and is passionate about helping businesses work better. Headquartered outside of Boston, MA, Staples, Inc. operates primarily in North America. More information about Staples is available at www.staples.com. Contact for Sycamore Partners: Michael Freitag or Arielle Rothstein Joele Frank, Wilkinson Brimmer Katcher (212) 355-4449",
+    "Aggregate portfolio information above reflects data reported by portfolio companies and/or third-party sources as of FY2024. The data is subject to limitations and may change over time. This information is provided solely for high-level context regarding the scale of Sycamore’s investments and is not intended to reflect investment performance or the outcomes of any individual investment."
+  ],
+  "ctas": [
+    {
+      "label": "Investments",
+      "href": "/investments"
+    },
+    {
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "label": "Approach",
+      "href": "/approach"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Back To News",
+      "href": "/news"
+    }
+  ],
+  "links": [
+    "https://sycamorepartners.com/home",
+    "https://sycamorepartners.com/investments",
+    "https://sycamorepartners.com/team",
+    "https://sycamorepartners.com/approach",
+    "https://sycamorepartners.com/news",
+    "https://sycamorepartners.com/contact",
+    "https://sycamorepartners.com/terms-privacy-policy-notice"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://sycamorepartners.com/images/Sycamore-logo.png",
+        "alt": "Sycamore logo",
+        "w": 574,
+        "h": 173
+      },
+      {
+        "src": "https://sycamorepartners.com/images/news/NewsLogo/noimage.png",
+        "alt": "John A. Lederer Joins Sycamore Partners as a Senior Advisor",
+        "w": 353,
+        "h": 108
+      }
+    ],
+    "allImgCount": 2,
+    "cssBackgrounds": [],
+    "modals": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 1,
+    "distinctHeadings": 3,
+    "mainTextLen": 103600,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

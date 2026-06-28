@@ -1,0 +1,523 @@
+{
+  "site": {
+    "originUrl": "https://sycamorepartners.com/",
+    "realEntry": "https://sycamorepartners.com/home",
+    "extractedAt": "2026-06-28",
+    "pageCap": 100,
+    "totalDiscovered": 73,
+    "crawled": 51,
+    "daPathPrefix": "/sycamorepartners/"
+  },
+  "pages": [
+    {
+      "slug": "approach",
+      "url": "https://sycamorepartners.com/approach",
+      "type": "static",
+      "template": "approach",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/approach.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "contact",
+      "url": "https://sycamorepartners.com/contact",
+      "type": "form",
+      "template": "contact",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/contact.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "home",
+      "url": "https://sycamorepartners.com/home#snapshot",
+      "type": "landing",
+      "template": "home",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/home.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "index",
+      "url": "https://sycamorepartners.com/",
+      "type": "unique",
+      "template": "splash",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-atoz-wineworks",
+      "url": "https://sycamorepartners.com/investment-info/atoz-wineworks",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-atoz-wineworks.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-azamara",
+      "url": "https://sycamorepartners.com/investment-info/azamara",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-azamara.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-carecentrix",
+      "url": "https://sycamorepartners.com/investment-info/carecentrix",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-carecentrix.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-digital-room",
+      "url": "https://sycamorepartners.com/investment-info/digital-room",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-digital-room.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-goddard-systems",
+      "url": "https://sycamorepartners.com/investment-info/goddard-systems",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-goddard-systems.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-hot-topic",
+      "url": "https://sycamorepartners.com/investment-info/hot-topic",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-hot-topic.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-knitwell-group",
+      "url": "https://sycamorepartners.com/investment-info/knitwell-group",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-knitwell-group.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-lane-bryant",
+      "url": "https://sycamorepartners.com/investment-info/lane-bryant",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-lane-bryant.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-margaritaville-at-sea",
+      "url": "https://sycamorepartners.com/investment-info/margaritaville-at-sea",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-margaritaville-at-sea.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-mgf-sourcing",
+      "url": "https://sycamorepartners.com/investment-info/mgf-sourcing",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-mgf-sourcing.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-playa-bowls",
+      "url": "https://sycamorepartners.com/investment-info/playa-bowls",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-playa-bowls.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-pure-fishing",
+      "url": "https://sycamorepartners.com/investment-info/pure-fishing",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-pure-fishing.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-rithum",
+      "url": "https://sycamorepartners.com/investment-info/rithum",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-rithum.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-rona",
+      "url": "https://sycamorepartners.com/investment-info/rona",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-rona.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-shields-health-solutions",
+      "url": "https://sycamorepartners.com/investment-info/shields-health-solutions",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-shields-health-solutions.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-staples-canada",
+      "url": "https://sycamorepartners.com/investment-info/staples-canada",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-staples-canada.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-staples-nad",
+      "url": "https://sycamorepartners.com/investment-info/staples-nad",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-staples-nad.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-staples-us-retail",
+      "url": "https://sycamorepartners.com/investment-info/staples-us-retail",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-staples-us-retail.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-the-boots-group",
+      "url": "https://sycamorepartners.com/investment-info/the-boots-group",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-the-boots-group.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-the-limited",
+      "url": "https://sycamorepartners.com/investment-info/the-limited",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-the-limited.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-torrid",
+      "url": "https://sycamorepartners.com/investment-info/torrid",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-torrid.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-villagemd",
+      "url": "https://sycamorepartners.com/investment-info/villagemd",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-villagemd.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investment-info-walgreens",
+      "url": "https://sycamorepartners.com/investment-info/walgreens",
+      "type": "article",
+      "template": "investment-detail",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investment-info-walgreens.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "investments",
+      "url": "https://sycamorepartners.com/investments",
+      "type": "listing",
+      "template": "investments",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/investments.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+      "url": "https://sycamorepartners.com/news-article/archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-archie-norman-chairman-of-marksspencer-joins-sycamore-partners-as-a-senior-advisor.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners",
+      "url": "https://sycamorepartners.com/news-article/ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-ascena-retail-group-completes-sale-of-ann-taylor-loft-lougrey-and-lane-bryant-to-sycamore-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+      "url": "https://sycamorepartners.com/news-article/carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-carecentrix-to-operate-as-a-private-standalone-companyfollowing-acquisition-by-sycamore-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-commercehub-announces-strategic-investment-from-insight-partners",
+      "url": "https://sycamorepartners.com/news-article/commercehub-announces-strategic-investment-from-insight-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-commercehub-announces-strategic-investment-from-insight-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-dicks-lumber-acquires-zytech-building-systems",
+      "url": "https://sycamorepartners.com/news-article/dicks-lumber-acquires-zytech-building-systems",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-dicks-lumber-acquires-zytech-building-systems.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+      "url": "https://sycamorepartners.com/news-article/dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-dollar-tree-completes-divestiture-of-330-family-dollar-stores-to-dollar-express.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity",
+      "url": "https://sycamorepartners.com/news-article/express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-express-inc-announces-140-million-in-additional-financing-to-bolster-liquidity.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-gtcr-and-sycamore-partners-complete-acquisition-of-commercehub",
+      "url": "https://sycamorepartners.com/news-article/gtcr-and-sycamore-partners-complete-acquisition-of-commercehub",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-gtcr-and-sycamore-partners-complete-acquisition-of-commercehub.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+      "url": "https://sycamorepartners.com/news-article/iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-iconic-apparel-brands-ann-taylor-loft-and-talbots-come-together-as-knitwell-group.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+      "url": "https://sycamorepartners.com/news-article/john-a-lederer-joins-sycamore-partners-as-a-senior-advisor",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-john-a-lederer-joins-sycamore-partners-as-a-senior-advisor.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack",
+      "url": "https://sycamorepartners.com/news-article/junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-junior-capital-team-at-wells-fargo-capital-finance-and-pathlight-capital-provide-100-million-term-loan-to-radioshack.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-knitwell-group-adds-chicos-white-house-black-market-and-soma",
+      "url": "https://sycamorepartners.com/news-article/knitwell-group-adds-chicos-white-house-black-market-and-soma",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-knitwell-group-adds-chicos-white-house-black-market-and-soma.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+      "url": "https://sycamorepartners.com/news-article/kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-kurt-geiger-positioned-for-growth-following-management-buyout-with-support-of-sycamore-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+      "url": "https://sycamorepartners.com/news-article/lew-frankfort-joins-sycamore-partners-as-executive-in-residence",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-lew-frankfort-joins-sycamore-partners-as-executive-in-residence.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors",
+      "url": "https://sycamorepartners.com/news-article/michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-michael-weiss-longtime-ceo-of-express-joins-talbots-board-of-directors.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-nbg-home-acquires-quoizel",
+      "url": "https://sycamorepartners.com/news-article/nbg-home-acquires-quoizel",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-nbg-home-acquires-quoizel.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-pure-fishing-acquires-svendsen-sport",
+      "url": "https://sycamorepartners.com/news-article/pure-fishing-acquires-svendsen-sport",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-pure-fishing-acquires-svendsen-sport.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands",
+      "url": "https://sycamorepartners.com/news-article/pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-pure-fishing-announces-the-close-of-purchase-for-plano-synergy-holdings-inc-with-pure-fishing-to-retain-strategic-brands-from-the-plano-portfolio-and-gsm-outdoors-to-acquire-the-hunting-accessories-and-archery-brands.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners",
+      "url": "https://sycamorepartners.com/news-article/royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-royal-caribbean-group-completes-the-sale-of-its-azamara-brand-to-sycamore-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-article-shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners",
+      "url": "https://sycamorepartners.com/news-article/shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners",
+      "type": "article",
+      "template": "news-article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news-article-shields-health-solutions-advances-health-system-focused-specialty-pharmacy-strategy-as-a-private-standalone-company-following-acquisition-by-sycamore-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news",
+      "url": "https://sycamorepartners.com/news",
+      "type": "listing",
+      "template": "news",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/news.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "team",
+      "url": "https://sycamorepartners.com/team",
+      "type": "listing",
+      "template": "team",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/team.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "terms-privacy-policy-notice",
+      "url": "https://sycamorepartners.com/terms-privacy-policy-notice",
+      "type": "static",
+      "template": "terms-privacy-policy-notice",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/terms-privacy-policy-notice.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ]
+}
