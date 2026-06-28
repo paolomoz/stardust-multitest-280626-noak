@@ -1,0 +1,33 @@
+version: 1
+indices:
+  sycamore-news:
+    include:
+      - '/sycamorepartners/news-article/**'
+    target: /sycamorepartners/news-index.json
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: attribute(el, 'content')
+      publishDate:
+        select: head > meta[name="publishdate"]
+        value: attribute(el, 'content')
+      category:
+        select: head > meta[name="category"]
+        value: attribute(el, 'content')
+      image:
+        select: head > meta[property="og:image"]
+        value: attribute(el, 'content')
+  sycamore-investments:
+    include:
+      - '/sycamorepartners/investment-info/**'
+    target: /sycamorepartners/investments-index.json
+    properties:
+      company:
+        select: head > meta[property="og:title"]
+        value: attribute(el, 'content')
+      logo:
+        select: head > meta[name="logo"]
+        value: attribute(el, 'content')
+      sector:
+        select: head > meta[name="sector"]
+        value: attribute(el, 'content')

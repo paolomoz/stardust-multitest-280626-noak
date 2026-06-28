@@ -1,0 +1,5 @@
+.contact .contact-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: start; }
+.contact .contact-col p { color: var(--text-warm); margin-bottom: 0.5rem; }
+.contact .contact-col h2 { font-size: clamp(1.6rem, 2.6vw, 2.1rem); }
+.contact .contact-col a { color: var(--forest-deep); }
+@media (width <= 700px) { .contact .contact-inner { grid-template-columns: 1fr; gap: 24px; } }

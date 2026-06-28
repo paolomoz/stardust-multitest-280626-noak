@@ -1,0 +1,8 @@
+.prose .prose-inner { max-width: 72ch; margin-inline: auto; }
+.prose .prose-inner h2 { margin-top: 1.8rem; }
+.prose .prose-inner h3 { margin-top: 1.4rem; }
+.prose .prose-inner p { color: var(--text-warm); margin-bottom: 1.1rem; }
+.prose .prose-inner ul, .prose .prose-inner ol { color: var(--text-warm); margin: 0 0 1.1rem; padding-left: 1.3rem; }
+.prose .prose-inner li { margin-bottom: 0.4rem; }
+.prose .prose-inner img { margin: 1.5rem 0; border-radius: 3px; }
+.prose .prose-inner a { color: var(--forest-deep); text-decoration: underline; text-underline-offset: 2px; }

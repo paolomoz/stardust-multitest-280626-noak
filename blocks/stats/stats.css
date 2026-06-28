@@ -1,0 +1,22 @@
+.stats .stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px 24px; }
+.stats .stat { text-align: center; }
+.stats .stat-num {
+  font-family: var(--heading-font-family);
+  font-weight: 700;
+  color: var(--forest);
+  font-size: clamp(2.2rem, 4vw, 3.1rem);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.stats .stat-label {
+  font-family: var(--body-font-family);
+  font-weight: 600;
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-warm);
+  margin-top: 0.7rem;
+}
+.stats .stats-disclaimer { max-width: 80ch; margin: 40px auto 0; font-size: 0.8rem; color: var(--muted); line-height: 1.55; text-align: center; }
+@media (width <= 900px) { .stats .stats-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (width <= 480px) { .stats .stats-grid { grid-template-columns: 1fr 1fr; gap: 30px 16px; } }

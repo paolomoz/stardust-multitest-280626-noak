@@ -172,6 +172,27 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
+  initReveal(main);
+}
+
+/**
+ * Scroll-reveal for [data-anim] elements. Content is visible by default;
+ * the hide is gated behind html.js-reveal so no-JS / reduced-motion render
+ * fully. A safety timeout guarantees nothing stays hidden if the observer
+ * never fires (headless / background tabs).
+ */
+function initReveal(main) {
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const els = main.querySelectorAll('[data-anim]');
+  if (!els.length) return;
+  document.documentElement.classList.add('js-reveal');
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((e) => {
+      if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+  els.forEach((el) => io.observe(el));
+  setTimeout(() => els.forEach((el) => el.classList.add('in')), 1400);
 }
 
 /**

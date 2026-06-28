@@ -1,0 +1,6 @@
+.people .people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 28px 24px; }
+.people .person { padding: 22px 0; border-top: 1px solid var(--line); }
+.people .person-photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 3px; margin-bottom: 0.9rem; filter: grayscale(0.15); }
+.people .person-name { font-family: var(--heading-font-family); font-weight: 700; color: var(--ink); font-size: 1.1rem; }
+.people .person-role { font-size: 0.9rem; color: var(--text-warm); margin-top: 0.2rem; }
+@media (width <= 480px) { .people .people-grid { grid-template-columns: 1fr 1fr; gap: 20px 16px; } }
