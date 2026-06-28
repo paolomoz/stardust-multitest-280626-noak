@@ -141,7 +141,7 @@
       "title": "Xfinity - Internet, WiFi, Mobile, TV and Streaming",
       "type": "landing",
       "template": "home",
-      "status": "directed",
+      "status": "approved",
       "history": [
         {
           "status": "extracted",
@@ -150,12 +150,20 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-06-28T16:43:15.773Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-28T16:43:15.773Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/index.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/index-proposed.html",
       "migratedPath": null
     },
     {
