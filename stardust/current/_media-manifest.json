@@ -1,0 +1,650 @@
+{
+  "https://www.sony.com/en/brand/images/main-pic-BrandBanner.png": {
+    "local": "/media/sony/3f7aee-main-pic-brandbanner.png",
+    "bytes": 317961,
+    "w": 2800,
+    "h": 800
+  },
+  "https://www.sony.com/en/brand/images/torchlight_PC.png": {
+    "local": "/media/sony/783328-torchlight_pc.png",
+    "bytes": 136052,
+    "w": 1125,
+    "h": 750
+  },
+  "https://www.sony.com/en/brand/images/ctb_02_pc.png": {
+    "local": "/media/sony/1b1ddc-ctb_02_pc.png",
+    "bytes": 84514,
+    "w": 1125,
+    "h": 750
+  },
+  "https://www.sony.com/en/brand/images/createinfiniterealities_pc.png": {
+    "local": "/media/sony/79320d-createinfiniterealities_pc.png",
+    "bytes": 80151,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/createinfiniterealities_thelastofus_pc.jpg": {
+    "local": "/media/sony/84d3cd-createinfiniterealities_thelastofus_pc.jpg",
+    "bytes": 63683,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/seeds_of_emotion_pc.jpg": {
+    "local": "/media/sony/0d6a5a-seeds_of_emotion_pc.jpg",
+    "bytes": 53527,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/beyondthescreen2025_pc.png": {
+    "local": "/media/sony/335d08-beyondthescreen2025_pc.png",
+    "bytes": 377656,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/acrossthespiderverse_PC.png": {
+    "local": "/media/sony/07df8b-acrossthespiderverse_pc.png",
+    "bytes": 1417696,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/ces2025_pc.jpg": {
+    "local": "/media/sony/93a335-ces2025_pc.jpg",
+    "bytes": 184500,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/brand/images/FutureProof_Mainvisual_PC.png": {
+    "local": "/media/sony/5ccd93-futureproof_mainvisual_pc.png",
+    "bytes": 9495,
+    "w": 1120,
+    "h": 747
+  },
+  "https://www.sony.com/en/SonyInfo/blog/s3h2fm000000044e-img/KV_groovots.jpg": {
+    "local": "/media/sony/b0217d-kv_groovots.jpg",
+    "bytes": 97280,
+    "w": 1080,
+    "h": 720
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2025/12/22/bpi5q300000000qq-img/20251222_top_Banner.jpg": {
+    "local": "/media/sony/5a9668-20251222_top_banner.jpg",
+    "bytes": 34421,
+    "w": 748,
+    "h": 499
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2026/05/28/o7agol00000000n1-img/20260528_top_Banner.jpg": {
+    "local": "/media/sony/707220-20260528_top_banner.jpg",
+    "bytes": 121898,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2026/05/21/ob9u6700000006kg-img/20260521_top_Banner.jpg": {
+    "local": "/media/sony/cb7076-20260521_top_banner.jpg",
+    "bytes": 97617,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2026/05/19/ob9u6700000005j5-img/20260519_top_Banner.png": {
+    "local": "/media/sony/1cd243-20260519_top_banner.png",
+    "bytes": 23023,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2026/05/08/ob9u67000000040w-img/20260508_top_Banner.jpg": {
+    "local": "/media/sony/8488c3-20260508_top_banner.jpg",
+    "bytes": 35329,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2025/12/05/l8v5ai000000035s-img/20251205_top_Banner.jpg": {
+    "local": "/media/sony/5c1a6c-20251205_top_banner.jpg",
+    "bytes": 41562,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2025/10/02/cemr2600000000y8-img/20251002_top_Banner.jpg": {
+    "local": "/media/sony/f14966-20251002_top_banner.jpg",
+    "bytes": 44099,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/2025/08/19/hidtrd00000001iw-img/20250819_top_Banner.jpg": {
+    "local": "/media/sony/9a8cbf-20250819_top_banner.jpg",
+    "bytes": 106077,
+    "w": 748,
+    "h": 498
+  },
+  "https://www.sony.com/en/SonyInfo/blog/s3h2fm000000044e-img/stories_kokeshi.jpg": {
+    "local": "/media/sony/5d25a9-stories_kokeshi.jpg",
+    "bytes": 96959,
+    "w": 686,
+    "h": 456
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/careers-img06.png": {
+    "local": "/media/sony/f4b8d6-careers-img06.png",
+    "bytes": 21075,
+    "w": 2380,
+    "h": 608
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/mv.jpg": {
+    "local": "/media/sony/1b7703-mv.jpg",
+    "bytes": 111851,
+    "w": 2048,
+    "h": 585
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_initiative-diversity.png": {
+    "local": "/media/sony/639619-img_initiative-diversity.png",
+    "bytes": 72110,
+    "w": 1394,
+    "h": 648
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_initiative-sustainability.png": {
+    "local": "/media/sony/533f2c-img_initiative-sustainability.png",
+    "bytes": 119360,
+    "w": 1394,
+    "h": 648
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/careers-img01.png": {
+    "local": "/media/sony/e67a7b-careers-img01.png",
+    "bytes": 46485,
+    "w": 1140,
+    "h": 476
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/careers-img02.png": {
+    "local": "/media/sony/f54c05-careers-img02.png",
+    "bytes": 55923,
+    "w": 1140,
+    "h": 476
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_history-ac_semiconductor.jpg": {
+    "local": "/media/sony/dafe5e-img_history-ac_semiconductor.jpg",
+    "bytes": 4279,
+    "w": 292,
+    "h": 175
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_history-ac_game.jpg": {
+    "local": "/media/sony/545959-img_history-ac_game.jpg",
+    "bytes": 7084,
+    "w": 292,
+    "h": 175
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_history-ac_electronics.jpg": {
+    "local": "/media/sony/44b26e-img_history-ac_electronics.jpg",
+    "bytes": 10796,
+    "w": 292,
+    "h": 168
+  },
+  "https://www.sony.com/en/SonyInfo/Careers/topassets/img/img_history-ac_music.jpg": {
+    "local": "/media/sony/d314d5-img_history-ac_music.jpg",
+    "bytes": 6701,
+    "w": 292,
+    "h": 147
+  },
+  "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/img/kv.jpg": {
+    "local": "/media/sony/8ba89a-kv.jpg",
+    "bytes": 90231,
+    "w": 2800,
+    "h": 1200
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/KV_PC.jpg": {
+    "local": "/media/sony/83a912-kv_pc.jpg",
+    "bytes": 229126,
+    "w": 3360,
+    "h": 960
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/Sony_Corporate_Blog_PC.jpg": {
+    "local": "/media/sony/e25c60-sony_corporate_blog_pc.jpg",
+    "bytes": 14635,
+    "w": 750,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/CEO_message_PC.png": {
+    "local": "/media/sony/6c0021-ceo_message_pc.png",
+    "bytes": 256786,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/Corporate_Data_PC.jpg": {
+    "local": "/media/sony/93c013-corporate_data_pc.jpg",
+    "bytes": 52273,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/history_PC.jpg": {
+    "local": "/media/sony/eab77a-history_pc.jpg",
+    "bytes": 26423,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/Employee_PC.jpg": {
+    "local": "/media/sony/694455-employee_pc.jpg",
+    "bytes": 11219,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/office_PC.jpg": {
+    "local": "/media/sony/baf85c-office_pc.jpg",
+    "bytes": 57253,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/procurementinfo_PC.jpg": {
+    "local": "/media/sony/86ffa7-procurementinfo_pc.jpg",
+    "bytes": 96467,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/products_PC.jpg": {
+    "local": "/media/sony/21c8cf-products_pc.jpg",
+    "bytes": 53846,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/rsslst00000001gl-img/products_new_PC.jpg": {
+    "local": "/media/sony/3e49cd-products_new_pc.jpg",
+    "bytes": 52721,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/cdms0a0000000465.jpg": {
+    "local": "/media/sony/479fa8-cdms0a0000000465.jpg",
+    "bytes": 157856,
+    "w": 2380,
+    "h": 960
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/kv_pc.jpg": {
+    "local": "/media/sony/781358-kv_pc.jpg",
+    "bytes": 271745,
+    "w": 1728,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/Sus_Vision_thumbnail.jpg": {
+    "local": "/media/sony/fa9c15-sus_vision_thumbnail.jpg",
+    "bytes": 18659,
+    "w": 960,
+    "h": 540
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/cdms0a0000000478.png": {
+    "local": "/media/sony/439107-cdms0a0000000478.png",
+    "bytes": 20438,
+    "w": 750,
+    "h": 500
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/nrijnk00000001ks.jpg": {
+    "local": "/media/sony/0a3d18-nrijnk00000001ks.jpg",
+    "bytes": 95077,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/nrijnk00000001l6.jpg": {
+    "local": "/media/sony/ba8a15-nrijnk00000001l6.jpg",
+    "bytes": 57212,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/nrijnk00000001lm.jpg": {
+    "local": "/media/sony/1c9c7c-nrijnk00000001lm.jpg",
+    "bytes": 72001,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/GAAD_260602.jpg": {
+    "local": "/media/sony/2257d4-gaad_260602.jpg",
+    "bytes": 22302,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/qnt9b600000004mq.jpg": {
+    "local": "/media/sony/72e43e-qnt9b600000004mq.jpg",
+    "bytes": 11661,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/csr/cdms0a00000003vu-img/t0ltn000000001pv.jpg": {
+    "local": "/media/sony/efd7e7-t0ltn000000001pv.jpg",
+    "bytes": 96941,
+    "w": 660,
+    "h": 436
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_slice_of_living.jpg": {
+    "local": "/media/sony/65ba58-index_slice_of_living.jpg",
+    "bytes": 19847,
+    "w": 1200,
+    "h": 1200
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_life_space_ux.jpg": {
+    "local": "/media/sony/b9f7f6-index_life_space_ux.jpg",
+    "bytes": 114647,
+    "w": 1200,
+    "h": 1200
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_kokeshi.jpg": {
+    "local": "/media/sony/b94aea-index_kokeshi.jpg",
+    "bytes": 130796,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_ExploraDream.jpg": {
+    "local": "/media/sony/fa534c-index_exploradream.jpg",
+    "bytes": 186367,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_CalArts.jpg": {
+    "local": "/media/sony/106f7d-index_calarts.jpg",
+    "bytes": 103661,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_RX1RIII.jpg": {
+    "local": "/media/sony/156f0d-index_rx1riii.jpg",
+    "bytes": 40554,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_sss.jpg": {
+    "local": "/media/sony/6a0a93-index_sss.jpg",
+    "bytes": 92816,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_SIGNALS_No1.jpg": {
+    "local": "/media/sony/1e9920-index_signals_no1.jpg",
+    "bytes": 44825,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_FavoriteSpace.jpg": {
+    "local": "/media/sony/266347-index_favoritespace.jpg",
+    "bytes": 148470,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/stories/img/index_creative-entertainment-vision-01.jpg": {
+    "local": "/media/sony/df0d4f-index_creative-entertainment-vision-01.jpg",
+    "bytes": 66082,
+    "w": 600,
+    "h": 600
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/about.jpg": {
+    "local": "/media/sony/a9e8a4-about.jpg",
+    "bytes": 35676,
+    "w": 2380,
+    "h": 632
+  },
+  "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/gallery.png": {
+    "local": "/media/sony/f57436-gallery.png",
+    "bytes": 223448,
+    "w": 2380,
+    "h": 598
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/mv.png": {
+    "local": "/media/sony/7125e7-mv.png",
+    "bytes": 391869,
+    "w": 2048,
+    "h": 585
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/lectures_yano.jpg": {
+    "local": "/media/sony/7b14ff-lectures_yano.jpg",
+    "bytes": 90544,
+    "w": 1394,
+    "h": 648
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_CalArts.jpg": {
+    "local": "/media/sony/33dd17-stories_calarts.jpg",
+    "bytes": 105593,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_RX1RIII.jpg": {
+    "local": "/media/sony/6e8769-stories_rx1riii.jpg",
+    "bytes": 45501,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_sss.jpg": {
+    "local": "/media/sony/636551-stories_sss.jpg",
+    "bytes": 94382,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_ifdesign.jpg": {
+    "local": "/media/sony/e7fa55-moredesign_ifdesign.jpg",
+    "bytes": 32634,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_iaud2025.jpg": {
+    "local": "/media/sony/1022f3-moredesign_iaud2025.jpg",
+    "bytes": 91490,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_rd-design.jpg": {
+    "local": "/media/sony/93d5b6-moredesign_rd-design.jpg",
+    "bytes": 40658,
+    "w": 748,
+    "h": 494
+  },
+  "https://www.sony.com/en/SonyInfo/IR/vj2gm80000000wo5-img/IR_KV.png": {
+    "local": "/media/sony/b71097-ir_kv.png",
+    "bytes": 1724631,
+    "w": 2000,
+    "h": 566
+  },
+  "https://www.sony.com/en/SonyInfo/IR/vj2gm80000000wo5-img/IR_top_banner_En_3column_07_en.jpg": {
+    "local": "/media/sony/a35e9a-ir_top_banner_en_3column_07_en.jpg",
+    "bytes": 34637,
+    "w": 1190,
+    "h": 400
+  },
+  "https://www.sony.com/en/SonyInfo/IR/vj2gm80000000wo5-img/ir_main_btn02_en.jpg": {
+    "local": "/media/sony/2e4d6c-ir_main_btn02_en.jpg",
+    "bytes": 15136,
+    "w": 577,
+    "h": 219
+  },
+  "https://www.sony.com/en/SonyInfo/IR/vj2gm80000000wo5-img/vj2gm80000000w9p_en.png": {
+    "local": "/media/sony/710452-vj2gm80000000w9p_en.png",
+    "bytes": 12069,
+    "w": 577,
+    "h": 219
+  },
+  "https://www.sony.com/en/SonyInfo/IR/vj2gm80000000wo5-img/ir_main_btn03_en.jpg": {
+    "local": "/media/sony/1cc501-ir_main_btn03_en.jpg",
+    "bytes": 10894,
+    "w": 577,
+    "h": 219
+  },
+  "https://www.sony.com/en/SonyInfo/message/l8qsi60000011s58-img/KV.png": {
+    "local": "/media/sony/17c413-kv.png",
+    "bytes": 91554,
+    "w": 3360,
+    "h": 960
+  },
+  "https://www.sony.com/en/SonyInfo/message/l8qsi60000011s58-img/KV_SP.png": {
+    "local": "/media/sony/4236e3-kv_sp.png",
+    "bytes": 395384,
+    "w": 900,
+    "h": 400
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/mv.png": {
+    "local": "/media/sony/69f691-mv.png",
+    "bytes": 512207,
+    "w": 2048,
+    "h": 585
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img06.png": {
+    "local": "/media/sony/ba97a8-product-img06.png",
+    "bytes": 93282,
+    "w": 1140,
+    "h": 760
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img08.png": {
+    "local": "/media/sony/7c5b96-product-img08.png",
+    "bytes": 45286,
+    "w": 1140,
+    "h": 760
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img05.png": {
+    "local": "/media/sony/05b706-product-img05.png",
+    "bytes": 194676,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img04.png": {
+    "local": "/media/sony/d6b926-product-img04.png",
+    "bytes": 29139,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img07.png": {
+    "local": "/media/sony/32bec7-product-img07.png",
+    "bytes": 323395,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img03.png": {
+    "local": "/media/sony/ff994e-product-img03.png",
+    "bytes": 182406,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img01.png": {
+    "local": "/media/sony/74258b-product-img01.png",
+    "bytes": 152952,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img02.png": {
+    "local": "/media/sony/b05430-product-img02.png",
+    "bytes": 65035,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/products/topassets/img/product-img09.png": {
+    "local": "/media/sony/ad14f5-product-img09.png",
+    "bytes": 109873,
+    "w": 1122,
+    "h": 744
+  },
+  "https://www.sony.com/en/SonyInfo/technology/si5i340000000598-img/copy_of_sony_technology_2nd_pc.jpg": {
+    "local": "/media/sony/c0abe2-copy_of_sony_technology_2nd_pc.jpg",
+    "bytes": 115598,
+    "w": 2048,
+    "h": 585
+  },
+  "https://www.sony.com/en/SonyInfo/technology/stories/entries/img/yt_logo_pms_light.png": {
+    "local": "/media/sony/08af01-yt_logo_pms_light.png",
+    "bytes": 13975,
+    "w": 1587,
+    "h": 374
+  },
+  "https://www.sony.com/en/SonyInfo/technology/rqieeg00000001gy-img/Thumbnail_BradSpahr.jpg": {
+    "local": "/media/sony/0c20ca-thumbnail_bradspahr.jpg",
+    "bytes": 36941,
+    "w": 660,
+    "h": 441
+  },
+  "https://www.sony.com/en/SonyInfo/technology/rqieeg00000001gy-img/Magda_small.jpg": {
+    "local": "/media/sony/4da6ba-magda_small.jpg",
+    "bytes": 24070,
+    "w": 660,
+    "h": 440
+  },
+  "https://www.sony.com/en/SonyInfo/technology/rqieeg00000001gy-img/KV4_S_WIT2026_Amanda.jpg": {
+    "local": "/media/sony/dea598-kv4_s_wit2026_amanda.jpg",
+    "bytes": 18406,
+    "w": 660,
+    "h": 440
+  },
+  "https://www.sony.com/en/SonyInfo/technology/rqieeg00000001gy-img/Thumbnail_groovots.jpg": {
+    "local": "/media/sony/b8c6b5-thumbnail_groovots.jpg",
+    "bytes": 50335,
+    "w": 660,
+    "h": 440
+  },
+  "https://www.sony.com/en/SonyInfo/technology/si5i340000000598-img/copy_of_WIT_featureTS_3x2.png": {
+    "local": "/media/sony/c476ad-copy_of_wit_featurets_3x2.png",
+    "bytes": 35362,
+    "w": 660,
+    "h": 440
+  },
+  "https://www.sony.com/en/SonyInfo/technology/si5i340000000598-img/copy_of_top_bnr_kodera_01.jpg": {
+    "local": "/media/sony/48a2bc-copy_of_top_bnr_kodera_01.jpg",
+    "bytes": 20985,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/technology/si5i340000000598-img/copy_of_top_bnr_kitano_01.jpg": {
+    "local": "/media/sony/aa08ae-copy_of_top_bnr_kitano_01.jpg",
+    "bytes": 28308,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/SonyInfo/technology/si5i340000000598-img/copy_of_mv_kg.jpg": {
+    "local": "/media/sony/5a9a2a-copy_of_mv_kg.jpg",
+    "bytes": 22122,
+    "w": 748,
+    "h": 312
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_C2C-BalfeWydra_image_l.jpg": {
+    "local": "/media/sony/9183bc-en_20260626_c2c-balfewydra_image_l.jpg",
+    "bytes": 140909,
+    "w": 1170,
+    "h": 1414
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_KidLAROI-Girls_image_l.jpg": {
+    "local": "/media/sony/7b5878-en_20260626_kidlaroi-girls_image_l.jpg",
+    "bytes": 114615,
+    "w": 1170,
+    "h": 1414
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_Shakira-DaiDai_image_l.jpg": {
+    "local": "/media/sony/2aa920-en_20260626_shakira-daidai_image_l.jpg",
+    "bytes": 87760,
+    "w": 1170,
+    "h": 1414
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg": {
+    "local": "/media/sony/a44b56-en_20260626_spiderman-brandnewdaytrailer_image_l.jpg",
+    "bytes": 196255,
+    "w": 1390,
+    "h": 780
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_BRAVIA-ShortFilm_image_l.jpg": {
+    "local": "/media/sony/8bab54-en_20260626_bravia-shortfilm_image_l.jpg",
+    "bytes": 163325,
+    "w": 1390,
+    "h": 780
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_LegacyOfSound_image_l.jpg": {
+    "local": "/media/sony/a00676-en_20260626_legacyofsound_image_l.jpg",
+    "bytes": 16860,
+    "w": 1390,
+    "h": 780
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_1000X-BTS_image_l.jpg": {
+    "local": "/media/sony/ace38f-en_20260626_1000x-bts_image_l.jpg",
+    "bytes": 100300,
+    "w": 1390,
+    "h": 780
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_SyracuseVisualStorytellers_image_l.jpg": {
+    "local": "/media/sony/ab6c75-en_20260626_syracusevisualstorytellers_image_l.jpg",
+    "bytes": 26885,
+    "w": 1170,
+    "h": 564
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_CEV-PortalLink_image_l.png": {
+    "local": "/media/sony/82bb88-en_20260626_cev-portallink_image_l.png",
+    "bytes": 65099,
+    "w": 1170,
+    "h": 564
+  },
+  "https://www.sony.com/en/top/2021/img/en_20260626_Yonezu-IRISOUT-MAJ_image_l.jpg": {
+    "local": "/media/sony/870748-en_20260626_yonezu-irisout-maj_image_l.jpg",
+    "bytes": 88014,
+    "w": 1170,
+    "h": 564
+  }
+}

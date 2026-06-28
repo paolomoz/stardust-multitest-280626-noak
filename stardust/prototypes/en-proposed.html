@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+_provenance:
+  renderedBy: impeccable:craft (via stardust:prototype)
+  renderedAt: 2026-06-28
+  slug: en
+  againstDirection: stardust/direction.md (Active 2026-06-28)
+  shapeBrief: stardust/prototypes/en-shape.md
+  contentSource: stardust/current/pages/en.json
+  mode: A-brand-faithful
+  surprise: low
+  fidelity: refined
+  iaFidelity: verbatim
+  reflexRejectAudit:
+    bypassed: true
+    reason: "Mode A — display+body family pinned to captured Sony surface (SST→Inter substitute); inherited, not a reflex pick"
+  copyCadenceBypass:
+    rules: [marketing-buzzword, em-dash-overuse]
+    basis: "captured-verbatim Sony copy"
+  signatureElements:
+    - { kind: image-carousel, capturedSource: voice.heroMedium, mechanism: auto cross-fade 6s, fallback: hold-first-slide }
+  voiceClassification:
+    - { section: hero, classification: captured-verbatim }
+    - { section: news, classification: captured-verbatim }
+  unsourcedContent: []
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sony Group Portal</title>
+<meta name="description" content="Sony Group Corporation — fill the world with emotion, through the power of creativity and technology.">
+<link rel="icon" href="/media/sony/sony-logo-black.svg">
+<style>
+:root{
+  --bg:#ffffff;
+  --ink:#0a0a0a;
+  --surface:#f4f4f4;
+  --surface-alt:#fafafa;
+  --text:#1a1a1a;
+  --muted:#5f5f5f;
+  --border:#e2e2e2;
+  --accent:#005bb0;
+  --accent-deep:#01498e;
+  --on-ink:#ffffff;
+  --font:"Inter","Helvetica Neue",Arial,sans-serif;
+  --maxw:1280px;
+  --pad-d:64px; --pad-t:48px; --pad-m:32px;
+  --r:2px;
+  --step-0:1rem;
+  --step-1:1.25rem;
+  --step-2:1.563rem;
+  --step-3:1.953rem;
+  --step-4:clamp(2.2rem,1.4rem + 3vw,3.5rem);
+  --z-header:100;
+  --ease:cubic-bezier(.22,1,.36,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;hanging-punctuation:first}
+body{font-family:var(--font);color:var(--text);background:var(--bg);line-height:1.6;-webkit-font-smoothing:antialiased;font-synthesis:none}
+img{display:block;max-width:100%;height:auto}
+a{color:var(--accent);text-decoration:none}
+a:hover{color:var(--accent-deep)}
+h1,h2,h3{color:var(--ink);font-weight:700;line-height:1.15;letter-spacing:-.02em;text-wrap:balance}
+p{text-wrap:pretty}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:24px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---- header ---- */
+.site-header{position:sticky;top:0;z-index:var(--z-header);background:rgba(255,255,255,.96);border-bottom:1px solid var(--border);backdrop-filter:saturate(1.2)}
+.site-header .bar{display:flex;align-items:center;justify-content:space-between;gap:24px;height:64px}
+.brand img{height:22px;width:auto}
+.nav-toggle{display:none}
+.main-nav ul{list-style:none;display:flex;gap:22px;align-items:center}
+.main-nav a{color:var(--ink);font-size:.92rem;font-weight:600;position:relative;padding:6px 0}
+.main-nav a::after{content:"";position:absolute;left:0;bottom:0;height:2px;width:100%;background:var(--ink);transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease)}
+.main-nav a:hover::after,.main-nav a:focus-visible::after{transform:scaleX(1)}
+.burger{display:none}
+
+/* ---- hero carousel ---- */
+.hero{position:relative;background:var(--ink);overflow:hidden}
+.hero__viewport{position:relative;height:clamp(420px,78vh,820px)}
+.slide{position:absolute;inset:0;opacity:0;visibility:hidden;transition:opacity .9s var(--ease),visibility .9s}
+.slide[aria-hidden="false"]{opacity:1;visibility:visible}
+.slide img{width:100%;height:100%;object-fit:cover}
+.slide__scrim{position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.72) 0%,rgba(0,0,0,.35) 38%,rgba(0,0,0,0) 70%),linear-gradient(0deg,rgba(0,0,0,.55),rgba(0,0,0,0) 45%)}
+.slide__copy{position:absolute;left:0;bottom:0;padding:clamp(28px,5vw,64px);max-width:680px;color:var(--on-ink)}
+.slide__copy h2{color:var(--on-ink);font-size:var(--step-4);margin-bottom:14px}
+.slide__copy .more{display:inline-flex;align-items:center;gap:8px;color:var(--on-ink);font-weight:600;border-bottom:2px solid var(--on-ink);padding-bottom:2px}
+.slide__copy .more:hover{color:var(--on-ink);opacity:.82}
+.dots{position:absolute;right:clamp(20px,4vw,48px);bottom:24px;display:flex;gap:10px;z-index:3}
+.dots button{width:11px;height:11px;border-radius:50%;border:1.5px solid rgba(255,255,255,.85);background:transparent;cursor:pointer;padding:0;transition:background .3s}
+.dots button[aria-current="true"]{background:var(--on-ink)}
+
+/* ---- section scaffolding ---- */
+.section{padding-block:var(--pad-d)}
+.section--surface{background:var(--surface)}
+.section__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:32px;flex-wrap:wrap}
+.section__head h2{font-size:var(--step-3)}
+.section__head .more-link{font-weight:600;white-space:nowrap}
+
+/* ---- explore grid ---- */
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.card{position:relative;display:block;background:var(--bg);border:1px solid var(--border);border-radius:var(--r);overflow:hidden;transition:transform .4s var(--ease),box-shadow .4s var(--ease)}
+.card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(0,0,0,.10)}
+.card__media{aspect-ratio:16/10;overflow:hidden;background:var(--surface)}
+.card__media img{width:100%;height:100%;object-fit:cover;transition:transform .6s var(--ease)}
+.card:hover .card__media img{transform:scale(1.05)}
+.card__label{display:flex;align-items:center;justify-content:space-between;padding:16px 18px;color:var(--ink);font-weight:600;font-size:1.05rem}
+.card__label span.arrow{color:var(--muted);transition:transform .3s var(--ease)}
+.card:hover .card__label span.arrow{transform:translateX(4px);color:var(--ink)}
+
+/* ---- news rail ---- */
+.news{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}
+.news__item{display:block;background:var(--bg);border:1px solid var(--border);border-radius:var(--r);padding:28px 30px;transition:border-color .3s,transform .4s var(--ease)}
+.news__item:hover{border-color:var(--ink);transform:translateY(-3px)}
+.news__date{font-size:.82rem;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.01em}
+.news__title{color:var(--ink);font-size:1.18rem;font-weight:700;margin-top:8px;line-height:1.3}
+
+/* ---- footer ---- */
+.site-footer{background:var(--ink);color:#cfcfcf;padding-block:56px 28px}
+.site-footer img{height:20px;margin-bottom:28px}
+.footer-cols{display:grid;grid-template-columns:repeat(4,1fr);gap:28px}
+.footer-cols h3{color:var(--on-ink);font-size:.95rem;margin-bottom:12px}
+.footer-cols ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+.footer-cols a{color:#cfcfcf;font-size:.9rem}
+.footer-cols a:hover{color:var(--on-ink)}
+.footer-legal{display:flex;gap:20px;flex-wrap:wrap;align-items:center;margin-top:40px;padding-top:20px;border-top:1px solid rgba(255,255,255,.14);font-size:.82rem;color:#9b9b9b}
+.footer-legal a{color:#9b9b9b}
+.footer-legal a:hover{color:var(--on-ink)}
+.footer-legal .copy{margin-left:auto}
+
+/* ---- responsive ---- */
+@media (max-width:900px){
+  .cards{grid-template-columns:repeat(2,1fr)}
+  .footer-cols{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:640px){
+  :root{--pad-d:var(--pad-m)}
+  .burger{display:inline-flex;flex-direction:column;justify-content:center;gap:5px;width:40px;height:40px;background:none;border:0;cursor:pointer}
+  .burger span{display:block;height:2px;width:22px;background:var(--ink);transition:transform .3s var(--ease),opacity .3s}
+  .main-nav{position:fixed;inset:64px 0 auto 0;background:var(--bg);border-bottom:1px solid var(--border);transform:translateY(-120%);transition:transform .35s var(--ease);max-height:calc(100vh - 64px);overflow:auto}
+  .nav-toggle:checked ~ .main-nav{transform:translateY(0)}
+  .nav-toggle:checked ~ .burger span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+  .nav-toggle:checked ~ .burger span:nth-child(2){opacity:0}
+  .nav-toggle:checked ~ .burger span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+  .main-nav ul{flex-direction:column;align-items:flex-start;gap:0;padding:8px 24px 16px}
+  .main-nav li{width:100%}
+  .main-nav a{display:block;width:100%;padding:14px 0;border-bottom:1px solid var(--border);font-size:1rem}
+  .cards{grid-template-columns:1fr}
+  .news{grid-template-columns:1fr}
+  .footer-cols{grid-template-columns:1fr 1fr}
+  .footer-legal .copy{margin-left:0;width:100%}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important}
+  .slide{transition:none}
+  .card,.card__media img,.news__item{transition:none}
+}
+</style>
+</head>
+<body class="appear">
+<header class="site-header" data-section="header" data-block="header">
+  <div class="wrap bar">
+    <a class="brand" href="/sony" aria-label="Sony — home"><img src="/media/sony/sony-logo-black.svg" alt="Sony" width="120" height="22"></a>
+    <input type="checkbox" id="navToggle" class="nav-toggle" hidden aria-hidden="true">
+    <label class="burger" for="navToggle" aria-label="Toggle menu"><span></span><span></span><span></span></label>
+    <nav class="main-nav" aria-label="Primary">
+      <ul>
+        <li><a href="/sony/sonyinfo/products">Businesses &amp; Products</a></li>
+        <li><a href="/sony/sonyinfo/corporateinfo">About Sony Group</a></li>
+        <li><a href="/sony/sonyinfo/technology">Technology</a></li>
+        <li><a href="/sony/sonyinfo/csr">Sustainability</a></li>
+        <li><a href="/sony/sonyinfo/design">Design</a></li>
+        <li><a href="/sony/sonyinfo/careers">Careers</a></li>
+        <li><a href="/sony/sonyinfo/ir">Investor Relations</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero" data-section="hero" data-block="hero" aria-label="Featured stories" aria-roledescription="carousel">
+    <div class="hero__viewport" id="heroViewport">
+      <article class="slide" aria-hidden="false">
+        <img src="/media/sony/a44b56-en_20260626_spiderman-brandnewdaytrailer_image_l.jpg" alt="Spider-Man: Brand New Day key visual" loading="eager" fetchpriority="high" width="1390" height="780">
+        <div class="slide__scrim"></div>
+        <div class="slide__copy"><h2>It's a Brand New Day For Peter Parker</h2><a class="more" href="/sony/brand">Read More →</a></div>
+      </article>
+      <article class="slide" aria-hidden="true">
+        <img src="/media/sony/8bab54-en_20260626_bravia-shortfilm_image_l.jpg" alt="Sony BRAVIA Short Film" loading="lazy" width="1390" height="780">
+        <div class="slide__scrim"></div>
+        <div class="slide__copy"><h2>BRAVIA Short Film</h2><a class="more" href="/sony/sonyinfo/products">Read More →</a></div>
+      </article>
+      <article class="slide" aria-hidden="true">
+        <img src="/media/sony/a00676-en_20260626_legacyofsound_image_l.jpg" alt="Legacy of Sound" loading="lazy" width="1390" height="780">
+        <div class="slide__scrim"></div>
+        <div class="slide__copy"><h2>Legacy of Sound</h2><a class="more" href="/sony/sonyinfo/products">Read More →</a></div>
+      </article>
+      <article class="slide" aria-hidden="true">
+        <img src="/media/sony/ace38f-en_20260626_1000x-bts_image_l.jpg" alt="WH-1000X behind the scenes" loading="lazy" width="1390" height="780">
+        <div class="slide__scrim"></div>
+        <div class="slide__copy"><h2>WH-1000X Behind the Scenes</h2><a class="more" href="/sony/sonyinfo/products">Read More →</a></div>
+      </article>
+    </div>
+    <div class="dots" role="tablist" aria-label="Choose slide">
+      <button role="tab" aria-current="true" aria-label="Slide 1"></button>
+      <button role="tab" aria-current="false" aria-label="Slide 2"></button>
+      <button role="tab" aria-current="false" aria-label="Slide 3"></button>
+      <button role="tab" aria-current="false" aria-label="Slide 4"></button>
+    </div>
+  </section>
+
+  <section class="section" data-section="explore" data-block="cards">
+    <div class="wrap">
+      <div class="section__head"><h2>Explore Sony</h2></div>
+      <div class="cards">
+        <a class="card" href="/sony/sonyinfo/products"><div class="card__media"><img src="/media/sony/69f691-mv.png" alt="Businesses &amp; Products" loading="lazy"></div><div class="card__label">Businesses &amp; Products <span class="arrow">→</span></div></a>
+        <a class="card" href="/sony/sonyinfo/technology"><div class="card__media"><img src="/media/sony/c0abe2-copy_of_sony_technology_2nd_pc.jpg" alt="Technology" loading="lazy"></div><div class="card__label">Technology <span class="arrow">→</span></div></a>
+        <a class="card" href="/sony/sonyinfo/csr"><div class="card__media"><img src="/media/sony/479fa8-cdms0a0000000465.jpg" alt="Sustainability" loading="lazy"></div><div class="card__label">Sustainability <span class="arrow">→</span></div></a>
+        <a class="card" href="/sony/sonyinfo/design"><div class="card__media"><img src="/media/sony/a9e8a4-about.jpg" alt="Design" loading="lazy"></div><div class="card__label">Design <span class="arrow">→</span></div></a>
+        <a class="card" href="/sony/sonyinfo/careers"><div class="card__media"><img src="/media/sony/f4b8d6-careers-img06.png" alt="Careers" loading="lazy"></div><div class="card__label">Careers <span class="arrow">→</span></div></a>
+        <a class="card" href="/sony/sonyinfo/ir"><div class="card__media"><img src="/media/sony/b71097-ir_kv.png" alt="Investor Relations" loading="lazy"></div><div class="card__label">Investor Relations <span class="arrow">→</span></div></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface" data-section="news" data-block="news">
+    <div class="wrap">
+      <div class="section__head"><h2>Latest News</h2><a class="more-link" href="/sony/sonyinfo/news/press">News Releases →</a></div>
+      <div class="news">
+        <a class="news__item" href="/sony/sonyinfo/news/press/202606/26-015e"><div class="news__date">Jun 23, 2026</div><div class="news__title">Sony Group Corporation Director Appointments</div></a>
+        <a class="news__item" href="/sony/sonyinfo/news/press/202606/26-014e"><div class="news__date">Jun 19, 2026</div><div class="news__title">Sony Partners with UNHCR to Support Emergency Humanitarian Response</div></a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" data-section="footer" data-block="footer">
+  <div class="wrap">
+    <img src="/media/sony/sony-logo-white.svg" alt="Sony" width="110" height="20">
+    <div class="footer-cols">
+      <div><h3>Businesses &amp; Products</h3><ul><li><a href="/sony/sonyinfo/products">Products &amp; Services</a></li><li><a href="/sony/sonyinfo/technology">Technology</a></li></ul></div>
+      <div><h3>About Sony Group</h3><ul><li><a href="/sony/sonyinfo/corporateinfo">Corporate Info</a></li><li><a href="/sony/sonyinfo/csr">Sustainability</a></li><li><a href="/sony/sonyinfo/design">Design</a></li></ul></div>
+      <div><h3>People</h3><ul><li><a href="/sony/sonyinfo/careers">Careers</a></li><li><a href="/sony/sonyinfo/ir">Investor Relations</a></li></ul></div>
+      <div><h3>News</h3><ul><li><a href="/sony/sonyinfo/news/press">News Releases</a></li><li><a href="/sony/sonyinfo/blog">Corporate Blog</a></li></ul></div>
+    </div>
+    <div class="footer-legal">
+      <a href="/sony/copyright">Terms and Conditions</a>
+      <a href="/sony/privacy">Privacy Policy</a>
+      <span class="copy">© 2026 Sony Group Corporation</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var vp=document.getElementById('heroViewport');
+  if(!vp)return;
+  var slides=[].slice.call(vp.querySelectorAll('.slide'));
+  var dots=[].slice.call(document.querySelectorAll('.dots button'));
+  var i=0,timer=null;
+  var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function show(n){
+    i=(n+slides.length)%slides.length;
+    slides.forEach(function(s,k){s.setAttribute('aria-hidden',k===i?'false':'true');});
+    dots.forEach(function(d,k){d.setAttribute('aria-current',k===i?'true':'false');});
+  }
+  function next(){show(i+1);}
+  function start(){if(reduce)return;stop();timer=setInterval(next,6000);}
+  function stop(){if(timer){clearInterval(timer);timer=null;}}
+  dots.forEach(function(d,k){d.addEventListener('click',function(){show(k);start();});});
+  vp.addEventListener('mouseenter',stop);
+  vp.addEventListener('mouseleave',start);
+  vp.addEventListener('focusin',stop);
+  vp.addEventListener('focusout',start);
+  start();
+})();
+</script>
+</body>
+</html>

@@ -17,9 +17,9 @@
       "url": "https://www.sony.com/en/",
       "type": "landing",
       "template": "home",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/en.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/en-proposed.html",
       "migratedPath": null
     },
     {
