@@ -26,3 +26,17 @@
 {"t":"2026-06-28T17:17:52.119Z","path":"/samsung/us/smartphones","step":"verify","ok":true}
 {"t":"2026-06-28T17:17:54.622Z","path":"/samsung/us/support","step":"verify","ok":true}
 {"t":"2026-06-28T17:17:54.757Z","path":"/samsung/us/tvs/all-tvs","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:17.581Z","path":"/samsung/nav","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:17.597Z","path":"/samsung/footer","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:17.858Z","path":"/samsung/us/aboutsamsung","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:18.114Z","path":"/samsung/index","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:22.414Z","path":"/samsung/us/explore/life-hacks/how-to-work-from-home-and-win-the-day","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:22.552Z","path":"/samsung/us/explore/life-hacks","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:22.683Z","path":"/samsung/us/explore","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:22.693Z","path":"/samsung/us/home-appliances","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:26.993Z","path":"/samsung/us/monitors","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:27.032Z","path":"/samsung/us/offers","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:27.361Z","path":"/samsung/us/smartphones","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:28.047Z","path":"/samsung/us/smartphones/galaxy-s25-ultra","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:31.424Z","path":"/samsung/us/tvs/all-tvs","step":"verify","ok":true}
+{"t":"2026-06-28T17:21:31.794Z","path":"/samsung/us/support","step":"verify","ok":true}

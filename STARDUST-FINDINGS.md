@@ -45,6 +45,29 @@ the prompt's Phase 0 AuthorKit block should be replaced with the skill's vanilla
 gated on actually detecting ak.js). I followed the SKILL (matches the repo: scripts/aem.js +
 blocks/header + blocks/footer present). Recorded `runtime: aem-boilerplate` in the conversion log.
 
+### F5 — [deploy] deploy-batch.mjs ledger skips by status, never by content hash
+`deploy-batch.mjs` skips pages whose ledger status is `live` and whose delivered `.plain.html`
+still 200s — it does NOT compare the local content against what's deployed. So after editing a
+content file and re-running, the changed page is silently skipped (it's still "live"). The
+operator must remember `--force` (which redeploys ALL pages, not just changed ones). Suggested
+fix: store a content sha in the ledger and re-drive a page when its local sha differs, so a
+plain re-run picks up edits without blasting the whole tree.
+
+### F6 — [deploy] self-contained header/footer logo gotcha not flagged; class-vs-id trap
+Two avoidable bugs the deploy skill could guard against: (1) the inline-SVG brand logo is easy
+to truncate to a single glyph path when hand-copying from extract's logo.svg — shipped a header
+showing just "S". (2) The skill's header pattern uses `#nav` in some references and `.nav` in
+others; building `<nav id="nav">` while the block CSS targets `.nav` ships an unstyled (but
+present) header that passes a "header exists" check. A render-check that asserts the logo's
+rendered width > Npx and that the nav computes `display:flex` would catch both. Suggested: add a
+logo-width + nav-layout assertion to the deploy skill's local-QA checklist.
+
+### F7 — [deploy] query-index population lags helix-query.yaml code-sync with no ready signal
+After pushing helix-query.yaml and POSTing the index job (202/200), `/samsung/query-index.json`
+stayed 404 for minutes with no signal distinguishing "config not synced yet" from "misconfigured."
+The deploy skill should document the expected propagation lag and a concrete readiness probe
+(e.g. poll the index endpoint with backoff, or check the config is live on the code bus first).
+
 ### F3 — [extract] body innerText capture includes full mega-menu / header nav text
 Every page's `body[0]` begins with the global nav dump ("Shop Explore Shop Shop ... Galaxy
 S26 Ultra ..."). The crawler captures `main`/full innerText without stripping the persistent
