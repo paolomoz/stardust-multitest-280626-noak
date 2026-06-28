@@ -1,0 +1,369 @@
+{
+  "slug": "learn-mobile",
+  "url": "https://www.xfinity.com/learn/mobile",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-06-28T17:12:28.343Z",
+  "finalUrl": "https://www.xfinity.com/learn/mobile",
+  "title": "Xfinity Mobile: Shop Unlimited Data Plans, Deals & Devices",
+  "description": "Shop Xfinity Mobile's unlimited data plans, deals & the latest devices. Get the best coverage with 5G and millions of secure WiFi hotspots. Exclusively available to Xfinity Internet members.",
+  "og": {
+    "title": "Xfinity Mobile: Shop Unlimited Data Plans, Deals & Devices",
+    "description": "Shop Xfinity Mobile's unlimited data plans, deals & the latest devices. Get the best coverage with 5G and millions of secure WiFi hotspots. Exclusively available to Xfinity Internet members.",
+    "image": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9934_trade-in-learn-page/Metablock-TradeIn-Desktop.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Xfinity Mobile"
+    },
+    {
+      "tag": "h2",
+      "text": "Get the best coverage with 5G and millions of secure WiFi hotspots"
+    },
+    {
+      "tag": "h2",
+      "text": "Poof! Make half your mobile bill disappear"
+    },
+    {
+      "tag": "h2",
+      "text": "Get a 5G device on us"
+    },
+    {
+      "tag": "h2",
+      "text": "A premium 5G phone of your choice is free with a new Mobile Plus line. Qualifying trade-in and device payment plan required. Offer ends 7/21/26."
+    },
+    {
+      "tag": "h2",
+      "text": "Phone upgrades every year"
+    },
+    {
+      "tag": "h2",
+      "text": "Level up your phone as often as every 60 days, even if it isn’t paid off. You’ll get a guaranteed discount, too."
+    },
+    {
+      "tag": "h2",
+      "text": "4K Streaming"
+    },
+    {
+      "tag": "h2",
+      "text": "Watch your favorite shows and movies in the clearest, sharpest resolution available on mobile."
+    },
+    {
+      "tag": "h2",
+      "text": "Save with our All-In Tablet & Watch Plan"
+    },
+    {
+      "tag": "h2",
+      "text": "Connect up to 10 cellular tablets and watches for $35/mo. Included with our latest plans."
+    },
+    {
+      "tag": "h2",
+      "text": "Get $300 off a new smartwatch"
+    },
+    {
+      "tag": "h2",
+      "text": "Xfinity Diamond members can save $300 on any eligible smartwatch. Requires new line and device payment plan. Offer ends 7/21/26."
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What is Xfinity Mobile and how does it work?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I get a free mobile line with Xfinity?"
+    },
+    {
+      "tag": "h3",
+      "text": "What mobile plans does Xfinity Mobile offer?"
+    }
+  ],
+  "body": [
+    "Cut your mobile bill in half. Plus, try free for a year. No commitment.",
+    "5G phone on us: Xfinity Internet required. Taxes & fees extra. Upgrade Anytime: Requires Mobile Plus and device payment plan. 60 days between each upgrade. Minimum $200 and maximum $830 device credit per upgrade. Visit xfinity.com/eliteupgrade for eligibility terms, conditions and add’l info."
+  ],
+  "ctas": [
+    {
+      "label": "Find My Plan",
+      "href": null
+    },
+    {
+      "label": "Sign in",
+      "href": "https://login.xfinity.com/login?"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile"
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones"
+    },
+    {
+      "label": "Bring Your Own Device",
+      "href": "https://www.xfinity.com/learn/mobile/byod"
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage"
+    },
+    {
+      "label": "Shop plans",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo"
+    },
+    {
+      "label": "Shop Mobile Select",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "More details",
+      "href": "#Moredetails"
+    },
+    {
+      "label": "Shop Mobile Plus",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "More details",
+      "href": "#Moredetails"
+    },
+    {
+      "label": "See how much you can save",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/current"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "xfinity.com/eliteupgrade",
+      "href": "https://www.xfinity.com/support/articles/elite-upgrade-faqs"
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null
+    },
+    {
+      "label": "Decline All",
+      "href": null
+    },
+    {
+      "label": "Accept All",
+      "href": null
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://login.xfinity.com/login?",
+    "https://www.xfinity.com/learn/mobile",
+    "https://www.xfinity.com/learn/mobile/plan",
+    "https://www.xfinity.com/learn/deals/mobile",
+    "https://www.xfinity.com/digital/mobile/cell-phones",
+    "https://www.xfinity.com/learn/mobile/byod",
+    "https://www.xfinity.com/learn/mobile/network-coverage",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+    "https://www.xfinity.com/learn/mobile#Pricing&otherinfo",
+    "https://www.xfinity.com/learn/mobile#Moredetails",
+    "https://www.xfinity.com/learn/mobile/plan/savings-calculator/current",
+    "https://www.xfinity.com/digital/mobile/cell-phones?intcmp=ILC:NA:ACQ:BAUP:BOTH:GEN:XFM:COM:NA:XMLearn_Mobile_5GPhone_DeviceCatalog:2255",
+    "https://www.xfinity.com/learn/mobile/phone-upgrades?intcmp=ILC:NA:ACQ:BAUP:BOTH:GEN:XFM:COM:NA:XMLearn_Mobile_AnytimeUpgrade_UpgradesLearn:2256",
+    "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:BOTH:GEN:XFM:COM:NA:XMLearn_Mobile_4KStreaming_PB:2259",
+    "https://www.xfinity.com/support/articles/elite-upgrade-faqs",
+    "https://www.xfinity.com/digital/mobile/smart-watches?intcmp=ILC:NA:ACQ:BAUP:BOTH:GEN:XFM:COM:NA:XMLearn_Mobile_Tab&WatchPlan_WatchCatalog:2260",
+    "https://customer.xfinity.com/membership",
+    "https://www.xfinity.com/learn/mobile/plan/international/coverage",
+    "https://www.xfinity.com/privacy/policy/cookienotice",
+    "https://www.xfinity.com/privacy/your-privacy-choices",
+    "https://www.onetrust.com/products/cookie-consent/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/UnlimitedText-RTB.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/International-RTB.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Hotspot-RTB.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/WiFi-RTB.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/MobileSelect.png",
+        "alt": "",
+        "w": 320,
+        "h": 176
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--unlimitedData.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--mxcaPass.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--hotspotData.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--480Video.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/720Streaming.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8558_4-15-next-gen-5-year-price-guarantee-dotcom-merchandising/overlap-2-up/Icon_Promo_White.svg",
+        "alt": "",
+        "w": 25,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/MobilePlus.png",
+        "alt": "",
+        "w": 320,
+        "h": 176
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--unlimitedData.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--mxcaPass.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--hotspotData.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--powerBoost.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--4kVideo.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/MobileCare.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/PhoneUpgrade.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/apr/cix-8323_xm-plan-7-0-learn-page-revamp/xm-overview/plan-card-icons/Icon--callGuard.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 29,
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Cut-Your-Mobile-Bill-Half_Banner-Desktop1.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/DP-Hero-Desktop-Updated.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/XM-Learn_5G-Device-on-us_3UP_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Upgrades-Metablock-Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/4KStreaming-Metablock-Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9864_xm-learn-page/AllIn-Metablock-Desktop-Updated-4-21.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9864_xm-learn-page/Smartwatch-Metablock-Desktop.jpg"
+    ],
+    "modals": [
+      "Please confirm your Cookie preferences here. We use Cookies to improve our Services, optimize your experience, and serve ads relevant to your interests. By selecting Accept All, you consent to our use of Cookies. Learn more in Cookie Preferences and ourCookie PolicyCookie Preferences Decline All Accept All",
+      "Your Cookie PreferencesLike many companies, we use cookies and other common tracking technologies (Cookies) to optimize and analyze your experience on our Services, and serve ads relevant to your interests. You may choose which Cookies to allow, and can change your preferences at any time. If you decline or remove Cookies, some parts of the Services may not function properly on this device. Please go hereto see what other choices you can make, including to manage account-based and other sharing or sales opt outs. Learn more in our Cookie Policy. Accept AllDecline All Cookie PolicyAllow all Manage Consent PreferencesStrictly NecessaryAlways OnThese Cookies are required for Service functionality, including for system administration, security, and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly. View DetailsAnalytics and Performance Analytics and Performance These Cookies collect data regarding your usage of and performance of the Services. We and our vendors use these Cookies to perform analytics, to improve the content and user experience, for statistical purposes, to improve the Services, and develop new ones. They are also used to recognize your device across platforms and devices for the above purposes. View DetailsPersonalized Advertising Personalized Advertising These Cookies collect data about your website visits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering personalized advertising content on and off the Services. Third-party sites and services also use Personalized Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you will still see advertising, but it may be less relevant. View DetailsFunctional Functional These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos, and measure the delivery and effectiveness of that content. View DetailsBack ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelDecline All Save Changes"
+    ]
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 17,
+    "mainTextLen": 17856,
+    "realImageCount": 22,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false
+  }
+}

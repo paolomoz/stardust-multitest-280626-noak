@@ -4,7 +4,7 @@ import path from 'node:path';
 const ROOT = '/Users/paolo/stardust/rollout/multitest-280626-noak/runs/xfinity';
 const PAGES = path.join(ROOT, 'stardust/current/pages');
 const OUT = path.join(ROOT, 'content/xfinity');
-const HAND = new Set(['index']); // hand-authored, skip
+const HAND = new Set(['index', 'site-map']); // hand-authored, skip
 
 const decode = (s) => (s || '')
   .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))

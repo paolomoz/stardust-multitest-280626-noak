@@ -54,6 +54,33 @@ break a vanilla build if followed (e.g. styling `.btn` when the runtime emits `.
 update `new-site-eds-migration-prompt.md` Phase 0 + guardrails #15/#15b/#16 to the vanilla-boilerplate
 contract, or branch them on a detected runtime. This run follows the authoritative current skill (vanilla).
 
+### F6 — [migrate] capture stores headings[] and body[] as SEPARATE flat lists (no association)
+`pages/<slug>.json` records `headings[]` and `body[]` as two independent flat arrays with no
+parent/child link, so a generic migrate generator cannot pair a heading with the prose that
+belongs under it. The result: a faithful hero (h1 + lead) + an undifferentiated prose dump +
+related links — the source's section STRUCTURE (heading → its paragraphs → its CTA) is lost.
+SUGGESTED FIX: extract should capture content as an ordered list of sections, each
+`{ heading, level, body[], ctas[], media[] }` (a DOM-order walk grouping siblings under the
+nearest preceding heading), so migrate can reproduce real sections 1:1 instead of flattening.
+This is the single biggest fidelity limiter for the automated migrate step.
+
+### F7 — [rollout/deploy] no helper to trigger + poll the query-index; first build silently lags
+The dynamic-blocks flow depends on `/…/query-index.json`, but nothing in the skill triggers the
+index build or polls for it. On a fresh feature branch, `helix-query.yaml` + published pages +
+admin `/index/` POSTs (all 200) did NOT produce the index file within the run window — a silent
+config-propagation lag with no surfaced signal. SUGGESTED FIX: rollout Phase B/E should (a) after
+publish, POST the admin `/index/{ref}/*` bulk job, (b) poll `query-index.json` until it returns
+200 with rows (timeout), and (c) explicitly report "index pending" with the row count, so a
+preview-only/empty index can't pass silently. Also document that feature-branch indexes can lag
+and that the listing block MUST ship a graceful fallback (this run's `directory` block does).
+
+### F8 — [deploy] confirms the zsh PATH-in-loop gotcha; bundled deploy-batch.mjs is the fix
+A hand-rolled bash `for f in "$@"; do curl … done` driver mis-handled args (path `.html` not
+stripped, files leaking to stdout, PUT=000) exactly per embedded guardrail #12 — while the single
+-x invocation worked. The bundled `deploy-batch.mjs` node driver ran 29 pages 0-fail. FINDING:
+the deploy skill should state even more emphatically "do not hand-roll the loop; always use
+deploy-batch.mjs" and the prompt could drop the bash-loop fallback language entirely.
+
 ### F4 — [prototype] craft mandated but per-template gate stack is redundant for single-direction Mode A
 craft.md correctly collapses gates 2–4 when the harness lacks native image-gen, but prototype
 still wants a full craft+critique+audit+adapt+motion render per template. For a faithful Mode-A

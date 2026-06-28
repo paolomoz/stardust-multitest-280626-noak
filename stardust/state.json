@@ -1,7 +1,7 @@
 {
   "_provenance": {
-    "writtenBy": "stardust:direct",
-    "writtenAt": "2026-06-28T16:38:46.135Z",
+    "writtenBy": "stardust:rollout",
+    "writtenAt": "2026-06-28T17:17:42.969Z",
     "stardustVersion": "0.13.1"
   },
   "site": {
@@ -26,7 +26,7 @@
       "title": "Xfinity Accessibility and Inclusive Design",
       "type": "static",
       "template": "static-legal",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -35,13 +35,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/accessibility.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/accessibility.html"
     },
     {
       "slug": "apps",
@@ -49,7 +53,7 @@
       "title": "Xfinity App",
       "type": "static",
       "template": "utility",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -58,13 +62,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/apps.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/apps.html"
     },
     {
       "slug": "bill-pay",
@@ -72,7 +80,7 @@
       "title": "Pay My Xfinity Bill Online - Comcast Bill Pay",
       "type": "form",
       "template": "utility",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -81,13 +89,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/bill-pay.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/bill-pay.html"
     },
     {
       "slug": "compare",
@@ -95,7 +107,7 @@
       "title": "Xfinity vs. Verizon: Compare Internet and Mobile",
       "type": "listing",
       "template": "comparison",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -104,13 +116,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/compare.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/compare.html"
     },
     {
       "slug": "hub-internet",
@@ -118,7 +134,7 @@
       "title": "Discover Internet & WiFi Technology | Xfinity",
       "type": "article",
       "template": "hub-article",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -127,13 +143,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/hub-internet.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/hub/internet.html"
     },
     {
       "slug": "index",
@@ -141,7 +161,7 @@
       "title": "Xfinity - Internet, WiFi, Mobile, TV and Streaming",
       "type": "landing",
       "template": "home",
-      "status": "approved",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -158,13 +178,17 @@
         {
           "status": "approved",
           "at": "2026-06-28T16:43:15.773Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/index.json",
       "prototypePath": "stardust/prototypes/index-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/xfinity.html"
     },
     {
       "slug": "learn-digital-cable-tv-premium-channels-max",
@@ -172,7 +196,7 @@
       "title": "Max on XFINITY | On Demand",
       "type": "article",
       "template": "product-detail",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -181,13 +205,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/learn-digital-cable-tv-premium-channels-max.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/learn/digital-cable-tv/premium-channels/max.html"
     },
     {
       "slug": "learn-internet-service",
@@ -195,7 +223,7 @@
       "title": "Xfinity Internet - Home Internet Service",
       "type": "landing",
       "template": "product-landing",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -204,13 +232,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/learn-internet-service.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/learn/internet-service.html"
     },
     {
       "slug": "local",
@@ -218,7 +250,7 @@
       "title": "Xfinity Stores by State",
       "type": "landing",
       "template": "local-landing",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -227,13 +259,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/local.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/local.html"
     },
     {
       "slug": "mobile",
@@ -241,7 +277,7 @@
       "title": "Xfinity Mobile",
       "type": "landing",
       "template": "product-landing",
-      "status": "directed",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -250,13 +286,17 @@
         {
           "status": "directed",
           "at": "2026-06-28T16:38:46.135Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-06-28T17:17:42.969Z"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/mobile.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/xfinity/mobile.html"
     }
   ]
 }
