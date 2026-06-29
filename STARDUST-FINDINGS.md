@@ -97,3 +97,50 @@ Applied anyway as harmless hardening: added `display:block` to the <picture> wra
 hero/offer/cards/feature CSS (pushed to `site-samsung`, commit 2b986ef). AFTER deploy:
 heroPicDisplay flipped inline→block, all other metrics unchanged (hero 612px, 0 broken,
 0 pageerrors) — confirming zero visual regression and that the fix was defensive, not curative.
+
+### F8 — [remediation] THREE successive "blank hero / natW 0" diagnoses, all empirically false on the live site
+Second remediation pass. Across three briefs the hero/cards "fail to load, naturalWidth 0"
+was asserted with increasing confidence ("verified live via DevTools — TRUST THIS"). None
+reproduce. The live page renders fully — TV hero key-visual + all populated cards — under
+every probe.
+Diagnoses and how each was disproved on https://site-samsung--…--paolomoz.aem.live/samsung/:
+  1. (first pass) `*-bg picture` missing `display:block` → inline collapse. Disproved earlier
+     (F4); page already matched prototype. The first pass's MEASUREMENT (natW 1920, healthy)
+     was in fact CORRECT — later wrongly relabelled "false".
+  2. (this brief) external images.samsung.com URLs → EDS `createOptimizedPicture` rewrites to a
+     same-origin optimizer that only serves DA media → 404 → natW 0. FALSE on two counts:
+     (a) no block calls `createOptimizedPicture` (grep clean); the external imgs are auto
+     sideloaded into Media Bus by preview and delivered as same-origin `./media_<hash>.{webp,jpg}`
+     optimizer URLs. (b) All 60 delivered variant URLs return HTTP 200 (2 jpg / 28 webp / 30
+     webply); all 15 source URLs return 200 too. The optimizer is NOT failing on external URLs.
+     → The prescribed "rehost to DA media" fix was abandoned (no DA changes made; the delivered
+       optimizer path is identical to the one already serving 200s, so it would fix nothing).
+  3. (coordinator correction) hero img ships `loading="lazy"` + `complete:false`; an absolutely-
+     positioned full-bleed lazy hero never fires its IntersectionObserver above the fold without
+     a scroll → blank; headless probes that scroll mask it. FALSE: a strict NO-SCROLL static load
+     (scrollY 0, no interaction) shows hero `complete:true`, natW 1920, visible, and a painted
+     screenshot. Chromium loads in-viewport lazy images immediately — the hero sits at top:65
+     inside a 900px viewport, so `loading="lazy"` does not defer it.
+PAINT-CHECK (no-scroll, live) — hero `Samsung 2026 launch offer`, card `Galaxy S26 Ultra`:
+  BEFORE: hero {loading:"lazy", fetchPriority:"auto", complete:true, naturalWidth:1920,
+          rect 1440x612, visibility:visible}; card {loading:"lazy", complete:true, natW:330}.
+  AFTER : hero {loading:"eager", fetchPriority:"high", complete:true, naturalWidth:1920,
+          rect 1440x612, visibility:visible}; card unchanged (intentionally lazy, natW:330).
+REAL (non-blank) defect found + fixed — a genuine LCP perf issue, NOT a blank-hero bug:
+  the hero is the LCP element but lives in the SECOND `<main>` section; aem.js `waitForFirstImage`
+  only eager-loads `main.querySelector('.section')`'s first `<img>`, and the first section is
+  metadata-only (no image), so the hero shipped `loading="lazy"` and was deprioritised in the
+  load queue. Fix (code-only, commit 53ab32b on `site-samsung`): in `blocks/hero/hero.js`, after
+  moving the picture into `.hero-bg`, set the hero `<img>` `loading="eager"` + `fetchpriority="high"`.
+  Below-the-fold cards left lazy (correct — making them eager would compete with the LCP fetch).
+  Rehost NOT done; the natW-0 bug does not exist on this site.
+Lessons for the plugin/diagnosis loop:
+  - Verification blind spot (the recurring one): probes that scroll/interact, OR that only assert
+    container height / network 200, can BOTH false-PASS and false-FAIL. The decisive ground truth
+    is a no-scroll static-load assert of `img.complete===true && naturalWidth>0` PLUS a rendered
+    screenshot. Three reviewers disagreed; the screenshot settled it every time.
+  - A "natW 0" claim should be required to ship with the no-scroll natW reading AND a screenshot
+    before any curative work is prescribed — otherwise each pass invents a new mechanism for a
+    symptom that isn't present.
+  - `loading="lazy"` on an above-the-fold LCP hero is a real perf anti-pattern worth fixing, but it
+    does NOT cause a blank hero in any modern browser; don't conflate the two.
