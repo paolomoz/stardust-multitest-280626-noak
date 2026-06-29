@@ -271,6 +271,36 @@ header nav .nav-tools {
   grid-area: tools;
 }
 
+header nav .nav-tools ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: var(--body-font-size-s);
+}
+
+header nav .nav-tools ul > li {
+  font-weight: 600;
+}
+
+/* last tool item is the primary call-to-action pill ("Build your plan") */
+header nav .nav-tools ul > li:last-child a:any-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: var(--primary);
+  color: var(--background-color);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+header nav .nav-tools ul > li:last-child a:hover {
+  background: var(--primary-dark);
+  color: var(--background-color);
+}
+
 /* Xfinity brand chrome */
 header nav .nav-brand .xfinity-logo {
   height: 26px;
