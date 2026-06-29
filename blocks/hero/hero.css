@@ -8,8 +8,9 @@
   transition: opacity .9s var(--ease), visibility .9s;
 }
 .hero .hero-slide[aria-hidden="false"] { opacity: 1; visibility: visible; }
+.hero .hero-slide picture { display: block; width: 100%; height: 100%; }
 .hero .hero-slide picture,
-.hero .hero-slide img { width: 100%; height: 100%; object-fit: cover; }
+.hero .hero-slide img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .hero .hero-scrim {
   position: absolute;
   inset: 0;
