@@ -19,7 +19,19 @@ export default async function decorate(block) {
 
   const bg = document.createElement('div');
   bg.className = 'hero-bg';
-  if (pic) bg.append(pic.closest('picture') || pic);
+  if (pic) {
+    bg.append(pic.closest('picture') || pic);
+    // The hero is the LCP element but lives in the second section, so the
+    // boilerplate's waitForFirstImage (which only eager-loads the first
+    // section's first image — here a metadata-only section with no image)
+    // misses it and the hero ships loading="lazy". Force it eager + high
+    // priority so the LCP fetch isn't deprioritised.
+    const heroImg = bg.querySelector('img');
+    if (heroImg) {
+      heroImg.setAttribute('loading', 'eager');
+      heroImg.setAttribute('fetchpriority', 'high');
+    }
+  }
 
   const inner = document.createElement('div');
   inner.className = 'hero-inner';
