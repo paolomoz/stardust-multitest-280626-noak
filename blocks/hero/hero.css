@@ -7,10 +7,17 @@
   color: #fff;
 }
 
+/* full-bleed hero: break out of the section content column and remove the
+   section's vertical padding so the hero spans edge-to-edge and sits flush
+   under the header, matching the prototype (which renders the hero as a
+   full-width <section>). */
+main .section.hero-container { padding: 0; }
+main .section.hero-container > .hero-wrapper { max-width: none; padding: 0; }
+
 .hero .hero-bg { position: absolute; inset: 0; z-index: 0; }
 
 .hero .hero-bg picture,
-.hero .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
+.hero .hero-bg img { display: block; width: 100%; height: 100%; object-fit: cover; }
 
 .hero::after {
   content: "";
