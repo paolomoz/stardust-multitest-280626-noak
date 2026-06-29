@@ -100,3 +100,45 @@ render assertions, so every run verifies identically instead of re-deriving it.
 A `waitUntil:'networkidle'` goto on starbucks.com times out at 60s (continuous
 beacon/telemetry traffic). crawl.mjs correctly uses `domcontentloaded`; any
 companion script must too. Worth documenting in the playwright-recipe as a default.
+
+---
+
+## REMEDIATION pass — 2026-06-29
+
+[deploy / EDS section model] The home hero rendered the blue-coconut photo
+correctly (image GET 200, naturalWidth 1440, `.hero-bg` height 558px) but was
+NOT full-bleed: it sat inside the default 1280px section content column
+(`main .section > div`) with ~104px gutters each side and a 64px gap below the
+header. The prototype renders the hero as a full-width `<section>` with only the
+inner `.wrap` constrained. → When a converted block is meant to be full-bleed,
+the generator must either author Section Metadata `full` (the EDS CSS already
+ships a `.section.full` helper that zeroes padding/max-width) OR emit a
+self-contained breakout in the block CSS. We chose the latter.
+
+[diagnosis accuracy] The pre-supplied "Bug A" (hero `<picture>` collapsing to
+0 height because `.hero-bg picture` lacked `display:block`) did NOT reproduce on
+the live site: `styles/styles.css` ships a global `img { display:block }` that
+already gives the hero `<img>` block layout, so the hero never collapsed. The
+real prototype mismatch was the missing full-bleed. Lesson: verify the predicted
+symptom headlessly before assuming the cause — a global `img{display:block}` can
+mask a block-level missing `display:block`.
+
+### Changes (code only, pushed to site-starbucks — no DA re-author)
+- blocks/hero/hero.css:
+  - Added `main .section.hero-container { padding: 0; }`
+  - Added `main .section.hero-container > .hero-wrapper { max-width: none; padding: 0; }`
+    (breaks hero out of the 1280px column → full-bleed, flush under header)
+  - Added `display:block` to `.hero .hero-bg picture, .hero .hero-bg img`
+    (defensive: block no longer relies on the global img rule)
+- blocks/columns/columns.css:
+  - Added `display:block` to `.columns .fr-media img, .columns .fr-media picture`
+    (same defensive hardening; cards.css already had it)
+
+### Headless verdict (live, 1440px viewport)
+BEFORE: `.hero` x=104 width=1232 (boxed), top gap from section padding;
+        hero-bg height 558, image loaded, `<picture>` display:inline.
+AFTER:  `.hero` x=0 width=1440 (full-bleed), top=73 flush under 72px header;
+        hero-bg height 558, image loaded (naturalWidth 1440),
+        `<picture>` display:block; cards-grid display:grid;
+        0 broken images; 0 pageerrors.
+Matches prototype: YES (full-bleed hero edge-to-edge with blue-coconut photo).
