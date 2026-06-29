@@ -14,6 +14,7 @@ export default async function decorate(block) {
   viewport.className = 'hero-viewport';
 
   const slides = [];
+  const imgEls = [];
   rows.forEach((row, i) => {
     const cells = [...row.children];
     let img = null; let heading = null; let link = null;
@@ -27,7 +28,13 @@ export default async function decorate(block) {
     slide.setAttribute('aria-hidden', i === 0 ? 'false' : 'true');
     if (img) {
       const m = img.closest('picture') || img;
-      if (img.tagName === 'IMG' && i === 0) { img.loading = 'eager'; img.setAttribute('fetchpriority', 'high'); }
+      // `img` is the <picture> wrapper (content authors <picture><img>), so the
+      // inner <img> is what carries loading/fetchpriority. EDS ships slide images
+      // loading="lazy"; a hidden/absolute slide never fires its IntersectionObserver,
+      // so on a static load every slide (incl. the active one) stays unloaded = black.
+      const innerImg = m.tagName === 'IMG' ? m : m.querySelector('img');
+      imgEls[i] = innerImg || null;
+      if (innerImg && i === 0) { innerImg.loading = 'eager'; innerImg.setAttribute('fetchpriority', 'high'); }
       slide.append(m);
     }
     const scrim = document.createElement('div');
@@ -65,7 +72,15 @@ export default async function decorate(block) {
     idx = (n + slides.length) % slides.length;
     slides.forEach((s, k) => s.setAttribute('aria-hidden', k === idx ? 'false' : 'true'));
     dotBtns.forEach((d, k) => d.setAttribute('aria-current', k === idx ? 'true' : 'false'));
+    // Force-load the current slide and pre-load the next so an auto-advance never
+    // crossfades to an unloaded (black) lazy slide.
+    [idx, (idx + 1) % slides.length].forEach((k) => {
+      const im = imgEls[k];
+      if (im && im.getAttribute('loading') !== 'eager') im.setAttribute('loading', 'eager');
+    });
   }
+  // load slide 1 up front so the first auto-advance is already warm
+  if (imgEls[1]) imgEls[1].setAttribute('loading', 'eager');
   function start() { if (reduce || slides.length < 2) return; stop(); timer = setInterval(() => show(idx + 1), 6000); }
   function stop() { if (timer) { clearInterval(timer); timer = null; } }
   dotBtns.forEach((d, k) => d.addEventListener('click', () => { show(k); start(); }));
