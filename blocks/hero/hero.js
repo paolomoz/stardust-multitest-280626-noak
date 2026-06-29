@@ -14,7 +14,15 @@ export default function decorate(block) {
 
   const bg = document.createElement('div');
   bg.className = 'hero-bg';
-  if (pic) bg.append(pic.closest('picture') || pic);
+  if (pic) {
+    const media = pic.closest('picture') || pic;
+    bg.append(media);
+    // The hero image is the LCP but sits in an absolutely-positioned .hero-bg, so
+    // EDS's LCP auto-eager misses it and it ships loading="lazy" — which never
+    // fires above the fold without a scroll, leaving a blank scrim. Force it eager.
+    const im = media.tagName === 'IMG' ? media : media.querySelector('img');
+    if (im) { im.loading = 'eager'; im.setAttribute('fetchpriority', 'high'); }
+  }
 
   const wrap = document.createElement('div');
   wrap.className = 'hero-inner';
