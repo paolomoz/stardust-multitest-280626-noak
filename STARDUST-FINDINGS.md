@@ -87,3 +87,48 @@ still wants a full craft+critique+audit+adapt+motion render per template. For a 
 migration where all templates share ONE design system, the canon is set by the home render and
 re-running the entire 2.5–2.8 stack per template is largely redundant. FIX: document a
 "canon-reuse" fast path so non-canon templates compose from canon without the full gate stack.
+
+---
+
+## REMEDIATION (2026-06-29) — xfinity — Bug C (header)
+
+**Symptom (BEFORE):** the live header rendered as a raw vertical bullet list
+(Streaming/Home Security/Deals + Sign In/Pay Bill/Build your plan) instead of a
+styled horizontal nav bar. The Xfinity logo SVG was injected by header.js but
+the whole nav was unstyled.
+
+**Root cause:** the `/xfinity/nav` fragment authored ALL content (logo `<p>`,
+nav `<ul>`, tools `<ul>`) inside a SINGLE EDS section. The boilerplate
+`header.js` assigns `nav-brand`/`nav-sections`/`nav-tools` to `nav.children[0..2]`,
+so with only one section `.nav-sections` and `.nav-tools` were never created and
+the grid/flex layout in `header.css` had nothing to lay out. This is a structural
+variant of Bug C (header did not decorate into the expected 3-section shape).
+
+**Fix (CODE-ONLY — DA_TOKEN was expired, so no DA re-author was possible):**
+- `blocks/header/header.js`: when the nav fragment yields a single section,
+  split it in JS into three sections (brand=logo `<p>`, sections=1st `<ul>`,
+  tools=2nd `<ul>`) before the brand/sections/tools class assignment. Backward
+  compatible — skipped when the fragment already has 3 sections.
+- `blocks/header/header.css`: lay `.nav-tools ul` horizontally (flex, no bullets)
+  and render the last tool item ("Build your plan") as the primary CTA pill, to
+  match the prototype. (scoped `stylelint-disable no-descending-specificity`.)
+- `content/xfinity/nav.html`: corrected locally to three top-level sections for
+  future re-deploys (NOT pushed to DA — token expired; header.js handles the
+  currently-live single-section fragment either way).
+
+**Bug A:** audited all hero/feature/cta/cards bg blocks headless — every media
+block computes height>0 with images loaded (hero 769px/nW440, features 809px/nW440);
+NOT present on this site. **Bug B:** no 401 media; all images load (broken=0).
+
+**Deploy:** `git push` to `site-xfinity` (commits 8100346, e764ac9, abc3d3e).
+Code Sync deployed header.js + header.css to feature env.
+
+**VERIFY (AFTER, headless):** header nav has 3 sections (nav-brand/nav-sections/
+nav-tools), `.nav-sections ul` display:flex, logo SVG present (82x26), NOT raw ul.
+Full site: 27/27 pages deliver clean, 13/13 internal links 200, all sampled
+templates appear=true, broken=0, pageerr=0. Live header now matches the prototype.
+
+> NOTE FOR HARNESS: the `.env` DA_TOKEN expired (created 2026-06-28 02:29Z,
+> 24h TTL, expired 2026-06-29 02:29Z). DA source PUT/preview returned 401. The
+> remediation was completed entirely via code (git push) which needs no DA token.
+> Any future content/fragment fix on this site requires a refreshed DA_TOKEN.
