@@ -76,3 +76,24 @@ migrate must filter it, but it would be cheaper to exclude header/footer landmar
 body[] capture at source (the recipe already detects system components — reuse that to
 subtract chrome from body). Otherwise every page's first "paragraph" is junk.
 
+
+### F4 — [remediation/deploy] "picture-collapse" hero/cards bug did NOT reproduce; root cause already masked
+Remediation hypothesis (Bug A): `.{hero,offer}-bg picture` + `.card-media`/`.feature-media`
+sized width/height/object-fit WITHOUT `display:block` → inline <picture> collapses to 0 →
+blank hero + empty cards. Headless probe of the LIVE page BEFORE any change showed the
+OPPOSITE: hero `.hero-bg` = 612px, hero img naturalWidth 1920, all 13 card medias rendered
+with images loaded (naturalWidth 312–720), 4 grids `display:grid`, 0 broken images, 0
+pageerrors. Page already matched the prototype pixel-for-pixel.
+Why no collapse: (1) global `styles.css` has `img { display:block }`, and (2) every media
+container has an explicit height — `.hero-bg`/`.offer-bg` are `position:absolute; inset:0`,
+`.card-media` has `aspect-ratio:1`. The child img's `height:100%` resolves against the
+nearest block container (the media box), skipping the inline <picture>, so nothing collapses.
+The inline <picture> is cosmetically wrong but layout-harmless here.
+Lesson for the plugin: a `*-bg picture` rule missing `display:block` is only a real defect
+when the container lacks an intrinsic height AND the global img reset is absent. The diagnosis
+heuristic should verify the container-height/global-reset preconditions (or just measure
+rendered height) before flagging it as the dominant bug, to avoid false-positive remediations.
+Applied anyway as harmless hardening: added `display:block` to the <picture> wrappers in
+hero/offer/cards/feature CSS (pushed to `site-samsung`, commit 2b986ef). AFTER deploy:
+heroPicDisplay flipped inline→block, all other metrics unchanged (hero 612px, 0 broken,
+0 pageerrors) — confirming zero visual regression and that the fix was defensive, not curative.
