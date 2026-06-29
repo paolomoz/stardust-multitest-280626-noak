@@ -4,7 +4,9 @@
 .hero-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgb(0 10 60 / 45%) 0%, rgb(0 10 60 / 20%) 40%, rgb(0 10 60 / 92%) 100%); }
 .hero:not(.video) .hero-scrim { display: none; }
 .hero-content { position: relative; max-width: var(--maxw); margin: 0 auto; padding: 0 24px; width: 100%; }
-.hero.video .hero-content { padding-bottom: 64px; padding-top: 120px; }
+/* Match the prototype: the hero content shrink-wraps and centers (margin:0 auto
+   on a flex child), rather than spanning the full max-width column left-aligned. */
+.hero.video .hero-content { width: auto; padding-bottom: 64px; padding-top: 120px; }
 .hero h1 { font-size: clamp(40px, 8vw, 96px); }
 .hero:not(.video) h1 { font-size: clamp(38px, 7vw, 82px); }
 .hero .eyebrow { color: var(--spark-yellow); }

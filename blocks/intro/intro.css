@@ -1,0 +1,10 @@
+.intro { display: grid; grid-template-columns: 1fr 1.1fr; gap: 40px; align-items: center; }
+
+/* The whole band is a light surface (full-bleed); the block tints its own section. */
+main .section.intro-band { background: var(--surface); color: var(--ink); }
+
+.intro .since { text-transform: uppercase; color: var(--signal); font-size: 15px; letter-spacing: 0.1em; }
+.intro h2.display { font-size: clamp(28px, 4vw, 46px); color: var(--ink); margin: 12px 0 0; line-height: 1.1; }
+.intro .intro-lede p { font-size: clamp(22px, 3.2vw, 34px); font-weight: 500; max-width: 24ch; margin: 0; line-height: 1.18; color: var(--ink); }
+
+@media (width <= 760px) { .intro { grid-template-columns: 1fr; gap: 18px; } }
