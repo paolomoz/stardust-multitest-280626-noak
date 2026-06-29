@@ -26,3 +26,11 @@ Format: [phase/skill] what happened — suggested fix.
 ## Phase 0 — Setup
 - [setup] Fresh aem-boilerplate clone has NO `fstab.yaml` and is vanilla (scripts/aem.js + scripts.js, no ak.js/postlcp.js/lazy.js). The prompt's Phase 0 says to run the Runtime bootstrap in stardust:deploy, but neither extract nor direct documents that fstab must exist before any preview/publish works. Suggested fix: have stardust:deploy's Runtime bootstrap explicitly create fstab.yaml mapping `/` to the DA repo root as step 1, and assert its presence.
 
+
+## Remediation — Hero collapsed background (2026-06-29)
+- [Bug A — CONFIRMED + FIXED] `blocks/hero/hero.css` styled `.hero-bg img { height:100% }` but had NO rule for the wrapping `<picture>`. The authored hero is `<picture><img></picture>`; the inline `<picture>` has auto height, so the img's `height:100%` had no definite parent height to resolve against → image did not cover the absolutely-positioned `.hero-bg` (inset:0, 700px) and the navy gradient scrim rendered as a solid-blue hero.
+  - Headless BEFORE: `heroPicDisplay: "inline"`, image loaded (`naturalWidth:1500`) but not covering; hero read as solid blue.
+  - Fix (minimal, within /paypal/): added `.hero .hero-bg picture { display:block; width:100%; height:100% }` and `display:block` to `.hero .hero-bg img`.
+  - Headless AFTER: `heroPicDisplay: "block"`, img rendered 1200x700 = full hero-bg, `object-fit:cover`, 0 broken images, 0 pageerrors. Lifestyle photo (headphones on patterned rug) now shows behind the gradient — matches us-home-proposed.html.
+- [Audit] Swept all block CSS for the same collapsed `*-bg picture` pattern: hero is the ONLY block with an absolutely-positioned background `<picture>`. Cards (`.card-media img`) and columns (`.col-media img`) size the img directly in normal flow (width:100%, height auto), so an inline `<picture>` wrapper does not collapse them — no change needed.
+- Deploy: commit on `site-paypal` (035144b), pushed; AEM Code Sync live within ~30s.
