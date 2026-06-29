@@ -124,6 +124,35 @@ export default async function decorate(block) {
   nav.id = 'nav';
   while (fragment.firstElementChild) nav.append(fragment.firstElementChild);
 
+  // Normalize: some authoring places the brand (logo <p>), nav <ul>, and tools
+  // <ul> all inside a SINGLE section. The grid layout below needs three
+  // separate sections (brand/sections/tools), so split them here. This keeps
+  // the header rendering correctly regardless of how the nav fragment is
+  // authored (one combined section or three explicit sections).
+  if (nav.children.length === 1) {
+    const only = nav.children[0];
+    const wrapper = only.querySelector('.default-content-wrapper') || only;
+    const logo = wrapper.querySelector(':scope > p');
+    const uls = [...wrapper.querySelectorAll(':scope > ul')];
+    if (logo && uls.length >= 1) {
+      const makeSection = (nodes) => {
+        const sec = document.createElement('div');
+        sec.className = 'section';
+        sec.dataset.sectionStatus = 'loaded';
+        const w = document.createElement('div');
+        w.className = 'default-content-wrapper';
+        nodes.forEach((n) => w.append(n));
+        sec.append(w);
+        return sec;
+      };
+      const brand = makeSection([logo]);
+      const sections = makeSection([uls[0]]);
+      const tools = makeSection(uls[1] ? [uls[1]] : []);
+      nav.textContent = '';
+      nav.append(brand, sections, tools);
+    }
+  }
+
   const classes = ['brand', 'sections', 'tools'];
   classes.forEach((c, i) => {
     const section = nav.children[i];
